@@ -1,30 +1,28 @@
-<?xml version="1.0" ?>
-<r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
-	<e id="None" meta="">
-		<map/>
-		<lg>
-			<l pos="Adv">pâiʹlviõǥǥ</l>
-			<etymology>
-</etymology>
-			<stg>
-</stg>
-			<compg drv="Adv:N»Adv" type="Cmp">
-				<comp fin="yli" ms="" ord="E1" pos="Adv">pâiʹl</comp>
-				<comp fin="voima" ms="Sg.Gen" ord="E2" pos="N">viõǥǥ</comp>
-			</compg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<xg>
-				<x src="NA4 00636_2bz 0:01:42">Õʹhttešt son ij vueʹlj, pâiʹlviõǥǥ suu ij vueiʹt piijjâd.</x>
-				<xt xml:lang="fin">Kun hän kerran ei lähde, häntä ei voi laittaa väkisin. </xt>
-			</xg>
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="Adv">väkisin</t>
-			</tg>
-		</mg>
-	</e>
+<?xml version="1.0" ?> <r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"> 
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Adv">pâiʹlviõǥǥ</l>
+     <etymology>
+     </etymology>
+     <stg>
+     </stg>
+     <compg drv="Adv:N»Adv" type="Cmp">
+       <comp fin="yli" ms="" ord="E1" pos="Adv">pâiʹl</comp>
+       <comp fin="voima" ms="Sg.Gen" ord="E2" pos="N">viõǥǥ</comp> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <xg>
+       <x src="NA4 00636_2bz 0:01:42">Õʹhttešt son ij vueʹlj, pâiʹlviõǥǥ suu ij vueiʹt piijjâd.</x>
+       <xt xml:lang="fin">Kun hän kerran ei lähde, häntä ei voi laittaa väkisin. </xt>
+     </xg>
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">väkisin</t>
+     </tg>
+   </mg>
+</e>
 </r>

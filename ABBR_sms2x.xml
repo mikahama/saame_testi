@@ -1,525 +1,524 @@
-<?xml version="1.0" ?>
-<r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">rõ</l>
-			<variants>
-				<l_longForm>rekisttrõsttum õhttõs</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-NO-DOT-N_">rõ</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">ry</t>
-				<t pos="N">rekisteröity yhdistys</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">add.</l>
-			<variants>
-				<l_longForm>addrõs</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">add</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N" type="ABBR">os.</t>
-				<t pos="N">1) osoite; 2) osasto</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="Err/Orth" type="ABBR">addr.</l>
-			<variants>
-				<l_longForm>addrõs</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">addr</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N" type="ABBR">os.</t>
-				<t pos="N">osoite</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" type="ABBR">FD</l>
-			<variants>
-				<l_longForm/>
-			</variants>
-			<stg>
-				<st Contlex="AB-NO-DOT-N_">FD</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N" type="ABBR">FT</t>
-				<t pos="N">filosofian tohtori</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">prof.</l>
-			<variants>
-				<l_longForm>professorr</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">prof</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">prof.</t>
-				<t pos="N">professori</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="ADV" status="recommendation" type="ABBR">j.s.</l>
-			<variants>
-				<l_longForm>jiijjâs sooǥǥ</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-ADV_">j.s</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="Adv" type="ABBR">o.s.</t>
-				<t pos="Adv">omaa sukua</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">nõmm-m.</l>
-			<variants>
-				<l_longForm>nõmm-miârkk</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">nõmm-m</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">nimim.</t>
-				<t pos="N">nimimerkki</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l hid="Hom1" pos="ADV" status="recommendation" type="ABBR">ouddm.</l>
-			<variants>
-				<l_longForm>ouddmiârkkân</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-ADV_">ouddm</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="Adv" type="ABBR">esim.</t>
-				<t pos="Adv">esimerkiksi</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l hid="Hom2" pos="N" status="recommendation" type="ABBR">ouddm.</l>
-			<variants>
-				<l_longForm>ouddmiârkk</l_longForm>
-				<l_longForm>ouddmiârk</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">ouddm</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">esim.</t>
-				<t pos="N">esimerkki</t>
-				<t pos="N">esimerkkejä</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">sj.</l>
-			<variants>
-				<l_syn>st.</l_syn>
-				<l_longForm>saaǥǥjååʹđteei</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">sj</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">pj.</t>
-				<t pos="N">puh.joht.</t>
-				<t pos="N">puheenjohtaja</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">st.</l>
-			<variants>
-				<l_syn>sj.</l_syn>
-				<l_longForm>saaǥǥtuõʹllʼjeei</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">st</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">pj.</t>
-				<t pos="N">puh.joht.</t>
-				<t pos="N">puheenjohtaja</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l hid="Hom2" pos="ADV" status="recommendation" type="ABBR">t.</l>
-			<variants>
-				<l_longForm>tiõrvʼvuõđin</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-ADV_">t</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="Adv" type="ABBR">t.</t>
-				<t pos="Adv" type="ABBR">tv.</t>
-				<t pos="Adv">terveisin</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l hid="Hom1" pos="V" status="recommendation" type="ABBR">t.</l>
-			<variants>
-				<l_longForm>tuäivat</l_longForm>
-				<l_longForm>tuäivte</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-V-TV-IND-PRS-3_">t</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="V">t.</t>
-				<t pos="V">tv.</t>
-				<t pos="V">toivottaa</t>
-				<t pos="V">toivottavat</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">tmn</l>
-			<variants>
-				<l_longForm>tuåimmnõmm</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-NO-DOT-N_">tmn</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">tmi</t>
-				<t pos="N">toiminimi</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">vs.</l>
-			<variants>
-				<l_longForm>veeʹrjsâjjsaž</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">vs</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">vs.</t>
-				<t pos="N">viransijainen</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">vsj.</l>
-			<variants>
-				<l_syn>vst.</l_syn>
-				<l_longForm>vääʹrrsaaǥǥjååʹđteei</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">vsj</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">vpj.</t>
-				<t pos="N">varapuheenjohtaja</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">vst.</l>
-			<variants>
-				<l_syn>vsj.</l_syn>
-				<l_longForm>vääʹrrsaaǥǥtuõʹllʼjeei</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">vst</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">vpj.</t>
-				<t pos="N">varapuheenjohtaja</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l hid="Hom1" pos="A" status="recommendation" type="ABBR">ânn.</l>
-			<variants>
-				<l_longForm>ânnʼjõž</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-A_">ânn</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="A" type="ABBR">nyk.</t>
-				<t pos="A">nykyinen</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l hid="Hom2" pos="ADV" status="recommendation" type="ABBR">ânn.</l>
-			<variants>
-				<l_longForm>ânnʼjõžääiʹj</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-ADV_">ânn</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="Adv" type="ABBR">nyk.</t>
-				<t pos="Adv">nykyään</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" status="recommendation" type="ABBR">äv.</l>
-			<variants>
-				<l_longForm>ääʹššvuäzzlaž</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-N_">äv</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N">ao.</t>
-				<t pos="N">asianomainen</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="A" status="recommendation" type="ABBR">š.</l>
-			<variants>
-				<l_longForm>šõddâm</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="AB-DOT-A_">š</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="1">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="Adv" type="ABBR">s.</t>
-				<t pos="Adv">syntyään</t>
-			</tg>
-		</mg>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="A" type="ABBR">s.</t>
-				<t pos="A">syntynyt</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" type="ABBR">JTP-kõõskõs</l>
-			<variants>
-				<l_longForm>jieʹllemvueʹǩǩ-, trafikk- da pirrõskõõskõs</l_longForm>
-			</variants>
-			<stg>
-				<st Contlex="N_SAJOS">JTP-#kõõskõs</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N" type="ABBR">ELY-keskus</t>
-				<t pos="N">elinkeino-, liikenne- ja ympäristökeskus</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" type="ABBR">ILO</l>
-			<variants>
-				<l_longForm/>
-			</variants>
-			<stg>
-				<st Contlex="AB-NO-DOT-N_">ILO</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N" type="ABBR">ILO</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="None" meta="">
-		<lg>
-			<l pos="N" type="ABBR">NRK</l>
-			<variants>
-				<l_longForm/>
-			</variants>
-			<stg>
-				<st Contlex="AB-NO-DOT-N_">NRK</st>
-			</stg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="fin">
-				<t pos="N" type="ABBR">NR</t>
-			</tg>
-		</mg>
-	</e>
+<?xml version="1.0" ?> <r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">rõ</l>
+     <variants>
+       <l_longForm>rekisttrõsttum õhttõs</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">rõ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">ry</t>
+       <t pos="N">rekisteröity yhdistys</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">add.</l>
+     <variants>
+       <l_longForm>addrõs</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">add</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="ABBR">os.</t>
+       <t pos="N">1) osoite; 2) osasto</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="Err/Orth" type="ABBR">addr.</l>
+     <variants>
+       <l_longForm>addrõs</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">addr</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="ABBR">os.</t>
+       <t pos="N">osoite</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="ABBR">FD</l>
+     <variants>
+       <l_longForm/>
+     </variants>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">FD</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="ABBR">FT</t>
+       <t pos="N">filosofian tohtori</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">prof.</l>
+     <variants>
+       <l_longForm>professorr</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">prof</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">prof.</t>
+       <t pos="N">professori</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="ADV" status="recommendation" type="ABBR">j.s.</l>
+     <variants>
+       <l_longForm>jiijjâs sooǥǥ</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-ADV_">j.s</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv" type="ABBR">o.s.</t>
+       <t pos="Adv">omaa sukua</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">nõmm-m.</l>
+     <variants>
+       <l_longForm>nõmm-miârkk</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">nõmm-m</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">nimim.</t>
+       <t pos="N">nimimerkki</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l hid="Hom1" pos="ADV" status="recommendation" type="ABBR">ouddm.</l>
+     <variants>
+       <l_longForm>ouddmiârkkân</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-ADV_">ouddm</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv" type="ABBR">esim.</t>
+       <t pos="Adv">esimerkiksi</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l hid="Hom2" pos="N" status="recommendation" type="ABBR">ouddm.</l>
+     <variants>
+       <l_longForm>ouddmiârkk</l_longForm>
+       <l_longForm>ouddmiârk</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">ouddm</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">esim.</t>
+       <t pos="N">esimerkki</t>
+       <t pos="N">esimerkkejä</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">sj.</l>
+     <variants>
+       <l_syn>st.</l_syn>
+       <l_longForm>saaǥǥjååʹđteei</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">sj</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">pj.</t>
+       <t pos="N">puh.joht.</t>
+       <t pos="N">puheenjohtaja</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">st.</l>
+     <variants>
+       <l_syn>sj.</l_syn>
+       <l_longForm>saaǥǥtuõʹllʼjeei</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">st</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">pj.</t>
+       <t pos="N">puh.joht.</t>
+       <t pos="N">puheenjohtaja</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l hid="Hom2" pos="ADV" status="recommendation" type="ABBR">t.</l>
+     <variants>
+       <l_longForm>tiõrvʼvuõđin</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-ADV_">t</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv" type="ABBR">t.</t>
+       <t pos="Adv" type="ABBR">tv.</t>
+       <t pos="Adv">terveisin</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l hid="Hom1" pos="V" status="recommendation" type="ABBR">t.</l>
+     <variants>
+       <l_longForm>tuäivat</l_longForm>
+       <l_longForm>tuäivte</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-V-TV-IND-PRS-3_">t</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">t.</t>
+       <t pos="V">tv.</t>
+       <t pos="V">toivottaa</t>
+       <t pos="V">toivottavat</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">tmn</l>
+     <variants>
+       <l_longForm>tuåimmnõmm</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">tmn</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">tmi</t>
+       <t pos="N">toiminimi</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">vs.</l>
+     <variants>
+       <l_longForm>veeʹrjsâjjsaž</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">vs</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">vs.</t>
+       <t pos="N">viransijainen</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">vsj.</l>
+     <variants>
+       <l_syn>vst.</l_syn>
+       <l_longForm>vääʹrrsaaǥǥjååʹđteei</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">vsj</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">vpj.</t>
+       <t pos="N">varapuheenjohtaja</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">vst.</l>
+     <variants>
+       <l_syn>vsj.</l_syn>
+       <l_longForm>vääʹrrsaaǥǥtuõʹllʼjeei</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">vst</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">vpj.</t>
+       <t pos="N">varapuheenjohtaja</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l hid="Hom1" pos="A" status="recommendation" type="ABBR">ânn.</l>
+     <variants>
+       <l_longForm>ânnʼjõž</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-A_">ânn</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A" type="ABBR">nyk.</t>
+       <t pos="A">nykyinen</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l hid="Hom2" pos="ADV" status="recommendation" type="ABBR">ânn.</l>
+     <variants>
+       <l_longForm>ânnʼjõžääiʹj</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-ADV_">ânn</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv" type="ABBR">nyk.</t>
+       <t pos="Adv">nykyään</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" status="recommendation" type="ABBR">äv.</l>
+     <variants>
+       <l_longForm>ääʹššvuäzzlaž</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-N_">äv</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">ao.</t>
+       <t pos="N">asianomainen</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="A" status="recommendation" type="ABBR">š.</l>
+     <variants>
+       <l_longForm>šõddâm</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-DOT-A_">š</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv" type="ABBR">s.</t>
+       <t pos="Adv">syntyään</t>
+     </tg>
+   </mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A" type="ABBR">s.</t>
+       <t pos="A">syntynyt</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="ABBR">JTP-kõõskõs</l>
+     <variants>
+       <l_longForm>jieʹllemvueʹǩǩ-, trafikk- da pirrõskõõskõs</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="N_SAJOS">JTP-#kõõskõs</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="ABBR">ELY-keskus</t>
+       <t pos="N">elinkeino-, liikenne- ja ympäristökeskus</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="ABBR">ILO</l>
+     <variants>
+       <l_longForm/>
+     </variants>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">ILO</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="ABBR">ILO</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="ABBR">NRK</l>
+     <variants>
+       <l_longForm/>
+     </variants>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">NRK</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="ABBR">NR</t>
+     </tg>
+   </mg>
+</e>
 </r>

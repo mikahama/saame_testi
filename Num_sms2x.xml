@@ -1,37 +1,34 @@
-<?xml version="1.0" ?>
-<r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
-	<e id="None" meta="">
-		<map/>
-		<rev-sort_key>olmjllen</rev-sort_key>
-		<lg>
-			<l pos="Num">nelljmlo</l>
-			<etymology>
-</etymology>
-			<stg>
-</stg>
-			<compg>
-</compg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="deu">
-				<t pos="Num">vierzehn</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="Num">fourteen</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="Num">neljätoista</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="Num">fjorten</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="Num">четырнадцать</t>
-			</tg>
-		</mg>
-	</e>
+<?xml version="1.0" ?> <r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"> 
+<e id="None" meta="">
+   <map/>
+   <rev-sort_key>olmjllen</rev-sort_key>
+   <lg>
+     <l pos="Num">nelljmlo</l>
+     <etymology>
+     </etymology>
+     <stg>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="Num">vierzehn</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="Num">fourteen</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">neljätoista</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="Num">fjorten</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">четырнадцать</t>
+     </tg>
+   </mg>
+</e>
 </r>
