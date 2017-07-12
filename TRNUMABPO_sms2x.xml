@@ -1,790 +1,966 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="sms">
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">c</l>
-      <variants>
-<l_syn>snt</l_syn>
-        <l_longForm>seʹntt</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">c</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N" re="euron sadasosan lyhenne">snt</t>
-        <t pos="N" re="euron sadasosan lyhenne">c</t>
-        <t pos="N">sentti</t>
-        <t pos="N">senttiä</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">cl</l>
-      <variants>
-        <l_syn>sl</l_syn>
-	<l_longForm>seʹnttlettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">cl</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">cl</t>
-        <t pos="N">senttilitra</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">cm</l>
-      <variants>
-        <l_syn>sm</l_syn>
-<l_longForm>seʹnttmettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">cm</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">cm</t>
-        <t pos="N">senttimetri</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">dl</l>
-      <variants>
-        <l_longForm>desilettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">dl</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">dl</t>
-        <t pos="N">desilitra</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">e</l>
-      <variants>
-        <l_longForm>euʹrr</l_longForm>
-        <l_longForm>eeʹǩǩ</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">e</st>
-      </stg>
-    </lg>
-    <mg>
-<defNative>miârkk €, teäʹǧǧtoobdldõk EUR</defNative>
-      <tg xml:lang="fin">
-        <t pos="N" re="valuuttayksikkö">e</t>
-        <t pos="N">euro</t>
-        <t pos="N">euroa</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">v</t>
-        <t pos="N">vuosi</t>
-        <t pos="N">vuotta</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="Adv">e.</l>
-      <variants>
-        <l_longForm>eeʹjj</l_longForm>
-	<l_longForm>eeʹjjest</l_longForm>
-        <l_longForm>eeʹjjin</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-DOT-ADV_">e</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Adv">v.</t>
-        <t pos="Adv">vuonna</t>
-        <t pos="Adv">vuosina</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">g</l>
-      <variants>
-        <l_longForm>gramm</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">g</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">g</t>
-        <t pos="N">gramma</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">h</l>
-      <variants>
-        <l_longForm>čiâss</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">h</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">h</t>
-        <t pos="N">tunti</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">kkp</l>
-      <variants>
-        <l_longForm>kaaʹffkopp</l_longForm>
-        <l_longForm>kååʹffkopp</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">kkp</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">kkp</t>
-        <t pos="N">kahvikuppi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">l</l>
-      <variants>
-        <l_longForm>lettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">l</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">l</t>
-        <t pos="N">litra</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">m</l>
-      <variants>
-        <l_longForm>mettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">m</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">m</t>
-        <t pos="N">metri</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">mc</l>
-      <variants>
-        <l_longForm>mättjemcieʹǩǩes</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">mc</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">op</t>
-        <t pos="N">opintopiste</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">mg</l>
-      <variants>
-        <l_longForm>millgramm</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">mg</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">mg</t>
-        <t pos="N">milligramma</t>
-        <t pos="N">milligrammaa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="Num">milj.</l>
-      <variants>
-        <l_longForm>miljoon</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-DOT-NUM_">milj</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Num">milj.</t>
-        <t pos="Num">miljoona</t>
-        <t pos="Num">miljoonaa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">min</l>
-      <variants>
-        <l_longForm>minutt</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">min</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">min</t>
-        <t pos="N">minuutti</t>
-        <t pos="N">minuuttia</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">mk</l>
-      <variants>
-<l_var>mǩ</l_var>
-        <l_longForm>mäʹrǩǩ</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">mk</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">mk</t>
-        <t pos="N">markka</t>
-        <t pos="N">markkaa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">ml</l>
-      <variants>
-        <l_longForm>mill-lettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">ml</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">ml</t>
-        <t pos="N">millilitra</t>
-        <t pos="N">millilitraa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">mm</l>
-      <variants>
-        <l_longForm>millmettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">mm</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">mm</t>
-        <t pos="N">millimetri</t>
-        <t pos="N">millimetriä</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">mn</l>
-      <variants>
-        <l_longForm>mättjemneäʹttel</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">mn</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">ov</t>
-        <t pos="N">opintoviikko</t>
-        <t pos="N">opintoviikkoa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">mp</l>
-      <variants>
-        <l_longForm>määnpââʹjj</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">mp</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">kk</t>
-        <t pos="N">kuukausi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="Num">mrd.</l>
-      <variants>
-        <l_longForm>miljardd</l_longForm>
-        <l_longForm>miljaard</l_longForm>
-        <l_longForm>miljaʹrdde</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-DOT-NUM_">mrd</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="Num">mrd.</t>
-        <t pos="Num">miljardi</t>
-        <t pos="Num">miljardia</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">ms</l>
-      <variants>
-        <l_longForm>millsekuntt</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">ms</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">ms</t>
-        <t pos="N">millisekunti</t>
-        <t pos="N">millisekuntia</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">m²</l>
-      <variants>
-        <l_longForm/>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">m²</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">m²</t>
-        <t pos="N">neliömetri</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">m³</l>
-      <variants>
-        <l_longForm/>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">m³</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">m³</t>
-        <t pos="N">kuutiometri</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">mǩ</l>
-      <variants>
-<l_var>mk</l_var>
-        <l_longForm>mäʹrǩǩ</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">mǩ</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">mk</t>
-        <t pos="N">markka</t>
-        <t pos="N">markkaa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">nt</l>
-      <variants>
-        <l_longForm>neäʹttel</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">nt</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">vk</t>
-        <t pos="N">viikko</t>
-        <t pos="N">viikkoa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">prk</l>
-      <variants>
-        <l_longForm>purkk</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">prk</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">prk</t>
-        <t pos="N">purkki</t>
-        <t pos="N">purkkia</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">prk</l>
-      <variants>
-        <l_longForm>purkk</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">prk</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">tlk</t>
-        <t pos="N">tölkki</t>
-        <t pos="N">tölkkiä</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">ptl</l>
-      <variants>
-        <l_longForm>poottâl</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">ptl</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">pl</t>
-        <t pos="N">plo</t>
-        <t pos="N">pullo</t>
-        <t pos="N">pulloa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">pv</l>
-      <variants>
-        <l_longForm>peiʹvv</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">pv</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">pv</t>
-        <t pos="N">päivä</t>
-        <t pos="N">päivää</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">s</l>
-      <variants>
-        <l_longForm>sekuntt</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">s</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">s</t>
-        <t pos="N">sekunti</t>
-        <t pos="N">sekuntia</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">skk</l>
-      <variants>
-        <l_longForm>siâkk</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">skk</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">ps</t>
-        <t pos="N">pss</t>
-        <t pos="N">pussi</t>
-        <t pos="N">pussia</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">sl</l>
-      <variants>
-	<l_syn>cl</l_syn>
-        <l_longForm>seʹnttlettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">sl</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">cl</t>
-        <t pos="N">senttilitra</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">sm</l>
-      <variants>
-        <l_syn>cm</l_syn>
-<l_longForm>seʹnttmettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">sm</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">cm</t>
-        <t pos="N">senttimetri</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">snt</l>
-      <variants>
-<l_syn>c</l_syn>
-        <l_longForm>seʹntt</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">snt</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N" re="euron sadasosan lyhenne">snt</t>
-        <t pos="N" re="euron sadasosan lyhenne">c</t>
-        <t pos="N">sentti</t>
-        <t pos="N">senttiä</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">stk</l>
-      <variants>
-        <l_longForm>ståkkan</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">stk</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">jl</t>
-        <t pos="N">juomalasi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">stk.</l>
-      <variants>
-        <l_longForm>sutkk</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-DOT-N_">stk</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">vrk</t>
-        <t pos="N">vuorokausi</t>
-        <t pos="N">vuorokautta</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">vp</l>
-      <variants>
-        <l_longForm>veärrpâʹsttem</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">vp</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">rkl</t>
-        <t pos="N">ruokalusikallinen</t>
-        <t pos="N">ruokalusikallista</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">čk</l>
-      <variants>
-        <l_longForm>čeekopp</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">čk</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">tk</t>
-        <t pos="N">teekuppi</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">čp</l>
-      <variants>
-        <l_longForm>čeepâʹsttem</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">čp</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">tl</t>
-        <t pos="N">teelusikallinen</t>
-        <t pos="N">teelusikallista</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">čǩ</l>
-      <variants>
-        <l_longForm>čuʹǩǩ</l_longForm>
-        <l_longForm>čuʹǩǩed</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">čǩ</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">ltk</t>
-        <t pos="N">laatikko</t>
-        <t pos="N">laatikkoa</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">ǩg</l>
-      <variants>
-	<l_var>kg</l_var>
-        <l_longForm>ǩilo</l_longForm>
-        <l_longForm>ǩilogramm</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">ǩg</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">kg</t>
-        <t pos="N">kilo</t>
-        <t pos="N">kilogramma</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l status="recommendation" pos="N">ǩm</l>
-      <variants>
-<l_var>km</l_var>
-        <l_longForm>ǩilomettar</l_longForm>
-      </variants>
-      <stg>
-        <st Contlex="AB-NO-DOT-N_">ǩm</st>
-      </stg>
-    </lg>
-    <mg>
-      <tg xml:lang="fin">
-        <t pos="N">km</t>
-        <t pos="N">kilometri</t>
-      </tg>
-    </mg>
-  </e>
+<?xml version="1.0" ?> <r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"> 
+<e id="None" meta="">
+   <map sml_ids="27023"/>
+   <lg>
+     <l pos="PO">väjja</l>
+     <stg>
+       <st Contlex="ADP_">väjja</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">vailla</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="PO">loopp-peäʹlnn</l>
+     <stg>
+       <st Contlex="PO_">loopp#peäʹlnn</st>
+     </stg>
+     <compg drv="N:Adv»Adv" type="Cmp">
+       <comp fin="loppu" ms="Sg.Gen" ord="E1" pos="N">loopp</comp>
+       <comp fin="puolella" ord="E2" pos="Adv">peäʹlnn</comp> </compg>
+   </lg>
+     <sources>
+       <book name="VJO" type="corpus"/>
+     </sources>
+   <mg relId="0">
+     <argg arg2="%&lt;gen%&gt;" orient="Po"/>
+     <xg>
+       <x src="VJO:2012:88">Ǩiđđmannu loopp-peäʹlnn teä ceäʹlǩǩe, što ââʹn evakkoid mååust lueʹštte vueʹlǧǧed.</x>
+       <xt xml:lang="fin">Toukokuun loppupuolella sanovat, että nyt evakot päästetään lähtemään takaisin. </xt>
+     </xg>
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Po">loppupuolella</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="18734"/>
+   <lg>
+     <l pos="PO">beälla</l>
+     <stg>
+       <st Contlex="ADP_">beälˈla</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">puolelle</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="18736"/>
+   <lg>
+     <l pos="PO">beäʹlnn</l>
+     <stg>
+       <st Contlex="ADP_">beäʹlnn</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">puolella</t>
+       <t pos="Adp">puolelta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="2327"/>
+   <lg>
+     <l pos="PO">kuvddân</l>
+     <stg>
+       <st Contlex="ADP_">kuvddân</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">halki</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="14398"/>
+   <lg>
+     <l pos="PO">kuâŋŋa</l>
+     <stg>
+       <st Contlex="ADP_">kuâŋŋa</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">pitkin</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="11982:15684"/>
+   <lg>
+     <l pos="PO">lââʹssen</l>
+     <stg>
+       <st Contlex="PO_">lââʹssen</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Po">ohella</t>
+       <t pos="Po">lisäksi</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="24051:24053"/>
+   <lg>
+     <l pos="PO">mââibeäʹl</l>
+     <stg>
+       <st Contlex="ADP_">mââibeäʹl</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">takapuolitse</t>
+       <t pos="Adp">takapuolta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="23858"/>
+   <lg>
+     <l pos="PO">mâʹŋŋla</l>
+     <stg>
+       <st Contlex="ADP_">mâʹŋŋla</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">taaksepäin</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="1322"/>
+   <lg>
+     <l pos="PO">ooudbeälla</l>
+     <stg>
+       <st Contlex="ADP_">ooud#beälˈla</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">edelle</t>
+       <t pos="Adp">etupuolelle</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="28193"/>
+   <lg>
+     <l pos="PO">paaldâst</l>
+     <stg>
+       <st Contlex="ADP_">paaldâst</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">rinnalla</t>
+       <t pos="Adp">vieressä</t>
+       <t pos="Adp">vierestä</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="28184:28192:28189"/>
+   <lg>
+     <l pos="PO">paʹldde</l>
+     <stg>
+       <st Contlex="ADP_">paʹldde</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">viereen</t>
+       <t pos="Adp">vierelle</t>
+       <t pos="Adp">vierelle</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="29838"/>
+   <lg>
+     <l pos="PO">peällsa</l>
+     <stg>
+       <st Contlex="ADP_">peällsa</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">ääreen</t>
+       <t pos="Adp">äärelle</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="29558"/>
+   <lg>
+     <l pos="PO">pââibeälla</l>
+     <stg>
+       <st Contlex="ADP_">pââi#beälˈla</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">yläpuolelle</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="29557"/>
+   <lg>
+     <l pos="PO">pââibeäʹlnn</l>
+     <stg>
+       <st Contlex="ADP_">pââibeäʹlnn</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">yläpuolella</t>
+       <t pos="Adp">yläpuolelta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="18024"/>
+   <lg>
+     <l pos="PO">rââsthaaŋgâst</l>
+     <stg>
+       <st Contlex="ADP_">rââsthaaŋgâst</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">poikki ja hanka päällä</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="15702"/>
+   <lg>
+     <l pos="PO">rääi</l>
+     <stg>
+       <st Contlex="ADP_">rääi</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">ohitse</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="21665"/>
+   <lg>
+     <l pos="PO">seäkka</l>
+     <stg>
+       <st Contlex="ADP_">seäkka</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">sekaan</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="21620:22272"/>
+   <lg>
+     <l pos="PO">seʹst</l>
+     <stg>
+       <st Contlex="ADP_">seʹst</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">seassa</t>
+       <t pos="Adp">seasta</t>
+       <t pos="Adp">sisällä</t>
+       <t pos="Adp">sisältä</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="22286"/>
+   <lg>
+     <l pos="PO">siiʹsǩbeälla</l>
+     <stg>
+       <st Contlex="ADP_">siiʹsǩ#beälˈla</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">sisäpuolelle</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="22285"/>
+   <lg>
+     <l pos="PO">siiʹsǩbeäʹlnn</l>
+     <stg>
+       <st Contlex="ADP_">siiʹsǩbeäʹlnn</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">sisäpuolella</t>
+       <t pos="Adp">sisäpuolelta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="22029"/>
+   <lg>
+     <l pos="PO">sâjja</l>
+     <stg>
+       <st Contlex="ADP_">sâjja</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">sijaan</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="947:22030"/>
+   <lg>
+     <l pos="PO">sââʹjest</l>
+     <stg>
+       <st Contlex="ADP_">sââʹjest</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">asemesta</t>
+       <t pos="Adp">sijalla</t>
+       <t pos="Adp">sijasta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="24048"/>
+   <lg>
+     <l pos="PO">tuâǥǥbeälla</l>
+     <stg>
+       <st Contlex="ADP_">tuâǥǥ#beälˈla</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">takapuolelle</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="24050:24052"/>
+   <lg>
+     <l pos="PO">tuâǥǥbeäʹl</l>
+     <stg>
+       <st Contlex="ADP_">tuâǥǥbeäʹl</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">takapuolitse</t>
+       <t pos="Adp">takapuolta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="24046"/>
+   <lg>
+     <l pos="PO">tuâǥǥbeäʹlnn</l>
+     <stg>
+       <st Contlex="ADP_">tuâǥǥbeäʹlnn</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">takapuolella</t>
+       <t pos="Adp">takapuolelta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="23444:23445"/>
+   <lg>
+     <l pos="PO">tuäʹresbeäʹl</l>
+     <stg>
+       <st Contlex="ADP_">tuäʹresbeäʹl</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">syrjäpuolitse</t>
+       <t pos="Adp">syrjäpuolta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="17988"/>
+   <lg>
+     <l pos="PO">tââʹvbeälla</l>
+     <stg>
+       <st Contlex="ADP_">tââʹv#beälˈla</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">pohjoispuolelle</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="17989:17990"/>
+   <lg>
+     <l pos="PO">tââʹvbeäʹl</l>
+     <stg>
+       <st Contlex="ADP_">tââʹvbeäʹl</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">pohjoispuolitse</t>
+       <t pos="Adp">pohjoispuolta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="17987"/>
+   <lg>
+     <l pos="PO">tââʹvbeäʹlnn</l>
+     <stg>
+       <st Contlex="ADP_">tââʹvbeäʹlnn</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">pohjoispuolella</t>
+       <t pos="Adp">pohjoispuolelta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="27989"/>
+   <lg>
+     <l pos="PO">veeʹrd</l>
+     <stg>
+       <st Contlex="ADP_">veeʹrd</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">verran</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="1238"/>
+   <lg>
+     <l pos="PO">veäkka</l>
+     <stg>
+       <st Contlex="ADP_">veäkka</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">avulla</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="27996"/>
+   <lg>
+     <l pos="PO">veäʹrdd</l>
+     <stg>
+       <st Contlex="ADP_">veäʹrdd</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">verta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="494"/>
+   <lg>
+     <l pos="PO">vueʹll</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="ADP_">vueʹll</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">alitse</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="540:545"/>
+   <lg>
+     <l pos="PO">vueʹlnn</l>
+     <stg>
+       <st Contlex="ADP_">vueʹlnn</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">alla</t>
+       <t pos="Adp">alta</t>
+       <t pos="Adp">alta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="4673:15564"/>
+   <lg>
+     <l pos="PO">vuâkka</l>
+     <stg>
+       <st Contlex="PO_">vuâkka</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <xg>
+       <x>eeʹjjes vuâkka</x>
+       <xt xml:lang="fin">isänsä näköinen</xt>
+     </xg>
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">näköinen</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="432"/>
+   <lg>
+     <l pos="PO">vuâlbeälla</l>
+     <stg>
+       <st Contlex="ADP_">vuâl#beälˈla</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">alapuolelle</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="434:435"/>
+   <lg>
+     <l pos="PO">vuâlbeäʹl</l>
+     <stg>
+       <st Contlex="ADP_">vuâlbeäʹl</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">alapuolitse</t>
+       <t pos="Adp">alapuolta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="431"/>
+   <lg>
+     <l pos="PO">vuâlbeäʹlnn</l>
+     <stg>
+       <st Contlex="ADP_">vuâlbeäʹlnn</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">alapuolella</t>
+       <t pos="Adp">alapuolelta</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="PO">vuâđald</l>
+     <stg>
+       <st Contlex="PO_">vuâđald</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="12927:15526"/>
+   <lg>
+     <l pos="PO">poodd</l>
+     <stg>
+       <st Contlex="PO_">poodd</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="sjm" type="db"/>
+     </sources>
+   <mg relId="0">
+     <xg>
+       <x>muu poodd</x>
+       <xt xml:lang="fin">minun läsnäollessani</xt>
+       <xt xml:lang="fin">minun nähteni</xt>
+     </xg>
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Po">läsnäollessa</t>
+       <t pos="Po">nähden</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map fin_lemma_id="28878::27516::27593::" stamp="fm_872:sml_15005:sml_33134:sml_33135"/>
+   <rev-sort_key>sarääv</rev-sort_key>
+   <lg>
+     <l pos="PO">vääras</l>
+     <variants>
+       <l_syn>määiʹnest</l_syn>
+       <l_syn>diõtt</l_syn>
+       <l_syn>vääʹrd</l_syn>
+       <l_syn>väʹrdd</l_syn>
+     </variants>
+     <stg>
+       <st Contlex="PO_" inflexId="::::1000">vääras</st>
+     </stg>
+     <inc-audio>
+       <c name="ID_Audio">873</c>
+       <c name="Reader">16</c>
+       <c name="Recording">1</c>
+       <c name="included">yes</c>
+     </inc-audio>
+   </lg>
+     <sources>
+       <book name="sjm" type="db"/>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="Pr">wegen</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="Pr">because of</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Po">vuoksi</t>
+       <t pos="Po">tähden</t>
+       <t pos="Po">varalla</t>
+       <t pos="Po">varalle</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="Pr">på grunn av</t>
+       <t pos="Pr">for noens skyld</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Pr">из-за</t>
+       <t pos="Pr">через</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="PO">väärast</l>
+     <stg>
+       <st Contlex="PO_">väärast</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <xg>
+       <x src="FB:2016-10-17:mffff">Sij lie Lää´ddjânnmest vuõǯǯum vieʹǩǩ väärast.</x>
+       <xt xml:lang="fin">He ovat riippuvaisia Suomesta saadusta avusta.</xt>
+       <xt xml:lang="fin">He ovat Suomesta saadun avun varassa.</xt>
+     </xg>
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Po">varassa</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="12908:12945"/>
+   <lg>
+     <l pos="PO">čõõđ</l>
+     <stg>
+       <st Contlex="ADP_">čõõđ</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">läpi</t>
+       <t pos="Adp">lävitse</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="17877"/>
+   <lg>
+     <l pos="PO">ǩeeʹjjmieʹldd</l>
+     <stg>
+       <st Contlex="ADP_">ǩeeʹjjmieʹldd</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adp">pitkin</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <rev-sort_key>nnlʹäepǥloo</rev-sort_key>
+   <lg>
+     <l pos="PO">oolǥpeäʹlnn</l>
+     <stg>
+       <st Contlex="PO_" inflexId="::::">oolǥpeäʹlnn</st>
+       <st Contlex="PO_" inflexId="::::">åålǥpeäʹlnn</st>
+       <st Contlex="PO_" inflexId="::::">ååuǥpeäʹlnn</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <argg arg2="%&lt;gen&gt;%"/>
+     <semantics>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="Pr">auf der Außenseite</t>
+       <t pos="Pr">von der Außenseite</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="Pr">on the outside of</t>
+       <t pos="Pr">from the outside of</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Po">ulkopuolella</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="169"/>
+   <lg>
+     <l pos="PO">pââʹjest</l>
+     <stg>
+       <st Contlex="ADV_">pââʹjest</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Adv">jnak aikana</t>
+     </tg>
+   </mg>
+</e>
 </r>

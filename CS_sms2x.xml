@@ -1,137 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="sms">
-<e>
-   <map sml_ids="27017"/>
-   <lg>
-     <l pos="CS">håʹt mâka</l>
-     <stg>
-       <st Contlex="CS_" NumContlex="">håʹt mâka</st>
-     <mini_paradigm>
-       <analysis/>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="CS">vaikkapa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="8917"/>
-   <lg>
-     <l pos="CS">kuäʹss</l>
-     <stg>
-       <st Contlex="CS_" NumContlex="">kuäʹss</st>
-     <mini_paradigm>
-       <analysis/>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="CS">koska</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="5033"/>
-   <lg>
-     <l pos="CS">aǥu</l>
-     <stg>
-       <st Contlex="CS_" NumContlex="">aǥu</st>
-     <mini_paradigm>
-       <analysis/>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="CS">jos</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="9166"/>
-   <lg>
-     <l pos="CS">diǥu</l>
-     <stg>
-       <st Contlex="CS_" NumContlex="">diǥu</st>
-     <mini_paradigm>
-       <analysis/>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="CS">kuin</t>
-     </tg>
-   </mg>
-</e>
-<e id="fm_4034" r="f">
-   <map fin_lemma_id="" stamp="fm_4034"/>
-   <rev-sort_key>oǥmåårg</rev-sort_key>
-   <lg>
-     <l pos="CS">grååmǥo</l>
-     <stg>
-       <st Contlex="CS_" inflexId="::::">grååmǥo</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">4035</c>
-       <c name="Reader">0</c>
-       <c name="Recording">9</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-   <mg>
-     <tg xml:lang="deu">
-       <t pos="CS">dann wenn</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="CS">then when</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="CS">silloin kun</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="CS">såfremt</t>
-     </tg>
-   </mg>
-</e>
-<e id="fm_482" r="f">
-   <map fin_lemma_id="27016::" stamp="fm_482:sml_4371"/>
-   <rev-sort_key>i-tåh</rev-sort_key>
-   <lg>
-     <l pos="CS">håt-i</l>
-     <stg>
-       <st Contlex="CS_" inflexId="::::1000">håt-i</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">483</c>
-       <c name="Reader">5</c>
-       <c name="Recording">9</c>
-       <c name="included">no</c>
-     </inc-audio>
-   </lg>
-     <sources>
-       <src type="db" name="AKU"/>
-     </sources>
-   <mg>
-     <tg xml:lang="deu">
-       <t pos="CS">selbst wenn</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="CS">even if</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="CS">vaikkakin</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="CS">selv om</t>
-       <t pos="CS">om enn</t>
-     </tg>
-   </mg>
-</e>
-<e id="gt_Cs_1" meta="03">
+<?xml version="1.0" ?> <r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"> 
+<e id="None" meta="">
    <map fin_lemma_id="27013::23876::" stamp="gt_Cs_1:fm_680:fm_6257:sml_4378:sml_29502"/>
    <rev-sort_key>tʹåh</rev-sort_key>
    <lg>
@@ -150,21 +18,15 @@
        <c name="Recording">1</c>
        <c name="included">yes</c>
      </inc-audio>
-     <inc-audio>
-       <c name="ID_Audio">681</c>
-       <c name="Reader">5</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
      <etymology>
        <etymon source="rus" type="loan">хоть</etymon>
      </etymology>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="6" name="kurss"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
        <sem class="SENSE">COGNITION</sem>
      </semantics>
@@ -194,8 +56,208 @@
        <t pos="CS">vaikke</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="CS">leâša</l>
+     <stg>
+       <st Contlex="CS_">leâša</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="CS">vaikka</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="CS">leša</l>
+     <stg>
+       <st Contlex="CS_">leša</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="CS">vaikka</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="27017"/>
+   <lg>
+     <l pos="CS">håʹt mâka</l>
+     <stg>
+       <st Contlex="CS_" NumContlex="">håʹt mâka</st>
+     <mini_paradigm>
+       <analysis/>
+     </mini_paradigm>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="CS">vaikkapa</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="CS">kuäʹss</l>
+     <stg>
+       <st Contlex="CS-TEMP_">kuäʹss</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <defNative/>
+     <semantics>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="CS">wenn</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="CS">when</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="CS">kun</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="CS">когда</t>
+     </tg>
+     <tg xml:lang="sme">
+       <t pos="CS">go</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="5033"/>
+   <lg>
+     <l pos="CS">aǥu</l>
+     <stg>
+       <st Contlex="CS_" NumContlex="">aǥu</st>
+     <mini_paradigm>
+       <analysis/>
+     </mini_paradigm>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="CS">jos</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="9166"/>
+   <lg>
+     <l pos="CS">diǥu</l>
+     <stg>
+       <st Contlex="CS_" NumContlex="">diǥu</st>
+     <mini_paradigm>
+       <analysis/>
+     </mini_paradigm>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="CS">kuin</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map fin_lemma_id="" stamp="fm_4034"/>
+   <rev-sort_key>oǥmåårg</rev-sort_key>
+   <lg>
+     <l pos="CS">grååmǥo</l>
+     <stg>
+       <st Contlex="CS_" inflexId="::::">grååmǥo</st>
+     </stg>
+     <inc-audio>
+       <c name="ID_Audio">4035</c>
+       <c name="Reader">0</c>
+       <c name="Recording">9</c>
+       <c name="included">yes</c>
+     </inc-audio>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="CS">dann wenn</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="CS">then when</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="CS">silloin kun</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="CS">såfremt</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map fin_lemma_id="27016::" stamp="fm_482:sml_4371"/>
+   <rev-sort_key>i-tåh</rev-sort_key>
+   <lg>
+     <l pos="CS">håt-i</l>
+     <stg>
+       <st Contlex="CS_" inflexId="::::1000">håt-i</st>
+     </stg>
+     <inc-audio>
+       <c name="ID_Audio">483</c>
+       <c name="Reader">5</c>
+       <c name="Recording">9</c>
+       <c name="included">no</c>
+     </inc-audio>
+   </lg>
+     <sources>
+       <book name="AKU" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="CS">selbst wenn</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="CS">even if</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="CS">vaikkakin</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="CS">selv om</t>
+       <t pos="CS">om enn</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
    <map sml_ids="27013"/>
    <lg>
      <l pos="CS">håʹt-i</l>
@@ -207,15 +269,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">vaikka</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Cs_4" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="5033::" stamp="gt_Cs_4:fm_117:sml_5643"/>
    <rev-sort_key>soj</rev-sort_key>
    <lg>
@@ -235,24 +299,18 @@
        <c name="Recording">1</c>
        <c name="included">yes</c>
      </inc-audio>
-     <inc-audio>
-       <c name="ID_Audio">118</c>
-       <c name="Reader">6</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
      <etymology>
        <etymon source="finnosaamic?" type="inher">jo+s</etymon>
        <etymon source="finnic" type="inher">jo+s</etymon>
-       <cognate xml:lang="fin">jos</cognate>
-       <cognate xml:lang="nob">hvis</cognate>
+       <cognate xml_lang="fin">jos</cognate>
+       <cognate xml_lang="nob">hvis</cognate>
      </etymology>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book BEDLAN_ID="84" name="200"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
        <sem class="SENSE">COGNITION</sem>
      </semantics>
@@ -283,8 +341,8 @@
        <t pos="CS">jus</t>
      </tg>
    </mg>
-</e>
-<e id="fm_118" r="f">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="5033::" stamp="fm_118:sml_5643"/>
    <rev-sort_key>sõj</rev-sort_key>
    <lg>
@@ -306,9 +364,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="CS">wenn</t>
        <t pos="CS">falls</t>
@@ -328,8 +388,8 @@
        <t pos="CS">если</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Cs_3" meta="03">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="9165::9485::" stamp="gt_Cs_3:fm_5888:sml_3900:sml_7548"/>
    <rev-sort_key>ok</rev-sort_key>
    <lg>
@@ -348,18 +408,29 @@
        <c name="Recording">1</c>
        <c name="included">yes</c>
      </inc-audio>
-     <inc-audio>
-       <c name="ID_Audio">5889</c>
-       <c name="Reader">7</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="1" name="kurss"/>
      </sources>
-   <mg>
+   <mg relId="1">
+     <semantics>
+       <sem class="TIME">POINT</sem>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">when</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Adv">kun</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="Adv">når</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">когда</t>
+     </tg>
+   </mg>
+   <mg relId="0">
      <semantics>
        <sem class="SENSE">COGNITION</sem>
      </semantics>
@@ -379,24 +450,9 @@
        <t pos="CS">потому, что</t>
      </tg>
    </mg>
-   <mg exclude="oahpa;">
+   <mg relId="2">
      <semantics>
-       <sem class="TIME">POINT</sem>
      </semantics>
-     <tg xml:lang="eng">
-       <t pos="Adv">when</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="Adv">kun</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="Adv">når</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="Adv">когда</t>
-     </tg>
-   </mg>
-   <mg>
      <tg xml:lang="deu">
        <t pos="CS">als</t>
        <t pos="CS">wenn; wie, als; wenn, falls</t>
@@ -420,8 +476,8 @@
        <t pos="CS">так как</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2832" r="f">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_2832"/>
    <rev-sort_key>ojok</rev-sort_key>
    <lg>
@@ -437,9 +493,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="eng">
        <t pos="CS">once</t>
        <t pos="CS">when</t>
@@ -453,8 +511,8 @@
        <t pos="CS">когда-то</t>
      </tg>
    </mg>
-</e>
-<e id="fm_744" r="f">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_744"/>
    <rev-sort_key>nook</rev-sort_key>
    <lg>
@@ -470,9 +528,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="eng">
        <t pos="CS">as long as</t>
        <t pos="CS">until</t>
@@ -486,8 +546,8 @@
        <t pos="CS">до</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Cs_5" meta="05">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="9165::9485::" stamp="gt_Cs_5:sml_3900:sml_7548"/>
    <rev-sort_key>uk</rev-sort_key>
    <lg>
@@ -505,10 +565,17 @@
      </etymology>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book BEDLAN_ID="84" name="200"/>
      </sources>
-   <mg exclude="oahpa;">
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="CS">kuin</t>
+     </tg>
+   </mg>
+   <mg relId="0">
      <semantics>
        <sem class="SENSE">COGNITION</sem>
      </semantics>
@@ -533,18 +600,15 @@
        <t pos="CS">jus</t>
      </tg>
    </mg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="CS">kuin</t>
-     </tg>
-   </mg>
-   <mg>
+   <mg relId="2">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">kun</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2160" r="f">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="223::22323::22146::9181::" stamp="fm_2160:sml_8921:sml_8922:sml_8923:sml_8924"/>
    <rev-sort_key>ǥâtiuuk</rev-sort_key>
    <lg>
@@ -567,9 +631,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="Adv">dennoch</t>
        <t pos="Adv">trotzdem</t>
@@ -591,69 +657,8 @@
        <t pos="Adv">тем не менее</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">kuäʹss</l>
-     <stg>
-       <st Contlex="CS-TEMP_">kuäʹss</st>
-     </stg>
-   </lg>
-     <sources>
-       <src type="db" name="AKU"/>
-     </sources>
-   <mg>
-     <defNative/>
-     <tg xml:lang="deu">
-       <t pos="CS">wenn</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="CS">when</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="CS">kun</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="CS">когда</t>
-     </tg>
-     <tg xml:lang="sme">
-       <t pos="CS">go</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">leâša</l>
-     <stg>
-       <st Contlex="CS_">leâša</st>
-     </stg>
-   </lg>
-     <sources>
-       <src type="db" name="AKU"/>
-     </sources>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="CS">vaikka</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">leša</l>
-     <stg>
-       <st Contlex="CS_">leša</st>
-     </stg>
-   </lg>
-     <sources>
-       <src type="db" name="AKU"/>
-     </sources>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="CS">vaikka</t>
-     </tg>
-   </mg>
-</e>
-<e id="fm_115" r="f">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_115"/>
    <rev-sort_key>etʹam</rev-sort_key>
    <lg>
@@ -668,7 +673,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="CS">gleichsam</t>
        <t pos="CS">als ob</t>
@@ -684,8 +693,8 @@
        <t pos="CS">som om</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9166"/>
    <lg>
      <l pos="CS">mâʹhtt</l>
@@ -696,26 +705,34 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">kuin</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">mâʹta</l>
      <stg>
        <st Contlex="CS_">mâʹta</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">kuin</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9166"/>
    <lg>
      <l pos="CS">mäʹhtt</l>
@@ -727,19 +744,24 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">kuin</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Cs_6" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="9510::9487::14889::9486::177::21615::" stamp="gt_Cs_6:fm_5887:sml_19485:sml_19486:sml_19487:sml_19488:sml_19489:sml_19490"/>
    <rev-sort_key>akop</rev-sort_key>
    <lg>
      <l pos="CS">poka</l>
+     <etymology>
+       <etymon source="rus" type="loan">пока</etymon>
+     </etymology>
      <stg>
        <st Contlex="CS_" inflexId="::::1000">poka</st>
      </stg>
@@ -749,20 +771,11 @@
        <c name="Recording">1</c>
        <c name="included">yes</c>
      </inc-audio>
-     <inc-audio>
-       <c name="ID_Audio">5888</c>
-       <c name="Reader">11</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <etymology>
-       <etymon source="rus" type="loan">пока</etymon>
-     </etymology>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg exclude="oahpa;">
+   <mg relId="0">
      <semantics>
        <sem class="SENSE">COGNITION</sem>
      </semantics>
@@ -798,22 +811,26 @@
        <t pos="CS">если только</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">teäʹl</l>
      <stg>
        <st Contlex="CS_">teäʹl</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">koska</t>
        <t pos="CS">sillä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">teʹl</l>
      <stg>
@@ -821,9 +838,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="eng">
        <t pos="CS">because</t>
      </tg>
@@ -832,24 +851,25 @@
        <t pos="CS">sillä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">tâʹl</l>
      <stg>
-       <st Contlex="CS_">tâʹl</st>
+       <st Contlex="CS_"/>
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">koska</t>
      </tg>
    </mg>
-</e>
-<e id="fm_871">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_871"/>
    <rev-sort_key>tnõt</rev-sort_key>
    <lg>
@@ -865,9 +885,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="CS">weil</t>
      </tg>
@@ -887,8 +909,8 @@
        <t pos="CS">потому</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Cs_7" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="8918::22091::22055::" stamp="gt_Cs_7:sml_3901:sml_27097:sml_28114"/>
    <rev-sort_key>tnʹõt</rev-sort_key>
    <lg>
@@ -911,11 +933,11 @@
      </etymology>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="dict" name="kurss"/>
        <book BEDLAN_ID="9" name="200"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
        <sem class="SENSE">COGNITION</sem>
      </semantics>
@@ -936,8 +958,8 @@
        <t pos="CS">потому, что</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9485"/>
    <lg>
      <l pos="CS">vu</l>
@@ -949,42 +971,52 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">kun</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">õõi</l>
      <stg>
        <st Contlex="CS_">õõi</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">jotta</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">õõi ij</l>
      <stg>
        <st Contlex="CS_">õõi ij</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">ellei</t>
        <t pos="CS">jollei</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Cs_8" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="1946::5042::" stamp="gt_Cs_8:fm_3998:sml_26710:sml_26711"/>
    <rev-sort_key>otš</rev-sort_key>
    <lg>
@@ -1005,41 +1037,15 @@
        <c name="Recording">1</c>
        <c name="included">yes</c>
      </inc-audio>
-     <inc-audio>
-       <c name="ID_Audio">3999</c>
-       <c name="Reader">21</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
      <etymology>
        <etymon source="rus" type="loan">что</etymon>
      </etymology>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="3" name="kurss"/>
      </sources>
-   <mg>
-     <semantics>
-       <sem class="SENSE">COGNITION</sem>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="CS">dass</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="CS">that</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="CS">että</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="CS">at</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="CS">что</t>
-     </tg>
-   </mg>
-   <mg>
+   <mg relId="1">
      <semantics>
        <sem class="SENSE">COGNITION</sem>
      </semantics>
@@ -1059,8 +1065,28 @@
        <t pos="CS">чтобы</t>
      </tg>
    </mg>
-</e>
-<e>
+   <mg relId="0">
+     <semantics>
+       <sem class="SENSE">COGNITION</sem>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="CS">dass</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="CS">that</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="CS">että</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="CS">at</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="CS">что</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
    <map sml_ids="1946"/>
    <lg>
      <l pos="CS">ǥo</l>
@@ -1072,37 +1098,36 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">että</t>
      </tg>
    </mg>
-</e>
-<e>
-   <map sml_ids="5033:9165:9485"/>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="8918"/>
    <lg>
      <l pos="CS">ǥu</l>
      <stg>
-       <st Contlex="CS_" NumContlex="">ǥu</st>
-     <mini_paradigm>
-       <analysis/>
-     </mini_paradigm>
+       <st Contlex="CS_">ǥu</st>
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="sjm" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
-       <t pos="CS">jos</t>
-       <t pos="CS">kuin</t>
-       <t pos="CS">kun</t>
+       <t pos="CS">koska</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5033"/>
    <lg>
      <l pos="CS">ǥu mâka</l>
@@ -1113,13 +1138,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">jos</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">ǥõõi</l>
      <stg>
@@ -1127,95 +1156,83 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">jotta</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">ǥõõi ij</l>
      <stg>
        <st Contlex="CS_">ǥõõi ij</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">ellei</t>
        <t pos="CS">jollei</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">kujo</l>
      <stg>
        <st Contlex="CS_"/>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">koska</t>
      </tg>
    </mg>
-</e>
-<e>
-   <lg>
-     <l pos="CS">tâʹl</l>
-     <stg>
-       <st Contlex="CS_"/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="CS">koska</t>
-     </tg>
-   </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">ujo</l>
      <stg>
        <st Contlex="CS_"/>
      </stg>
    </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="CS">koska</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="8918"/>
-   <lg>
-     <l pos="CS">ǥu</l>
-     <stg>
-       <st Contlex="CS_">ǥu</st>
-     </stg>
-   </lg>
      <sources>
-       <src type="db" name="sjm"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">koska</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="CS">ǥujo</l>
      <stg>
        <st Contlex="CS_"/>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="CS">koska</t>
      </tg>
    </mg>
 </e>
-</r> 
+</r>

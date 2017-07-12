@@ -1,5 +1,191 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="sms">
-<e id="gt_Prop_3" meta="08_369">
+<?xml version="1.0" ?> <r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"> 
+<e id="None" meta="">
+   <map sml_ids="4873"/>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Jaappan</l>
+     <stg>
+       <st Contlex="PROP_TOP_AANAR">Jaappan</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>=</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>Jaappna</wordform>
+       </analysis>
+     </mini_paradigm>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">Japani</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map fin_lemma_id="13963::" stamp="gt_Prop_50:fm_382:sml_14183"/>
+   <rev-sort_key>kksoM</rev-sort_key>
+   <lg>
+     <l hid="Hom1" pos="N" sem_type="Plc" type="Prop">Moskk</l>
+     <stg>
+       <st Contlex="PROP_TOP_ALGG" inflexId="::::1.111">Mo%^1VOWskk</st>
+     </stg>
+     <inc-audio>
+       <c name="ID_Audio">383</c>
+       <c name="Reader">9</c>
+       <c name="Recording">1</c>
+       <c name="included">yes</c>
+     </inc-audio>
+       <translit_cyr>Москк</translit_cyr>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>Moosk</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>Moʹsǩǩe</wordform>
+       </analysis>
+     </mini_paradigm> <audio> <a dialect="xxx" href="languagememory383" quality="1" speaker="9"/> </audio>
+   </lg>
+     <sources>
+       <book name="prop"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="N" type="Prop">Moskau</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Moscow</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Mosku</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="N" type="Prop">Moskva</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N" type="Prop">Москва</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="15370"/>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Nuorgam</l>
+     <stg>
+       <st Contlex="PROP_TOP_AANAR">Nuorgam</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>Nuorggam</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>Nuorggma</wordform>
+       </analysis>
+     </mini_paradigm>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">Nuorgam</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="21150"/>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Sahara</l>
+     <stg>
+       <st Contlex="PROP_TOP_TRUUBA">Sahara</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>=</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>Saharaaʹje</wordform>
+           <wordform>Sahara</wordform>
+       </analysis>
+     </mini_paradigm>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">Sahara</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="24648"/>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Teänjokk</l>
+     <stg>
+       <st Contlex="PROP_TOP_KUSS">Teän#jo%^1VOWkk</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-jooǥǥ</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-joʹǩǩe</wordform>
+       </analysis>
+     </mini_paradigm>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">Tenojoki</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <map sml_ids="685"/>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Aŋŋel</l>
+     <stg>
+       <st Contlex="PROP_TOP_AANAR">Aŋŋel</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>Aŋŋeeʹl</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>Aŋŋla</wordform>
+       </analysis>
+     </mini_paradigm>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">Angeli</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Sääʹmpõrtt</l>
+   </lg>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="4457::" stamp="gt_Prop_3:fm_368:fm_6182:sml_61"/>
    <rev-sort_key>ranaA</rev-sort_key>
    <lg>
@@ -12,7 +198,8 @@
        <c name="Reader">1</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Аaнaр</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Аaнaр</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>Aanar</wordform>
@@ -23,35 +210,35 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory369" quality="1" speaker="1"/> <a dialect="muo" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111210_ZMN.wav" speaker="ZMN"/> <a dialect="peä" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav" speaker="KJ"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="phon" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="N" type="Prop" re="Dorf">Inari</t>
+       <t pos="N" type="Prop">Inari</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="N" type="Prop" re="village">Inari</t>
+       <t pos="N" type="Prop">Inari</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="N" type="Prop" re="kylä">Inari</t>
+       <t pos="N" type="Prop">Inari</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="N" type="Prop" re="landsby">Enare</t>
+       <t pos="N" type="Prop">Enare</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="N" type="Prop" re="посёлок">Инари</t>
+       <t pos="N" type="Prop">Инари</t>
      </tg>
      <tg xml:lang="sme">
-       <t pos="N" type="Prop" re="siida">Anár</t>
+       <t pos="N" type="Prop">Anár</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4459"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Aanarjäuʹrr</l>
@@ -68,15 +255,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Inarinjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="833"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Aarhaŋeʹl</l>
@@ -92,13 +281,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Arkangeli</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="576:576"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Aaʹlp</l>
@@ -109,13 +302,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Alpit</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="217"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ailijokk</l>
@@ -132,15 +329,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ailijoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="218"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ailijäuʹrr</l>
@@ -156,13 +355,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ailijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="406"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Akujäuʹrr</l>
@@ -179,15 +382,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Akujärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="442"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Alaskk</l>
@@ -203,13 +408,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Alaska</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="451"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Alta</l>
@@ -225,13 +434,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Alattio</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="1080"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Atlantt</l>
@@ -247,35 +460,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Atlantti</t>
      </tg>
    </mg>
-</e>
-<e>
-   <map sml_ids="685"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Aŋŋel</l>
-     <stg>
-       <st Contlex="PROP_TOP_AANAR">Aŋŋel</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>Aŋŋeeʹl</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>Aŋŋla</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Angeli</t>
-     </tg>
-   </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="86"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Afrikk</l>
@@ -285,16 +480,18 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="ǩk"/>
-       <src type="db" name="sjm"/>
+       <book name="ǩk" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Afrikka</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="622"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Amerikk</l>
@@ -303,32 +500,50 @@
        <st Contlex="PROP_PAPP">Aʹmmri%^1VOWkk</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Amerikka</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Aʹrttjäuʹrr</l>
    </lg>
-</e>
-<e>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map sml_ids="1252"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Baffinluhtt</l>
      <stg>
-       <st Contlex="PROP_TOP_SIJDD">Baffin#luhtt</st>
+       <st Contlex="PROP_TOP_UHSS">Baffin#lu%^1VOWhtt</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-luut</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-luʹhtte</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Baffininlahti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16892"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Baʹrǩǩen</l>
@@ -344,13 +559,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Parkkina</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5358"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ceäggkuõškk</l>
@@ -366,13 +585,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jyrkkäkoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="24223"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Danskk</l>
@@ -388,13 +611,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tanska</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="1892"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Espan</l>
@@ -410,13 +637,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Espanja</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="2001"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Euroopp Union</l>
@@ -432,13 +663,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Euroopan Unioni</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="2002"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Europ</l>
@@ -454,13 +689,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Eurooppa</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_14" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="gt_Prop_14"/>
    <rev-sort_key>sõlggŋE</rev-sort_key>
    <lg>
@@ -473,9 +712,9 @@
        <book lesson="dict" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">England</t>
@@ -490,8 +729,8 @@
        <t pos="N" type="Prop">Англия</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="1615"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Eŋgglõsjânnam</l>
@@ -507,13 +746,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Englanti</t>
      </tg>
    </mg>
-</e>
-<e id="fm_1593">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_1593"/>
    <rev-sort_key>sõlgŋE</rev-sort_key>
    <lg>
@@ -528,7 +771,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">England</t>
      </tg>
@@ -545,8 +792,8 @@
        <t pos="N" type="Prop">Англия</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19811"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Franskkjânnam</l>
@@ -563,15 +810,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ranska</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="2086"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Goolgat</l>
@@ -587,13 +836,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Golgata</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9122"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Greikkajânnam</l>
@@ -609,13 +862,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kreikka</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="3118"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Heävaškuõškk</l>
@@ -631,13 +888,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hevoskoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="3121"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Heävašsuâl</l>
@@ -653,13 +914,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hevossaari</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_20" meta="08_380">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="2970::" stamp="gt_Prop_20:fm_379:sml_4058"/>
    <rev-sort_key>nesslʹeH</rev-sort_key>
    <lg>
@@ -672,7 +937,8 @@
        <c name="Reader">5</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Хэльссэн</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Хэльссэн</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>=</wordform>
@@ -683,12 +949,12 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory380" quality="1" speaker="5"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Helsinki</t>
@@ -707,8 +973,8 @@
        <t pos="N" type="Prop">Хельсинки</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4244"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Iisakjäuʹrr</l>
@@ -724,13 +990,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Iisakkijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4490:4490"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">India</l>
@@ -742,15 +1012,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Intia</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4515"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Irlantt</l>
@@ -766,13 +1038,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Irlanti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Islantt</l>
@@ -788,13 +1064,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Islanti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4643"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Israeel</l>
@@ -810,13 +1090,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Israel</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4690"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Itaal</l>
@@ -832,35 +1116,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Italia</t>
      </tg>
    </mg>
-</e>
-<e>
-   <map sml_ids="4873"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Jaappan</l>
-     <stg>
-       <st Contlex="PROP_TOP_AANAR">Jaappan</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>=</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>Jaappna</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Japani</t>
-     </tg>
-   </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4921"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jäuʹrrjokk</l>
@@ -876,13 +1142,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jaurujoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5390"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jeeʹelsuâl</l>
@@ -898,13 +1168,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jäkäläsaari</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5389"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jeeʹelvueiʹvv</l>
@@ -920,13 +1194,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jäkäläpää</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="15433"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jieʹrni</l>
@@ -942,13 +1220,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nurmensätti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5593"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jiõŋŋjäuʹrr</l>
@@ -964,13 +1246,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jääjärvi</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2186">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="5609::" stamp="fm_2186:sml_5462"/>
    <rev-sort_key>rrâimŋŋõiJ</rev-sort_key>
    <lg>
@@ -994,9 +1280,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Eismeer</t>
      </tg>
@@ -1013,8 +1301,8 @@
        <t pos="N" type="Prop">Северный Ледовитый Океан</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5063"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jooultuõddâr</l>
@@ -1030,13 +1318,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Joulutunturi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4936"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jooǥǥnjäʹlmm</l>
@@ -1052,13 +1344,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Joensuu</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4989"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jovkjokk</l>
@@ -1074,13 +1370,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jokangajoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5208"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Juuŋâsnjargg</l>
@@ -1096,13 +1396,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Juomusniemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Juõnnjokk</l>
@@ -1118,13 +1422,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Juonnijoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4592"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jõnn Suäʹvveljäuʹrr</l>
@@ -1140,13 +1448,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Iso Harrijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4596"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jõnn-Britann</l>
@@ -1162,13 +1474,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Iso-Britannia</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4615"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jõnn-Luubbâl</l>
@@ -1184,13 +1500,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Isolompolo</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4607"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jõnnǩeäʹdǧǧjäuʹrr</l>
@@ -1206,18 +1526,24 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Isokivijärvi</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Jõnnǩeäʹdǧǧtuõddâr</l>
    </lg>
-</e>
-<e>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5820"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kaalčuäʹlmm</l>
@@ -1233,13 +1559,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kahluusalmi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5665"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kaamâs</l>
@@ -1255,13 +1585,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaamanen</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6761"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kaaʹdrenjäuʹrr</l>
@@ -1277,13 +1611,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Katriinajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5719"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kaaʹrdluubbâl</l>
@@ -1299,13 +1637,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaarttilopmpolo</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6398"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Karasjokk</l>
@@ -1321,13 +1663,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Karasjoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Karekkjäuʹrr</l>
@@ -1343,13 +1689,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Karekkijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6435"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Karigasnjargg</l>
@@ -1365,29 +1715,34 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Karigasniemi</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_34" meta="08_381">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="6450::" stamp="gt_Prop_34:fm_380:sml_6752"/>
    <rev-sort_key>lejjrʹaK</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kaʹrjjel</l>
-     <variants>
-       <l_var>Käʹrjjel</l_var>
-     </variants>
      <stg>
        <st Contlex="PROP_TOP_AANAR" inflexId="::::1.2">Kaʹrjjel</st>
      </stg>
+       <translit_cyr>Кaрьййел</translit_cyr>
+     <etymology>
+       <etymon algu_lekseemi_id="68461" id="191743" xml_lang="sms">Kaʹrjjel</etymon>
+     </etymology>
      <inc-audio>
        <c name="ID_Audio">381</c>
        <c name="Reader">7</c>
        <c name="Recording">9</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Кaрьййел</translit_cyr>
+     </inc-audio>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>=</wordform>
@@ -1396,16 +1751,18 @@
            <wordform>Kaʹrjjla</wordform>
            <wordform>??Karjjla</wordform>
        </analysis>
-     </mini_paradigm> <audio> <a dialect="xxx" href="languagememory381" quality="9" speaker="7"/> </audio>
-<etymology> <etymon xml:lang="sms" algu_lekseemi_id="68461" id="191743">Kaʹrjjel</etymon> </etymology>
+     </mini_paradigm>
+     <variants>
+       <l_var>Käʹrjjel</l_var>
+     </variants> <audio> <a dialect="xxx" href="languagememory381" quality="9" speaker="7"/> </audio>
    </lg>
      <sources>
-<book name="KKS" page="91:3"/>
+       <book name="KKS" page="91:3"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Karelien</t>
@@ -1423,8 +1780,8 @@
        <t pos="N" type="Prop">Карелия</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="7531"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Keväjäuʹrr</l>
@@ -1441,15 +1798,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Keväjärvi</t>
      </tg>
    </mg>
-</e>
-<e id="fm_381">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_381"/>
    <rev-sort_key>ggrajnkkrâeK</rev-sort_key>
    <lg>
@@ -1464,7 +1823,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Kirkenes</t>
      </tg>
@@ -1475,22 +1838,34 @@
        <t pos="N" type="Prop">Kirkkoniemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="10902"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Keäʹpperluhtt</l>
      <stg>
-       <st Contlex="PROP_TOP_SIJDD">Keäʹpper#luhtt</st>
+       <st Contlex="PROP_TOP_UHSS">Keäʹpper#lu%^1VOWhtt</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-luut</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-luʹhtte</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lakkilahti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8205"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kihttel</l>
@@ -1507,15 +1882,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kittilä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kirakkajäuʹrr</l>
@@ -1532,15 +1909,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kirakkajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6026"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kiʹǩǩernjargg</l>
@@ -1556,13 +1935,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kalastajasaarento</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8663"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Konnsažvueiʹvv</l>
@@ -1578,13 +1961,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Konnospää</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8568"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Koolâsjokk</l>
@@ -1600,13 +1987,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kolosjoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8569"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Koolâsjäuʹrr</l>
@@ -1622,13 +2013,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kolosjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kooʹrneǩjokk</l>
@@ -1644,13 +2039,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kornettijoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kooʹrneǩjäuʹrr</l>
@@ -1666,13 +2065,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kornettijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kooʹrneǩvääʹrr</l>
@@ -1688,18 +2091,24 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kornettivaara</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Koʹlmisjäuʹrr</l>
    </lg>
-</e>
-<e>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6040"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kuddteʹmesjäuʹrr</l>
@@ -1715,13 +2124,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kalatonjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="26035"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kueʹlǩesmiârr</l>
@@ -1737,13 +2150,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tyynimeri</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8969"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kueʹttjokk</l>
@@ -1759,13 +2176,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kotajoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8973"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kueʹttjõrŋŋ</l>
@@ -1781,13 +2202,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kotaselkä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8971"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kueʹttluubbâl</l>
@@ -1803,27 +2228,43 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kotalompolo</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="20561"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kueʹššluhtt</l>
      <stg>
-       <st Contlex="PROP_TOP_SIJDD">Kueʹšˈš#luhtt</st>
+       <st Contlex="PROP_TOP_UHSS">Kueʹšˈš#lu%^1VOWhtt</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-luut</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-luʹhtte</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rovelahti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9680"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kuosnijokk</l>
@@ -1839,13 +2280,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kuosnajoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9882"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kuttura</l>
@@ -1857,13 +2302,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kuttura</t>
      </tg>
    </mg>
-</e>
-<e id="fm_3231">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="9575::" stamp="fm_3231:sml_8150"/>
    <rev-sort_key>kõlâuK</rev-sort_key>
    <lg>
@@ -1887,9 +2336,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop"/>
      </tg>
@@ -1900,8 +2351,8 @@
        <t pos="N" type="Prop">Kuola</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="10340"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kuärddjäuʹrr</l>
@@ -1917,13 +2368,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kärventämäjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8728"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kuäʹppel</l>
@@ -1939,13 +2394,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Koppelo</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8941"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kuõškk-kaʹlddijokk</l>
@@ -1961,13 +2420,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Koskikaltiojoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8942"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kuõškk-kaʹlddijäuʹrr</l>
@@ -1983,13 +2446,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Koskikaltiojärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17892"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kuʹǩesjäuʹrr</l>
@@ -2005,19 +2472,23 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pitkäjärvi</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2684">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="6326::" stamp="fm_2684:sml_9823"/>
    <rev-sort_key>tthulddäK</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Käddluhtt</l>
      <stg>
-       <st Contlex="PROP_TOP_SIJDD" inflexId="::::1.111">Kädd#luhtt</st>
+       <st Contlex="PROP_TOP_UHSS" inflexId="::::1.111">Kädd#lu%^1VOWhtt</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2685</c>
@@ -2025,11 +2496,21 @@
        <c name="Recording">9</c>
        <c name="included">yes</c>
      </inc-audio>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-luut</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-luʹhtte</wordform>
+       </analysis>
+     </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Name eines Ortes</t>
      </tg>
@@ -2046,8 +2527,8 @@
        <t pos="N" type="Prop">Кандалакша (топоним)</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6119"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Källjokk</l>
@@ -2063,13 +2544,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kallojoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6120"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Källjäuʹrr</l>
@@ -2085,13 +2570,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kallojärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6122"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Källkuõškk</l>
@@ -2107,13 +2596,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kallokoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6123"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Källvueiʹvv</l>
@@ -2129,18 +2622,24 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kallopää</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kättjäuʹrr</l>
    </lg>
-</e>
-<e>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8835"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Käärnõspäʹhtt</l>
@@ -2156,13 +2655,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Korppipahta</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2337">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="6450::" stamp="fm_2337:sml_6752"/>
    <rev-sort_key>lejjrʹäK</rev-sort_key>
    <lg>
@@ -2180,7 +2683,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Karelien</t>
      </tg>
@@ -2197,8 +2704,8 @@
        <t pos="N" type="Prop">Карелия</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9469"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kååmmčuäʹrvv</l>
@@ -2214,13 +2721,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kumosarvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9886"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kååđđjäuʹrr</l>
@@ -2236,13 +2747,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kutujärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9197"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kåšǩǩ-Ruʹvddjäuʹrr</l>
@@ -2258,13 +2773,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kuiva-Rautajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17457"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kåʹddsueʹrr</l>
@@ -2280,13 +2799,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Peurahaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6568"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kõskkmajäuʹrr</l>
@@ -2302,13 +2825,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaskamojärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6569"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kõskkmavueiʹvv</l>
@@ -2324,13 +2851,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaskamotunturi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="29138"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kõskkmiârr</l>
@@ -2346,13 +2877,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Välimeri</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="11208"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Laauljäuʹrr</l>
@@ -2368,13 +2903,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Laulujärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="11194"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Laukkjäuʹrr</l>
@@ -2390,13 +2929,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Laukkujärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="11195"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Laukkvuäivaž</l>
@@ -2412,13 +2955,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Laukkupää</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Leijäuʹrr</l>
@@ -2434,13 +2981,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Leijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="11415"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Lemmenjokk</l>
@@ -2456,13 +3007,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lemmenjoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="10993"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Lueʹppčuäʹrvv</l>
@@ -2478,13 +3033,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lapasarvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Luolajäuʹrr</l>
@@ -2501,15 +3060,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Luolajärvi</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_38" meta="08_371">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="12642::" stamp="gt_Prop_38:fm_370:sml_12668"/>
    <rev-sort_key>rrʹuäjuuL</rev-sort_key>
    <lg>
@@ -2522,7 +3083,8 @@
        <c name="Reader">8</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Лӯйӕуррь</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Лӯйӕуррь</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>-jääuʹr</wordform>
@@ -2533,12 +3095,32 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory371" quality="1" speaker="8"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Lovozero</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Luujärvi</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="N" type="Prop">Lovozero</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N" type="Prop">Ловозеро</t>
+     </tg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Lujávri</t>
+     </tg>
+   </mg>
+   <mg relId="0">
+     <semantics>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Lovozero</t>
@@ -2559,28 +3141,8 @@
        <t pos="N" type="Prop">Lujávri</t>
      </tg>
    </mg>
-   <mg>
-     <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
-     </semantics>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Lovozero</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="N" type="Prop">Luujärvi</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="N" type="Prop">Lovozero</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="N" type="Prop">Ловозеро</t>
-     </tg>
-     <tg xml:lang="sme">
-       <t pos="N" type="Prop">Lujávri</t>
-     </tg>
-   </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="12641"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Luujäuʹrrsijdd</l>
@@ -2596,13 +3158,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Luujärven kylä</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_42" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="23026::23028::" stamp="gt_Prop_42:fm_1727:sml_13013:sml_13014"/>
    <rev-sort_key>mannâjddʹääL</rev-sort_key>
    <lg>
@@ -2626,13 +3192,13 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="dict" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Finnland</t>
@@ -2651,22 +3217,34 @@
        <t pos="N" type="Prop">Финляндия</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="30315"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Lääʹddluhtt</l>
      <stg>
-       <st Contlex="PROP_TOP_SIJDD">Lääʹdd#luhtt</st>
+       <st Contlex="PROP_TOP_UHSS">Lääʹdd#lu%^1VOWhtt</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-luut</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-luʹhtte</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Suomenlahti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="11225"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Lääʹreǩvääʹrr</l>
@@ -2682,13 +3260,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Laurinvaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="3202:"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Läʹbǯǯjäuʹrr</l>
@@ -2704,13 +3286,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hihnajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="23028"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Läʹdd</l>
@@ -2727,11 +3313,13 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="KKS" page="186A"/>
        <book name="SKS" page="119"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Finnland</t>
      </tg>
@@ -2748,8 +3336,8 @@
        <t pos="N" type="Prop">Финляндия</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="12629"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Lått</l>
@@ -2765,13 +3353,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lutto</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="12630"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Låttjokk</l>
@@ -2787,13 +3379,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Luttojoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="13348"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Maadd-Lääʹddjânnam</l>
@@ -2809,13 +3405,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Manner-Suomi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="13158"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Maaddvuõnn</l>
@@ -2831,13 +3431,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Maattivuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Maaseäʹlǧǧ</l>
@@ -2853,13 +3457,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Maaselkä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="13157"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Maaʒʒsâžjäuʹrr</l>
@@ -2875,13 +3483,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Maatsasjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="13234"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Maiddeǩkuõškk</l>
@@ -2897,13 +3509,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Maitokoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="13361"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Maʹrnnjäuʹrr</l>
@@ -2919,13 +3535,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Marinajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14396"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Meiʹssjäuʹrr</l>
@@ -2942,15 +3562,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Meissijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="13520"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Menesjäuʹrr</l>
@@ -2967,15 +3589,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Menesjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="13536"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Meʹnekâs</l>
@@ -2986,65 +3610,24 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Menikka</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Miessijäuʹrr</l>
    </lg>
-</e>
-<e id="gt_Prop_50" meta="08_383">
-   <map fin_lemma_id="13963::" stamp="gt_Prop_50:fm_382:sml_14183"/>
-   <rev-sort_key>kksoM</rev-sort_key>
-   <lg>
-     <l hid="Hom1" pos="N" sem_type="Plc" type="Prop">Moskk</l>
-     <stg>
-       <st Contlex="PROP_TOP_ALGG" inflexId="::::1.111">Mo%^1VOWskk</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">383</c>
-       <c name="Reader">9</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Москк</translit_cyr>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>Moosk</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>Moʹsǩǩe</wordform>
-       </analysis>
-     </mini_paradigm> <audio> <a dialect="xxx" href="languagememory383" quality="1" speaker="9"/> </audio>
-   </lg>
      <sources>
-       <book name="prop"/>
      </sources>
-   <mg>
-     <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="N" type="Prop">Moskau</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Moscow</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="N" type="Prop">Mosku</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="N" type="Prop">Moskva</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="N" type="Prop">Москва</t>
-     </tg>
-   </mg>
-</e>
-<e id="gt_Prop_51" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="14078::" stamp="gt_Prop_51:sml_14405"/>
    <rev-sort_key>ǩǩtʹeuM</rev-sort_key>
    <lg>
@@ -3064,15 +3647,15 @@
      <sources>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">??Motka</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="N" type="Prop" re="kolttakylä">Muotka</t>
+       <t pos="N" type="Prop">Muotka</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="N" type="Prop">Muotka</t>
@@ -3085,8 +3668,8 @@
        <t pos="N" type="Prop">Muotki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14080"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Mueʹtǩǩvuõnn</l>
@@ -3102,13 +3685,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Muotkavuono</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_52" meta="08_384">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="14283::" stamp="gt_Prop_52:fm_383:sml_14580"/>
    <rev-sort_key>namruuM</rev-sort_key>
    <lg>
@@ -3121,7 +3708,8 @@
        <c name="Reader">9</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Мӯрмaн</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Мӯрмaн</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>=</wordform>
@@ -3134,9 +3722,9 @@
      <sources>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Murmansk</t>
@@ -3154,8 +3742,8 @@
        <t pos="N" type="Prop">Мурманск</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="30129"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Myössäjäuʹrr</l>
@@ -3171,13 +3759,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Myössäjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="13402"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Määššsuâl</l>
@@ -3193,13 +3785,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Massansaari</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14214"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Mååʹđđjäuʹrr</l>
@@ -3215,13 +3811,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Mutajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14213"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Mååʹđđjääuʹrjõrŋŋ</l>
@@ -3237,13 +3837,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Mutajärvenselkä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14216"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Mååʹđđmädd</l>
@@ -3259,13 +3863,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Mutamaa</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Nanabeljäuʹrr</l>
@@ -3281,13 +3889,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lujapuolijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="15583"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Neäʹlǧǧjäuʹrr</l>
@@ -3303,13 +3915,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nälkäjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="15613"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Neäʹsǩǩemjäuʹrr</l>
@@ -3325,13 +3941,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Näskämäjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14775"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Nijddkuõškk</l>
@@ -3347,13 +3967,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Neitikoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14776"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Nijddnjargg</l>
@@ -3369,13 +3993,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Neitiniemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14619"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njannâmjäuʹrr</l>
@@ -3391,13 +4019,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nannamjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14878"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njarggjäuʹrr</l>
@@ -3413,13 +4045,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Niemijärvi</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_57" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="15652::" stamp="gt_Prop_57:fm_2685:sml_15537"/>
    <rev-sort_key>mâdduajN</rev-sort_key>
    <lg>
@@ -3443,12 +4079,12 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg descr_trans="Ortsbezeichnung" xml:lang="deu">
        <t pos="N" type="Prop">Neiden</t>
@@ -3469,8 +4105,8 @@
        <t pos="N" type="Prop">Njávdán</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_69" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="gt_Prop_69:sml_15535"/>
    <rev-sort_key>kkojmâdduajN</rev-sort_key>
    <lg>
@@ -3480,12 +4116,12 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Näätämö river</t>
@@ -3503,8 +4139,8 @@
        <t pos="N" type="Prop">Njávdánjohka</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="15654"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njauddâmsijdd</l>
@@ -3512,13 +4148,17 @@
        <st Contlex="PROP_TOP_SIJDD">Njauddâm#sijdd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Näätämönkylä</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_59" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="14804" stamp="gt_Prop_59:fm_2688"/>
    <rev-sort_key>mellʹäejN</rev-sort_key>
    <lg>
@@ -3534,33 +4174,12 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
      </semantics>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Nellim</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="N" type="Prop">Nellim</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="N" type="Prop">Nellim</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="N" type="Prop">Неллим</t>
-     </tg>
-     <tg xml:lang="smn">
-       <t pos="N" type="Prop">Njellim</t>
-     </tg>
-     <tg xml:lang="sme">
-       <t pos="N" type="Prop">Nellim</t>
-     </tg>
-   </mg>
-   <mg>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -3577,8 +4196,31 @@
        <t pos="N" type="Prop">геогр. название</t>
      </tg>
    </mg>
-</e>
-<e>
+   <mg relId="0">
+     <semantics>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Nellim</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Nellim</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="N" type="Prop">Nellim</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N" type="Prop">Неллим</t>
+     </tg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Nellim</t>
+     </tg>
+     <tg xml:lang="smn">
+       <t pos="N" type="Prop">Njellim</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14806"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njeäʹllemjäuʹrr</l>
@@ -3594,13 +4236,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nellimjärvi</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_60" meta="03">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="15042::" stamp="gt_Prop_60:fm_2690:sml_15672"/>
    <rev-sort_key>rrʹuäjǯǯʹejN</rev-sort_key>
    <lg>
@@ -3616,13 +4262,13 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="phon" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Nitsijärvi</t>
@@ -3637,8 +4283,8 @@
        <t pos="N" type="Prop">Нитсиярви</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5083"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuhččjäuʹrr</l>
@@ -3654,13 +4300,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Joutsenjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5084"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuhččnjââvv</l>
@@ -3680,13 +4330,15 @@
        <book name="SKS" page="77"/>
        <book name="KKS" page="296"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Joutsenniva</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5446"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuäʹmmeljäuʹrr</l>
@@ -3702,13 +4354,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jänisjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5449"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuäʹmmelkuõškk</l>
@@ -3725,15 +4381,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jäniskoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5450"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuäʹmmelnjargg</l>
@@ -3749,13 +4407,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jänisniemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5447"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuäʹmmelskäiʹdd</l>
@@ -3771,13 +4433,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jäniskaira</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5451"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuäʹmmelvueiʹvv</l>
@@ -3793,13 +4459,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jänispää</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5452"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuäʹmmelvueiʹvvǩeäʹčč</l>
@@ -3815,13 +4485,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jänispäänhäntä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="15384"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuõʹrttjokk</l>
@@ -3837,13 +4511,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nuortijoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="15386"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuõʹrttjäuʹrr</l>
@@ -3859,13 +4537,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nuortijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="15384"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njuõʹttjokk</l>
@@ -3881,13 +4563,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nuortijoki</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2682">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_2682"/>
    <rev-sort_key>rrʹuäjtˈtʹõujN</rev-sort_key>
    <lg>
@@ -3910,7 +4596,11 @@
        </analysis>
      </mini_paradigm>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -3921,22 +4611,34 @@
        <t pos="N" type="Prop">Nuorttijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="15056"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njââʹvvsijdd</l>
      <stg>
        <st Contlex="PROP_TOP_SIJDD">Njââʹvv#sijdd</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nivankylä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14762"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njäʹhčč</l>
@@ -3952,13 +4654,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nautsi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14763"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njäʹhččjäuʹrr</l>
@@ -3974,13 +4680,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nautsijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14933"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njõlljokk</l>
@@ -3996,13 +4706,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nilijoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14934"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njõlljäuʹrr</l>
@@ -4019,15 +4733,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nilijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14935:14935"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Njõllpõõrt</l>
@@ -4038,36 +4754,18 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nilituvat</t>
        <t pos="N">Nilituvat</t>
      </tg>
    </mg>
-</e>
-<e>
-   <map sml_ids="15370"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Nuorgam</l>
-     <stg>
-       <st Contlex="PROP_TOP_AANAR">Nuorgam</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>Nuorggam</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>Nuorggma</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Nuorgam</t>
-     </tg>
-   </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4758"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Nuõrtimiârr</l>
@@ -4083,13 +4781,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Itämeri</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4761"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Nuõrtiväʹldd</l>
@@ -4105,13 +4807,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Itävalta</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_61" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="gt_Prop_61"/>
    <rev-sort_key>rrʹuäjttʹõuN</rev-sort_key>
    <lg>
@@ -4123,9 +4829,9 @@
      <sources>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Notozero</t>
@@ -4144,9 +4850,9 @@
        <t pos="N" type="Prop">Nuohttejávri</t>
      </tg>
    </mg>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Notozero</t>
@@ -4165,8 +4871,8 @@
        <t pos="N" type="Prop">Nuohttejávri</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Nâânpieʹlljäuʹrr</l>
@@ -4182,13 +4888,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lujapuolijärvi</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2686">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="14617::" stamp="fm_2686:sml_16706"/>
    <rev-sort_key>rrʹuäjŋŋäN</rev-sort_key>
    <lg>
@@ -4212,9 +4922,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -4225,8 +4937,8 @@
        <t pos="N" type="Prop">Nangujärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14618"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Näŋŋvuõnn</l>
@@ -4242,13 +4954,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nanguvuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28544"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ollvääʹrr vääʹrr</l>
@@ -4264,13 +4980,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Villavaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16065"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Opukasjäuʹrr</l>
@@ -4287,20 +5007,24 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Opukasjärvi</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Oulu</l>
    </lg>
-</e>
-<e>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16226"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Outakuõškk</l>
@@ -4316,13 +5040,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Outakoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="26775"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Oʹđđ-Seelant</l>
@@ -4338,13 +5066,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uusi-Seelanti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16663"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Paalǥâs-suâl</l>
@@ -4360,13 +5092,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Palkissaari</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_70" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="gt_Prop_70"/>
    <rev-sort_key>kkojččaaP</rev-sort_key>
    <lg>
@@ -4376,33 +5112,12 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
-     </semantics>
-     <tg xml:lang="eng">
-       <t pos="N" stat="pref" type="Prop">Pasvik</t>
-       <t pos="N" type="Prop">Paatsjoki</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="N" type="Prop">Paatsjoki</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="N" type="Prop">Pasvik</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="N" type="Prop">Пазрека</t>
-     </tg>
-     <tg xml:lang="sme">
-       <t pos="N" type="Prop">Báhcaveadji</t>
-     </tg>
-   </mg>
-   <mg>
-     <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" stat="pref" type="Prop">Pasvikelva</t>
@@ -4421,8 +5136,29 @@
        <t pos="N" type="Prop">Báhčeveaijohka</t>
      </tg>
    </mg>
-</e>
-<e>
+   <mg relId="0">
+     <semantics>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="N" stat="pref" type="Prop">Pasvik</t>
+       <t pos="N" type="Prop">Paatsjoki</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Paatsjoki</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="N" type="Prop">Pasvik</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N" type="Prop">Пазрека</t>
+     </tg>
+     <tg xml:lang="sme">
+       <t pos="N" type="Prop">Báhcaveadji</t>
+     </tg>
+   </mg>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pakanajokk</l>
@@ -4439,15 +5175,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pakanajoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16604"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pakšvuõnn</l>
@@ -4463,13 +5201,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Paksuvuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16659"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Palggsuâl</l>
@@ -4485,13 +5227,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Palkimasaari</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17008"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pauddjäuʹrr</l>
@@ -4507,27 +5253,43 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pautujärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16328"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Paččjasijdd</l>
      <stg>
        <st Contlex="PROP_TOP_SIJDD">Paččja#sijdd</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Paatsjoenkylä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16330"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Paččjokk</l>
@@ -4544,15 +5306,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Paatsjoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16327"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Paččvuõnn</l>
@@ -4568,13 +5332,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Paatsivuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18677"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pellavuõnn</l>
@@ -4590,18 +5358,24 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pummanki</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Petsikkotuõddâr</l>
    </lg>
-</e>
-<e id="gt_Prop_72" meta="04">
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="17405" stamp="gt_Prop_72:fm_2972"/>
    <rev-sort_key>maccäeP</rev-sort_key>
    <lg>
@@ -4625,12 +5399,12 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Petsamo</t>
@@ -4650,25 +5424,35 @@
        <t pos="N" type="Prop">Beahccam</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17407"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Peäccamsijdd</l>
      <stg>
        <st Contlex="PROP_TOP_SIJDD">Peäccam#sijdd</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Petsamonkylä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17408"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Peäccamtuõddâr</l>
@@ -4684,13 +5468,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Petsamotunturi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17409"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Peäccamvuõnn</l>
@@ -4706,13 +5494,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Petsamovuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18677:18677"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Peʹllai</l>
@@ -4723,14 +5515,18 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pummanki</t>
        <t pos="N">Pummanki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Peʹllavuõnn</l>
@@ -4746,13 +5542,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pummankivuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8897"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Peʹlljtuõddâr</l>
@@ -4768,13 +5568,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Korvatunturi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17545"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pieʹccjokk</l>
@@ -4790,13 +5594,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pietsijoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17546"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pieʹccjäuʹrr</l>
@@ -4813,15 +5621,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pietsijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17547"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pieʹccvääʹrr</l>
@@ -4837,13 +5647,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pietsivaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17743"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Piiltâǩjäuʹrr</l>
@@ -4859,13 +5673,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pilttajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25927"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Piõggjäuʹrr</l>
@@ -4881,17 +5699,21 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tuulijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18671"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Polmak</l>
-     <stg><!-- CHECKME -->
+     <stg>
        <st Contlex="PROP_TOP_KOALVAK">Polmak</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
@@ -4903,13 +5725,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pulmanki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18672"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Polmakjäuʹrr</l>
@@ -4925,13 +5751,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pulmankijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18677"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pommaivuõnn</l>
@@ -4942,13 +5772,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pummanki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18831"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Poorjâsnjargg</l>
@@ -4964,13 +5798,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Purjeniemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Porijäuʹrr</l>
@@ -4986,13 +5824,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Porijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18853"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Porjjtaž</l>
@@ -5008,13 +5850,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Purkatunturi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18385"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Portugal</l>
@@ -5030,28 +5876,44 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Portugali</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18436:24180"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Potkklasijdd</l>
      <stg>
        <st Contlex="PROP_TOP_SIJDD">Potkkla#sijdd</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Potklakylä</t>
        <t pos="N">talvikylä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18157"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pueʹnn</l>
@@ -5067,18 +5929,24 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ponoi</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pulʒʒjäuʹrr</l>
    </lg>
-</e>
-<e>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16723"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Puâllamvääʹrr</l>
@@ -5094,13 +5962,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Palovaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="11251"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Puäʹrrevjäuʹrr</l>
@@ -5116,13 +5988,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lauttajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17326"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Puåšš-Tââʹvv</l>
@@ -5138,13 +6014,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Perä-Pohjola</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17322"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Puåššmiârr</l>
@@ -5160,13 +6040,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Perämeri</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17542"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Puõckkvueʹmm</l>
@@ -5182,13 +6066,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pieruvuoma</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Puʹennjokk</l>
@@ -5204,13 +6092,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ponoijoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19032"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pââʹsstuõddâr</l>
@@ -5226,13 +6118,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pyhätunturi</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_58" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="gt_Prop_58"/>
    <rev-sort_key>mâdduajN-jjʹâP</rev-sort_key>
    <lg>
@@ -5242,12 +6138,12 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Upper Neiden</t>
@@ -5265,8 +6161,8 @@
        <t pos="N" type="Prop">Njávdán</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="29549"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pâʹjj-Sääʹmjânnam</l>
@@ -5282,13 +6178,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ylä-Lappi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="30444"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pâʹjj-Tuållâm</l>
@@ -5304,13 +6204,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ylä-Tuuloma</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="4178"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pâʹjj-jäuʹrr</l>
@@ -5326,13 +6230,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Höyhenjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="29548"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pâʹjj-Ǩeeuʹŋes</l>
@@ -5349,15 +6257,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ylä-Köngäs</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16913"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Päärtõk</l>
@@ -5374,15 +6284,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Partakko</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="2408"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pääʹnnjäuʹrr</l>
@@ -5398,13 +6310,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hammasjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="2420"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Pääʹnntuõddâr</l>
@@ -5420,13 +6336,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hammastunturi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19688"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Raajj-Jooʹsep</l>
@@ -5442,13 +6362,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Raja-Jooseppi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19690"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Raajjkuõškk</l>
@@ -5464,13 +6388,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rajakoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Raajjvueiʹvv</l>
@@ -5487,15 +6415,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rajapää</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="30266"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Reissvuõnn</l>
@@ -5511,13 +6441,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Reisivuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="20934"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Rekkjäuʹrr</l>
@@ -5533,13 +6467,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Räkkijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Reäʹmalkuõškk</l>
@@ -5555,13 +6493,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hakokoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="20396"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Risttčuäʹlmm</l>
@@ -5577,13 +6519,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ristisalmi</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_78" meta="08_403">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="20375::" stamp="gt_Prop_78:fm_402:sml_22140"/>
    <rev-sort_key>ddʹeǩttsiR</rev-sort_key>
    <lg>
@@ -5596,7 +6542,8 @@
        <c name="Reader">12</c>
        <c name="Recording">3</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Ристтќеддь</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Ристтќеддь</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>-ǩeeʹdd</wordform>
@@ -5609,9 +6556,9 @@
      <sources>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ristikent</t>
@@ -5629,13 +6576,15 @@
        <t pos="N" type="Prop">Ристикент</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Riuʹǧǧjäuʹrr</l>
    </lg>
-</e>
-<e>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map sml_ids="7501"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Riʹmjj-jokk</l>
@@ -5651,13 +6600,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kettujoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="20488"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Romaania</l>
@@ -5673,13 +6626,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Romania</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="2099"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruânnjânnam</l>
@@ -5695,13 +6652,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Grönlanti</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_79" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="20557::" stamp="gt_Prop_79:fm_3408:sml_22801"/>
    <rev-sort_key>ggrajnvʹäuR</rev-sort_key>
    <lg>
@@ -5725,14 +6686,17 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="dict" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Rovaniemi</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Rovaniemi</t>
      </tg>
@@ -5749,12 +6713,9 @@
      <tg xml:lang="smn">
        <t pos="N" type="Prop">Ruávinjargâ</t>
      </tg>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Rovaniemi</t>
-     </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="20563"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruäʹvv-vuäjj</l>
@@ -5770,13 +6731,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rovioja</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="20562"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruäʹvvjäuʹrr</l>
@@ -5792,13 +6757,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rovijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="20558"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruäʹvvčiõʹlj</l>
@@ -5814,17 +6783,24 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rovaselkä</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_80" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="20724" stamp="gt_Prop_80"/>
    <rev-sort_key>ccõuR</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruõcc</l>
+     <etymology>
+       <etymon algu_lekseemi_id="34684" id="86346" xml_lang="sms">Ruõcˈc</etymon>
+     </etymology>
      <stg>
        <st Contlex="PROP_TOP_RUOCCC" inflexId="::::">Ruõcˈc</st>
      </stg>
@@ -5836,19 +6812,16 @@
            <wordform>Ruõʹcˈce</wordform>
        </analysis>
      </mini_paradigm>
-     <etymology>
-       <etymon xml:lang="sms" algu_lekseemi_id="34684" id="86346">Ruõcˈc</etymon>
-     </etymology>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="KKS" page="459:4"/>
        <book lesson="dict" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Sweden</t>
@@ -5863,8 +6836,8 @@
        <t pos="N" type="Prop">Швеция</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_81" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="27878::" stamp="gt_Prop_81:fm_3417:sml_22610"/>
    <rev-sort_key>mannâjššõuR</rev-sort_key>
    <lg>
@@ -5880,13 +6853,13 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="dict" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Russia</t>
@@ -5901,8 +6874,8 @@
        <t pos="N" type="Prop">Россия</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19972"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruʹvddjäuʹrr</l>
@@ -5918,13 +6891,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruʹvddkurr</l>
@@ -5943,13 +6920,15 @@
      <sources>
        <book name="KKS" page="181"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Routasenkuru</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19993"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruʹvddvuõnn</l>
@@ -5965,13 +6944,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautavuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19990"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruʹvddvääʹrr</l>
@@ -5987,27 +6970,43 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautavaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19991"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruʹvddväʹrrluhtt</l>
      <stg>
-       <st Contlex="PROP_TOP_SIJDD">Ruʹvddväʹrr#luhtt</st>
+       <st Contlex="PROP_TOP_UHSS">Ruʹvddväʹrr#lu%^1VOWhtt</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-luut</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-luʹhtte</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautavaaranlahti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19996"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Räuddjäuʹrr</l>
@@ -6023,13 +7022,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautujärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19997"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Räuddčiõʹlj</l>
@@ -6049,13 +7052,15 @@
        <book name="KKS" page="113"/>
        <book name="SKS" page="661"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautuselkä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21032"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Saallâm</l>
@@ -6071,36 +7076,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saalamo</t>
      </tg>
    </mg>
-</e>
-<e>
-   <map sml_ids="21150"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Sahara</l>
-     <stg>
-       <st Contlex="PROP_TOP_TRUUBA">Sahara</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>=</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>Saharaaʹje</wordform>
-           <wordform>Sahara</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Sahara</t>
-     </tg>
-   </mg>
-</e>
-<e id="gt_Prop_84" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="gt_Prop_84"/>
    <rev-sort_key>mannâjasskaS</rev-sort_key>
    <lg>
@@ -6113,9 +7099,9 @@
        <book lesson="dict" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Germany</t>
@@ -6130,8 +7116,8 @@
        <t pos="N" type="Prop">Германия</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21212"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Saksslajânnam</l>
@@ -6147,13 +7133,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saksa</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21310"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Sammutjäuʹrr</l>
@@ -6169,13 +7159,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sammuttijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="1920"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Saujj-Äʹmmrikk</l>
@@ -6191,13 +7185,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Etelä-Amerikka</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="1921"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Saujjnääʹpp</l>
@@ -6213,13 +7211,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Etelänapa</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="10918"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Sauʒʒsuâl</l>
@@ -6235,13 +7237,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lammassaari</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21722"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Seäʹlǧǧjäuʹrr</l>
@@ -6257,13 +7263,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Selkäjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="22062"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Silisjokk</l>
@@ -6280,15 +7290,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Silisjoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="22063"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Silisvääʹrr</l>
@@ -6304,13 +7316,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Silisvaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="22198"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Siʹbirja</l>
@@ -6327,15 +7343,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Siperia</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="22396"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Skandinavia</l>
@@ -6351,13 +7369,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Skandinavia</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Solmusjäuʹrr</l>
@@ -6373,13 +7395,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Solmusjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="27487"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Spasiteʹlpääutaž</l>
@@ -6395,13 +7421,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vapahtajanpahta</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8439"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Sueʹǩǩvääʹrr</l>
@@ -6417,13 +7447,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Koivuvaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="22954"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Sundijäuʹrr</l>
@@ -6440,15 +7474,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sundeejärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21073"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Suâljäuʹrr</l>
@@ -6464,13 +7500,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saarijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21074"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Suâlkuõškk</l>
@@ -6486,13 +7526,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saarikoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="30289"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Suâlčiõʹlj</l>
@@ -6509,15 +7553,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saariselkä</t>
      </tg>
    </mg>
-</e>
-<e id="fm_3741">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_3741"/>
    <rev-sort_key>lejdʹäuS</rev-sort_key>
    <lg>
@@ -6532,7 +7578,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Sodankylä</t>
      </tg>
@@ -6549,8 +7599,8 @@
        <t pos="N" type="Prop">Соданкюла</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="2608"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Suäʹvveljäuʹrr</l>
@@ -6566,13 +7616,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Harrijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="22406"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Suäʹđjel</l>
@@ -6589,15 +7643,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sodankylä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21590"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Suõvvkuõškk</l>
@@ -6614,15 +7670,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Savukoski</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="5297"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Suõʹbddinjargg</l>
@@ -6638,13 +7696,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Juurakkoniemi</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_89" meta="08_3909">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="gt_Prop_89:fm_3908"/>
    <rev-sort_key>lejʼnnʹõuS</rev-sort_key>
    <lg>
@@ -6658,7 +7720,8 @@
        <c name="Reader">13</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Суәнˈньʼе~Суэнˈньʼел</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Суәнˈньʼе~Суэнˈньʼел</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="N_Pl_Nom">=
        </analysis>
@@ -6667,12 +7730,12 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3909" quality="1" speaker="13"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Suonikylä</t>
@@ -6694,25 +7757,35 @@
        <t pos="N" type="Prop">Suonjil</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="23048"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Suõʹnnʼjelsijdd</l>
      <stg>
        <st Contlex="PROP_TOP_SIJDD">Suõʹnnʼjel#sijdd</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Suonikylä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="3580"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Svaalbaard</l>
@@ -6728,13 +7801,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Huippuvuoret</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="23312"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Sveiccjânnam</l>
@@ -6750,13 +7827,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sveitsi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="14201"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Sââʹrrvääʹrr</l>
@@ -6772,27 +7853,43 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Mustikkavaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="3384"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Sââʹrves-sijdd</l>
      <stg>
        <st Contlex="PROP_TOP_SIJDD">Sââʹrves#sijdd</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hirvaskylä</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_90" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="3383::" stamp="gt_Prop_90:sml_23416"/>
    <rev-sort_key>rrʹuäjsevrʹââS</rev-sort_key>
    <lg>
@@ -6812,9 +7909,9 @@
      <sources>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Girvasozero</t>
@@ -6832,9 +7929,9 @@
        <t pos="N" type="Prop">Sárvesjávri</t>
      </tg>
    </mg>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Girvasozero</t>
@@ -6852,8 +7949,8 @@
        <t pos="N" type="Prop">Sárvesjávri</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21557"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Säuʹnnredd</l>
@@ -6869,13 +7966,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saunaranta</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2370">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="11015::" stamp="fm_2370:sml_25994"/>
    <rev-sort_key>mannâjmʹääS</rev-sort_key>
    <lg>
@@ -6899,9 +8000,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Lappland</t>
      </tg>
@@ -6920,13 +8023,8 @@
        <t pos="N" type="Prop">Лапландия</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Sääʹmpõrtt</l>
-   </lg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Taalmaisuâl</l>
@@ -6942,17 +8040,24 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N" sci="(Kjelmøya)">Taalmainsaari</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2755">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="15154::" stamp="fm_2755:sml_26953"/>
    <rev-sort_key>rraaT</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Taarr</l>
+     <etymology>
+       <etymon algu_lekseemi_id="75580" id="219402" xml_lang="sms">Taarr</etymon>
+     </etymology>
      <stg>
        <st Contlex="PROP_TOP_PAARR" inflexId="::::1.111">Taarr</st>
      </stg>
@@ -6970,13 +8075,14 @@
            <wordform>Taʹrre</wordform>
        </analysis>
      </mini_paradigm>
-<etymology> <etymon xml:lang="sms" algu_lekseemi_id="75580" id="219402">Taarr</etymon> </etymology>
    </lg>
      <sources>
-<book name="KKS" page="573:3"/>
-       <src type="db" name="AKU"/>
+       <book name="KKS" page="573:3"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Norwegen</t>
      </tg>
@@ -6993,8 +8099,8 @@
        <t pos="N" type="Prop">Норвегия</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_93" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="gt_Prop_93"/>
    <rev-sort_key>mannâjrraaT</rev-sort_key>
    <lg>
@@ -7004,13 +8110,13 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="2" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Norway</t>
@@ -7025,30 +8131,8 @@
        <t pos="N" type="Prop">Новрегия</t>
      </tg>
    </mg>
-</e>
-<e>
-   <map sml_ids="24648"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Teänjokk</l>
-     <stg>
-       <st Contlex="PROP_TOP_KUSS">Teän#jo%^1VOWkk</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>-jooǥǥ</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>-joʹǩǩe</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Tenojoki</t>
-     </tg>
-   </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="24661"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Teäppankueʹttjäuʹrr</l>
@@ -7064,27 +8148,43 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Teppanankotajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25304"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Treeffansijdd</l>
      <stg>
        <st Contlex="PROP_TOP_SIJDD">Treeffan#sijdd</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Trifona</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21212"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tuiʹskkjânnam</l>
@@ -7100,13 +8200,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saksa</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25784"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Turkkjânnam</l>
@@ -7122,13 +8226,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Turkki</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_100" meta="08_6148">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="gt_Prop_100:fm_6146"/>
    <rev-sort_key>kkojmalläuT</rev-sort_key>
    <lg>
@@ -7141,14 +8249,15 @@
        <c name="Reader">14</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Tуӕлˈлaм-ёкк</translit_cyr> <audio> <a dialect="xxx" href="languagememory6148" quality="1" speaker="14"/> </audio>
+     </inc-audio>
+       <translit_cyr>Tуӕлˈлaм-ёкк</translit_cyr> <audio> <a dialect="xxx" href="languagememory6148" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Tuloma</t>
@@ -7166,8 +8275,8 @@
        <t pos="N" type="Prop">Тулома</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25937"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tuållâm</l>
@@ -7183,13 +8292,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tuuloma</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25938"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tuållâmjokk</l>
@@ -7205,27 +8318,43 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tuulomajoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25939"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tuållâmsijdd</l>
      <stg>
        <st Contlex="PROP_TOP_SIJDD">Tuållâm#sijdd</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tuulomankylä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19158"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tuõlbbluubbâl</l>
@@ -7241,13 +8370,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pyöreälompolo</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19159"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tuõlbbsââv</l>
@@ -7267,13 +8400,15 @@
        <book name="KKS" page="479"/>
        <book name="SKS" page="121"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pyöreäsuvanto</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_1" meta="04">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="25773::" stamp="gt_Prop_1:sml_27114"/>
    <rev-sort_key>jjrʹâT</rev-sort_key>
    <lg>
@@ -7290,9 +8425,11 @@
        </analysis>
      </mini_paradigm>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Turja</t>
@@ -7301,8 +8438,8 @@
        <t pos="N" type="Prop">Терский берег</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17993"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tâʹvv-Lääʹddjânnam</l>
@@ -7319,15 +8456,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjois-Suomi</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2753">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_2753"/>
    <rev-sort_key>ddʹäL-vvʹâT</rev-sort_key>
    <lg>
@@ -7342,7 +8481,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Nord-Finnland</t>
      </tg>
@@ -7359,8 +8502,8 @@
        <t pos="N" type="Prop">северная финляндия</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17984"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tâʹvv-Äʹmmrik</l>
@@ -7376,13 +8519,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjois-Amerikka</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17985:17997"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tâʹvvjânnam</l>
@@ -7394,16 +8541,18 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjoismaat</t>
        <t pos="N">Pohjola</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17986"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Tâʹvvnääʹpp</l>
@@ -7419,13 +8568,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjoisnapa</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_102" meta="01">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="26725::" stamp="gt_Prop_102:fm_300:fm_6529:sml_29568"/>
    <rev-sort_key>kkojccU</rev-sort_key>
    <lg>
@@ -7449,12 +8602,12 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Utsjoki</t>
@@ -7472,9 +8625,9 @@
        <t pos="N" type="Prop">Ohcejohka</t>
      </tg>
    </mg>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Utsjoki</t>
@@ -7492,8 +8645,8 @@
        <t pos="N" type="Prop">Ohcejohka</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="3235"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Umpdeǩ</l>
@@ -7509,13 +8662,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hiipinä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Urrjokk</l>
@@ -7531,13 +8688,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uurajoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Urrjäuʹrr</l>
@@ -7553,13 +8714,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uurajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Urrvuõnn</l>
@@ -7575,13 +8740,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uuravuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="26788"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Uuddjokk</l>
@@ -7597,13 +8766,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uutuanjoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="26586"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Uŋŋar</l>
@@ -7619,13 +8792,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Unkari</t>
      </tg>
    </mg>
-</e>
-<e id="fm_263">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_263"/>
    <rev-sort_key>macˈcäeP-ccʹU</rev-sort_key>
    <lg>
@@ -7640,7 +8817,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -7657,15 +8838,19 @@
        <t pos="N" type="Prop">???</t>
      </tg>
    </mg>
-</e>
-<e order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Uʹccjokk</l>
      <stg>
        <st Contlex="PROP_TOP_KUSS">Uʹcc#jo%^1VOWkk</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Utsjoki</t>
      </tg>
@@ -7673,8 +8858,8 @@
        <t pos="N">Ohcejohka</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vainosjäuʹrr</l>
@@ -7682,13 +8867,17 @@
        <st Contlex="PROP_TOP_JAUQRR">Vainos#jä%^1VOWurr</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vainosjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="27519"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Varjjel</l>
@@ -7704,13 +8893,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Varanki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="27518"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Varjjelvuõnn</l>
@@ -7726,13 +8919,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Varanginvuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28845"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vaǥǥatemjäuʹrr</l>
@@ -7748,13 +8945,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vouvatusjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="26894"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vaʹsseljäuʹrr</l>
@@ -7770,13 +8971,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vaasseljärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="26895"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vaʹsselvääʹrr</l>
@@ -7792,13 +8997,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vaasselvaara</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="27646"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Veäʹsǩǩviõrr</l>
@@ -7814,13 +9023,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vaskiharju</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2689">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="28682::" stamp="fm_2689:sml_30359"/>
    <rev-sort_key>ggrajnddrʹeV</rev-sort_key>
    <lg>
@@ -7843,7 +9056,11 @@
        </analysis>
      </mini_paradigm>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -7854,8 +9071,8 @@
        <t pos="N" type="Prop">Virtaniemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28683"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Veʹrddčuäʹlmm</l>
@@ -7871,13 +9088,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Virtasalmi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28159"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Viõʹlǧǧesmiârr</l>
@@ -7894,15 +9115,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vienanmeri</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="19347"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vueiʹvvkäällpäiʹǩǩ</l>
@@ -7918,13 +9141,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pääkallopaikka</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28909"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vueʹrjem</l>
@@ -7940,13 +9167,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuoremi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28846"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vueʹrnsjäuʹrr</l>
@@ -7962,13 +9193,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuernisjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="144"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuâskjäuʹrr</l>
@@ -7985,15 +9220,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ahvenjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="145"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuâskčiõʹlj</l>
@@ -8009,27 +9246,43 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ahvenselkä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17966"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuâđđluhtt</l>
      <stg>
-       <st Contlex="PROP_TOP_SIJDD">Vuâđđluhtt</st>
+       <st Contlex="PROP_TOP_">Vuâđđluhtt</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-luut</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-luʹhtte</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjanlahti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17968"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuâđđmiârr</l>
@@ -8045,13 +9298,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjanmeri</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="17967"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuâđđmädd</l>
@@ -8067,13 +9324,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjanmaa</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16005"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuåmârjäuʹrr</l>
@@ -8089,13 +9350,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Onttopuujärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8842"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuåššjäuʹrr</l>
@@ -8111,13 +9376,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kortejärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28981"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuõccu</l>
@@ -8133,13 +9402,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuotso</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="3190"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuõddâsjokk</l>
@@ -8155,13 +9428,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hietajoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28903"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuõddâsjäuʹrr</l>
@@ -8177,13 +9454,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuontisjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28904"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuõddâsluubbâl</l>
@@ -8199,13 +9480,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuontislompolo</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="3192"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuõddâsvuäjj</l>
@@ -8221,13 +9506,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hietaoja</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28901"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vuõnnjäuʹrr</l>
@@ -8243,13 +9532,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuonnijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="28908"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vâârǥ</l>
@@ -8258,7 +9551,7 @@
      <mini_paradigm exclude="NDS">
        <analysis ms="Pl_Gen">
            <wordform>Vâârǥi</wordform>
-       </analysis> <!-- What is Ess Vârggan? -->
+       </analysis>
        <analysis ms="Pl_Ill">
            <wordform>Vâârǥid</wordform>
        </analysis>
@@ -8268,13 +9561,15 @@
      <sources>
        <book name="KKS" page="1033"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuoreija</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="22644"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Väinnjokk</l>
@@ -8290,13 +9585,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sotajoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="26309:27157"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Vääʹlesjäuʹrr</l>
@@ -8312,14 +9611,18 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Töllevijärvi</t>
        <t pos="N">Valasjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="29264"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Väʹvll</l>
@@ -8338,18 +9641,22 @@
      <sources>
        <book name="KKS" page="726"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Väylä</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Väʹččer</l>
    </lg>
-</e>
-<e>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map sml_ids="29260"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Väʹččär</l>
@@ -8365,13 +9672,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vätsäri</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="20778"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">tâppjum-Lääʹddjânnam</l>
@@ -8387,13 +9698,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">ruuhka-Suomi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="27082"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Âiʹddvuõnn</l>
@@ -8409,13 +9724,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vaitolahti</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="18004"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ââlǥažjäuʹrr</l>
@@ -8432,15 +9751,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Poikasjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="12800"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Âʹldd-Nuõrti</l>
@@ -8456,13 +9777,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lähi-Itä</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_115" meta="08_370">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="4767::" stamp="gt_Prop_115:fm_369:fm_6174:sml_822"/>
    <rev-sort_key>levvʹÂ</rev-sort_key>
    <lg>
@@ -8475,7 +9800,8 @@
        <c name="Reader">17</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>А̂ввел</translit_cyr>
+     </inc-audio>
+       <translit_cyr>А̂ввел</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>=</wordform>
@@ -8486,13 +9812,13 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory370" quality="1" speaker="17"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="phon" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ivalo</t>
@@ -8513,8 +9839,8 @@
        <t pos="N" type="Prop">Avvil</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Âʹvver</l>
@@ -8530,13 +9856,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Imandra</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Âʹvverjäuʹrr</l>
@@ -8552,13 +9882,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Imandrajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="2856:2856"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Äinisuõllu</l>
@@ -8569,14 +9903,18 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Heinäsaaret</t>
        <t pos="N">Heinäsaaret</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="2704"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Äuʹddsuâl</l>
@@ -8592,13 +9930,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hautasaari</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="29779"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Äälisjäuʹrr</l>
@@ -8614,13 +9956,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Äälisjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="1220"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ääuʹljäuʹrr</l>
@@ -8636,13 +9982,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Avlijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="702"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Äʹnn-njargg</l>
@@ -8658,27 +10008,43 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Anniniemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="391"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Äʹǩǩelsijdd</l>
      <stg>
        <st Contlex="PROP_TOP_SIJDD">Äʹǩǩel#sijdd</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Akkalankylä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="16091"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Åʹrddvääʹrr</l>
@@ -8694,18 +10060,24 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ortavaara</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
+</e> 
+<e id="None" meta="">
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Õužžjäuʹrr</l>
    </lg>
-</e>
-<e>
+     <sources>
+     </sources>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25310"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čarmmjäuʹrr</l>
@@ -8721,13 +10093,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsarmijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čarmmtuõddâr</l>
@@ -8743,13 +10119,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsarmitunturi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="6866"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čeäppatvuäivaž</l>
@@ -8765,13 +10145,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaulatunturi</t>
      </tg>
    </mg>
-</e>
-<e id="gt_Prop_122" meta="03">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="21870::" stamp="gt_Prop_122:sml_1746"/>
    <rev-sort_key>rrʹuäjtevʹeČ</rev-sort_key>
    <lg>
@@ -8789,14 +10173,14 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="1" name="kurss"/>
        <book name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Sevettijärvi</t>
@@ -8811,8 +10195,8 @@
        <t pos="N" type="Prop">Севеттиярви</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25311"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čiuttajokk</l>
@@ -8829,15 +10213,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsiuttajoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="23496"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čiŋŋlõs-Maaŋŋijäuʹrr</l>
@@ -8853,13 +10239,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Syvä-Siikajärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="23492"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čiŋŋlõsluubbâl</l>
@@ -8875,13 +10265,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Syvälompolo</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25312"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čokkisjäuʹrr</l>
@@ -8897,13 +10291,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsokkisjärvi</t>
      </tg>
    </mg>
-</e>
-<e id="fm_412">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="" stamp="fm_412"/>
    <rev-sort_key>lâuskkoč</rev-sort_key>
    <lg>
@@ -8918,7 +10316,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">? Juppurasaari</t>
      </tg>
@@ -8935,8 +10337,8 @@
        <t pos="N" type="Prop">?</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="23014"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čueʹlsjäuʹrr</l>
@@ -8953,15 +10355,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Suolisjärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="23016"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čueʹlsvuõnn</l>
@@ -8978,15 +10382,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Suolisvuono</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids=""/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čueʹttpieʹccnjargg</l>
@@ -9002,13 +10408,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Satapetäjäniemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="13651"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čuhččjäuʹrr</l>
@@ -9024,13 +10434,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Metsojärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="25313"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čurnnjäuʹrr</l>
@@ -9046,13 +10460,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsurnujärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="3827"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čuârvvjäuʹrr</l>
@@ -9068,13 +10486,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Huutojärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21253"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čuäʹlmm</l>
@@ -9090,13 +10512,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Salmi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21254"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čuäʹlmmjäuʹrr</l>
@@ -9113,15 +10539,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Salmijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="9484"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čuʹlpptuõddâr</l>
@@ -9137,13 +10565,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kumputunturi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="853"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čuʹǩǩsuâl</l>
@@ -9159,13 +10591,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Arkkusaari</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="23516"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čõhččjokk</l>
@@ -9181,13 +10617,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Syysjoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="23522"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Čõhččmädd</l>
@@ -9203,13 +10643,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Syysmaa</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="21954"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Šapššjäuʹrr</l>
@@ -9225,13 +10669,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Siikajärvi</t>
      </tg>
    </mg>
-</e>
-<e id="fm_2683">
+</e> 
+<e id="None" meta="">
    <map fin_lemma_id="4152::" stamp="fm_2683:sml_26776"/>
    <rev-sort_key>ddjisttʹuuŠ</rev-sort_key>
    <lg>
@@ -9245,8 +10693,20 @@
        <c name="Recording">1</c>
        <c name="included">yes</c>
      </inc-audio>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-siid</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-siʹjdde</wordform>
+       </analysis>
+     </mini_paradigm>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -9257,8 +10717,8 @@
        <t pos="N" type="Prop">Hölmölä, hölmölänkylä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8586"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩeeuʹŋes</l>
@@ -9275,15 +10735,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kolttaköngäs</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="7206"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩeeʹmm</l>
@@ -9294,13 +10756,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="7207"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩeeʹmmjokk</l>
@@ -9316,13 +10782,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kemijoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="7208"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩeeʹmmjäuʹrr</l>
@@ -9339,15 +10809,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kemijärvi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="7332"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩeeʹrv-vuõnn</l>
@@ -9363,13 +10835,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kervanto</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8118"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩeârkknjargg</l>
@@ -9385,13 +10861,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kirkkoniemi</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="8270"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩeäʹdǧǧčiõʹlj</l>
@@ -9407,13 +10887,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kiviselkä</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="7687"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩieʹrdamjokk</l>
@@ -9429,13 +10913,17 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kiertämöjoki</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="7764:7764"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩiina</l>
@@ -9447,15 +10935,17 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kiina</t>
      </tg>
    </mg>
-</e>
-<e>
+</e> 
+<e id="None" meta="">
    <map sml_ids="10409"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ǩiõttmaadd</l>
@@ -9471,50 +10961,14 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Käsivarsi</t>
      </tg>
    </mg>
 </e>
-<e src="jmr_2015-11-10">
-   <lg>
-     <l pos="PROP">Pâjj-Sääʹmjânnam</l>
-     <stg>
-       <st Contlex="PROP_AANAR">Pâjj-#Sääʹm#jânnam</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="PROP">Ylä-Lappi</t>
-     </tg>
-   </mg>
-</e>
-<e src="jmr_2015-11-10">
-   <lg>
-     <l pos="PROP">Tuõddâr-Sääʹmjânnam</l>
-     <stg>
-       <st Contlex="PROP_AANAR">Tuõddâr-#Sääʹmjânnam</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="PROP">Tunturi-Lappi</t>
-     </tg>
-   </mg>
-</e>
-<e src="jmr_2015-11-10">
-   <lg>
-     <l pos="PROP">Tâʹvv-Sääʹmjânnam</l>
-     <stg>
-       <st Contlex="PROP_AANAR">Tâʹvv-#Sääʹm#jânnam</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="PROP">Pohjois-Lappi</t>
-       <t pos="PROP">Ylä-Lappi</t>
-     </tg>
-   </mg>
-</e>
-</r> 
+</r>
