@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="sms">
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="sms">
 <e id="gt_Prop_3" meta="08_369">
    <map fin_lemma_id="4457::" stamp="gt_Prop_3:fm_368:fm_6182:sml_61"/>
    <rev-sort_key>ranaA</rev-sort_key>
@@ -12,7 +12,8 @@
        <c name="Reader">1</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Аaнaр</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Аaнaр</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>Aanar</wordform>
@@ -23,31 +24,31 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory369" quality="1" speaker="1"/> <a dialect="muo" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111210_ZMN.wav" speaker="ZMN"/> <a dialect="peä" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav" speaker="KJ"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book lesson="phon" name="kurss"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src lesson="phon" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="N" type="Prop" re="Dorf">Inari</t>
+       <t pos="N" type="Prop">Inari</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="N" type="Prop" re="village">Inari</t>
+       <t pos="N" type="Prop">Inari</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="N" type="Prop" re="kylä">Inari</t>
+       <t pos="N" type="Prop">Inari</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="N" type="Prop" re="landsby">Enare</t>
+       <t pos="N" type="Prop">Enare</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="N" type="Prop" re="посёлок">Инари</t>
+       <t pos="N" type="Prop">Инари</t>
      </tg>
      <tg xml:lang="sme">
-       <t pos="N" type="Prop" re="siida">Anár</t>
+       <t pos="N" type="Prop">Anár</t>
      </tg>
    </mg>
 </e>
@@ -68,9 +69,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Inarinjärvi</t>
      </tg>
@@ -92,7 +95,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Arkangeli</t>
      </tg>
@@ -102,16 +109,45 @@
    <map sml_ids="576:576"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Aaʹlp</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="PROP_TOP_KAQLBB-PL">A%^1VOWlpp</st>
      <mini_paradigm exclude="NDS">
-       <analysis/>
      </mini_paradigm>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">the Alps</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="N">Alpit</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <map sml_ids="86"/>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Afrikk</l>
+     <stg>
+       <st Contlex="PROP_PAPP">Afri%^1VOWkk</st>
+       <st Contlex="PROP_TOP_ATOM">Aʹffri%^1VOWk</st>
+     </stg>
+   </lg>
+     <sources>
+       <src name="ǩk" type="db"/>
+       <src name="sjm" type="db"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">Afrikka</t>
      </tg>
    </mg>
 </e>
@@ -132,9 +168,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ailijoki</t>
      </tg>
@@ -156,7 +194,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ailijärvi</t>
      </tg>
@@ -179,9 +221,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Akujärvi</t>
      </tg>
@@ -203,7 +247,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Alaska</t>
      </tg>
@@ -225,9 +273,32 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Alattio</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <map sml_ids="622"/>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Amerikk</l>
+     <stg>
+       <st Contlex="PROP_PAPP">Ameri%^1VOWkk</st>
+       <st Contlex="PROP_PAPP">Aʹmmri%^1VOWkk</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">Amerikka</t>
      </tg>
    </mg>
 </e>
@@ -247,72 +318,15 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Atlantti</t>
      </tg>
    </mg>
-</e>
-<e>
-   <map sml_ids="685"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Aŋŋel</l>
-     <stg>
-       <st Contlex="PROP_TOP_AANAR">Aŋŋel</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>Aŋŋeeʹl</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>Aŋŋla</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Angeli</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="86"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Afrikk</l>
-     <stg>
-       <st Contlex="PROP_PAPP">Afri%^1VOWkk</st>
-       <st Contlex="PROP_TOP_ATOM">Aʹffri%^1VOWk</st>
-     </stg>
-   </lg>
-     <sources>
-       <src type="db" name="ǩk"/>
-       <src type="db" name="sjm"/>
-     </sources>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Afrikka</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="622"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Amerikk</l>
-     <stg>
-       <st Contlex="PROP_PAPP">Ameri%^1VOWkk</st>
-       <st Contlex="PROP_PAPP">Aʹmmri%^1VOWkk</st>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Amerikka</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Aʹrttjäuʹrr</l>
-   </lg>
 </e>
 <e>
    <map sml_ids="1252"/>
@@ -322,7 +336,11 @@
        <st Contlex="PROP_TOP_SIJDD">Baffin#luhtt</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Baffininlahti</t>
      </tg>
@@ -344,7 +362,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Parkkina</t>
      </tg>
@@ -366,7 +388,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jyrkkäkoski</t>
      </tg>
@@ -388,7 +414,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tanska</t>
      </tg>
@@ -410,7 +440,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Espanja</t>
      </tg>
@@ -432,7 +466,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Euroopan Unioni</t>
      </tg>
@@ -454,7 +492,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Eurooppa</t>
      </tg>
@@ -470,12 +512,12 @@
      </stg>
    </lg>
      <sources>
-       <book lesson="dict" name="kurss"/>
-       <book name="prop"/>
+       <src lesson="dict" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">England</t>
@@ -507,7 +549,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Englanti</t>
      </tg>
@@ -528,7 +574,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">England</t>
      </tg>
@@ -563,9 +613,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ranska</t>
      </tg>
@@ -587,7 +639,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Golgata</t>
      </tg>
@@ -609,7 +665,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kreikka</t>
      </tg>
@@ -631,7 +691,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hevoskoski</t>
      </tg>
@@ -653,7 +717,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hevossaari</t>
      </tg>
@@ -672,7 +740,8 @@
        <c name="Reader">5</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Хэльссэн</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Хэльссэн</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>=</wordform>
@@ -683,12 +752,12 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory380" quality="1" speaker="5"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Helsinki</t>
@@ -724,7 +793,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Iisakkijärvi</t>
      </tg>
@@ -742,9 +815,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Intia</t>
      </tg>
@@ -766,7 +841,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Irlanti</t>
      </tg>
@@ -788,7 +867,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Islanti</t>
      </tg>
@@ -810,7 +893,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Israel</t>
      </tg>
@@ -832,53 +919,13 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Italia</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="4873"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Jaappan</l>
-     <stg>
-       <st Contlex="PROP_TOP_AANAR">Jaappan</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>=</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>Jaappna</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Japani</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="4921"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Jäuʹrrjokk</l>
-     <stg>
-       <st Contlex="PROP_TOP_KUSS">Jäuʹrr#jo%^1VOWkk</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>-jooǥǥ</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>-joʹǩǩe</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Jaurujoki</t>
      </tg>
    </mg>
 </e>
@@ -898,7 +945,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jäkäläsaari</t>
      </tg>
@@ -920,7 +971,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jäkäläpää</t>
      </tg>
@@ -942,7 +997,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nurmensätti</t>
      </tg>
@@ -964,7 +1023,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jääjärvi</t>
      </tg>
@@ -994,9 +1057,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Eismeer</t>
      </tg>
@@ -1030,7 +1095,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Joulutunturi</t>
      </tg>
@@ -1052,7 +1121,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Joensuu</t>
      </tg>
@@ -1074,7 +1147,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jokangajoki</t>
      </tg>
@@ -1096,7 +1173,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Juomusniemi</t>
      </tg>
@@ -1118,9 +1199,39 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Juonnijoki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <map sml_ids="4921"/>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Jäuʹrrjokk</l>
+     <stg>
+       <st Contlex="PROP_TOP_KUSS">Jäuʹrr#jo%^1VOWkk</st>
+     <mini_paradigm exclude="NDS">
+       <analysis ms="Sg_Gen">
+           <wordform>-jooǥǥ</wordform>
+       </analysis>
+       <analysis ms="Sg_Ill">
+           <wordform>-joʹǩǩe</wordform>
+       </analysis>
+     </mini_paradigm>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">Jaurujoki</t>
      </tg>
    </mg>
 </e>
@@ -1140,7 +1251,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Iso Harrijärvi</t>
      </tg>
@@ -1162,7 +1277,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Iso-Britannia</t>
      </tg>
@@ -1184,7 +1303,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Isolompolo</t>
      </tg>
@@ -1206,16 +1329,15 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Isokivijärvi</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Jõnnǩeäʹdǧǧtuõddâr</l>
-   </lg>
 </e>
 <e>
    <map sml_ids="5820"/>
@@ -1233,7 +1355,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kahluusalmi</t>
      </tg>
@@ -1255,7 +1381,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaamanen</t>
      </tg>
@@ -1277,7 +1407,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Katriinajärvi</t>
      </tg>
@@ -1299,7 +1433,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaarttilopmpolo</t>
      </tg>
@@ -1321,7 +1459,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Karasjoki</t>
      </tg>
@@ -1343,7 +1485,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Karekkijärvi</t>
      </tg>
@@ -1365,7 +1511,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Karigasniemi</t>
      </tg>
@@ -1376,18 +1526,19 @@
    <rev-sort_key>lejjrʹaK</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Kaʹrjjel</l>
-     <variants>
-       <l_var>Käʹrjjel</l_var>
-     </variants>
      <stg>
        <st Contlex="PROP_TOP_AANAR" inflexId="::::1.2">Kaʹrjjel</st>
      </stg>
+       <translit_cyr>Кaрьййел</translit_cyr>
+     <etymology>
+       <etymon algu_lekseemi_id="68461" id="191743" xml_lang="sms">Kaʹrjjel</etymon>
+     </etymology>
      <inc-audio>
        <c name="ID_Audio">381</c>
        <c name="Reader">7</c>
        <c name="Recording">9</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Кaрьййел</translit_cyr>
+     </inc-audio>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>=</wordform>
@@ -1396,16 +1547,18 @@
            <wordform>Kaʹrjjla</wordform>
            <wordform>??Karjjla</wordform>
        </analysis>
-     </mini_paradigm> <audio> <a dialect="xxx" href="languagememory381" quality="9" speaker="7"/> </audio>
-<etymology> <etymon xml:lang="sms" algu_lekseemi_id="68461" id="191743">Kaʹrjjel</etymon> </etymology>
+     </mini_paradigm>
+     <variants>
+       <l_var>Käʹrjjel</l_var>
+     </variants> <audio> <a dialect="xxx" href="languagememory381" quality="9" speaker="7"/> </audio>
    </lg>
      <sources>
-<book name="KKS" page="91:3"/>
-       <book name="prop"/>
+       <src name="KKS" page="91:3"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Karelien</t>
@@ -1441,9 +1594,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Keväjärvi</t>
      </tg>
@@ -1464,7 +1619,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Kirkenes</t>
      </tg>
@@ -1484,7 +1643,11 @@
        <st Contlex="PROP_TOP_SIJDD">Keäʹpper#luhtt</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lakkilahti</t>
      </tg>
@@ -1507,9 +1670,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kittilä</t>
      </tg>
@@ -1532,9 +1697,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kirakkajärvi</t>
      </tg>
@@ -1556,7 +1723,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kalastajasaarento</t>
      </tg>
@@ -1578,7 +1749,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Konnospää</t>
      </tg>
@@ -1600,7 +1775,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kolosjoki</t>
      </tg>
@@ -1622,7 +1801,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kolosjärvi</t>
      </tg>
@@ -1644,7 +1827,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kornettijoki</t>
      </tg>
@@ -1666,7 +1853,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kornettijärvi</t>
      </tg>
@@ -1688,16 +1879,15 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kornettivaara</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Koʹlmisjäuʹrr</l>
-   </lg>
 </e>
 <e>
    <map sml_ids="6040"/>
@@ -1715,7 +1905,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kalatonjärvi</t>
      </tg>
@@ -1737,7 +1931,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tyynimeri</t>
      </tg>
@@ -1759,7 +1957,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kotajoki</t>
      </tg>
@@ -1781,7 +1983,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kotaselkä</t>
      </tg>
@@ -1803,7 +2009,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kotalompolo</t>
      </tg>
@@ -1817,7 +2027,11 @@
        <st Contlex="PROP_TOP_SIJDD">Kueʹšˈš#luhtt</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rovelahti</t>
      </tg>
@@ -1839,7 +2053,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kuosnajoki</t>
      </tg>
@@ -1857,7 +2075,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kuttura</t>
      </tg>
@@ -1887,9 +2109,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop"/>
      </tg>
@@ -1917,7 +2141,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kärventämäjärvi</t>
      </tg>
@@ -1939,7 +2167,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Koppelo</t>
      </tg>
@@ -1961,7 +2193,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Koskikaltiojoki</t>
      </tg>
@@ -1983,7 +2219,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Koskikaltiojärvi</t>
      </tg>
@@ -2005,7 +2245,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pitkäjärvi</t>
      </tg>
@@ -2027,9 +2271,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Name eines Ortes</t>
      </tg>
@@ -2063,7 +2309,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kallojoki</t>
      </tg>
@@ -2085,7 +2335,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kallojärvi</t>
      </tg>
@@ -2107,7 +2361,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kallokoski</t>
      </tg>
@@ -2129,16 +2387,15 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kallopää</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Kättjäuʹrr</l>
-   </lg>
 </e>
 <e>
    <map sml_ids="8835"/>
@@ -2156,7 +2413,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Korppipahta</t>
      </tg>
@@ -2180,7 +2441,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Karelien</t>
      </tg>
@@ -2214,7 +2479,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kumosarvi</t>
      </tg>
@@ -2236,7 +2505,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kutujärvi</t>
      </tg>
@@ -2258,7 +2531,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kuiva-Rautajärvi</t>
      </tg>
@@ -2280,7 +2557,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Peurahaara</t>
      </tg>
@@ -2302,7 +2583,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaskamojärvi</t>
      </tg>
@@ -2324,7 +2609,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaskamotunturi</t>
      </tg>
@@ -2346,7 +2635,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Välimeri</t>
      </tg>
@@ -2368,7 +2661,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Laulujärvi</t>
      </tg>
@@ -2390,7 +2687,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Laukkujärvi</t>
      </tg>
@@ -2412,7 +2713,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Laukkupää</t>
      </tg>
@@ -2434,7 +2739,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Leijärvi</t>
      </tg>
@@ -2456,7 +2765,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lemmenjoki</t>
      </tg>
@@ -2478,7 +2791,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lapasarvi</t>
      </tg>
@@ -2501,9 +2818,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Luolajärvi</t>
      </tg>
@@ -2522,7 +2841,8 @@
        <c name="Reader">8</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Лӯйӕуррь</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Лӯйӕуррь</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>-jääuʹr</wordform>
@@ -2533,12 +2853,12 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory371" quality="1" speaker="8"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Lovozero</t>
@@ -2559,9 +2879,9 @@
        <t pos="N" type="Prop">Lujávri</t>
      </tg>
    </mg>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Lovozero</t>
@@ -2596,7 +2916,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Luujärven kylä</t>
      </tg>
@@ -2626,13 +2950,13 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book lesson="dict" name="kurss"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src lesson="dict" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Finnland</t>
@@ -2660,7 +2984,11 @@
        <st Contlex="PROP_TOP_SIJDD">Lääʹdd#luhtt</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Suomenlahti</t>
      </tg>
@@ -2682,7 +3010,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Laurinvaara</t>
      </tg>
@@ -2704,7 +3036,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hihnajärvi</t>
      </tg>
@@ -2727,11 +3063,13 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="KKS" page="186A"/>
-       <book name="SKS" page="119"/>
+       <src name="AKU" type="db"/>
+       <src name="KKS" page="186A"/>
+       <src name="SKS" page="119"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Finnland</t>
      </tg>
@@ -2765,7 +3103,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lutto</t>
      </tg>
@@ -2787,7 +3129,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Luttojoki</t>
      </tg>
@@ -2809,7 +3155,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Manner-Suomi</t>
      </tg>
@@ -2831,7 +3181,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Maattivuono</t>
      </tg>
@@ -2853,7 +3207,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Maaselkä</t>
      </tg>
@@ -2875,7 +3233,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Maatsasjärvi</t>
      </tg>
@@ -2897,7 +3259,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Maitokoski</t>
      </tg>
@@ -2919,7 +3285,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Marinajärvi</t>
      </tg>
@@ -2942,9 +3312,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Meissijärvi</t>
      </tg>
@@ -2967,9 +3339,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Menesjärvi</t>
      </tg>
@@ -2986,16 +3360,15 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Menikka</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Miessijäuʹrr</l>
-   </lg>
 </e>
 <e id="gt_Prop_50" meta="08_383">
    <map fin_lemma_id="13963::" stamp="gt_Prop_50:fm_382:sml_14183"/>
@@ -3010,7 +3383,7 @@
        <c name="Reader">9</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Москк</translit_cyr>
+     </inc-audio>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>Moosk</wordform>
@@ -3018,14 +3391,15 @@
        <analysis ms="Sg_Ill">
            <wordform>Moʹsǩǩe</wordform>
        </analysis>
-     </mini_paradigm> <audio> <a dialect="xxx" href="languagememory383" quality="1" speaker="9"/> </audio>
+     </mini_paradigm>
+       <translit_cyr>Москк</translit_cyr> <audio> <a dialect="xxx" href="languagememory383" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <book name="prop"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Moskau</t>
@@ -3062,17 +3436,17 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book name="prop"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">??Motka</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="N" type="Prop" re="kolttakylä">Muotka</t>
+       <t pos="N" type="Prop">Muotka</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="N" type="Prop">Muotka</t>
@@ -3102,7 +3476,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Muotkavuono</t>
      </tg>
@@ -3121,7 +3499,8 @@
        <c name="Reader">9</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Мӯрмaн</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Мӯрмaн</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>=</wordform>
@@ -3132,11 +3511,11 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory384" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <book name="prop"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Murmansk</t>
@@ -3171,7 +3550,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Myössäjärvi</t>
      </tg>
@@ -3193,7 +3576,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Massansaari</t>
      </tg>
@@ -3215,7 +3602,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Mutajärvi</t>
      </tg>
@@ -3237,7 +3628,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Mutajärvenselkä</t>
      </tg>
@@ -3259,7 +3654,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Mutamaa</t>
      </tg>
@@ -3281,7 +3680,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lujapuolijärvi</t>
      </tg>
@@ -3303,7 +3706,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nälkäjärvi</t>
      </tg>
@@ -3325,7 +3732,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Näskämäjärvi</t>
      </tg>
@@ -3347,7 +3758,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Neitikoski</t>
      </tg>
@@ -3369,7 +3784,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Neitiniemi</t>
      </tg>
@@ -3391,7 +3810,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nannamjärvi</t>
      </tg>
@@ -3413,7 +3836,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Niemijärvi</t>
      </tg>
@@ -3443,12 +3870,12 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg descr_trans="Ortsbezeichnung" xml:lang="deu">
        <t pos="N" type="Prop">Neiden</t>
@@ -3480,12 +3907,12 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Näätämö river</t>
@@ -3512,7 +3939,11 @@
        <st Contlex="PROP_TOP_SIJDD">Njauddâm#sijdd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Näätämönkylä</t>
      </tg>
@@ -3534,12 +3965,12 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Nellim</t>
@@ -3553,14 +3984,16 @@
      <tg xml:lang="rus">
        <t pos="N" type="Prop">Неллим</t>
      </tg>
-     <tg xml:lang="smn">
-       <t pos="N" type="Prop">Njellim</t>
-     </tg>
      <tg xml:lang="sme">
        <t pos="N" type="Prop">Nellim</t>
      </tg>
+     <tg xml:lang="smn">
+       <t pos="N" type="Prop">Njellim</t>
+     </tg>
    </mg>
-   <mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -3594,7 +4027,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nellimjärvi</t>
      </tg>
@@ -3616,13 +4053,13 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book lesson="phon" name="kurss"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src lesson="phon" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Nitsijärvi</t>
@@ -3654,7 +4091,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Joutsenjärvi</t>
      </tg>
@@ -3677,10 +4118,12 @@
      </stg>
    </lg>
      <sources>
-       <book name="SKS" page="77"/>
-       <book name="KKS" page="296"/>
+       <src name="SKS" page="77"/>
+       <src name="KKS" page="296"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Joutsenniva</t>
      </tg>
@@ -3702,7 +4145,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jänisjärvi</t>
      </tg>
@@ -3725,9 +4172,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jäniskoski</t>
      </tg>
@@ -3749,7 +4198,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jänisniemi</t>
      </tg>
@@ -3771,7 +4224,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jäniskaira</t>
      </tg>
@@ -3793,7 +4250,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jänispää</t>
      </tg>
@@ -3815,7 +4276,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Jänispäänhäntä</t>
      </tg>
@@ -3837,7 +4302,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nuortijoki</t>
      </tg>
@@ -3859,7 +4328,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nuortijärvi</t>
      </tg>
@@ -3881,7 +4354,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nuortijoki</t>
      </tg>
@@ -3910,7 +4387,11 @@
        </analysis>
      </mini_paradigm>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -3930,7 +4411,11 @@
        <st Contlex="PROP_TOP_SIJDD">Njââʹvv#sijdd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nivankylä</t>
      </tg>
@@ -3952,7 +4437,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nautsi</t>
      </tg>
@@ -3974,7 +4463,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nautsijärvi</t>
      </tg>
@@ -3996,7 +4489,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nilijoki</t>
      </tg>
@@ -4019,9 +4516,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nilijärvi</t>
      </tg>
@@ -4038,32 +4537,14 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nilituvat</t>
        <t pos="N">Nilituvat</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="15370"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Nuorgam</l>
-     <stg>
-       <st Contlex="PROP_TOP_AANAR">Nuorgam</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>Nuorggam</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>Nuorggma</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Nuorgam</t>
      </tg>
    </mg>
 </e>
@@ -4083,7 +4564,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Itämeri</t>
      </tg>
@@ -4105,7 +4590,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Itävalta</t>
      </tg>
@@ -4121,11 +4610,11 @@
      </stg>
    </lg>
      <sources>
-       <book name="prop"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Notozero</t>
@@ -4144,9 +4633,9 @@
        <t pos="N" type="Prop">Nuohttejávri</t>
      </tg>
    </mg>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Notozero</t>
@@ -4182,7 +4671,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lujapuolijärvi</t>
      </tg>
@@ -4212,9 +4705,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -4242,7 +4737,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nanguvuono</t>
      </tg>
@@ -4264,7 +4763,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Villavaara</t>
      </tg>
@@ -4287,18 +4790,15 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Opukasjärvi</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Oulu</l>
-   </lg>
 </e>
 <e>
    <map sml_ids="16226"/>
@@ -4316,7 +4816,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Outakoski</t>
      </tg>
@@ -4338,7 +4842,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uusi-Seelanti</t>
      </tg>
@@ -4360,7 +4868,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Palkissaari</t>
      </tg>
@@ -4376,12 +4888,12 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" stat="pref" type="Prop">Pasvik</t>
@@ -4400,9 +4912,9 @@
        <t pos="N" type="Prop">Báhcaveadji</t>
      </tg>
    </mg>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" stat="pref" type="Prop">Pasvikelva</t>
@@ -4439,9 +4951,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pakanajoki</t>
      </tg>
@@ -4463,7 +4977,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Paksuvuono</t>
      </tg>
@@ -4485,7 +5003,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Palkimasaari</t>
      </tg>
@@ -4507,7 +5029,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pautujärvi</t>
      </tg>
@@ -4521,7 +5047,11 @@
        <st Contlex="PROP_TOP_SIJDD">Paččja#sijdd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Paatsjoenkylä</t>
      </tg>
@@ -4544,9 +5074,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Paatsjoki</t>
      </tg>
@@ -4568,7 +5100,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Paatsivuono</t>
      </tg>
@@ -4590,16 +5126,15 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pummanki</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Petsikkotuõddâr</l>
-   </lg>
 </e>
 <e id="gt_Prop_72" meta="04">
    <map fin_lemma_id="17405" stamp="gt_Prop_72:fm_2972"/>
@@ -4625,12 +5160,12 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Petsamo</t>
@@ -4660,9 +5195,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Petsamonkylä</t>
      </tg>
@@ -4684,7 +5221,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Petsamotunturi</t>
      </tg>
@@ -4706,7 +5247,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Petsamovuono</t>
      </tg>
@@ -4723,7 +5268,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pummanki</t>
        <t pos="N">Pummanki</t>
@@ -4746,7 +5295,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pummankivuono</t>
      </tg>
@@ -4768,7 +5321,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Korvatunturi</t>
      </tg>
@@ -4790,7 +5347,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pietsijoki</t>
      </tg>
@@ -4813,9 +5374,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pietsijärvi</t>
      </tg>
@@ -4837,7 +5400,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pietsivaara</t>
      </tg>
@@ -4859,7 +5426,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pilttajärvi</t>
      </tg>
@@ -4881,7 +5452,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tuulijärvi</t>
      </tg>
@@ -4891,7 +5466,7 @@
    <map sml_ids="18671"/>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Polmak</l>
-     <stg><!-- CHECKME -->
+     <stg>
        <st Contlex="PROP_TOP_KOALVAK">Polmak</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
@@ -4903,7 +5478,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pulmanki</t>
      </tg>
@@ -4925,7 +5504,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pulmankijärvi</t>
      </tg>
@@ -4942,7 +5525,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pummanki</t>
      </tg>
@@ -4964,7 +5551,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Purjeniemi</t>
      </tg>
@@ -4986,7 +5577,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Porijärvi</t>
      </tg>
@@ -5008,7 +5603,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Purkatunturi</t>
      </tg>
@@ -5030,7 +5629,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Portugali</t>
      </tg>
@@ -5044,7 +5647,11 @@
        <st Contlex="PROP_TOP_SIJDD">Potkkla#sijdd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Potklakylä</t>
        <t pos="N">talvikylä</t>
@@ -5067,16 +5674,15 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ponoi</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Pulʒʒjäuʹrr</l>
-   </lg>
 </e>
 <e>
    <map sml_ids="16723"/>
@@ -5094,7 +5700,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Palovaara</t>
      </tg>
@@ -5116,7 +5726,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lauttajärvi</t>
      </tg>
@@ -5138,7 +5752,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Perä-Pohjola</t>
      </tg>
@@ -5160,7 +5778,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Perämeri</t>
      </tg>
@@ -5182,7 +5804,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pieruvuoma</t>
      </tg>
@@ -5204,7 +5830,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ponoijoki</t>
      </tg>
@@ -5226,7 +5856,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pyhätunturi</t>
      </tg>
@@ -5242,12 +5876,12 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Upper Neiden</t>
@@ -5282,7 +5916,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ylä-Lappi</t>
      </tg>
@@ -5304,7 +5942,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ylä-Tuuloma</t>
      </tg>
@@ -5326,7 +5968,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Höyhenjärvi</t>
      </tg>
@@ -5349,9 +5995,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ylä-Köngäs</t>
      </tg>
@@ -5374,9 +6022,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Partakko</t>
      </tg>
@@ -5398,7 +6048,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hammasjärvi</t>
      </tg>
@@ -5420,7 +6074,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hammastunturi</t>
      </tg>
@@ -5442,7 +6100,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Raja-Jooseppi</t>
      </tg>
@@ -5464,7 +6126,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rajakoski</t>
      </tg>
@@ -5487,9 +6153,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rajapää</t>
      </tg>
@@ -5511,7 +6179,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Reisivuono</t>
      </tg>
@@ -5533,7 +6205,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Räkkijärvi</t>
      </tg>
@@ -5555,7 +6231,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hakokoski</t>
      </tg>
@@ -5577,7 +6257,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ristisalmi</t>
      </tg>
@@ -5596,7 +6280,8 @@
        <c name="Reader">12</c>
        <c name="Recording">3</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Ристтќеддь</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Ристтќеддь</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>-ǩeeʹdd</wordform>
@@ -5607,11 +6292,11 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory403" quality="3" speaker="12"/> </audio>
    </lg>
      <sources>
-       <book name="prop"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ristikent</t>
@@ -5630,11 +6315,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Riuʹǧǧjäuʹrr</l>
-   </lg>
-</e>
 <e>
    <map sml_ids="7501"/>
    <lg>
@@ -5651,7 +6331,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kettujoki</t>
      </tg>
@@ -5673,7 +6357,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Romania</t>
      </tg>
@@ -5695,7 +6383,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Grönlanti</t>
      </tg>
@@ -5725,14 +6417,17 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book lesson="dict" name="kurss"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src lesson="dict" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Rovaniemi</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Rovaniemi</t>
      </tg>
@@ -5748,9 +6443,6 @@
      </tg>
      <tg xml:lang="smn">
        <t pos="N" type="Prop">Ruávinjargâ</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="N" type="Prop">Rovaniemi</t>
      </tg>
    </mg>
 </e>
@@ -5770,7 +6462,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rovioja</t>
      </tg>
@@ -5792,7 +6488,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rovijärvi</t>
      </tg>
@@ -5814,7 +6514,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rovaselkä</t>
      </tg>
@@ -5825,6 +6529,9 @@
    <rev-sort_key>ccõuR</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruõcc</l>
+     <etymology>
+       <etymon algu_lekseemi_id="34684" id="86346" xml_lang="sms">Ruõcˈc</etymon>
+     </etymology>
      <stg>
        <st Contlex="PROP_TOP_RUOCCC" inflexId="::::">Ruõcˈc</st>
      </stg>
@@ -5836,19 +6543,16 @@
            <wordform>Ruõʹcˈce</wordform>
        </analysis>
      </mini_paradigm>
-     <etymology>
-       <etymon xml:lang="sms" algu_lekseemi_id="34684" id="86346">Ruõcˈc</etymon>
-     </etymology>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="KKS" page="459:4"/>
-       <book lesson="dict" name="kurss"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="KKS" page="459:4"/>
+       <src lesson="dict" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Sweden</t>
@@ -5880,13 +6584,13 @@
      </inc-audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book lesson="dict" name="kurss"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src lesson="dict" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Russia</t>
@@ -5918,7 +6622,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautajärvi</t>
      </tg>
@@ -5941,9 +6649,11 @@
      </stg>
    </lg>
      <sources>
-       <book name="KKS" page="181"/>
+       <src name="KKS" page="181"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Routasenkuru</t>
      </tg>
@@ -5965,7 +6675,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautavuono</t>
      </tg>
@@ -5987,7 +6701,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautavaara</t>
      </tg>
@@ -6001,7 +6719,11 @@
        <st Contlex="PROP_TOP_SIJDD">Ruʹvddväʹrr#luhtt</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautavaaranlahti</t>
      </tg>
@@ -6023,7 +6745,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautujärvi</t>
      </tg>
@@ -6046,10 +6772,12 @@
      </stg>
    </lg>
      <sources>
-       <book name="KKS" page="113"/>
-       <book name="SKS" page="661"/>
+       <src name="KKS" page="113"/>
+       <src name="SKS" page="661"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Rautuselkä</t>
      </tg>
@@ -6071,32 +6799,13 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saalamo</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="21150"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Sahara</l>
-     <stg>
-       <st Contlex="PROP_TOP_TRUUBA">Sahara</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>=</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>Saharaaʹje</wordform>
-           <wordform>Sahara</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Sahara</t>
      </tg>
    </mg>
 </e>
@@ -6110,12 +6819,12 @@
      </stg>
    </lg>
      <sources>
-       <book lesson="dict" name="kurss"/>
-       <book name="prop"/>
+       <src lesson="dict" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Germany</t>
@@ -6147,7 +6856,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saksa</t>
      </tg>
@@ -6169,7 +6882,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sammuttijärvi</t>
      </tg>
@@ -6191,7 +6908,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Etelä-Amerikka</t>
      </tg>
@@ -6213,7 +6934,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Etelänapa</t>
      </tg>
@@ -6235,7 +6960,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lammassaari</t>
      </tg>
@@ -6257,7 +6986,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Selkäjärvi</t>
      </tg>
@@ -6280,9 +7013,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Silisjoki</t>
      </tg>
@@ -6304,7 +7039,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Silisvaara</t>
      </tg>
@@ -6327,9 +7066,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Siperia</t>
      </tg>
@@ -6351,7 +7092,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Skandinavia</t>
      </tg>
@@ -6373,7 +7118,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Solmusjärvi</t>
      </tg>
@@ -6395,7 +7144,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vapahtajanpahta</t>
      </tg>
@@ -6417,7 +7170,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Koivuvaara</t>
      </tg>
@@ -6440,9 +7197,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sundeejärvi</t>
      </tg>
@@ -6464,7 +7223,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saarijärvi</t>
      </tg>
@@ -6486,7 +7249,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saarikoski</t>
      </tg>
@@ -6509,9 +7276,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saariselkä</t>
      </tg>
@@ -6532,7 +7301,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Sodankylä</t>
      </tg>
@@ -6566,7 +7339,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Harrijärvi</t>
      </tg>
@@ -6589,9 +7366,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sodankylä</t>
      </tg>
@@ -6614,9 +7393,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Savukoski</t>
      </tg>
@@ -6638,7 +7419,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Juurakkoniemi</t>
      </tg>
@@ -6658,7 +7443,8 @@
        <c name="Reader">13</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Суәнˈньʼе~Суэнˈньʼел</translit_cyr>
+     </inc-audio>
+       <translit_cyr>Суәнˈньʼе~Суэнˈньʼел</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="N_Pl_Nom">=
        </analysis>
@@ -6667,12 +7453,12 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3909" quality="1" speaker="13"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Suonikylä</t>
@@ -6704,9 +7490,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Suonikylä</t>
      </tg>
@@ -6728,7 +7516,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Huippuvuoret</t>
      </tg>
@@ -6750,7 +7542,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sveitsi</t>
      </tg>
@@ -6772,7 +7568,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Mustikkavaara</t>
      </tg>
@@ -6786,7 +7586,11 @@
        <st Contlex="PROP_TOP_SIJDD">Sââʹrves#sijdd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hirvaskylä</t>
      </tg>
@@ -6810,11 +7614,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book name="prop"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Girvasozero</t>
@@ -6832,9 +7636,9 @@
        <t pos="N" type="Prop">Sárvesjávri</t>
      </tg>
    </mg>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Girvasozero</t>
@@ -6869,7 +7673,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saunaranta</t>
      </tg>
@@ -6899,9 +7707,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Lappland</t>
      </tg>
@@ -6921,11 +7731,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Sääʹmpõrtt</l>
-   </lg>
-</e>
 <e>
    <map sml_ids=""/>
    <lg>
@@ -6942,7 +7747,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N" sci="(Kjelmøya)">Taalmainsaari</t>
      </tg>
@@ -6953,6 +7762,9 @@
    <rev-sort_key>rraaT</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Taarr</l>
+     <etymology>
+       <etymon algu_lekseemi_id="75580" id="219402" xml_lang="sms">Taarr</etymon>
+     </etymology>
      <stg>
        <st Contlex="PROP_TOP_PAARR" inflexId="::::1.111">Taarr</st>
      </stg>
@@ -6970,13 +7782,14 @@
            <wordform>Taʹrre</wordform>
        </analysis>
      </mini_paradigm>
-<etymology> <etymon xml:lang="sms" algu_lekseemi_id="75580" id="219402">Taarr</etymon> </etymology>
    </lg>
      <sources>
-<book name="KKS" page="573:3"/>
-       <src type="db" name="AKU"/>
+       <src name="KKS" page="573:3"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Norwegen</t>
      </tg>
@@ -7004,13 +7817,13 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book lesson="2" name="kurss"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src lesson="2" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Norway</t>
@@ -7023,28 +7836,6 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="N" type="Prop">Новрегия</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="24648"/>
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Teänjokk</l>
-     <stg>
-       <st Contlex="PROP_TOP_KUSS">Teän#jo%^1VOWkk</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Sg_Gen">
-           <wordform>-jooǥǥ</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>-joʹǩǩe</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="N">Tenojoki</t>
      </tg>
    </mg>
 </e>
@@ -7064,7 +7855,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Teppanankotajärvi</t>
      </tg>
@@ -7078,7 +7873,11 @@
        <st Contlex="PROP_TOP_SIJDD">Treeffan#sijdd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Trifona</t>
      </tg>
@@ -7100,7 +7899,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Saksa</t>
      </tg>
@@ -7122,7 +7925,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Turkki</t>
      </tg>
@@ -7141,14 +7948,15 @@
        <c name="Reader">14</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>Tуӕлˈлaм-ёкк</translit_cyr> <audio> <a dialect="xxx" href="languagememory6148" quality="1" speaker="14"/> </audio>
+     </inc-audio>
+       <translit_cyr>Tуӕлˈлaм-ёкк</translit_cyr> <audio> <a dialect="xxx" href="languagememory6148" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
-       <book name="prop"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Tuloma</t>
@@ -7183,7 +7991,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tuuloma</t>
      </tg>
@@ -7205,7 +8017,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tuulomajoki</t>
      </tg>
@@ -7219,7 +8035,11 @@
        <st Contlex="PROP_TOP_SIJDD">Tuållâm#sijdd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tuulomankylä</t>
      </tg>
@@ -7241,7 +8061,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pyöreälompolo</t>
      </tg>
@@ -7264,10 +8088,12 @@
      </stg>
    </lg>
      <sources>
-       <book name="KKS" page="479"/>
-       <book name="SKS" page="121"/>
+       <src name="KKS" page="479"/>
+       <src name="SKS" page="121"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pyöreäsuvanto</t>
      </tg>
@@ -7290,9 +8116,11 @@
        </analysis>
      </mini_paradigm>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="fin">
        <t pos="N" type="Prop">Turja</t>
@@ -7319,9 +8147,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjois-Suomi</t>
      </tg>
@@ -7342,7 +8172,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Nord-Finnland</t>
      </tg>
@@ -7376,7 +8210,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjois-Amerikka</t>
      </tg>
@@ -7394,9 +8232,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjoismaat</t>
        <t pos="N">Pohjola</t>
@@ -7419,7 +8259,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjoisnapa</t>
      </tg>
@@ -7449,12 +8293,12 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Utsjoki</t>
@@ -7472,9 +8316,9 @@
        <t pos="N" type="Prop">Ohcejohka</t>
      </tg>
    </mg>
-   <mg>
+   <mg relId="1">
      <semantics>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Utsjoki</t>
@@ -7509,7 +8353,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hiipinä</t>
      </tg>
@@ -7531,7 +8379,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uurajoki</t>
      </tg>
@@ -7553,7 +8405,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uurajärvi</t>
      </tg>
@@ -7575,7 +8431,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uuravuono</t>
      </tg>
@@ -7597,7 +8457,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Uutuanjoki</t>
      </tg>
@@ -7619,7 +8483,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Unkari</t>
      </tg>
@@ -7640,7 +8508,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -7665,7 +8537,11 @@
        <st Contlex="PROP_TOP_KUSS">Uʹcc#jo%^1VOWkk</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Utsjoki</t>
      </tg>
@@ -7682,7 +8558,11 @@
        <st Contlex="PROP_TOP_JAUQRR">Vainos#jä%^1VOWurr</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vainosjärvi</t>
      </tg>
@@ -7704,7 +8584,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Varanki</t>
      </tg>
@@ -7726,7 +8610,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Varanginvuono</t>
      </tg>
@@ -7748,7 +8636,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vouvatusjärvi</t>
      </tg>
@@ -7770,7 +8662,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vaasseljärvi</t>
      </tg>
@@ -7792,7 +8688,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vaasselvaara</t>
      </tg>
@@ -7814,7 +8714,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vaskiharju</t>
      </tg>
@@ -7843,7 +8747,11 @@
        </analysis>
      </mini_paradigm>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -7871,7 +8779,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Virtasalmi</t>
      </tg>
@@ -7894,9 +8806,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vienanmeri</t>
      </tg>
@@ -7918,7 +8832,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pääkallopaikka</t>
      </tg>
@@ -7940,7 +8858,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuoremi</t>
      </tg>
@@ -7962,7 +8884,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuernisjärvi</t>
      </tg>
@@ -7985,9 +8911,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ahvenjärvi</t>
      </tg>
@@ -8009,7 +8937,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ahvenselkä</t>
      </tg>
@@ -8023,7 +8955,11 @@
        <st Contlex="PROP_TOP_SIJDD">Vuâđđluhtt</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjanlahti</t>
      </tg>
@@ -8045,7 +8981,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjanmeri</t>
      </tg>
@@ -8067,7 +9007,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Pohjanmaa</t>
      </tg>
@@ -8089,7 +9033,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Onttopuujärvi</t>
      </tg>
@@ -8111,7 +9059,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kortejärvi</t>
      </tg>
@@ -8133,7 +9085,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuotso</t>
      </tg>
@@ -8155,7 +9111,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hietajoki</t>
      </tg>
@@ -8177,7 +9137,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuontisjärvi</t>
      </tg>
@@ -8199,7 +9163,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuontislompolo</t>
      </tg>
@@ -8221,7 +9189,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hietaoja</t>
      </tg>
@@ -8243,7 +9215,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuonnijärvi</t>
      </tg>
@@ -8258,7 +9234,7 @@
      <mini_paradigm exclude="NDS">
        <analysis ms="Pl_Gen">
            <wordform>Vâârǥi</wordform>
-       </analysis> <!-- What is Ess Vârggan? -->
+       </analysis>
        <analysis ms="Pl_Ill">
            <wordform>Vâârǥid</wordform>
        </analysis>
@@ -8266,9 +9242,11 @@
      </stg>
    </lg>
      <sources>
-       <book name="KKS" page="1033"/>
+       <src name="KKS" page="1033"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vuoreija</t>
      </tg>
@@ -8290,7 +9268,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Sotajoki</t>
      </tg>
@@ -8312,7 +9294,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Töllevijärvi</t>
        <t pos="N">Valasjärvi</t>
@@ -8336,18 +9322,15 @@
      </stg>
    </lg>
      <sources>
-       <book name="KKS" page="726"/>
+       <src name="KKS" page="726"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Väylä</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Väʹččer</l>
-   </lg>
 </e>
 <e>
    <map sml_ids="29260"/>
@@ -8365,9 +9348,56 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vätsäri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">brutto</l>
+     <stg>
+       <st Contlex="N_RADIO">brutto</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="N">gross</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">brutto</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">min</l>
+     <variants>
+       <l_longForm>minutt</l_longForm>
+     </variants>
+     <stg>
+       <st Contlex="AB-NO-DOT-N_">min</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">min</t>
+       <t pos="N">minuutti</t>
+       <t pos="N">minuuttia</t>
      </tg>
    </mg>
 </e>
@@ -8387,7 +9417,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">ruuhka-Suomi</t>
      </tg>
@@ -8409,7 +9443,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Vaitolahti</t>
      </tg>
@@ -8432,9 +9470,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Poikasjärvi</t>
      </tg>
@@ -8456,7 +9496,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Lähi-Itä</t>
      </tg>
@@ -8475,7 +9519,8 @@
        <c name="Reader">17</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio> <translit_cyr>А̂ввел</translit_cyr>
+     </inc-audio>
+       <translit_cyr>А̂ввел</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>=</wordform>
@@ -8486,13 +9531,13 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory370" quality="1" speaker="17"/> </audio>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book lesson="phon" name="kurss"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src lesson="phon" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
      </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ivalo</t>
@@ -8530,7 +9575,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Imandra</t>
      </tg>
@@ -8552,7 +9601,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Imandrajärvi</t>
      </tg>
@@ -8569,7 +9622,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Heinäsaaret</t>
        <t pos="N">Heinäsaaret</t>
@@ -8592,7 +9649,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Hautasaari</t>
      </tg>
@@ -8614,7 +9675,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Äälisjärvi</t>
      </tg>
@@ -8636,7 +9701,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Avlijärvi</t>
      </tg>
@@ -8658,7 +9727,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Anniniemi</t>
      </tg>
@@ -8672,7 +9745,11 @@
        <st Contlex="PROP_TOP_SIJDD">Äʹǩǩel#sijdd</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Akkalankylä</t>
      </tg>
@@ -8694,16 +9771,15 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Ortavaara</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst" order="1">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Õužžjäuʹrr</l>
-   </lg>
 </e>
 <e>
    <map sml_ids="25310"/>
@@ -8721,7 +9797,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsarmijärvi</t>
      </tg>
@@ -8743,7 +9823,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsarmitunturi</t>
      </tg>
@@ -8765,7 +9849,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kaulatunturi</t>
      </tg>
@@ -8789,14 +9877,14 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
-       <book lesson="1" name="kurss"/>
-       <book name="prop"/>
+       <src name="AKU" type="db"/>
+       <src lesson="1" name="kurss"/>
+       <src name="prop"/>
      </sources>
-   <mg>
+   <mg relId="0">
      <semantics>
-       <sem type="ENVIR">SETTLEMENT</sem>
-       <sem type="ENVIR">TOPONOMY</sem>
+       <sem class="" type="ENVIR">SETTLEMENT</sem>
+       <sem class="" type="ENVIR">TOPONOMY</sem>
      </semantics>
      <tg xml:lang="eng">
        <t pos="N" type="Prop">Sevettijärvi</t>
@@ -8829,9 +9917,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsiuttajoki</t>
      </tg>
@@ -8853,7 +9943,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Syvä-Siikajärvi</t>
      </tg>
@@ -8875,7 +9969,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Syvälompolo</t>
      </tg>
@@ -8897,7 +9995,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsokkisjärvi</t>
      </tg>
@@ -8918,7 +10020,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">? Juppurasaari</t>
      </tg>
@@ -8953,9 +10059,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Suolisjärvi</t>
      </tg>
@@ -8978,9 +10086,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Suolisvuono</t>
      </tg>
@@ -9002,7 +10112,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Satapetäjäniemi</t>
      </tg>
@@ -9024,7 +10138,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Metsojärvi</t>
      </tg>
@@ -9046,7 +10164,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tsurnujärvi</t>
      </tg>
@@ -9068,7 +10190,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Huutojärvi</t>
      </tg>
@@ -9090,7 +10216,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Salmi</t>
      </tg>
@@ -9113,9 +10243,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Salmijärvi</t>
      </tg>
@@ -9137,7 +10269,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kumputunturi</t>
      </tg>
@@ -9159,7 +10295,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Arkkusaari</t>
      </tg>
@@ -9181,7 +10321,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Syysjoki</t>
      </tg>
@@ -9203,7 +10347,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Syysmaa</t>
      </tg>
@@ -9225,7 +10373,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Siikajärvi</t>
      </tg>
@@ -9246,7 +10398,11 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="deu">
        <t pos="N" type="Prop">Ortsbezeichnung</t>
      </tg>
@@ -9275,9 +10431,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kolttaköngäs</t>
      </tg>
@@ -9294,7 +10452,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kemi</t>
      </tg>
@@ -9316,7 +10478,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kemijoki</t>
      </tg>
@@ -9339,9 +10505,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kemijärvi</t>
      </tg>
@@ -9363,7 +10531,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kervanto</t>
      </tg>
@@ -9385,7 +10557,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kirkkoniemi</t>
      </tg>
@@ -9407,7 +10583,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kiviselkä</t>
      </tg>
@@ -9429,7 +10609,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kiertämöjoki</t>
      </tg>
@@ -9447,9 +10631,11 @@
      </stg>
    </lg>
      <sources>
-       <src type="db" name="AKU"/>
+       <src name="AKU" type="db"/>
      </sources>
-   <mg>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Kiina</t>
      </tg>
@@ -9471,7 +10657,11 @@
      </mini_paradigm>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="N">Käsivarsi</t>
      </tg>
@@ -9479,12 +10669,16 @@
 </e>
 <e src="jmr_2015-11-10">
    <lg>
-     <l pos="PROP">Pâjj-Sääʹmjânnam</l>
+     <l pos="Prop">Pâjj-Sääʹmjânnam</l>
      <stg>
        <st Contlex="PROP_AANAR">Pâjj-#Sääʹm#jânnam</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="PROP">Ylä-Lappi</t>
      </tg>
@@ -9492,12 +10686,16 @@
 </e>
 <e src="jmr_2015-11-10">
    <lg>
-     <l pos="PROP">Tuõddâr-Sääʹmjânnam</l>
+     <l pos="Prop">Tuõddâr-Sääʹmjânnam</l>
      <stg>
        <st Contlex="PROP_AANAR">Tuõddâr-#Sääʹmjânnam</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="PROP">Tunturi-Lappi</t>
      </tg>
@@ -9505,16 +10703,97 @@
 </e>
 <e src="jmr_2015-11-10">
    <lg>
-     <l pos="PROP">Tâʹvv-Sääʹmjânnam</l>
+     <l pos="Prop">Tâʹvv-Sääʹmjânnam</l>
      <stg>
        <st Contlex="PROP_AANAR">Tâʹvv-#Sääʹm#jânnam</st>
      </stg>
    </lg>
-   <mg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="fin">
        <t pos="PROP">Pohjois-Lappi</t>
        <t pos="PROP">Ylä-Lappi</t>
      </tg>
    </mg>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Aʹrttjäuʹrr</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Jõnnǩeäʹdǧǧtuõddâr</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Koʹlmisjäuʹrr</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Kättjäuʹrr</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Miessijäuʹrr</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Oulu</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Petsikkotuõddâr</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Pulʒʒjäuʹrr</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Riuʹǧǧjäuʹrr</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Väʹččer</l>
+   </lg>
+     <sources>
+     </sources>
+</e>
+<e exclude="fst" order="1">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Õužžjäuʹrr</l>
+   </lg>
+     <sources>
+     </sources>
 </e>
 </r> 
