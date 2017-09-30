@@ -112673,7 +112673,7 @@
        <etymon algu_lekseemi_id="62268" id="162285" xml_lang="sms">uʹvdded</etymon>
      </etymology>
      <stg>
-       <st Contlex="V_UQVDDED">u%^1VOWvdd</st>
+       <st Contlex="TV_UQVDDED">u%^1VOWvdd</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="Ind_Prs_Sg3">
@@ -128313,7 +128313,7 @@
      </etymology>
      <stg>
        <st Contlex="V_LAUKKOOLLYD" varid="1">võnstõõll</st>
-       <st lemma="võõnstõõllâd" status="Use/SpellNoSug" varid="2">võõnstõõll</st>
+       <st Contlex="V_LAUKKOOLLYD" lemma="võõnstõõllâd" status="Use/SpellNoSug" varid="2">võõnstõõll</st>
      </stg>
      <compg drv="V:Suf»V" type="Der">
        <comp fin="venyä (vähän)" ord="E1" pos="V">võnsted</comp>
