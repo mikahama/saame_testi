@@ -44832,44 +44832,6 @@
      </tg>
    </mg>
 </e>
-<e>
-   <map sml_ids="4903"/>
-   <lg>
-     <l pos="V">maaʹlʼjed</l>
-     <stg>
-       <st Contlex="V_VOQLLJED">maaʹl</st>
-     </stg>
-   </lg>
-     <sources>
-       <src name="sjm" type="db"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">jauhaa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="4903"/>
-   <lg>
-     <l pos="V">maaʹlʼjed</l>
-     <stg>
-       <st Contlex="V_VOQLLJED">maaʹl</st>
-     </stg>
-   </lg>
-     <sources>
-       <src name="sjm" type="db"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">jauhaa</t>
-     </tg>
-   </mg>
-</e>
 <e id="gt_V_60" meta="05" src="t">
    <map fin_lemma_id="4903" stamp="gt_V_60:fm_4746:fm_5062:sjm_4903"/>
    <rev-sort_key>dejlʹaam</rev-sort_key>
