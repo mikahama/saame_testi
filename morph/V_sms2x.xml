@@ -6569,7 +6569,7 @@
    <lg>
      <l pos="V" val="TV">harjjted</l>
      <stg>
-       <st Contlex="TV_AALGXTED">harjjât%</st>
+       <st Contlex="TV_AALGXTED">harjjât</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -47885,12 +47885,9 @@
    <rev-sort_key>dâvvõõtstom</rev-sort_key>
    <lg>
      <l pos="V">motstõõvvâd</l>
-     <variants>
-       <l_var>mõtstõõvvâd</l_var>
-       <l_var>moottstõõvvâd</l_var>
-     </variants>
      <stg>
        <st Contlex="IV_LAUKKOOLLYD">motstõõvv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Use/SpellNoSugg">mõtstõõvv</st>
        <st Contlex="IV_LAUKKOOLLYD" status="Use/SpellNoSugg">moottstõõvv</st>
      </stg>
      <inc-audio>
@@ -48071,22 +48068,6 @@
        <xt xml:lang="fin">Sisilisko murskautui kokonaan. </xt>
      </xg>
      <argg val="IV"/>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">motstõõvvâd</l>
-     <stg>
-       <st Contlex="V_LAUKKOOLLYD">motstõõvv</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V"/>
-     </tg>
    </mg>
 </e>
 <e>

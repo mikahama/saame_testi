@@ -3169,6 +3169,30 @@
 			</tg>
 		</mg>
 	</e>
+	<e exclude="fst" order="1">
+		<map/>
+		<lg>
+			<l pos="Pron">ǩii-ne</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
+		</lg>
+		<sources>
+         </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="eng">
+				<t pos="Pron">somebody</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">joku</t>
+			</tg>
+		</mg>
+	</e>
 	<e>
 		<lg>
 			<l pos="Pron">jičineez</l>
