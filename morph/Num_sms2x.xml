@@ -4,22 +4,10 @@
    <rev-sort_key>tahod</rev-sort_key>
    <lg>
      <l pos="Num">dohat</l>
-     <variants>
-       <l_var>doohhat</l_var>
-     </variants>
      <stg>
        <st Contlex="NUM_AANAR" inflexId="::::1.2">dohat</st>
        <st Contlex="NUM_" inflexId="::::">doohhat</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">4072</c>
-       <c name="Reader">3</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <etymology>
-       <etymon algu_lekseemi_id="76200" id="221431" xml_lang="sms">dohat</etymon>
-     </etymology>
+     </stg> <compg> </compg>
      <mini_paradigm exclude="NDS">
        <analysis ms="Pl_Nom">
            <wordform>=</wordform>
@@ -28,6 +16,18 @@
            <wordform>dohta</wordform>
        </analysis>
      </mini_paradigm>
+     <etymology>
+       <etymon algu_lekseemi_id="76200" id="221431" xml_lang="sms">dohat</etymon>
+     </etymology>
+     <inc-audio>
+       <c name="ID_Audio">4072</c>
+       <c name="Reader">3</c>
+       <c name="Recording">1</c>
+       <c name="included">yes</c>
+     </inc-audio>
+     <variants>
+       <l_var>doohhat</l_var>
+     </variants>
    </lg>
      <sources>
        <src name="KKS" page="603:7"/>
@@ -46,6 +46,9 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="Num">tuhat</t>
+     </tg>
+     <tg xml:lang="hun">
+       <t pos="Num">ezer</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="Num">tusen</t>
@@ -123,7 +126,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_4061">
+<e exclude="fst" id="fm_4061">
    <map fin_lemma_id="" stamp="fm_4061"/>
    <rev-sort_key>olmʼmmlok</rev-sort_key>
    <lg>
@@ -167,7 +170,7 @@
      <l pos="Num">konmlo</l>
      <stg>
        <st Contlex="NUM_LO" inflexId="::::4.4" varid="1">konml</st>
-       <st Contlex="NUM_LO" varid="2">kolmmʼml</st>
+       <st Contlex="NUM_LO" varid="2" status="Use/SpellNoSugg">kolmmʼml</st>
      </stg>
      <inc-audio varid="2">
        <c name="ID_Audio">4062</c>
@@ -186,6 +189,9 @@
      </tg>
      <tg xml:lang="eng">
        <t pos="Num">thirteen</t>
+     </tg>
+     <tg xml:lang="hun">
+       <t pos="Num">tizenhárom</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="Num">kolmetoista</t>
