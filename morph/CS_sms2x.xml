@@ -91,7 +91,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -135,8 +135,8 @@
      </etymology>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="6" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="6" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -202,7 +202,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -235,13 +235,13 @@
      <etymology>
        <etymon source="finnosaamic?" type="inher">jo+s</etymon>
        <etymon source="finnic" type="inher">jo+s</etymon>
-       <cognate xml_lang="fin">jos</cognate>
-       <cognate xml_lang="nob">hvis</cognate>
+       <cognate xml:lang="fin">jos</cognate>
+       <cognate xml:lang="nob">hvis</cognate>
      </etymology>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src BEDLAN_ID="84" name="200"/>
+       <book name="AKU" type="db"/>
+       <book BEDLAN_ID="84" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -297,7 +297,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -343,8 +343,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -426,7 +426,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -461,7 +461,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -498,8 +498,8 @@
      </etymology>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src BEDLAN_ID="84" name="200"/>
+       <book name="AKU" type="db"/>
+       <book BEDLAN_ID="84" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -581,7 +581,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -616,7 +616,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -647,7 +647,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -665,7 +665,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -761,7 +761,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -790,7 +790,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -855,7 +855,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -902,7 +902,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -950,9 +950,9 @@
      </etymology>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="dict" name="kurss"/>
-       <src BEDLAN_ID="9" name="200"/>
+       <book name="AKU" type="db"/>
+       <book lesson="dict" name="kurss"/>
+       <book BEDLAN_ID="9" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1005,7 +1005,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1076,8 +1076,8 @@
      </etymology>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="3" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1132,7 +1132,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1151,7 +1151,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1207,7 +1207,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>

@@ -47,7 +47,7 @@
        <comp ord="E2" pos="" type="">supistuma</comp> </compg>
    </lg>
      <sources>
-       <src name="KKS" page="78:2.3" type="book"/>
+       <book name="KKS" page="78:2.3" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -186,7 +186,7 @@
        <comp drv="" ord="E2" pos="Suf" type="Der/saž"/> </compg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>

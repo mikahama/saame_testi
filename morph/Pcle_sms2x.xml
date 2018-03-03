@@ -11,8 +11,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -134,7 +134,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src lesson="1" name="kurss"/>
+       <book lesson="1" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -194,7 +194,7 @@
      </stg>
    </lg>
      <sources>
-       <src lesson="3" name="kurss"/>
+       <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -234,7 +234,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src lesson="6" name="kurss"/>
+       <book lesson="6" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -374,9 +374,9 @@
      </stg> <compg> </compg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
-       <src name="KKS" page="1:3" type="book"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
+       <book name="KKS" page="1:3" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -395,9 +395,9 @@
      </stg>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
-       <src name="sjm" type="db"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
+       <book attest="AKUCorpus"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -469,7 +469,7 @@
      </etymology>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
+       <book attest="AKUCorpus"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -497,9 +497,9 @@
      </stg>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
-       <src name="sjm" type="db"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
+       <book attest="AKUCorpus"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -523,7 +523,7 @@
      </stg>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
+       <book attest="AKUCorpus"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -561,8 +561,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -589,8 +589,8 @@
      </stg>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
-       <src lesson="1" name="kurss"/>
+       <book attest="AKUCorpus"/>
+       <book lesson="1" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -692,8 +692,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -719,9 +719,9 @@
      </stg> <compg> </compg>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
-       <src name="sjm" type="db"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
+       <book attest="AKUCorpus"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -752,7 +752,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
+       <book attest="AKUCorpus"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -783,7 +783,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
+       <book attest="AKUCorpus"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -816,9 +816,9 @@
      </stg>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
-       <src name="sjm" type="db"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
+       <book attest="AKUCorpus"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -849,7 +849,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
+       <book attest="AKUCorpus"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -916,8 +916,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
-       <src lesson="1" name="kurss"/>
+       <book attest="AKUCorpus"/>
+       <book lesson="1" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -970,7 +970,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src attest="AKUCorpus"/>
+       <book attest="AKUCorpus"/>
      </sources>
    <mg relId="0">
      <semantics>

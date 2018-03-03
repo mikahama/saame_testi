@@ -17,7 +17,7 @@
        </analysis>
      </mini_paradigm>
      <etymology>
-       <etymon algu_lekseemi_id="76200" id="221431" xml_lang="sms">dohat</etymon>
+       <etymon algu_lekseemi_id="76200" id="221431" xml:lang="sms">dohat</etymon>
      </etymology>
      <inc-audio>
        <c name="ID_Audio">4072</c>
@@ -30,9 +30,9 @@
      </variants>
    </lg>
      <sources>
-       <src name="KKS" page="603:7"/>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="KKS" page="603:7"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -90,7 +90,7 @@
    <lg>
      <l pos="Num">kolmm</l>
      <etymology>
-       <etymon algu_lekseemi_id="71155" id="205578" xml_lang="sms">kolmm</etymon>
+       <etymon algu_lekseemi_id="71155" id="205578" xml:lang="sms">kolmm</etymon>
        <etymon source="finnougric" type="xxx">kolme</etymon>
      </etymology>
      <stg>
@@ -98,9 +98,9 @@
      </stg>
    </lg>
      <sources>
-       <src name="KKS" page="144:5"/>
-       <src name="AKU" type="db"/>
-       <src BEDLAN_ID="175" name="200"/>
+       <book name="KKS" page="144:5"/>
+       <book name="AKU" type="db"/>
+       <book BEDLAN_ID="175" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -126,43 +126,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_4061">
-   <map fin_lemma_id="" stamp="fm_4061"/>
-   <rev-sort_key>olmʼmmlok</rev-sort_key>
-   <lg>
-     <l pos="Num">kolmmʼmlo</l>
-     <stg>
-       <st Contlex="NUM_LO" inflexId="::::">kolmmʼml</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">4062</c>
-       <c name="Reader">7</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="Num">dreizehn</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="Num">thirteen</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="Num">kolmetoista</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="Num">tretten</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="Num">тринадцать</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_4062">
    <map fin_lemma_id="8546::" stamp="fm_4061:fm_4062:sml_7221"/>
    <rev-sort_key>olmnok</rev-sort_key>
@@ -170,7 +133,7 @@
      <l pos="Num">konmlo</l>
      <stg>
        <st Contlex="NUM_LO" inflexId="::::4.4" varid="1">konml</st>
-       <st Contlex="NUM_LO" varid="2" status="Use/SpellNoSugg">kolmmʼml</st>
+       <st Contlex="NUM_LO" status="Use/SpellNoSugg" varid="2">kolmmʼml</st>
      </stg>
      <inc-audio varid="2">
        <c name="ID_Audio">4062</c>
@@ -190,11 +153,11 @@
      <tg xml:lang="eng">
        <t pos="Num">thirteen</t>
      </tg>
-     <tg xml:lang="hun">
-       <t pos="Num">tizenhárom</t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="Num">kolmetoista</t>
+     </tg>
+     <tg xml:lang="hun">
+       <t pos="Num">tizenhárom</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="Num">tretten</t>
@@ -210,7 +173,7 @@
    <lg>
      <l pos="Num">koumm</l>
      <etymology>
-       <etymon algu_lekseemi_id="71155" id="205578" xml_lang="sms">kolmm</etymon>
+       <etymon algu_lekseemi_id="71155" id="205578" xml:lang="sms">kolmm</etymon>
        <etymon source="finnougric" type="xxx">kolme</etymon>
      </etymology>
      <stg>
@@ -225,11 +188,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="KKS" page="144:5"/>
-       <src BEDLAN_ID="175" name="200"/>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
-       <src name="perintökieli"/>
+       <book name="KKS" page="144:5"/>
+       <book BEDLAN_ID="175" name="200"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
+       <book name="perintökieli"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -267,7 +230,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -293,8 +256,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="perintökieli"/>
+       <book name="AKU" type="db"/>
+       <book name="perintökieli"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -362,22 +325,22 @@
      </inc-sampling>
      <etymology>
        <etymon source="finnopermic" type="inher">kakta</etymon>
-       <cognate xml_lang="fin">kaksi</cognate>
-       <cognate xml_lang="hun">két</cognate>
-       <cognate xml_lang="kpv">кык</cognate>
-       <cognate xml_lang="myv">кавто</cognate>
-       <cognate xml_lang="sju">güikte</cognate>
-       <cognate xml_lang="sme">guokte</cognate>
-       <cognate xml_lang="sjd">кӯххт</cognate>
-       <cognate xml_lang="yrk">сидя</cognate>
+       <cognate xml:lang="fin">kaksi</cognate>
+       <cognate xml:lang="hun">két</cognate>
+       <cognate xml:lang="kpv">кык</cognate>
+       <cognate xml:lang="myv">кавто</cognate>
+       <cognate xml:lang="sju">güikte</cognate>
+       <cognate xml:lang="sme">guokte</cognate>
+       <cognate xml:lang="sjd">кӯххт</cognate>
+       <cognate xml:lang="yrk">сидя</cognate>
      </etymology>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
-       <src BEDLAN_ID="*182" name="200"/>
-       <src name="100"/>
-       <src name="perintökieli"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
+       <book BEDLAN_ID="*182" name="200"/>
+       <book name="100"/>
+       <book name="perintökieli"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -425,7 +388,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -500,7 +463,7 @@
    <lg>
      <l pos="Num">kutt</l>
      <etymology>
-       <etymon algu_lekseemi_id="71981" id="207753" xml_lang="sms">kutt</etymon>
+       <etymon algu_lekseemi_id="71981" id="207753" xml:lang="sms">kutt</etymon>
      </etymology>
      <stg>
        <st Contlex="NUM_TOLL" inflexId="::::4.11">ku%^1VOWtt</st>
@@ -513,10 +476,10 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="KKS" page="183:7"/>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
-       <src name="perintökieli"/>
+       <book name="KKS" page="183:7"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
+       <book name="perintökieli"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -560,7 +523,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -602,8 +565,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -639,7 +602,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -663,7 +626,7 @@
      </stg>
    </lg>
      <sources>
-       <src lesson="1" name="kurss"/>
+       <book lesson="1" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -743,8 +706,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -795,7 +758,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -821,7 +784,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -945,13 +908,13 @@
        <c name="included">yes</c>
      </inc-audio>
      <etymology>
-       <etymon algu_lekseemi_id="67055" id="186526" xml_lang="sms">käʹhcc</etymon>
+       <etymon algu_lekseemi_id="67055" id="186526" xml:lang="sms">käʹhcc</etymon>
      </etymology>
    </lg>
      <sources>
-       <src name="KKS" page="80:3"/>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src lesson="phon" name="kurss"/>
+       <book name="KKS" page="80:3"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book lesson="phon" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1054,7 +1017,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1094,7 +1057,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1149,7 +1112,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="55" type="book"/>
+       <book name="Mattu saaʹnid" pg="55" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1194,8 +1157,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="55" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="Mattu saaʹnid" pg="55" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1251,7 +1214,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1280,7 +1243,7 @@
      </inc-audio>
      <etymology>
        <etymon source="northgermanic" type="loan"/>
-       <cognate xml_lang="swe">många</cognate>
+       <cognate xml:lang="swe">många</cognate>
      </etymology>
      <mini_paradigm exclude="NDS">
        <analysis ms="Pl_Nom">
@@ -1292,11 +1255,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="phon" name="kurss"/>
-       <src lesson="2" name="kurss"/>
-       <src BEDLAN_ID="*100" name="200"/>
-       <src name="100"/>
+       <book name="AKU" type="db"/>
+       <book lesson="phon" name="kurss"/>
+       <book lesson="2" name="kurss"/>
+       <book BEDLAN_ID="*100" name="200"/>
+       <book name="100"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1362,7 +1325,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src BEDLAN_ID="59" name="200"/>
+       <book BEDLAN_ID="59" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1413,7 +1376,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1625,7 +1588,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1653,7 +1616,7 @@
    <lg>
      <l pos="Num">vitt</l>
      <etymology>
-       <etymon algu_lekseemi_id="80177" id="238355" xml_lang="sms">vitt</etymon>
+       <etymon algu_lekseemi_id="80177" id="238355" xml:lang="sms">vitt</etymon>
        <etymon source="uralic?" type="inher"/>
        <etymon source="FU" type="inher">witte</etymon>
      </etymology>
@@ -1673,9 +1636,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="758:3"/>
-       <src name="AKU" type="db"/>
-       <src BEDLAN_ID="52" name="200"/>
+       <book name="KKS" page="758:3"/>
+       <book name="AKU" type="db"/>
+       <book BEDLAN_ID="52" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1713,7 +1676,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1742,7 +1705,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1898,12 +1861,12 @@
        <c name="included">yes</c>
      </inc-audio>
      <etymology>
-       <etymon algu_lekseemi_id="63212" id="167359" xml_lang="sms">åʹhcc</etymon>
+       <etymon algu_lekseemi_id="63212" id="167359" xml:lang="sms">åʹhcc</etymon>
      </etymology>
    </lg>
      <sources>
-       <src name="KKS" page="314:3"/>
-       <src name="AKU" type="db"/>
+       <book name="KKS" page="314:3"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1990,19 +1953,19 @@
        <c name="included">yes</c>
      </inc-audio>
      <etymology>
-       <etymon algu_lekseemi_id="63460" id="168767" xml_lang="sms">aalmi</etymon>
+       <etymon algu_lekseemi_id="63460" id="168767" xml:lang="sms">aalmi</etymon>
        <etymon source="finnougric" type="inher">üke</etymon>
-       <cognate xml_lang="sjd">э̄ххт</cognate>
+       <cognate xml:lang="sjd">э̄ххт</cognate>
      </etymology> <audio> <a dialect="muo" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111211_ZMN_5.wav" speaker="ZMN"/> <a dialect="paa" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav" speaker="EL"/> </audio>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="55" type="book"/>
-       <src name="KKS" page="12:1"/>
-       <src name="AKU" type="db"/>
-       <src lesson="phon" name="kurss"/>
-       <src BEDLAN_ID="*115" name="200"/>
-       <src name="100"/>
-       <src name="perintökieli"/>
+       <book name="Mattu saaʹnid" pg="55" type="book"/>
+       <book name="KKS" page="12:1"/>
+       <book name="AKU" type="db"/>
+       <book lesson="phon" name="kurss"/>
+       <book BEDLAN_ID="*115" name="200"/>
+       <book name="100"/>
+       <book name="perintökieli"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2089,7 +2052,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2124,8 +2087,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="55" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="Mattu saaʹnid" pg="55" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2191,8 +2154,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="perintökieli"/>
+       <book name="AKU" type="db"/>
+       <book name="perintökieli"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2238,8 +2201,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="perintökieli"/>
-       <src name="AKU" type="db"/>
+       <book name="perintökieli"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2277,7 +2240,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2316,8 +2279,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2356,8 +2319,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2377,6 +2340,43 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="Num">сто</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst" id="fm_4061">
+   <map fin_lemma_id="" stamp="fm_4061"/>
+   <rev-sort_key>olmʼmmlok</rev-sort_key>
+   <lg>
+     <l pos="Num">kolmmʼmlo</l>
+     <stg>
+       <st Contlex="NUM_LO" inflexId="::::">kolmmʼml</st>
+     </stg>
+     <inc-audio>
+       <c name="ID_Audio">4062</c>
+       <c name="Reader">7</c>
+       <c name="Recording">1</c>
+       <c name="included">yes</c>
+     </inc-audio>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="Num">dreizehn</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="Num">thirteen</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">kolmetoista</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="Num">tretten</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Num">тринадцать</t>
      </tg>
    </mg>
 </e>

@@ -15,7 +15,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -90,7 +90,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -149,8 +149,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="KKS" page="633:9" type="book"/>
+       <book name="sjm" type="db"/>
+       <book name="KKS" page="633:9" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -170,7 +170,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -189,8 +189,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="KKS" page="634:1" type="book"/>
+       <book name="sjm" type="db"/>
+       <book name="KKS" page="634:1" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -209,7 +209,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -275,7 +275,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -296,7 +296,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="fb:mffff_2017-04-20"/>
+       <book name="fb:mffff_2017-04-20"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -375,8 +375,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="5" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="5" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -418,8 +418,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS 142"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS 142"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -452,7 +452,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -484,7 +484,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -504,8 +504,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -621,7 +621,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -634,7 +634,6 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="Interj">niin</t>
-       <t pos="Interj">noin</t>
        <t pos="Interj">noin</t>
        <t pos="Interj">lähes</t>
        <t pos="Interj">suunnilleen</t>
@@ -806,8 +805,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -883,7 +882,7 @@
      </stg>
    </lg>
      <sources>
-       <src lesson="2" name="kurss"/>
+       <book lesson="2" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -922,8 +921,8 @@
      </inc-audio> <compg> </compg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="2" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="2" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -995,7 +994,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1059,7 +1058,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1101,7 +1100,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1142,7 +1141,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="fb:mffff_2017-04-20"/>
+       <book name="fb:mffff_2017-04-20"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1179,7 +1178,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>

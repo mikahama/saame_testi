@@ -146,7 +146,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -165,7 +165,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -184,7 +184,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -203,7 +203,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -299,8 +299,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="sjm" type="db"/>
+       <book name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -352,8 +352,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="sjm" type="db"/>
+       <book name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -473,7 +473,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>

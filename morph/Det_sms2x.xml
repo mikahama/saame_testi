@@ -9,7 +9,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="fbPS_2017-06-28"/>
+       <book name="fbPS_2017-06-28"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -46,11 +46,11 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="2" name="kurss"/>
-       <src lesson="1" name="lookkamkerjj"/>
-       <src BEDLAN_ID="116" name="200"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
+       <book name="AKU" type="db"/>
+       <book lesson="2" name="kurss"/>
+       <book lesson="1" name="lookkamkerjj"/>
+       <book BEDLAN_ID="116" name="200"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -135,7 +135,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -201,9 +201,9 @@
      </stg>
    </lg>
      <sources>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
-       <src name="sjm" type="db"/>
-       <src name="AKU" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
+       <book name="sjm" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -234,7 +234,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -281,8 +281,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -322,7 +322,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="Det">kahdestoista</t>
-       <t pos="Det">kahdestoista</t>
      </tg>
    </mg>
 </e>
@@ -342,7 +341,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -409,8 +408,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -444,7 +443,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -512,7 +511,7 @@
        <comp drv="Num»Det" ord="E2" pos="Suf">Der/ad</comp> </compg>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -562,7 +561,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -593,7 +592,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="fbPS_2017-06-28"/>
+       <book name="fbPS_2017-06-28"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -615,7 +614,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="fbPS_2017-06-28"/>
+       <book name="fbPS_2017-06-28"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -644,7 +643,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -699,7 +698,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -738,7 +737,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -780,8 +779,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="5" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="5" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -855,7 +854,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -921,7 +920,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -971,7 +970,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1027,7 +1026,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1082,10 +1081,10 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
-       <src name="AKU" type="db"/>
-       <src lesson="5" name="kurss"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
+       <book name="AKU" type="db"/>
+       <book lesson="5" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1140,7 +1139,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1215,8 +1214,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="3" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1267,7 +1266,7 @@
      </inc-audio>
      <etymology>
        <etymon source="uralic" type="inher">to+tɜ</etymon>
-       <cognate xml_lang="sjd">тудт</cognate>
+       <cognate xml:lang="sjd">тудт</cognate>
      </etymology>
      <mini_paradigm>
        <analysis ms="Sg_Gen">
@@ -1279,10 +1278,10 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="dict" name="kurss"/>
-       <src BEDLAN_ID="*168" name="200"/>
-       <src name="100"/>
+       <book name="AKU" type="db"/>
+       <book lesson="dict" name="kurss"/>
+       <book BEDLAN_ID="*168" name="200"/>
+       <book name="100"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1336,7 +1335,7 @@
      </inc-audio>
      <etymology>
        <etymon source="uralic" type="inher">tä+tɜ</etymon>
-       <cognate xml_lang="sjd">та̄дт</cognate>
+       <cognate xml:lang="sjd">та̄дт</cognate>
      </etymology>
      <mini_paradigm>
        <analysis ms="Sg_Gen">
@@ -1348,10 +1347,10 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
-       <src BEDLAN_ID="*174" name="200"/>
-       <src name="100"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
+       <book BEDLAN_ID="*174" name="200"/>
+       <book name="100"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1411,8 +1410,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="3" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1461,7 +1460,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1520,8 +1519,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="lookkamkerjj"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="lookkamkerjj"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1563,7 +1562,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1601,8 +1600,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="Mattu saaʹnid" pg="54" type="book"/>
-       <src name="AKU" type="db"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>

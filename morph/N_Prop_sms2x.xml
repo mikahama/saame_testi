@@ -10,8 +10,8 @@
      </stg> <compg> </compg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="2:6.3" type="book"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="2:6.3" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -47,8 +47,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="2:6.3" type="book"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="2:6.3" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -87,7 +87,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -121,7 +121,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -149,7 +149,7 @@
        <comp drv="" ord="E2" pos="Suf" type="Der/Dimin"/> </compg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -188,9 +188,9 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory369" quality="1" speaker="1"/> <a dialect="muo" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111210_ZMN.wav" speaker="ZMN"/> <a dialect="peä" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav" speaker="KJ"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="phon" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="phon" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -233,7 +233,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -286,7 +286,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -331,8 +331,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="ǩk" type="db"/>
-       <src name="sjm" type="db"/>
+       <book name="ǩk" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -359,7 +359,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -412,7 +412,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -512,7 +512,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3181" quality="1" speaker="1"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -569,8 +569,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -607,7 +607,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -683,7 +683,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -709,7 +709,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -741,7 +741,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -770,7 +770,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3118" quality="1" speaker="2"/> </audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -839,7 +839,7 @@
        <translit_cyr>Да̄вед</translit_cyr> <audio> <a dialect="xxx" href="languagememory3212" quality="1" speaker="3"/> </audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -904,7 +904,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -937,7 +937,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -964,7 +964,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -999,7 +999,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3121" quality="1" speaker="3"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1046,8 +1046,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src lesson="3" name="kurss"/>
-       <src name="prop"/>
+       <book lesson="3" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1076,7 +1076,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1112,7 +1112,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3150" quality="0" speaker="4"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1152,7 +1152,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1180,7 +1180,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="SKS" page="26"/>
+       <book name="SKS" page="26"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1209,7 +1209,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3126" quality="1" speaker="4"/> </audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1259,7 +1259,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1300,7 +1300,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3122" quality="1" speaker="4"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1349,7 +1349,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3124" quality="1" speaker="4"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1390,7 +1390,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1443,7 +1443,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1516,7 +1516,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1555,9 +1555,9 @@
      </variants> <audio> <a dialect="xxx" href="languagememory3140" quality="1" speaker="4"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1600,7 +1600,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1620,8 +1620,8 @@
      </stg>
    </lg>
      <sources>
-       <src lesson="dict" name="kurss"/>
-       <src name="prop"/>
+       <book lesson="dict" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1728,7 +1728,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1750,7 +1750,7 @@
    <lg>
      <l pos="N" sem_type="Mal" type="Prop">Eʹllj</l>
      <etymology>
-       <etymon algu_lekseemi_id="65676" id="181466" xml_lang="sms">Eʹllj</etymon>
+       <etymon algu_lekseemi_id="65676" id="181466" xml:lang="sms">Eʹllj</etymon>
      </etymology>
      <stg>
        <st Contlex="PROP_SEM/MAL_" inflexId="::::1.113">Eʹllj</st>
@@ -1771,8 +1771,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="823:12"/>
-       <src name="AKU" type="db"/>
+       <book name="KKS" page="823:12"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1806,7 +1806,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1833,7 +1833,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1861,7 +1861,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1897,7 +1897,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3131" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1945,7 +1945,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3135" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1982,6 +1982,7 @@
        <c name="Recording">9</c>
        <c name="included">yes</c>
      </inc-audio>
+       <translit_cyr>Фэ̄ля</translit_cyr>
      <mini_paradigm exclude="NDS">
        <analysis ms="Sg_Gen">
            <wordform>=</wordform>
@@ -1989,11 +1990,10 @@
        <analysis ms="Sg_Ill">
            <wordform>Feelže</wordform>
        </analysis>
-     </mini_paradigm>
-       <translit_cyr>Фэ̄ля</translit_cyr> <audio> <a dialect="xxx" href="languagememory3142" quality="9" speaker="0"/> </audio>
+     </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3142" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2042,7 +2042,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3142" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2091,7 +2091,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3134" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2131,7 +2131,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2166,7 +2166,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3132" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2207,7 +2207,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2234,7 +2234,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2373,8 +2373,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory380" quality="1" speaker="5"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2423,7 +2423,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3133" quality="3" speaker="5"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2456,7 +2456,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2484,7 +2484,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2519,7 +2519,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2574,7 +2574,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2627,7 +2627,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2706,7 +2706,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2766,7 +2766,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2807,7 +2807,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3141" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2839,7 +2839,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2930,7 +2930,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -2971,7 +2971,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3139" quality="1" speaker="6"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3071,7 +3071,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3119,7 +3119,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3149" quality="1" speaker="6"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3211,7 +3211,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3301,7 +3301,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="1042"/>
+       <book name="KKS" page="1042"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3349,7 +3349,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3194" quality="1" speaker="6"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3425,7 +3425,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3138" quality="1" speaker="6"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3473,7 +3473,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3137" quality="1" speaker="6"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3521,7 +3521,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3129" quality="1" speaker="6"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3598,9 +3598,9 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3146" quality="1" speaker="6"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="1041"/>
-       <src name="SKS" page="26"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="1041"/>
+       <book name="SKS" page="26"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3651,7 +3651,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3147" quality="6" speaker="6"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3698,7 +3698,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3739,7 +3739,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3230" quality="1" speaker="6"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -3944,7 +3944,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3157" quality="9" speaker="7"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4046,7 +4046,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3154" quality="9" speaker="7"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4172,7 +4172,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3136" quality="9" speaker="7"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4207,7 +4207,7 @@
      </stg>
        <translit_cyr>Кaрьййел</translit_cyr>
      <etymology>
-       <etymon algu_lekseemi_id="68461" id="191743" xml_lang="sms">Kaʹrjjel</etymon>
+       <etymon algu_lekseemi_id="68461" id="191743" xml:lang="sms">Kaʹrjjel</etymon>
      </etymology>
      <inc-audio>
        <c name="ID_Audio">381</c>
@@ -4229,8 +4229,8 @@
      </variants> <audio> <a dialect="xxx" href="languagememory381" quality="9" speaker="7"/> </audio>
    </lg>
      <sources>
-       <src name="KKS" page="91:3"/>
-       <src name="prop"/>
+       <book name="KKS" page="91:3"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4270,7 +4270,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4297,7 +4297,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4373,7 +4373,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4400,7 +4400,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4460,7 +4460,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4506,7 +4506,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4546,7 +4546,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4742,7 +4742,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4783,7 +4783,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3164" quality="9" speaker="7"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4833,7 +4833,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4877,7 +4877,7 @@
      </variants> <audio> <a dialect="xxx" href="languagememory3159" quality="9" speaker="7"/> </audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -4925,7 +4925,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5011,7 +5011,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5141,7 +5141,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5223,7 +5223,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5385,7 +5385,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5423,7 +5423,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5599,7 +5599,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5679,7 +5679,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5889,7 +5889,7 @@
        <comp drv="" ord="E2" pos="Suf" type="Der/Dimin"/> </compg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5945,7 +5945,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -5978,7 +5978,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6074,7 +6074,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6166,7 +6166,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6199,7 +6199,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6234,7 +6234,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3172" quality="1" speaker="8"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6268,7 +6268,7 @@
        <comp drv="" ord="E2" pos="Suf" type="Der/õs"/> </compg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6325,7 +6325,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6353,7 +6353,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6388,8 +6388,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory371" quality="1" speaker="8"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6485,7 +6485,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="1045"/>
+       <book name="KKS" page="1045"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6529,7 +6529,7 @@
      </variants> <audio> <a dialect="xxx" href="languagememory3229" quality="6" speaker="8"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6570,7 +6570,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6599,7 +6599,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3167" quality="1" speaker="8"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6639,7 +6639,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6674,7 +6674,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3166" quality="1" speaker="8"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6714,7 +6714,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6748,9 +6748,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="dict" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="dict" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6791,7 +6791,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6836,8 +6836,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="SKS" page="58"/>
+       <book name="AKU" type="db"/>
+       <book name="SKS" page="58"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6898,7 +6898,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3168" quality="1" speaker="8"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6938,7 +6938,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -6991,9 +6991,9 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="186A"/>
-       <src name="SKS" page="119"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="186A"/>
+       <book name="SKS" page="119"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7138,7 +7138,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3178" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7185,7 +7185,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="1046"/>
+       <book name="KKS" page="1046"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7260,7 +7260,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3177" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7334,7 +7334,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7380,7 +7380,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7472,7 +7472,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7499,7 +7499,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7526,7 +7526,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7562,7 +7562,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3120" quality="5" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7603,7 +7603,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7637,7 +7637,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="1046"/>
+       <book name="KKS" page="1046"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7670,7 +7670,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7718,7 +7718,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7747,7 +7747,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3183" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7795,8 +7795,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3187" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="SKS" page="77"/>
+       <book name="AKU" type="db"/>
+       <book name="SKS" page="77"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7835,7 +7835,7 @@
      </stg>
    </lg>
      <sources>
-       <src date="2016-08-23" name="Koltankieliset"/>
+       <book date="2016-08-23" name="Koltankieliset"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7862,7 +7862,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7897,7 +7897,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory383" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7945,7 +7945,7 @@
        <translit_cyr>Москк</translit_cyr> <audio> <a dialect="xxx" href="languagememory383" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -7986,7 +7986,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8061,7 +8061,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory384" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8136,7 +8136,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3174" quality="1" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8168,7 +8168,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8203,7 +8203,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3176" quality="6" speaker="9"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8243,7 +8243,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8303,7 +8303,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8343,9 +8343,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8497,7 +8497,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3180" quality="0" speaker="10"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8604,7 +8604,7 @@
    <lg>
      <l pos="N" type="Prop">Nijddkäärja</l>
      <etymology>
-       <etymon algu_lekseemi_id="2081" id="4853" xml_lang="sms">Nijddkäärja</etymon>
+       <etymon algu_lekseemi_id="2081" id="4853" xml:lang="sms">Nijddkäärja</etymon>
      </etymology>
      <stg>
        <st Contlex="PROP_" inflexId="::::1.4">Nijddkäärja</st>
@@ -8625,7 +8625,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="90:6"/>
+       <book name="KKS" page="90:6"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8749,8 +8749,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8804,8 +8804,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8862,8 +8862,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -8950,9 +8950,9 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="phon" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="phon" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9015,8 +9015,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="SKS" page="77"/>
-       <src name="KKS" page="296"/>
+       <book name="SKS" page="77"/>
+       <book name="KKS" page="296"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9069,7 +9069,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9413,7 +9413,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9441,7 +9441,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="N">Nilituvat</t>
-       <t pos="N">Nilituvat</t>
      </tg>
    </mg>
 </e>
@@ -9453,7 +9452,7 @@
      </stg>
    </lg>
      <sources>
-       <src date="2016-07-09" name="Koltankieliset"/>
+       <book date="2016-07-09" name="Koltankieliset"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9523,7 +9522,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9542,7 +9541,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9570,7 +9569,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9597,7 +9596,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9634,7 +9633,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9721,8 +9720,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="1047"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="1047"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9763,7 +9762,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3186" quality="1" speaker="10"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9803,7 +9802,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9837,7 +9836,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9898,7 +9897,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3102" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9964,7 +9963,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -9999,7 +9998,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3231" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10047,7 +10046,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10081,7 +10080,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10142,7 +10141,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3206" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="KKS" page="1048"/>
+       <book name="KKS" page="1048"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10182,7 +10181,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10218,8 +10217,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3105" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="1048"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="1048"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10269,8 +10268,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3109" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10306,7 +10305,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10342,7 +10341,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3112" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10417,8 +10416,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3188" quality="9" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="1048"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="1048"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10484,7 +10483,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10519,7 +10518,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3196" quality="1" speaker="11"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10553,8 +10552,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10616,7 +10615,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10739,7 +10738,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10800,8 +10799,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3198" quality="1" speaker="11"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10870,7 +10869,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10904,8 +10903,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -10939,7 +10938,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11018,7 +11017,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">Pummanki</t>
        <t pos="N">Pummanki</t>
      </tg>
    </mg>
@@ -11118,7 +11116,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11145,7 +11143,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="SKS" page="19"/>
+       <book name="SKS" page="19"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11232,7 +11230,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3235" quality="1" speaker="11"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11279,7 +11277,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11311,7 +11309,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11563,7 +11561,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11592,7 +11590,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3236" quality="1" speaker="11"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11639,7 +11637,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11873,8 +11871,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -11992,7 +11990,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12021,7 +12019,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3234" quality="1" speaker="11"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12064,7 +12062,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3233" quality="1" speaker="11"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12104,7 +12102,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12131,7 +12129,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12262,7 +12260,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12297,8 +12295,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3199" quality="3" speaker="12"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="1050"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="1050"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12416,7 +12414,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12477,7 +12475,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory403" quality="3" speaker="12"/> </audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12562,7 +12560,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12640,9 +12638,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="dict" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="dict" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12753,7 +12751,7 @@
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Ruõcc</l>
      <etymology>
-       <etymon algu_lekseemi_id="34684" id="86346" xml_lang="sms">Ruõcˈc</etymon>
+       <etymon algu_lekseemi_id="34684" id="86346" xml:lang="sms">Ruõcˈc</etymon>
      </etymology>
      <stg>
        <st Contlex="PROP_TOP_RUOCCC" inflexId="::::">Ruõcˈc</st>
@@ -12768,10 +12766,10 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="459:4"/>
-       <src lesson="dict" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="459:4"/>
+       <book lesson="dict" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12826,7 +12824,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12852,9 +12850,9 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="dict" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="dict" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12917,7 +12915,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="KKS" page="181"/>
+       <book name="KKS" page="181"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -12951,7 +12949,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13054,7 +13052,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13107,8 +13105,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="KKS" page="113"/>
-       <src name="SKS" page="661"/>
+       <book name="KKS" page="113"/>
+       <book name="SKS" page="661"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13143,7 +13141,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3200" quality="3" speaker="12"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13174,7 +13172,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13236,7 +13234,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3205" quality="1" speaker="13"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13267,7 +13265,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13287,8 +13285,8 @@
      </stg>
    </lg>
      <sources>
-       <src lesson="dict" name="kurss"/>
-       <src name="prop"/>
+       <book lesson="dict" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13385,8 +13383,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3103" quality="1" speaker="13"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13514,7 +13512,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3144" quality="1" speaker="13"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13562,7 +13560,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3209" quality="1" speaker="13"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13628,7 +13626,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13681,7 +13679,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13708,7 +13706,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13743,7 +13741,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3207" quality="1" speaker="13"/> </audio>
    </lg>
      <sources>
-       <src name="KKS" page="114"/>
+       <book name="KKS" page="114"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13834,7 +13832,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13899,7 +13897,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -13952,7 +13950,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14031,7 +14029,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14121,7 +14119,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14148,7 +14146,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14208,8 +14206,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3909" quality="1" speaker="13"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14245,7 +14243,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14264,7 +14262,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14388,7 +14386,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14455,7 +14453,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14493,7 +14491,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14526,7 +14524,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14586,7 +14584,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14626,7 +14624,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14650,7 +14648,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14685,7 +14683,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14715,7 +14713,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14749,7 +14747,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14781,7 +14779,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14800,7 +14798,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14836,7 +14834,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14862,7 +14860,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14899,7 +14897,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14939,7 +14937,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14964,7 +14962,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="KKS" page="116"/>
+       <book name="KKS" page="116"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -14998,7 +14996,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="1051"/>
+       <book name="KKS" page="1051"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15065,7 +15063,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3213" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15095,7 +15093,7 @@
    <lg>
      <l pos="N" sem_type="Plc" type="Prop">Taarr</l>
      <etymology>
-       <etymon algu_lekseemi_id="75580" id="219402" xml_lang="sms">Taarr</etymon>
+       <etymon algu_lekseemi_id="75580" id="219402" xml:lang="sms">Taarr</etymon>
      </etymology>
      <stg>
        <st Contlex="PROP_TOP_PAARR" inflexId="::::1.111">Taarr</st>
@@ -15116,8 +15114,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="573:3"/>
-       <src name="AKU" type="db"/>
+       <book name="KKS" page="573:3"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15149,9 +15147,9 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="2" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="2" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15196,7 +15194,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3217" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15243,7 +15241,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="SKS" page="130"/>
+       <book name="SKS" page="130"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15278,7 +15276,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3215" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15345,7 +15343,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15379,7 +15377,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15397,7 +15395,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15434,7 +15432,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3216" quality="0" speaker="14"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15482,7 +15480,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3219" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15530,7 +15528,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3220" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15597,7 +15595,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3221" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15689,7 +15687,7 @@
        <translit_cyr>Tуӕлˈлaм-ёкк</translit_cyr> <audio> <a dialect="xxx" href="languagememory6148" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
-       <src name="prop"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15825,8 +15823,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="KKS" page="479"/>
-       <src name="SKS" page="121"/>
+       <book name="KKS" page="479"/>
+       <book name="SKS" page="121"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15884,7 +15882,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -15969,7 +15967,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16031,7 +16029,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3214" quality="1" speaker="14"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16080,7 +16078,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16113,7 +16111,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16147,8 +16145,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16428,7 +16426,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16472,7 +16470,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16506,7 +16504,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16543,7 +16541,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3153" quality="3" speaker="15"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16591,7 +16589,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3224" quality="1" speaker="16"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16626,7 +16624,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16652,7 +16650,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16789,8 +16787,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src name="KKS" page="1054"/>
+       <book name="AKU" type="db"/>
+       <book name="KKS" page="1054"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16878,7 +16876,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3228" quality="1" speaker="16"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -16918,7 +16916,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17036,7 +17034,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17063,7 +17061,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17168,7 +17166,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17221,7 +17219,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17247,7 +17245,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17275,7 +17273,7 @@
    <lg>
      <l pos="N" type="Prop">Vuâsppåʹd</l>
      <etymology>
-       <etymon algu_lekseemi_id="80918" id="241171" xml_lang="sms">Vuâsppåʹd</etymon>
+       <etymon algu_lekseemi_id="80918" id="241171" xml:lang="sms">Vuâsppåʹd</etymon>
      </etymology>
      <stg>
        <st Contlex="PROP_VUYSPPOAQD" inflexId="::::1.22">Vuâsppå%^1VOWd</st>
@@ -17296,7 +17294,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="KKS" page="796:6"/>
+       <book name="KKS" page="796:6"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17613,7 +17611,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="KKS" page="1033"/>
+       <book name="KKS" page="1033"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17675,7 +17673,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3115" quality="1" speaker="16"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17723,7 +17721,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3116" quality="1" speaker="16"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17797,9 +17795,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="3" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="3" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17838,7 +17836,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17865,7 +17863,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="KKS" page="726"/>
+       <book name="KKS" page="726"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -17926,7 +17924,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3208" quality="4" speaker="0"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18019,7 +18017,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18046,7 +18044,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18072,7 +18070,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18145,9 +18143,9 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory370" quality="1" speaker="17"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="phon" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="phon" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18243,7 +18241,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="N">Heinäsaaret</t>
-       <t pos="N">Heinäsaaret</t>
      </tg>
    </mg>
 </e>
@@ -18315,10 +18312,10 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="3" name="kurss"/>
-       <src name="prop"/>
-       <src name="sjm" type="db"/>
+       <book name="AKU" type="db"/>
+       <book lesson="3" name="kurss"/>
+       <book name="prop"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18394,7 +18391,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3111" quality="9" speaker="17"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18442,9 +18439,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="6" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="6" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18534,7 +18531,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3101" quality="9" speaker="17"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18575,7 +18572,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18609,7 +18606,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18657,7 +18654,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3100" quality="9" speaker="17"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18698,7 +18695,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18731,7 +18728,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18759,7 +18756,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18788,8 +18785,8 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3110" quality="1" speaker="17"/> </audio>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
-       <src name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18838,7 +18835,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18873,7 +18870,7 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3130" quality="9" speaker="17"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18912,7 +18909,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18952,7 +18949,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -18985,7 +18982,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19012,7 +19009,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19046,7 +19043,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19078,7 +19075,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19111,7 +19108,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19137,7 +19134,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19196,7 +19193,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19230,7 +19227,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19254,7 +19251,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19360,9 +19357,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19400,7 +19397,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19542,7 +19539,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19569,7 +19566,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19700,7 +19697,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19727,7 +19724,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19780,7 +19777,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19798,7 +19795,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="sjm" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -19986,7 +19983,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -20060,7 +20057,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -20182,7 +20179,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -20204,7 +20201,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -20223,7 +20220,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -20253,9 +20250,9 @@
      </mini_paradigm> <audio> <a dialect="xxx" href="languagememory3160" quality="2" speaker="22"/> </audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="3" name="kurss"/>
-       <src name="prop"/>
+       <book name="AKU" type="db"/>
+       <book lesson="3" name="kurss"/>
+       <book name="prop"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -20290,7 +20287,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -20334,7 +20331,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>

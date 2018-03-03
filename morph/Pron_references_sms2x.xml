@@ -4,7 +4,8 @@
 		<lg>
 			<l pos="Pron" type="Pers">muʹnne</l>
 			<lemma_ref lemmaID="mon_Pron_Pers">mon</lemma_ref>
-			<analysis>Pron_Pers_Sg_Ill</analysis>
+			<analysis>Pron_Pers_Sg_Ill
+       </analysis>
 		</lg>
 		<sources>
          </sources>
@@ -13,8 +14,7 @@
 </semantics>
 			<tg xml:lang="eng">
 				<t pos="Pron" type="Pers">to me</t>
-				<t>
-                </t>
+				<t> </t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="Pron" type="Pers">minuun, minulle</t>
@@ -25,7 +25,8 @@
 		<lg>
 			<l pos="Pron" type="Pers">tuʹnne</l>
 			<lemma_ref lemmaID="mon_Pron_Pers">ton</lemma_ref>
-			<analysis>Pron_Pers_Sg_Ill</analysis>
+			<analysis>Pron_Pers_Sg_Ill
+       </analysis>
 		</lg>
 		<sources>
          </sources>
@@ -34,8 +35,7 @@
 </semantics>
 			<tg xml:lang="eng">
 				<t pos="Pron" type="Pers">to you</t>
-				<t>
-                </t>
+				<t> </t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="Pron" type="Pers">sinuun, sinulle</t>
@@ -46,7 +46,8 @@
 		<lg>
 			<l pos="Pron" type="Pers">suʹnne</l>
 			<lemma_ref lemmaID="mon_Pron_Pers">son</lemma_ref>
-			<analysis>Pron_Pers_Sg_Ill</analysis>
+			<analysis>Pron_Pers_Sg_Ill
+       </analysis>
 		</lg>
 		<sources>
          </sources>
@@ -65,7 +66,8 @@
 		<lg>
 			<l pos="Pron" type="Pers">muutää</l>
 			<lemma_ref lemmaID="mon_Pron_Pers">mon</lemma_ref>
-			<analysis>Pron_Pers_Sg_Abe</analysis>
+			<analysis>Pron_Pers_Sg_Abe
+       </analysis>
 		</lg>
 		<sources>
          </sources>
@@ -84,7 +86,8 @@
 		<lg>
 			<l pos="Pron" type="Pers">tuutää</l>
 			<lemma_ref lemmaID="mon_Pron_Pers">ton</lemma_ref>
-			<analysis>Pron_Pers_Sg_Abe</analysis>
+			<analysis>Pron_Pers_Sg_Abe
+       </analysis>
 		</lg>
 		<sources>
          </sources>
@@ -103,7 +106,8 @@
 		<lg>
 			<l pos="Pron" type="Pers">suutää</l>
 			<lemma_ref lemmaID="mon_Pron_Pers">son</lemma_ref>
-			<analysis>Pron_Pers_Sg_Abe</analysis>
+			<analysis>Pron_Pers_Sg_Abe
+       </analysis>
 		</lg>
 		<sources>
          </sources>
@@ -138,7 +142,7 @@
 			</compg>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -169,18 +173,62 @@
 			</xg>
 		</mg>
 	</e>
-	<e exclude="fst" order="1">
-		<map/>
+	<e id="fm_1318">
+		<map fin_lemma_id="16867" stamp="fm_1318:sml_14606"/>
+		<rev-sort_key>nnåum</rev-sort_key>
 		<lg>
 			<l pos="Pron">muånn</l>
 			<etymology>
-     </etymology>
+</etymology>
 			<stg>
-     </stg>
-			<compg> </compg>
+				<st Contlex="PRON_" inflexId="::::1.111">muånn</st>
+			</stg>
+			<inc-audio>
+				<c name="ID_Audio">1319</c>
+				<c name="Reader">9</c>
+				<c name="Recording">1</c>
+				<c name="included">yes</c>
+			</inc-audio>
+			<compg>
+</compg>
+			<mini_paradigm>
+				<analysis ms="Sg_Gen">
+					<wordform>muån</wordform>
+				</analysis>
+				<analysis ms="Sg_Ill">
+					<wordform>mueʹnne</wordform>
+				</analysis>
+			</mini_paradigm>
 		</lg>
 		<sources>
-         </sources>
+			<book name="KKS" page="262:7" type="book"/>
+		</sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="deu">
+				<t pos="Pron">Paar</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="Pron">couple</t>
+				<t pos="Pron">pair</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">pari</t>
+				<t pos="Pron">noin kaksi</t>
+				<t pos="Pron">muutama</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="Pron">par</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="Pron">пара</t>
+			</tg>
+			<xg>
+				<x src="NM1 09836_1a 0:06:40">Sami pääʹres äiʹǧǧ gu lij, kueʹhtt neäʹttel äiʹǧǧ, teʹl kueʹdde muåni õhttna.</x>
+				<xt xml:lang="fin">Kun on kaikkein paras aika, kahden viikon aika, silloin vasoo muutama [vaadin] yht</xt>
+			</xg>
+		</mg>
 	</e>
 	<e exclude="fst" order="1">
 		<lg>
@@ -208,8 +256,8 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src BEDLAN_ID="191" name="200"/>
+			<book name="AKU" type="db"/>
+			<book BEDLAN_ID="191" name="200"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -254,7 +302,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -483,7 +531,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -531,7 +579,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -659,7 +707,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -824,7 +872,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -860,7 +908,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -966,7 +1014,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1010,7 +1058,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1175,7 +1223,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1342,7 +1390,7 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1515,7 +1563,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1646,7 +1694,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="fm" type="book"/>
+			<book name="fm" type="book"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1691,9 +1739,9 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src lesson="3" name="kurss"/>
-			<src BEDLAN_ID="153" name="200"/>
+			<book name="AKU" type="db"/>
+			<book lesson="3" name="kurss"/>
+			<book BEDLAN_ID="153" name="200"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1752,7 +1800,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1783,7 +1831,7 @@
 			<l pos="Pron" type="Interr">mii</l>
 			<etymology>
 				<etymon source="uralic" type="inher">mɜ</etymon>
-				<cognate xml_lang="sjd">мӣ</cognate>
+				<cognate xml:lang="sjd">мӣ</cognate>
 			</etymology>
 			<stg>
 				<st Contlex="PRON-INTERR_" inflexId="::::1000">mii</st>
@@ -1807,7 +1855,7 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1873,7 +1921,7 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1917,13 +1965,13 @@
 			</inc-audio>
 			<etymology>
 				<etymon source="uralic" type="inher">mɤ̈</etymon>
-				<cognate xml_lang="sjd">мыйй</cognate>
+				<cognate xml:lang="sjd">мыйй</cognate>
 			</etymology>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src BEDLAN_ID="*188" name="200"/>
-			<src name="100"/>
+			<book name="AKU" type="db"/>
+			<book BEDLAN_ID="*188" name="200"/>
+			<book name="100"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -1989,7 +2037,7 @@
 			</mini_paradigm>
 			<etymology>
 				<etymon source="uralic" type="inher">mɜn-</etymon>
-				<cognate xml_lang="sjd">мунн</cognate>
+				<cognate xml:lang="sjd">мунн</cognate>
 			</etymology>
 			<inc-audio>
 				<c name="ID_Audio">2182</c>
@@ -2003,82 +2051,10 @@
 			</inc-sampling>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src lesson="1" name="kurss"/>
-			<src BEDLAN_ID="*82" name="200"/>
-			<src name="100"/>
-		</sources>
-		<mg relId="0">
-			<semantics>
-				<sem class="HUMAN">PEOPLE</sem>
-			</semantics>
-			<tg xml:lang="deu">
-				<t pos="Pron" type="Pers">ich</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="Pron" type="Pers">I</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="Pron" type="Pers">minä</t>
-			</tg>
-			<tg xml:lang="hun">
-				<t pos="Pron" type="Pers">én</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="Pron">jeg</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="Pron">я</t>
-			</tg>
-			<tg xml:lang="sjd">
-				<t pos="Pron" type="Pers">мунн</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="Pron">månna</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="Pron" type="Pers">mun</t>
-				<t pos="Pron" type="Pers">mon</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="gt_Pro_4" meta="03">
-		<map fin_lemma_id="13832" stamp="gt_Pro_4:fm_2181:sml_14116"/>
-		<rev-sort_key>nom</rev-sort_key>
-		<lg>
-			<l pos="Pron" type="Pers">mon</l>
-			<stg>
-				<st Contlex="PRON-PERS-SG1_" inflexId="::::1000">m</st>
-			</stg>
-			<compg> </compg>
-			<mini_paradigm>
-				<analysis ms="Pron_Pers_Sg1_Gen">
-					<wordform>muu</wordform>
-				</analysis>
-				<analysis ms="Pron_Pers_Sg1_Ill">
-					<wordform>muʹnne</wordform>
-				</analysis>
-			</mini_paradigm>
-			<etymology>
-				<etymon source="uralic" type="inher">mɜn-</etymon>
-				<cognate xml_lang="sjd">мунн</cognate>
-			</etymology>
-			<inc-audio>
-				<c name="ID_Audio">2182</c>
-				<c name="Reader">9</c>
-				<c name="Recording">1</c>
-				<c name="included">yes</c>
-			</inc-audio>
-			<inc-sampling>
-				<c name="Swadesh100">1</c>
-				<c name="Swadesh200">1</c>
-			</inc-sampling>
-		</lg>
-		<sources>
-			<src name="AKU" type="db"/>
-			<src lesson="1" name="kurss"/>
-			<src BEDLAN_ID="*82" name="200"/>
-			<src name="100"/>
+			<book name="AKU" type="db"/>
+			<book lesson="1" name="kurss"/>
+			<book BEDLAN_ID="*82" name="200"/>
+			<book name="100"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2129,7 +2105,7 @@
 			</compg>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2164,7 +2140,7 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2202,7 +2178,7 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2288,7 +2264,7 @@
 			</inc-audio>
 			<etymology>
 				<etymon source="kolasaamic" type="inher"/>
-				<cognate xml_lang="sjd">пугк</cognate>
+				<cognate xml:lang="sjd">пугк</cognate>
 			</etymology>
 			<mini_paradigm>
 				<analysis ms="Pl_Ill">
@@ -2297,10 +2273,10 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src lesson="3" name="kurss"/>
-			<src BEDLAN_ID="*1" name="200"/>
-			<src name="100"/>
+			<book name="AKU" type="db"/>
+			<book lesson="3" name="kurss"/>
+			<book BEDLAN_ID="*1" name="200"/>
+			<book name="100"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2382,8 +2358,8 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src BEDLAN_ID="170" name="200"/>
+			<book name="AKU" type="db"/>
+			<book BEDLAN_ID="170" name="200"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2474,9 +2450,9 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src lesson="1" name="kurss"/>
-			<src BEDLAN_ID="70" name="200"/>
+			<book name="AKU" type="db"/>
+			<book lesson="1" name="kurss"/>
+			<book BEDLAN_ID="70" name="200"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2525,7 +2501,7 @@
 			</stg>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2551,7 +2527,7 @@
 			</stg>
 		</lg>
 		<sources>
-			<src name="sjm" type="db"/>
+			<book name="sjm" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2642,8 +2618,8 @@
 			</inc-audio>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src BEDLAN_ID="206" name="200"/>
+			<book name="AKU" type="db"/>
+			<book BEDLAN_ID="206" name="200"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2692,7 +2668,7 @@
 			</inc-audio>
 			<etymology>
 				<etymon source="uralic" type="inher" variant="tə̑n">tun</etymon>
-				<cognate xml_lang="sjd">то̄нн</cognate>
+				<cognate xml:lang="sjd">то̄нн</cognate>
 			</etymology>
 			<mini_paradigm>
 				<analysis ms="Pron_Pers_Sg_Gen">
@@ -2704,10 +2680,10 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src lesson="1" name="kurss"/>
-			<src BEDLAN_ID="*207" name="200"/>
-			<src name="100"/>
+			<book name="AKU" type="db"/>
+			<book lesson="1" name="kurss"/>
+			<book BEDLAN_ID="*207" name="200"/>
+			<book name="100"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2756,7 +2732,7 @@
 			</stg>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2779,7 +2755,7 @@
 			</stg>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2820,7 +2796,7 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
+			<book name="AKU" type="db"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2910,7 +2886,7 @@
 			<etymology>
 				<etymon source="U?" type="inher">ke</etymon>
 				<etymon source="FU" type="inher">ke</etymon>
-				<cognate xml_lang="sjd">ке̄</cognate>
+				<cognate xml:lang="sjd">ке̄</cognate>
 			</etymology>
 			<mini_paradigm>
 				<analysis ms="Pron_Pers_Sg_Gen">
@@ -2922,10 +2898,10 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src lesson="1" name="kurss"/>
-			<src BEDLAN_ID="*194" name="200"/>
-			<src name="100"/>
+			<book name="AKU" type="db"/>
+			<book lesson="1" name="kurss"/>
+			<book BEDLAN_ID="*194" name="200"/>
+			<book name="100"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -2977,7 +2953,7 @@
 			<etymology>
 				<etymon source="U?" type="inher">ke</etymon>
 				<etymon source="FU" type="inher">ke</etymon>
-				<cognate xml_lang="sjd">ке̄</cognate>
+				<cognate xml:lang="sjd">ке̄</cognate>
 			</etymology>
 			<mini_paradigm>
 				<analysis ms="Pron_Pers_Sg_Nom">
@@ -2989,10 +2965,10 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src lesson="1" name="kurss"/>
-			<src BEDLAN_ID="*194" name="200"/>
-			<src name="100"/>
+			<book name="AKU" type="db"/>
+			<book lesson="1" name="kurss"/>
+			<book BEDLAN_ID="*194" name="200"/>
+			<book name="100"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -3058,7 +3034,7 @@
 			<etymology>
 				<etymon source="U?" type="inher">ke</etymon>
 				<etymon source="FU" type="inher">ke</etymon>
-				<cognate xml_lang="sjd">ке̄</cognate>
+				<cognate xml:lang="sjd">ке̄</cognate>
 			</etymology>
 			<mini_paradigm>
 				<analysis ms="Pron_Pers_Sg_Gen">
@@ -3070,10 +3046,10 @@
 			</mini_paradigm>
 		</lg>
 		<sources>
-			<src name="AKU" type="db"/>
-			<src lesson="1" name="kurss"/>
-			<src BEDLAN_ID="*194" name="200"/>
-			<src name="100"/>
+			<book name="AKU" type="db"/>
+			<book lesson="1" name="kurss"/>
+			<book BEDLAN_ID="*194" name="200"/>
+			<book name="100"/>
 		</sources>
 		<mg relId="0">
 			<semantics>
@@ -3142,30 +3118,6 @@
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="Pron">каждый</t>
-			</tg>
-		</mg>
-	</e>
-	<e exclude="fst" order="1">
-		<map/>
-		<lg>
-			<l pos="Pron">ǩii-ne</l>
-			<etymology>
-</etymology>
-			<stg>
-</stg>
-			<compg>
-</compg>
-		</lg>
-		<sources>
-         </sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="eng">
-				<t pos="Pron">somebody</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="Pron">joku</t>
 			</tg>
 		</mg>
 	</e>

@@ -24,9 +24,9 @@
      </etymology> <compg> </compg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
-       <src name="KKS" page="1:1" type="book"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
+       <book name="KKS" page="1:1" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -84,8 +84,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="6" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="6" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -121,7 +121,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -156,9 +156,9 @@
      </etymology> <compg> </compg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
-       <src BEDLAN_ID="2" name="200"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
+       <book BEDLAN_ID="2" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -223,8 +223,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src BEDLAN_ID="2" name="200"/>
+       <book name="AKU" type="db"/>
+       <book BEDLAN_ID="2" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -276,8 +276,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src BEDLAN_ID="2" name="200"/>
+       <book name="AKU" type="db"/>
+       <book BEDLAN_ID="2" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -317,7 +317,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -342,8 +342,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src BEDLAN_ID="2" name="200"/>
+       <book name="AKU" type="db"/>
+       <book BEDLAN_ID="2" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -396,8 +396,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="1" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="1" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -470,7 +470,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -503,7 +503,7 @@
      </etymology>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -644,7 +644,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -682,8 +682,8 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
-       <src lesson="6" name="kurss"/>
+       <book name="AKU" type="db"/>
+       <book lesson="6" name="kurss"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -725,7 +725,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -764,7 +764,7 @@
      </stg>
    </lg>
      <sources>
-       <src name="AKU" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
