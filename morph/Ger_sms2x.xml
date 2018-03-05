@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="sms">
-<e id="fm_6061">
+<e exclude="fst" id="fm_6061">
    <map fin_lemma_id="" stamp="fm_6061"/>
    <rev-sort_key>setseelʹäej</rev-sort_key>
    <lg>
@@ -26,7 +26,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_5759">
+<e exclude="fst" id="fm_5759">
    <map fin_lemma_id="" stamp="fm_5759"/>
    <rev-sort_key>ianâǩjjʹeuj</rev-sort_key>
    <lg>
@@ -63,7 +63,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_2257">
+<e exclude="fst" id="fm_2257">
    <map fin_lemma_id="" stamp="fm_2257"/>
    <rev-sort_key>ianâǩejkˈkâuj</rev-sort_key>
    <lg>
@@ -100,7 +100,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_2288">
+<e exclude="fst" id="fm_2288">
    <map fin_lemma_id="" stamp="fm_2288"/>
    <rev-sort_key>ianâǩejttsâuk</rev-sort_key>
    <lg>
@@ -137,7 +137,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="8647"/>
    <lg>
      <l pos="Ger">kääʹʒʒeeʹl</l>
@@ -156,7 +156,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="13893"/>
    <lg>
      <l pos="Ger">lääiteeʹl</l>
@@ -175,7 +175,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="13557"/>
    <lg>
      <l pos="Ger">mõõneeʹn</l>
@@ -194,7 +194,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="22317"/>
    <lg>
      <l pos="Ger">põõššeeʹl</l>
@@ -213,7 +213,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_2763">
+<e exclude="fst" id="fm_2763">
    <map fin_lemma_id="20382::" stamp="fm_2763:sml_22042"/>
    <rev-sort_key>inâǩtsiir</rev-sort_key>
    <lg>
@@ -252,7 +252,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_2764">
+<e exclude="fst" id="fm_2764">
    <map fin_lemma_id="22890::" stamp="fm_2764:sml_25477"/>
    <rev-sort_key>ianâǩdduus</rev-sort_key>
    <lg>
@@ -290,7 +290,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="12578"/>
    <lg>
      <l pos="Ger">tuâddeeʹl</l>
@@ -310,7 +310,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_18">
+<e exclude="fst" id="fm_18">
    <map fin_lemma_id="" stamp="fm_18"/>
    <rev-sort_key>leečrʹuu</rev-sort_key>
    <lg>
@@ -343,7 +343,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="27575"/>
    <lg>
      <l pos="Ger">vaareeʹl</l>
@@ -363,7 +363,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_5769">
+<e exclude="fst" id="fm_5769">
    <map fin_lemma_id="" stamp="fm_5769"/>
    <rev-sort_key>inâǩnʹieuv</rev-sort_key>
    <lg>
@@ -400,7 +400,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_469">
+<e exclude="fst" id="fm_469">
    <map fin_lemma_id="" stamp="fm_469"/>
    <rev-sort_key>leeʒʒʹääv</rev-sort_key>
    <lg>
@@ -427,7 +427,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_19">
+<e exclude="fst" id="fm_19">
    <map fin_lemma_id="" stamp="fm_19"/>
    <rev-sort_key>lʹeegiõuč</rev-sort_key>
    <lg>
@@ -464,7 +464,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="22317"/>
    <lg>
      <l pos="Ger">čõõnneeʹl</l>
@@ -483,7 +483,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_5752">
+<e exclude="fst" id="fm_5752">
    <map fin_lemma_id="23421::" stamp="fm_5752:sml_26642"/>
    <rev-sort_key>inâǩddõõš</rev-sort_key>
    <lg>
@@ -521,7 +521,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_254">
+<e exclude="fst" id="fm_254">
    <map fin_lemma_id="" stamp="fm_254"/>
    <rev-sort_key>leedrʹeeǩ</rev-sort_key>
    <lg>
@@ -541,7 +541,8 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="eng"> <t/>
+     <tg xml:lang="eng">
+       <t>flying</t>
      </tg>
      <tg xml:lang="fin">
        <t>lentäen</t>
