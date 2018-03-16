@@ -394,6 +394,8 @@
        <c name="Recording">1</c>
        <c name="included">yes</c>
      </inc-audio>
+     <etymology>
+     </etymology> <compg> </compg>
    </lg>
      <sources>
        <book name="AKU" type="db"/>
@@ -413,9 +415,6 @@
        <t pos="CC">mutta</t>
        <t pos="CC">vaan</t>
        <t pos="CS">kunhan</t>
-       <t pos="CS">saati</t>
-       <t pos="CS">silti</t>
-       <t pos="CS">vaikka</t>
        <t pos="Adv">vain</t>
      </tg>
      <tg xml:lang="nob">
@@ -427,7 +426,8 @@
        <t pos="CS">enda</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="CC">но, а, однако</t>
+       <t pos="CC">но</t>
+       <t pos="CC">а</t>
      </tg>
      <tg xml:lang="sme">
        <t pos="CC">muhto</t>

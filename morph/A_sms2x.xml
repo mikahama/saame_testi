@@ -392,7 +392,7 @@
    <lg>
      <l pos="A">aauntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">aauntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">aauntẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
            <wordform>aaunteʹmes</wordform>
@@ -422,7 +422,7 @@
    <lg>
      <l pos="A">aaunteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">aauntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">aauntẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Attr">
            <wordform>aaunteʹmes</wordform>
@@ -891,7 +891,7 @@
    <lg>
      <l pos="A">akuutt</l>
      <stg>
-       <st Contlex="A_PLAAN">akuutt</st>
+       <st Contlex="A_PLAAN">akuut%{ʹØ%}t</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>=</wordform>
@@ -1092,7 +1092,7 @@
    <lg>
      <l pos="A" status="recommendation">anaal</l>
      <stg>
-       <st Contlex="A_PLAAN">anaal</st>
+       <st Contlex="A_PLAAN">anaa%{ʹØ%}l</st>
      </stg>
    </lg>
      <sources>
@@ -1116,7 +1116,7 @@
    <lg>
      <l pos="A">anonyym</l>
      <stg>
-       <st Contlex="A_PLAAN">anonyym</st>
+       <st Contlex="A_PLAAN">anonyy%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -1437,7 +1437,7 @@
        <etymon algu_lekseemi_id="63058" id="166757" xml:lang="sms">aʹlǩǩi</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_JIOQNNI" inflexId="::::1.2">alkk</st>
+       <st Contlex="A_JIOQNNI" inflexId="::::1.2">a%{ʹØ%}lkk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1552</c>
@@ -1502,7 +1502,7 @@
    <lg>
      <l pos="A">aʹrvveemnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">aʹrvveemnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">aʹrvveemnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
@@ -1526,7 +1526,7 @@
    <lg>
      <l pos="A">aʹrvvtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">aʹrvvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">aʹrvvtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
            <wordform>aʹrvvteʹmes</wordform>
@@ -1556,7 +1556,7 @@
    <lg>
      <l pos="A">aʹrvvteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">aʹrvvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">aʹrvvtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Attr">
            <wordform>aʹrvvteʹmes</wordform>
@@ -1585,7 +1585,7 @@
    <lg>
      <l pos="A">aʹŋǧǧlinallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">aʹŋǧǧlinallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">aʹŋǧǧlinallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
@@ -1651,7 +1651,7 @@
    <lg>
      <l pos="A">beâddjõs</l>
      <stg>
-       <st Contlex="A_SAJOS">beâddjõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">beâddjõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-jõõzz</wordform>
@@ -1775,7 +1775,7 @@
    <lg>
      <l pos="A">bleʹtǩǩ</l>
      <stg>
-       <st Contlex="A_KHEQRJJ" inflexId="::::1.113">blẹ%^1VOWtkk</st>
+       <st Contlex="A_KHEQRJJ" inflexId="::::1.113">blẹ%^1VOW%{ʹØ%}tkk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1776</c>
@@ -1866,7 +1866,7 @@
    <lg>
      <l pos="A">briljantt</l>
      <stg>
-       <st Contlex="A_ALGG">brilja%^1VOWntt</st>
+       <st Contlex="A_ALGG">brilja%^1VOW%{ʹØ%}ntt</st>
      </stg>
    </lg>
      <sources>
@@ -2289,7 +2289,7 @@
    <lg>
      <l pos="A">cieʹlǩtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">cieʹlǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">cieʹlǩtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-teeʹm</wordform>
@@ -2319,7 +2319,7 @@
    <lg>
      <l pos="A">cieʹlǩteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">cieʹlǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">cieʹlǩtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Pl_Nom">
            <wordform>-teeʹm</wordform>
@@ -2393,7 +2393,7 @@
        <l_attr>ciistˈteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">ciistˈtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">ciistˈtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1474</c>
@@ -2437,7 +2437,7 @@
        <l_attr>ciistʼteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">ciistʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">ciistʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1474</c>
@@ -2483,7 +2483,7 @@
    <lg>
      <l pos="A">ciistʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ciistʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ciistʼtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Pl_Nom">
            <wordform>-teeʹm</wordform>
@@ -2713,7 +2713,7 @@
        <l_var>cuäʹǩǩ</l_var>
      </variants>
      <stg>
-       <st Contlex="A_SUEAQKHKH" inflexId="::::3.11">cuäkk</st>
+       <st Contlex="A_SUEAQKHKH" inflexId="::::3.11">cuä%{ʹØ%}kk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3546</c>
@@ -2816,7 +2816,7 @@
    <lg>
      <l pos="A">cuõpcc</l>
      <stg>
-       <st Contlex="A_CHUOSHKK">cuõpcc</st>
+       <st Contlex="A_CHUOSHKK">cuõ%{ʹØ%}pcc</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>cuõpc</wordform>
@@ -2982,7 +2982,7 @@
    <lg>
      <l pos="A">cõggâmnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">cõggâmnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">cõggâmnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
@@ -3229,7 +3229,7 @@
    <lg>
      <l pos="A">cõõǥteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">cõõǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">cõõǥtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Pl_Nom">
            <wordform>-teeʹm</wordform>
@@ -3259,7 +3259,7 @@
    <lg>
      <l pos="A">cõõǥǥtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">cõõǥǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">cõõǥǥtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>cõõǥǥteeʹm</wordform>
@@ -3590,7 +3590,7 @@
    <lg>
      <l pos="A">eeuʹntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">eeuʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">eeuʹntẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
            <wordform>eeuʹnteʹmes</wordform>
@@ -3620,7 +3620,7 @@
    <lg>
      <l pos="A">eeuʹnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">eeuʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">eeuʹntẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Attr">
            <wordform>eeuʹnteʹmes</wordform>
@@ -3710,7 +3710,7 @@
        <l_attr>eeʹjjteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">eeʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">eeʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1681</c>
@@ -3756,7 +3756,7 @@
        <l_attr>eeʹjjteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">eeʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">eeʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1681</c>
@@ -3981,7 +3981,7 @@
    <lg>
      <l pos="A" status="recommendation">eksaktt</l>
      <stg>
-       <st Contlex="A_ALGG">eksa%^1VOWktt</st>
+       <st Contlex="A_ALGG">eksa%^1VOW%{ʹØ%}ktt</st>
      </stg>
    </lg>
      <sources>
@@ -4334,7 +4334,7 @@
        <etymon algu_lekseemi_id="65745" id="181770" xml:lang="sms">eʹbll</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KHEQRJJ" inflexId="::::3.11">ẹ%^1VOWbll</st>
+       <st Contlex="A_KHEQRJJ" inflexId="::::3.11">ẹ%^1VOW%{ʹØ%}bll</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2054</c>
@@ -4379,7 +4379,7 @@
    <lg>
      <l pos="A">eʹmmelnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">eʹmmẹlnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">eʹmmẹlnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -4616,7 +4616,7 @@
    <lg>
      <l pos="A" status="recommendation">finaal</l>
      <stg>
-       <st Contlex="A_PLAAN">finaal</st>
+       <st Contlex="A_PLAAN">finaa%{ʹØ%}l</st>
      </stg>
    </lg>
      <sources>
@@ -4642,7 +4642,7 @@
    <lg>
      <l pos="A">firskksmemnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">firskksmemnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">firskksmemnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
@@ -4794,7 +4794,7 @@
    <lg>
      <l pos="A">friskk</l>
      <stg>
-       <st Contlex="A_ALGG" inflexId="::::3.11">fri%^1VOWskk</st>
+       <st Contlex="A_ALGG" inflexId="::::3.11">fri%^1VOW%{ʹØ%}skk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2219</c>
@@ -4990,7 +4990,7 @@
        <etymon algu_lekseemi_id="64454" id="174230" xml:lang="sms">fâʹstt</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAQLBB" inflexId="::::3.11">fâ%^1VOWstt</st>
+       <st Contlex="A_KAQLBB" inflexId="::::3.11">fâ%^1VOW%{ʹØ%}stt</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5751</c>
@@ -5349,7 +5349,7 @@
    <lg>
      <l pos="A">haajjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">haajjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">haajjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
@@ -5373,7 +5373,7 @@
    <lg>
      <l pos="A">haajjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">haajjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">haajjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -5896,7 +5896,7 @@
    <lg>
      <l pos="A">heäʹrvvnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">heäʹrvvnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">heäʹrvvnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -5957,7 +5957,7 @@
        <l_var>heäʹnn</l_var>
      </variants>
      <stg>
-       <st Contlex="A_HIEAQNN" inflexId="::::">heänn</st>
+       <st Contlex="A_HIEAQNN" inflexId="::::">heä%{ʹØ%}nn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1922</c>
@@ -6231,7 +6231,7 @@
        <etymon algu_lekseemi_id="64668" id="175335" xml:lang="sms">hiâlpp</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_MIYRKK" inflexId="::::3.11">hiâlpp</st>
+       <st Contlex="A_MIYRKK" inflexId="::::3.11">hiâ%{ʹØ%}lpp</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1553</c>
@@ -6367,7 +6367,7 @@
    <lg>
      <l pos="A">hiõʹrvvi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">hiõrvv</st>
+       <st Contlex="A_JIOQNNI">hiõ%{ʹØ%}rvv</st>
      </stg>
    </lg>
      <sources>
@@ -6553,7 +6553,7 @@
    <lg>
      <l pos="A">hueʹnmõs</l>
      <stg>
-       <st Contlex="A_SAJOS">hueʹnmõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">hueʹnmõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">-mõõzz
        </analysis>
@@ -6584,7 +6584,7 @@
        <etymon algu_lekseemi_id="65495" id="180537" xml:lang="sms">hueʹnn</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KUEQLL" inflexId="::::3.11">huânn</st>
+       <st Contlex="A_KUEQLL" inflexId="::::3.11">huâ%{ʹØ%}nn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">810</c>
@@ -6773,7 +6773,7 @@
        <l_syn>peʹcclateʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">huõltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">huõltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1124</c>
@@ -6838,7 +6838,7 @@
        <l_syn>peʹcclateʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">huõltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">huõltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1124</c>
@@ -7194,7 +7194,7 @@
    <lg>
      <l pos="A">häämtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">häämtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">häämtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -7213,7 +7213,7 @@
    <lg>
      <l pos="A">häämteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">häämtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">häämtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -7251,7 +7251,7 @@
    <lg>
      <l pos="A">hääʹrvesnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">hääʹrvesnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">hääʹrvesnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -7274,7 +7274,7 @@
        <etymon algu_lekseemi_id="64634" id="174998" xml:lang="sms">hääʹsǩ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_HAAQSKH" inflexId="::40e::3.11">hääsk</st>
+       <st Contlex="A_HAAQSKH" inflexId="::40e::3.11">hää%{ʹØ%}sk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2731</c>
@@ -7335,7 +7335,7 @@
    <lg>
      <l pos="A">häʹlbb</l>
      <stg>
-       <st Contlex="A_KAQLBB" inflexId="::::3.11">hä%^1VOWlbb</st>
+       <st Contlex="A_KAQLBB" inflexId="::::3.11">hä%^1VOW%{ʹØ%}lbb</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1161</c>
@@ -7382,7 +7382,7 @@
    <lg>
      <l pos="A">häʹrvv</l>
      <stg>
-       <st Contlex="A_KAQLBB" inflexId="::::3.11">hä%^1VOWrvv</st>
+       <st Contlex="A_KAQLBB" inflexId="::::3.11">hä%^1VOW%{ʹØ%}rvv</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1703</c>
@@ -8115,7 +8115,7 @@
    <lg>
      <l pos="A">intiim</l>
      <stg>
-       <st Contlex="A_PLAAN" NumContlex="1.22">intiim</st>
+       <st Contlex="A_PLAAN" NumContlex="1.22">intii%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -8542,7 +8542,7 @@
    <lg>
      <l pos="A">jeeʹrabnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jeeʹrabnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jeeʹrabnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -8553,7 +8553,7 @@
    <lg>
      <l pos="A">jeeʹrenallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">jeeʹrenallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">jeeʹrenallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -8611,7 +8611,7 @@
    <lg>
      <l pos="A">jeeʹresnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::1.22">jeeʹresnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::1.22">jeeʹresnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1458</c>
@@ -9317,7 +9317,7 @@
    <lg>
      <l pos="A">jieʹrr</l>
      <stg>
-       <st Contlex="A_HIEAQNN">jeärr</st>
+       <st Contlex="A_HIEAQNN">jeä%{ʹØ%}rr</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>jeäʹr</wordform>
@@ -9438,7 +9438,7 @@
    <lg>
      <l pos="A">jiijjâsnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jiijjâsnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jiijjâsnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -9474,7 +9474,7 @@
    <lg>
      <l pos="A">jiijjâznallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">jiijjâz#nallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">jiijjâz#nallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="Det:A»A" type="Cmp">
        <comp ms="Det.Sg.Gen.PxPl3" ord="E1" pos="Det">jiõčč</comp>
@@ -9500,7 +9500,7 @@
    <lg>
      <l pos="A">jiiʹjjesnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jiiʹjjesnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jiiʹjjesnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -9522,7 +9522,7 @@
    <lg>
      <l pos="A">jiiʹjjesnallšeʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jiiʹjjesnallše%^1VOWʹm</st>
+       <st Contlex="A_NALLSHEM">jiiʹjjesnallše%^1VOWʹ%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -9704,7 +9704,7 @@
    <lg>
      <l pos="A">jiõggtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jiõggtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jiõggtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -9724,7 +9724,7 @@
    <lg>
      <l pos="A">jiõggteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jiõggtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jiõggtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -9860,7 +9860,7 @@
    <lg>
      <l pos="A">jiõntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">jiõntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">jiõntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3616</c>
@@ -9913,7 +9913,7 @@
    <lg>
      <l pos="A">jiõnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">jiõntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">jiõntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3616</c>
@@ -10066,7 +10066,7 @@
    <lg>
      <l pos="A">jiõččrääʹǩǩes</l>
      <stg>
-       <st Contlex="A_KAAQLLES" NumContlex="1.2">jiõčč#rä%^1VOWkk</st>
+       <st Contlex="A_KAAQLLES" NumContlex="1.2">jiõčč#rä%^1VOW%{ʹØ%}kk</st>
      </stg>
    </lg>
      <sources>
@@ -10518,7 +10518,7 @@
    <lg>
      <l pos="A">jueʹjjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jueʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jueʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -10537,7 +10537,7 @@
    <lg>
      <l pos="A">jueʹjjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jueʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jueʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -10614,7 +10614,7 @@
    <lg>
      <l pos="A">jueʹǩǩnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">jueʹǩǩnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">jueʹǩǩnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3904</c>
@@ -10871,7 +10871,7 @@
    <lg>
      <l pos="A">juâkkjetem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">juâkkjetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">juâkkjetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -10890,7 +10890,7 @@
    <lg>
      <l pos="A">juâkkjeteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">juâkkjetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">juâkkjetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -11082,7 +11082,7 @@
    <lg>
      <l pos="A">juârbtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">juârbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">juârbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -11101,7 +11101,7 @@
    <lg>
      <l pos="A">juârbteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">juârbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">juârbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -11420,7 +11420,7 @@
        <l_var>juiʹvˈvi</l_var>
      </variants>
      <stg>
-       <st Contlex="A_JIOQNNI" inflexId="::::1.2">juõvˈv</st>
+       <st Contlex="A_JIOQNNI" inflexId="::::1.2">juõ%{ʹØ%}vˈv</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1216</c>
@@ -11507,7 +11507,7 @@
    <lg>
      <l pos="A">juõʹǩǩnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">juõʹǩǩnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">juõʹǩǩnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="Adv»A" type="Der">
        <comp fin="joka" ms="" ord="E1" pos="Adv»A">juõʹǩǩ</comp>
@@ -11714,7 +11714,7 @@
    <lg>
      <l pos="A">jânnamtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jânnamtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jânnamtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -11733,7 +11733,7 @@
    <lg>
      <l pos="A">jânnamteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jânnamtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jânnamtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -11873,7 +11873,7 @@
        <etymon algu_lekseemi_id="65935" id="182610" xml:lang="sms">jââlkõs</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_SAJOS" inflexId="::::1.2">jââlkõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" inflexId="::::1.2">jââlkõ%^1VOW%{ʹØ%}s</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1231</c>
@@ -11972,7 +11972,7 @@
    <lg>
      <l pos="A">jââʹldes</l>
      <stg>
-       <st Contlex="A_KOAQSHKHES" inflexId="::::">jâ%^1VOWldd</st>
+       <st Contlex="A_KOAQSHKHES" inflexId="::::">jâ%^1VOW%{ʹØ%}ldd</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2670</c>
@@ -12344,7 +12344,7 @@
    <lg>
      <l pos="A">jäävvtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jäävvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jäävvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="jauho" ms="" ord="E1" pos="N">jävv</comp>
@@ -12370,7 +12370,7 @@
    <lg>
      <l pos="A">jäävvteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">jäävvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">jäävvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N»A" type="Der">
        <comp fin="jauho" ms="" ord="E1" pos="N»A">jävv</comp>
@@ -12451,7 +12451,7 @@
        <l_attr>jääʹmteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">jääʹmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">jääʹmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2204</c>
@@ -12497,7 +12497,7 @@
        <l_attr>jääʹmteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">jääʹmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">jääʹmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2204</c>
@@ -12850,7 +12850,7 @@
    <lg>
      <l pos="A">jõkk</l>
      <stg>
-       <st Contlex="A_PAPP">jõ%^1VOWkk</st>
+       <st Contlex="A_PAPP">jõ%^1VOW%{ʹØ%}kk</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>jõõkk</wordform>
@@ -12932,7 +12932,7 @@
        <etymon algu_lekseemi_id="65998" id="182779" xml:lang="sms">jõll</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_PAPP" inflexId="::1â::3.11">jõ%^1VOWll</st>
+       <st Contlex="A_PAPP" inflexId="::1â::3.11">jõ%^1VOW%{ʹØ%}ll</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1334</c>
@@ -13162,7 +13162,7 @@
    <lg>
      <l pos="A">jõõllâsnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">jõõllâsnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">jõõllâsnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -13470,7 +13470,7 @@
    <lg>
      <l pos="A">kaammikorstõk</l>
      <stg>
-       <st Contlex="A_SAJOS">kaammikorstõ%^1VOWk</st>
+       <st Contlex="A_SAJOS">kaammikorstõ%^1VOW%{ʹØ%}k</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-tõõǥǥ</wordform>
@@ -13678,7 +13678,7 @@
    <lg>
      <l pos="A">kaađčõs</l>
      <stg>
-       <st Contlex="A_SAJOS">kaađčõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">kaađčõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-sõõzz</wordform>
@@ -13733,7 +13733,7 @@
    <lg>
      <l pos="A">kaaʹrjõs</l>
      <stg>
-       <st Contlex="A_SAJOS">kaaʹrjõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">kaaʹrjõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-jõõzz</wordform>
@@ -14320,7 +14320,7 @@
    <lg>
      <l pos="A">kaʹrǩǩi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">karkk</st>
+       <st Contlex="A_JIOQNNI">ka%{ʹØ%}rkk</st>
      </stg>
    </lg>
      <sources>
@@ -14366,7 +14366,7 @@
        <l_attr>keäʹpperteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">keäʹpˈpertẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">keäʹpˈpertẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5959</c>
@@ -14406,7 +14406,7 @@
        <l_attr>keäʹpperteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">keäʹpˈpertẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">keäʹpˈpertẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5959</c>
@@ -14930,7 +14930,7 @@
    <lg>
      <l pos="A" status="recommendation">kompaktt</l>
      <stg>
-       <st Contlex="A_ALGG">kompa%^1VOWktt</st>
+       <st Contlex="A_ALGG">kompa%^1VOW%{ʹØ%}ktt</st>
      </stg>
    </lg>
      <sources>
@@ -14975,7 +14975,7 @@
    <lg>
      <l pos="A">konkreʹtt</l>
      <stg>
-       <st Contlex="A_SEQTT">konkrẹ%^1VOWtt</st>
+       <st Contlex="A_SEQTT">konkrẹ%^1VOW%{ʹØ%}tt</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>konkreeʹtt</wordform>
@@ -15040,7 +15040,7 @@
    <lg>
      <l pos="A">kooblõs</l>
      <stg>
-       <st Contlex="A_SAJOS">kooblõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">kooblõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -15058,7 +15058,7 @@
    <lg>
      <l pos="A">kooinallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">kooinallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">kooinallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -15393,7 +15393,7 @@
    <lg>
      <l pos="A">kooumnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kooumnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kooumnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -15529,7 +15529,7 @@
    <lg>
      <l pos="A">kordd</l>
      <stg>
-       <st Contlex="A_ALGG">ko%^1VOWrdd</st>
+       <st Contlex="A_ALGG">ko%^1VOW%{ʹØ%}rdd</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>koord</wordform>
@@ -16307,7 +16307,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">kuddnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">kuddnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="A:Suf»A" type="Der">
        <comp fin="kunnon" ord="E1" pos="A">kudd</comp>
@@ -16338,7 +16338,7 @@
        <l_syn>ǩeâʹlbteʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">kuddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">kuddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2193</c>
@@ -16410,7 +16410,7 @@
        <l_syn>ǩeâʹlbteʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">kuddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">kuddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2193</c>
@@ -16534,7 +16534,7 @@
    <lg>
      <l pos="A">kueiʹmesnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">kueiʹmesnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">kueiʹmesnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -16703,7 +16703,7 @@
    <lg>
      <l pos="A">kuerŋtõk</l>
      <stg>
-       <st Contlex="A_SAJOS">kuerŋtõ%^1VOWk</st>
+       <st Contlex="A_SAJOS">kuerŋtõ%^1VOW%{ʹØ%}k</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-tõõǥǥ</wordform>
@@ -16730,7 +16730,7 @@
    <lg>
      <l pos="A">kuestʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kuestʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kuestʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -16749,7 +16749,7 @@
    <lg>
      <l pos="A">kuestʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kuestʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kuestʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -16866,7 +16866,7 @@
    <lg>
      <l pos="A">kueʹltem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kueʹltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kueʹltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -16885,7 +16885,7 @@
    <lg>
      <l pos="A">kueʹlteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kueʹltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kueʹltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -17434,8 +17434,8 @@
    <lg>
      <l pos="A">kuuđneäʹttlõõzzâž</l>
      <stg>
-       <st Contlex="A_SAEQMMLOOZHZHYZH">kuuđneäʹttlõõzz</st>
-       <st Contlex="A_SAEQMMLOOZHZHYZH">kuuđniẹʹttlõõzz</st>
+       <st Contlex="A_SAEQMMLOOZHZHYZH">kuuđneäʹttlõõ%{ʹØ%}zz</st>
+       <st Contlex="A_SAEQMMLOOZHZHYZH">kuuđniẹʹttlõõ%{ʹØ%}zz</st>
      </stg>
      <compg drv="Num:A»A" type="Cmp">
        <comp fin="kuusi" ms="Sg.Gen" ord="E1" pos="Num">kuuđ</comp>
@@ -17876,7 +17876,7 @@
        <l_attr>kuâstʼteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">kuâstʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">kuâstʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2288</c>
@@ -17920,7 +17920,7 @@
        <l_attr>kuâstʼteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">kuâstʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">kuâstʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2288</c>
@@ -18338,7 +18338,7 @@
    <lg>
      <l pos="A">kuäškknjõs</l>
      <stg>
-       <st Contlex="A_SAJOS">kuäškknjõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">kuäškknjõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-njõõzz</wordform>
@@ -18416,7 +18416,7 @@
        <etymon algu_lekseemi_id="70624" id="204287" xml:lang="sms">kuäʹlǩǩ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_JEAQRMM" inflexId="::::3.11">kuälkk</st>
+       <st Contlex="A_JEAQRMM" inflexId="::::3.11">kuä%{ʹØ%}lkk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3523</c>
@@ -18542,7 +18542,7 @@
        <l_attr>kuäʹđteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">kuäʹđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">kuäʹđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2137</c>
@@ -18586,7 +18586,7 @@
        <l_attr>kuäʹđteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">kuäʹđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">kuäʹđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2137</c>
@@ -18626,7 +18626,7 @@
    <lg>
      <l pos="A">kuäʹǩǩ</l>
      <stg>
-       <st Contlex="A_JEAQNNN">kuäkˈk</st>
+       <st Contlex="A_JEAQNNN">kuä%{ʹØ%}kˈk</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>kuẹʹǩǩ</wordform>
@@ -19605,7 +19605,7 @@
    <lg>
      <l pos="A">kuʹǩesnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kuʹǩesnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kuʹǩesnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -19624,7 +19624,7 @@
    <lg>
      <l pos="A">kuʹǩesnallšeʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kuʹǩesnallše%^1VOWʹm</st>
+       <st Contlex="A_NALLSHEM">kuʹǩesnallše%^1VOWʹ%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -19722,7 +19722,7 @@
    <lg>
      <l class="1e" pos="A">kuʹǩǩ</l>
      <stg>
-       <st Contlex="A_NUQBB" inflexId="::1e::3.11">ku%^1VOWkk</st>
+       <st Contlex="A_NUQBB" inflexId="::1e::3.11">ku%^1VOW%{ʹØ%}kk</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
@@ -19895,7 +19895,7 @@
        <l_attr>kâllnateʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">kâllnatẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">kâllnatẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2273</c>
@@ -19943,7 +19943,7 @@
        <l_attr>kâllnateʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">kâllnatẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">kâllnatẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2273</c>
@@ -20854,7 +20854,7 @@
        <etymon algu_lekseemi_id="67741" id="189529" xml:lang="sms">kääʹmes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQMES" inflexId="::4e::1.2">kä%^1VOWmm</st>
+       <st Contlex="A_KAAQMES" inflexId="::4e::1.2">kä%^1VOW%{ʹØ%}mm</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="Pl_Nom">
@@ -20944,7 +20944,7 @@
        <etymon algu_lekseemi_id="68757" id="192558" xml:lang="sms">käʹcc</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_LOAQDD" inflexId="3.11">kä%^1VOWcc</st>
+       <st Contlex="A_LOAQDD" inflexId="3.11">kä%^1VOW%{ʹØ%}cc</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3844</c>
@@ -21105,7 +21105,7 @@
    <lg>
      <l pos="A">käʹrrevnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">käʹrrevnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">käʹrrevnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -21547,7 +21547,7 @@
    <lg>
      <l pos="A">kåålptõs</l>
      <stg>
-       <st Contlex="A_SAJOS">kåålptõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">kåålptõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-tõõzz</wordform>
@@ -21594,7 +21594,7 @@
    <lg>
      <l pos="A">kååʹšǩes</l>
      <stg>
-       <st Contlex="A_KOAQSHKHES" inflexId="::::1.2">kå%^1VOWškk</st>
+       <st Contlex="A_KOAQSHKHES" inflexId="::::1.2">kå%^1VOW%{ʹØ%}škk</st>
        <st Contlex="A-ATTR_">kåʹšǩǩ</st>
      </stg>
      <compg drv="V»A" type="Der">
@@ -22548,7 +22548,7 @@
    <lg>
      <l pos="A">kõskkâznallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kõskkâznallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kõskkâznallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -22633,7 +22633,7 @@
    <lg>
      <l pos="A">kõssnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kõssnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kõssnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -22911,7 +22911,7 @@
    <lg>
      <l pos="A">kõõrtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kõõrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kõõrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -22930,7 +22930,7 @@
    <lg>
      <l pos="A">kõõrteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kõõrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kõõrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -23084,7 +23084,7 @@
    <lg>
      <l pos="A">kõõsktem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kõõsktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kõõsktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -23103,7 +23103,7 @@
    <lg>
      <l pos="A">kõõskteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">kõõsktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">kõõsktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -23456,7 +23456,7 @@
    <lg>
      <l pos="A">laautõs</l>
      <stg>
-       <st Contlex="A_SAJOS">laautõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">laautõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -23476,7 +23476,7 @@
    <lg>
      <l pos="A">laautõskaammi</l>
      <stg>
-       <st Contlex="A_KAAMMI">laautõskaammi</st>
+       <st Contlex="A_KAAMMI">laautõskaam%{ʹØ%}mi</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-käʹmme</wordform>
@@ -23503,7 +23503,7 @@
    <lg>
      <l pos="A">laazztem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">laazztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">laazztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -23522,7 +23522,7 @@
    <lg>
      <l pos="A">laazzteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">laazztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">laazztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -23831,7 +23831,7 @@
    <lg>
      <l pos="A">laʹsǩǩeemnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">laʹsǩǩeemnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">laʹsǩǩeemnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -23889,7 +23889,7 @@
    <lg>
      <l pos="A">leeiʹbtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">leeiʹbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">leeiʹbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="leipä" ms="" ord="E1" pos="N">leiʹbb</comp>
@@ -23915,7 +23915,7 @@
    <lg>
      <l pos="A">leeiʹbteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">leeiʹbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">leeiʹbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N»A" type="Der">
        <comp fin="leipä" ms="" ord="E1" pos="N»A">leiʹbb</comp>
@@ -23956,7 +23956,7 @@
        <l_attr>leekkteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">leekktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">leekktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5766</c>
@@ -24004,7 +24004,7 @@
        <l_attr>leekkteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">leekktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">leekktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5766</c>
@@ -24089,7 +24089,7 @@
    <lg>
      <l pos="A">legitiim</l>
      <stg>
-       <st Contlex="A_PLAAN" NumContlex="1.22">legitiim</st>
+       <st Contlex="A_PLAAN" NumContlex="1.22">legitii%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -24139,7 +24139,7 @@
    <lg>
      <l pos="A">leiʹǧǧ</l>
      <stg>
-       <st Contlex="A_PEIQVV" inflexId="::::1000">lẹ%^1VOWigg</st>
+       <st Contlex="A_PEIQVV" inflexId="::::1000">lẹ%^1VOWi%{ʹØ%}gg</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1639</c>
@@ -24562,7 +24562,7 @@
    <lg>
      <l pos="A">leuʹddčeäʹpp</l>
      <stg>
-       <st Contlex="A_JEAQNNN">leuʹdd#čeäpˈp</st>
+       <st Contlex="A_JEAQNNN">leuʹdd#čeä%{ʹØ%}pˈp</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-čieʹpp</wordform>
@@ -24616,7 +24616,7 @@
    <lg>
      <l pos="A">levrdõk</l>
      <stg>
-       <st Contlex="A_SAJOS">levrdõ%^1VOWk</st>
+       <st Contlex="A_SAJOS">levrdõ%^1VOW%{ʹØ%}k</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-dõõǥǥ</wordform>
@@ -25031,7 +25031,7 @@
    <lg>
      <l pos="A">liikkeemcõgldõsnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">liikkeemcõgldõsnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">liikkeemcõgldõsnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -25399,7 +25399,7 @@
    <lg>
      <l pos="A">liõppkaammi</l>
      <stg>
-       <st Contlex="A_KAAMMI">liõppkaammi</st>
+       <st Contlex="A_KAAMMI">liõppkaam%{ʹØ%}mi</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-käʹmme</wordform>
@@ -26092,7 +26092,7 @@
    <lg>
      <l pos="A">lueʹves</l>
      <stg>
-       <st Contlex="A_CHUEQDHES" inflexId="::::1.2">luâvv</st>
+       <st Contlex="A_CHUEQDHES" inflexId="::::1.2">luâ%{ʹØ%}vv</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1923</c>
@@ -26488,7 +26488,7 @@
    <lg>
      <l pos="A">luândnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">luândnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">luândnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -26974,7 +26974,7 @@
    <lg>
      <l pos="A">luõʹdstõk</l>
      <stg>
-       <st Contlex="A_SAJOS">luõʹdstõ%^1VOWk</st>
+       <st Contlex="A_SAJOS">luõʹdstõ%^1VOW%{ʹØ%}k</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-tõõǥǥ</wordform>
@@ -27001,7 +27001,7 @@
    <lg>
      <l pos="A">luõʹssi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">luõsˈs</st>
+       <st Contlex="A_JIOQNNI">luõ%{ʹØ%}sˈs</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp ms="" ord="E1" pos="N" stem="Sg.Ill">luõss</comp>
@@ -27203,7 +27203,7 @@
    <lg>
      <l pos="A">lâʹǩǩ</l>
      <stg>
-       <st Contlex="A_LOAQDD">lâ%^1VOWkk</st>
+       <st Contlex="A_LOAQDD">lâ%^1VOW%{ʹØ%}kk</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>lââʹǩǩ</wordform>
@@ -27318,7 +27318,7 @@
    <lg>
      <l pos="A">läittlõs</l>
      <stg>
-       <st Contlex="A_SAJOS">läittlõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">läittlõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-lõõzz</wordform>
@@ -27368,7 +27368,7 @@
        <etymon algu_lekseemi_id="41627" id="111964" xml:lang="sms">läiʹvv</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_JAUQRR" inflexId="::::3.11">lä%^1VOWivv</st>
+       <st Contlex="A_JAUQRR" inflexId="::::3.11">lä%^1VOWi%{ʹØ%}vv</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2574</c>
@@ -27441,7 +27441,7 @@
    <lg>
      <l pos="A">läppjetem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">läppjetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">läppjetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -27460,7 +27460,7 @@
    <lg>
      <l pos="A">läppjeteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">läppjetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">läppjetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -27845,7 +27845,7 @@
    <lg>
      <l pos="A">lääiʹjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lääiʹjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lääiʹjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -27864,7 +27864,7 @@
    <lg>
      <l pos="A">lääiʹjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lääiʹjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lääiʹjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28030,7 +28030,7 @@
    <lg>
      <l pos="A">lääʹbltem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lääʹbltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lääʹbltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28049,7 +28049,7 @@
    <lg>
      <l pos="A">lääʹblteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lääʹbltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lääʹbltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28181,7 +28181,7 @@
    <lg>
      <l pos="A">lääʹjjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lääʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lääʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28200,7 +28200,7 @@
    <lg>
      <l pos="A">lääʹjjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lääʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lääʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28286,7 +28286,7 @@
        <etymon algu_lekseemi_id="41645" id="112020" xml:lang="sms">lääʹmes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQMES">lä%^1VOWmm</st>
+       <st Contlex="A_KAAQMES">lä%^1VOW%{ʹØ%}mm</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>lämmaz</wordform>
@@ -28319,7 +28319,7 @@
        <etymon algu_lekseemi_id="37801" id="95886" xml:lang="sms">lääʹttes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQLLES" inflexId="::::1.2">lä%^1VOWtt</st>
+       <st Contlex="A_KAAQLLES" inflexId="::::1.2">lä%^1VOW%{ʹØ%}tt</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3716</c>
@@ -28383,7 +28383,7 @@
        <etymon algu_lekseemi_id="40432" id="105995" xml:lang="sms">lääʹđes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQMES" inflexId="::::1.2">lä%^1VOWđđ</st>
+       <st Contlex="A_KAAQMES" inflexId="::::1.2">lä%^1VOW%{ʹØ%}đđ</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3518</c>
@@ -28514,7 +28514,7 @@
    <lg>
      <l pos="A">lääʹšǩnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">lääʹšǩnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">lääʹšǩnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28552,7 +28552,7 @@
    <lg>
      <l pos="A">lääʹǩǩvaikktemnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lääʹǩǩvaikktemnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lääʹǩǩvaikktemnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28571,7 +28571,7 @@
    <lg>
      <l pos="A">lääʹǩǩvaikktemnallšeʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lääʹǩǩvaikktemnallše%^1VOWʹm</st>
+       <st Contlex="A_NALLSHEM">lääʹǩǩvaikktemnallše%^1VOWʹ%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28655,7 +28655,7 @@
    <lg>
      <l pos="A">läʹbǯǯlååʹjj</l>
      <stg>
-       <st Contlex="A_SAAQMM">läʹbǯǯ#lååjj</st>
+       <st Contlex="A_SAAQMM">läʹbǯǯ#låå%{ʹØ%}jj</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-lååj</wordform>
@@ -28687,7 +28687,7 @@
        <etymon algu_lekseemi_id="41617" id="111932" xml:lang="sms">läʹšǩǩ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAQLBB" inflexId="::::3.11">lä%^1VOWškk</st>
+       <st Contlex="A_KAQLBB" inflexId="::::3.11">lä%^1VOW%{ʹØ%}škk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2387</c>
@@ -28856,7 +28856,7 @@
    <lg>
      <l pos="A">lååǥǥtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lååǥǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lååǥǥtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28875,7 +28875,7 @@
    <lg>
      <l pos="A">lååǥǥteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lååǥǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lååǥǥtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -28898,7 +28898,7 @@
        <etymon algu_lekseemi_id="43167" id="118707" xml:lang="sms">lååʹjj</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_SAAQMM" inflexId="::::3.11">lååjj</st>
+       <st Contlex="A_SAAQMM" inflexId="::::3.11">låå%{ʹØ%}jj</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3949</c>
@@ -28992,7 +28992,7 @@
    <lg>
      <l pos="A">lååʹvtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">lååʹvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">lååʹvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1824</c>
@@ -29037,7 +29037,7 @@
    <lg>
      <l pos="A">lååʹvteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">lååʹvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">lååʹvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1824</c>
@@ -29081,7 +29081,7 @@
    <lg>
      <l pos="A">lååʹǩǩtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lååʹǩǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lååʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -29100,7 +29100,7 @@
    <lg>
      <l pos="A">lååʹǩǩteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">lååʹǩǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">lååʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -29347,7 +29347,7 @@
    <lg>
      <l pos="A">maaltʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">maaltʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">maaltʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -29366,7 +29366,7 @@
    <lg>
      <l pos="A">maaltʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">maaltʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">maaltʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -29616,7 +29616,7 @@
    <lg>
      <l pos="A">majestettnallšem šem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">majestettnallšem š%^VOW1em</st>
+       <st Contlex="A_NALLSHEM">majestettnallšem š%^VOW1e%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -29635,7 +29635,7 @@
    <lg>
      <l pos="A">maldd</l>
      <stg>
-       <st Contlex="A_ALGG">ma%^1VOWldd</st>
+       <st Contlex="A_ALGG">ma%^1VOW%{ʹØ%}ldd</st>
      </stg>
    </lg>
      <sources>
@@ -30450,7 +30450,7 @@
    <lg>
      <l pos="A">meäʹrtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">meäʹrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">meäʹrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -30471,7 +30471,7 @@
    <lg>
      <l pos="A">meäʹrtetem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">meäʹrtetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">meäʹrtetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -30490,7 +30490,7 @@
    <lg>
      <l pos="A">meäʹrteteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">meäʹrtetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">meäʹrtetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -30509,7 +30509,7 @@
    <lg>
      <l pos="A">meäʹrteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">meäʹrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">meäʹrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -30534,7 +30534,7 @@
        <etymon algu_lekseemi_id="50344" id="133410" xml:lang="sms">meäʹtǩǩ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_JEAQRMM" inflexId="::::3.11">meätkk</st>
+       <st Contlex="A_JEAQRMM" inflexId="::::3.11">meä%{ʹØ%}tkk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3690</c>
@@ -31017,7 +31017,7 @@
    <lg>
      <l pos="A">miârktem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">miârktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">miârktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -31036,7 +31036,7 @@
    <lg>
      <l pos="A">miârkteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">miârktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">miârktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -31055,7 +31055,7 @@
    <lg>
      <l pos="A">miârkâltem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">miârkâltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">miârkâltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -31074,7 +31074,7 @@
    <lg>
      <l pos="A">miârkâlteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">miârkâltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">miârkâltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -31221,7 +31221,7 @@
    <lg>
      <l pos="A">miõhttlõs</l>
      <stg>
-       <st Contlex="A_SAJOS">miõhttlõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">miõhttlõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -31428,7 +31428,7 @@
    <lg>
      <l pos="A">miõltem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">miõltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">miõltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1811</c>
@@ -31471,7 +31471,7 @@
    <lg>
      <l pos="A">miõlteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">miõltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">miõltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1811</c>
@@ -31544,7 +31544,7 @@
    <lg>
      <l pos="A">miõttlõs</l>
      <stg>
-       <st Contlex="A_SAJOS" NumContlex="400">miõttlõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" NumContlex="400">miõttlõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -31601,7 +31601,7 @@
    <lg>
      <l pos="A">miõʹhtti</l>
      <stg>
-       <st Contlex="A_JIOQNNI">miõhtt</st>
+       <st Contlex="A_JIOQNNI">miõ%{ʹØ%}h%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -31714,7 +31714,7 @@
    <lg>
      <l pos="A">modernn</l>
      <stg>
-       <st Contlex="A_ALGG">modẹ%^1VOWrnn</st>
+       <st Contlex="A_ALGG">modẹ%^1VOW%{ʹØ%}rnn</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>modeern</wordform>
@@ -31913,7 +31913,7 @@
    <lg>
      <l pos="A">moodrainallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">moodrainallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">moodrainallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -32227,7 +32227,7 @@
    <lg>
      <l pos="A">mottjetem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mottjetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mottjetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -32247,7 +32247,7 @@
    <lg>
      <l pos="A">mottjeteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mottjetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mottjetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -32409,7 +32409,7 @@
    <lg>
      <l pos="A">mošttlõs</l>
      <stg>
-       <st Contlex="A_SAJOS">mošttlõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">mošttlõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -32527,7 +32527,7 @@
    <lg>
      <l pos="A">mueʹrjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mueʹrjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mueʹrjtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>teeʹm</wordform>
@@ -32554,7 +32554,7 @@
    <lg>
      <l pos="A">mueʹrjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mueʹrjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mueʹrjtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Pl_Nom">
            <wordform>teeʹm</wordform>
@@ -32609,7 +32609,7 @@
    <lg>
      <l pos="A">mueʹǩǩtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mueʹǩǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mueʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -32629,7 +32629,7 @@
    <lg>
      <l pos="A">mueʹǩǩteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mueʹǩǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mueʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -32816,7 +32816,7 @@
    <lg>
      <l pos="A">muunallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">muunallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">muunallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -32836,7 +32836,7 @@
    <lg>
      <l pos="A">muuʹttʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">muuʹttʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">muuʹttʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -32856,7 +32856,7 @@
    <lg>
      <l pos="A">muuʹttʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">muuʹttʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">muuʹttʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -33058,7 +33058,7 @@
    <lg>
      <l pos="A">muäʹdd</l>
      <stg>
-       <st Contlex="A_JEAQNNN">muädˈd</st>
+       <st Contlex="A_JEAQNNN">muä%{ʹØ%}dˈd</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">mueʹdd
        </analysis>
@@ -33085,7 +33085,7 @@
    <lg>
      <l pos="A">muäʹlǩtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">muäʹlǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">muäʹlǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -33104,7 +33104,7 @@
    <lg>
      <l pos="A">muäʹlǩteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">muäʹlǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">muäʹlǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -33246,7 +33246,7 @@
    <lg>
      <l pos="A">muõrtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">muõrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">muõrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -33265,7 +33265,7 @@
    <lg>
      <l pos="A">muõrteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">muõrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">muõrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -33284,7 +33284,7 @@
    <lg>
      <l pos="A">muõttǥâʹttem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">muõttǥâʹttẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">muõttǥâʹttẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -33304,7 +33304,7 @@
    <lg>
      <l pos="A">muõʹrri</l>
      <stg>
-       <st Contlex="A_JIOQNNI">muõrˈr</st>
+       <st Contlex="A_JIOQNNI">muõ%{ʹØ%}rˈr</st>
      </stg>
    </lg>
      <sources>
@@ -33420,7 +33420,7 @@
    <lg>
      <l pos="A">mââimõs</l>
      <stg>
-       <st Contlex="A_SAJOS">mââimõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">mââimõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -33879,7 +33879,7 @@
        <l_syn>viârteʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">määiʹmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">määiʹmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2302</c>
@@ -33941,7 +33941,7 @@
        <l_syn>viârteʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">määiʹmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">määiʹmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2302</c>
@@ -34002,7 +34002,7 @@
        <l_attr>määiʹnteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">määiʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">määiʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2300</c>
@@ -34051,7 +34051,7 @@
        <l_attr>määiʹnteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">määiʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">määiʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2300</c>
@@ -34115,7 +34115,7 @@
    <lg>
      <l pos="A">määuʹstem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">määuʹstẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">määuʹstẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -34135,7 +34135,7 @@
    <lg>
      <l pos="A">määuʹsteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">määuʹstẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">määuʹstẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -34281,7 +34281,7 @@
    <lg>
      <l pos="A">määŋgnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::1.22">määŋgnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::1.22">määŋgnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5795</c>
@@ -34482,7 +34482,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_KOAQSHKHES">märdd</st>
+       <st Contlex="A_KOAQSHKHES">mä%^1VOW%{ʹØ%}rdd</st>
      <mini_paradigm exclude="NDS"> märddaz märddsa
      </mini_paradigm>
      </stg> <compg> </compg>
@@ -34607,7 +34607,7 @@
    <lg>
      <l pos="A">mäʹhssempeeiʹvtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mäʹhssempeeiʹvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mäʹhssempeeiʹvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -34626,7 +34626,7 @@
    <lg>
      <l pos="A">mäʹhssempeeiʹvteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mäʹhssempeeiʹvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mäʹhssempeeiʹvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -34683,7 +34683,7 @@
    <lg>
      <l pos="A">måkamnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">måkamnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">måkamnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -34878,7 +34878,7 @@
    <lg>
      <l pos="A">måtamnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">måtamnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">måtamnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -34936,7 +34936,7 @@
    <lg>
      <l pos="A">måttamnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">måttamnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">måttamnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -35181,7 +35181,7 @@
    <lg>
      <l pos="A">mååʹǩtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mååʹǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mååʹǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -35200,7 +35200,7 @@
    <lg>
      <l pos="A">mååʹǩteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mååʹǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mååʹǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -35448,7 +35448,7 @@
    <lg>
      <l pos="A">mõõnnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">mõõnnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">mõõnnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -35668,7 +35668,7 @@
    <lg>
      <l pos="A">nallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">nallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">nallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -35931,7 +35931,7 @@
    <lg>
      <l pos="A">nelljtäkkšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">nelljtäkkšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">nelljtäkkšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -36013,7 +36013,7 @@
        <etymon algu_lekseemi_id="2405" id="5844" xml:lang="sms">neuʹrr</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_PEIQVV" inflexId="::1e::3.11">nẹ%^1VOWurr</st>
+       <st Contlex="A_PEIQVV" inflexId="::1e::3.11">nẹ%^1VOWu%{ʹØ%}rr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">811</c>
@@ -36529,7 +36529,7 @@
    <lg>
      <l pos="A">njeslõk</l>
      <stg>
-       <st Contlex="A_SAJOS">njeslõ%^1VOWk</st>
+       <st Contlex="A_SAJOS">njeslõ%^1VOW%{ʹØ%}k</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-lõõǥǥ</wordform>
@@ -36840,7 +36840,7 @@
        <etymon algu_lekseemi_id="50583" id="134305" xml:lang="sms">njeʹbll</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KHEQRJJ" inflexId="::::3.11">njẹ%^1VOWbll</st>
+       <st Contlex="A_KHEQRJJ" inflexId="::::3.11">njẹ%^1VOW%{ʹØ%}bll</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1384</c>
@@ -36985,7 +36985,7 @@
    <lg>
      <l pos="A">njieʹrr</l>
      <stg>
-       <st Contlex="A_HIEAQNN">njeärr</st>
+       <st Contlex="A_HIEAQNN">njeä%{ʹØ%}rr</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>njeäʹr</wordform>
@@ -37016,7 +37016,7 @@
        <l_var>njiäʹđđ</l_var>
      </variants>
      <stg>
-       <st Contlex="A_HIEAQNN" inflexId="::::3.11">njeäđđ</st>
+       <st Contlex="A_HIEAQNN" inflexId="::::3.11">njeä%{ʹØ%}đđ</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">276</c>
@@ -37430,7 +37430,7 @@
    <lg>
      <l pos="A">njoʹrmmi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">njormm</st>
+       <st Contlex="A_JIOQNNI">njo%{ʹØ%}rmm</st>
      </stg>
    </lg>
      <sources>
@@ -37449,7 +37449,7 @@
    <lg>
      <l pos="A">njueʹss</l>
      <stg>
-       <st Contlex="A_SUEAQKHKH">njuäss</st>
+       <st Contlex="A_SUEAQKHKH">njuä%{ʹØ%}ss</st>
        <st Contlex="A-ATTR_">njuẹʹzzes</st>
      </stg>
    </lg>
@@ -37470,7 +37470,7 @@
    <lg>
      <l pos="A">njuuʹnnʼnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">njuuʹnnʼnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">njuuʹnnʼnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -37680,7 +37680,7 @@
    <lg>
      <l pos="A">njuõbrr</l>
      <stg>
-       <st Contlex="A_CHUOSHKK" inflexId="::::1.111">njuõbrr</st>
+       <st Contlex="A_CHUOSHKK" inflexId="::::1.111">njuõ%{ʹØ%}brr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3288</c>
@@ -38213,7 +38213,7 @@
    <lg>
      <l pos="A">njuõʹlǧǧi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">njuõlgg</st>
+       <st Contlex="A_JIOQNNI">njuõ%{ʹØ%}lgg</st>
      </stg>
    </lg>
      <sources>
@@ -38642,7 +38642,7 @@
        <etymon algu_lekseemi_id="2146" id="5058" xml:lang="sms">njääʹljes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KOAQSHKHES" inflexId="::4e::1.2">njä%^1VOWlgg</st>
+       <st Contlex="A_KOAQSHKHES" inflexId="::4e::1.2">njä%^1VOW%{ʹØ%}lgg</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3927</c>
@@ -38730,7 +38730,7 @@
    <lg>
      <l pos="A">njäʹlmmkuõmnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">njäʹlmmkuõmnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">njäʹlmmkuõmnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -38763,7 +38763,7 @@
    <lg>
      <l pos="A">njõʹddi</l>
      <stg>
-       <st Contlex="A_JIOQNNI" inflexId="::::1.2">njõdd</st>
+       <st Contlex="A_JIOQNNI" inflexId="::::1.2">njõ%{ʹØ%}dd</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3962</c>
@@ -38879,7 +38879,7 @@
    <lg>
      <l pos="A" status="recommendation">normaal</l>
      <stg>
-       <st Contlex="A_PLAAN">normaal</st>
+       <st Contlex="A_PLAAN">normaa%{ʹØ%}l</st>
      </stg>
    </lg>
      <sources>
@@ -39008,7 +39008,7 @@
        <etymon algu_lekseemi_id="2377" id="5758" xml:lang="sms">nueʹsǩǩ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_MUEQRJJ" inflexId="::::3.11">nuâskk</st>
+       <st Contlex="A_MUEQRJJ" inflexId="::::3.11">nuâ%{ʹØ%}skk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2562</c>
@@ -39070,7 +39070,7 @@
        <l_var>nuʹbnallšem</l_var>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::1.22">nuuʹbbnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::1.22">nuuʹbbnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1459</c>
@@ -39302,7 +39302,7 @@
    <lg>
      <l pos="A">nuõrmõs</l>
      <stg>
-       <st Contlex="A_SAJOS">nuõrmõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">nuõrmõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -39327,7 +39327,7 @@
        <etymon algu_lekseemi_id="2364" id="5722" xml:lang="sms">nuõrr</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_MUORR" inflexId="::20::1.111">nuõrr</st>
+       <st Contlex="A_MUORR" inflexId="::20::1.111">nuõ%{ʹØ%}rr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">6038</c>
@@ -39501,7 +39501,7 @@
    <lg>
      <l pos="A">nuõʹppi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">nuõpp</st>
+       <st Contlex="A_JIOQNNI">nuõ%{ʹØ%}pp</st>
      </stg>
    </lg>
      <sources>
@@ -39522,7 +39522,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_NUQBB">nu%^1VOWbb</st>
+       <st Contlex="A_NUQBB">nu%^1VOW%{ʹØ%}bb</st>
      <mini_paradigm exclude="NDS"> nuuʹbb nobba
      </mini_paradigm>
      </stg> <compg> </compg>
@@ -39717,7 +39717,7 @@
    <lg>
      <l pos="A">nââʹertem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">nââʹertẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">nââʹertẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -39736,7 +39736,7 @@
    <lg>
      <l pos="A">nââʹerteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">nââʹertẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">nââʹertẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -39925,7 +39925,7 @@
    <lg>
      <l pos="A">näuʹddmiõttlõs</l>
      <stg>
-       <st Contlex="A_SAJOS" NumContlex="400">näuʹddmiõttlõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" NumContlex="400">näuʹddmiõttlõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -39968,7 +39968,7 @@
        <l_attr>nääʹlteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">nääʹltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">nääʹltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5756</c>
@@ -40032,7 +40032,7 @@
        <l_attr>nääʹlteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">nääʹltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">nääʹltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5756</c>
@@ -40159,7 +40159,7 @@
    <lg>
      <l pos="A">näʹnn</l>
      <stg>
-       <st Contlex="A_LOAQDD">nä%^1VOWnn</st>
+       <st Contlex="A_LOAQDD">nä%^1VOW%{ʹØ%}nn</st>
      </stg>
    </lg>
      <sources>
@@ -40196,7 +40196,7 @@
    <lg>
      <l pos="A">nåkamnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">nåkamnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">nåkamnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -40273,7 +40273,7 @@
    <lg>
      <l pos="A">nõõmtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">nõõmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">nõõmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -40292,7 +40292,7 @@
    <lg>
      <l pos="A">nõõmteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">nõõmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">nõõmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -40315,7 +40315,7 @@
        <l_attr>nõõđteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">nõõđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">nõõđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5963</c>
@@ -40363,7 +40363,7 @@
        <l_attr>nõõđteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">nõõđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">nõõđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5963</c>
@@ -40987,7 +40987,7 @@
    <lg>
      <l pos="A">ooddtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ooddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ooddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -41006,7 +41006,7 @@
    <lg>
      <l pos="A">ooddteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ooddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ooddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -41090,7 +41090,7 @@
    <lg>
      <l pos="A">ooudeemnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">ooudeemnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">ooudeemnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -41156,7 +41156,7 @@
    <lg>
      <l pos="A">ooumažnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.2">ooumažnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.2">ooumažnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -41589,7 +41589,7 @@
    <lg>
      <l pos="A">ouddjurdditem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ouddjurdditẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ouddjurdditẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -41608,7 +41608,7 @@
    <lg>
      <l pos="A">ouddjurdditeʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ouddjurdditẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ouddjurdditẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -41731,7 +41731,7 @@
    <lg>
      <l pos="A">ouddtuʹtǩǩumušnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">ouddtuʹtǩǩumušnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">ouddtuʹtǩǩumušnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -41788,7 +41788,7 @@
    <lg>
      <l pos="A">ođđnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ođđnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ođđnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -41976,7 +41976,7 @@
    <lg>
      <l pos="A">paacctem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">paacctẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">paacctẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -41995,7 +41995,7 @@
    <lg>
      <l pos="A">paaccteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">paacctẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">paacctẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -42261,7 +42261,7 @@
    <lg>
      <l pos="A">paartem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">paartẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">paartẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -42280,7 +42280,7 @@
    <lg>
      <l pos="A">paarteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">paartẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">paartẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -42484,7 +42484,7 @@
    <lg>
      <l pos="A">paaʹrtitem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">paaʹrtitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">paaʹrtitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -42503,7 +42503,7 @@
    <lg>
      <l pos="A">paaʹrtiteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">paaʹrtitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">paaʹrtitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -43334,7 +43334,7 @@
    <lg>
      <l pos="A">peeitkõs</l>
      <stg>
-       <st Contlex="A_SAJOS">peeitkõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">peeitkõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-kõõzz</wordform>
@@ -43379,7 +43379,7 @@
    <lg>
      <l pos="A">peeivõk</l>
      <stg>
-       <st Contlex="A_SAJOS" NumContlex="1.22">peeivõ%^1VOWk</st>
+       <st Contlex="A_SAJOS" NumContlex="1.22">peeivõ%^1VOW%{ʹØ%}k</st>
      </stg>
    </lg>
      <sources>
@@ -43475,7 +43475,7 @@
    <lg>
      <l pos="A">peerstem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">peerstẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">peerstẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -43494,7 +43494,7 @@
    <lg>
      <l pos="A">peersteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">peerstẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">peerstẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -43541,7 +43541,7 @@
        <l_attr>peeʹlljteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">peeʹlljtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">peeʹlljtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1405</c>
@@ -43592,7 +43592,7 @@
        <l_attr>peeʹlljteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">peeʹlljtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">peeʹlljtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1405</c>
@@ -44022,7 +44022,7 @@
    <lg>
      <l pos="A">persoonʼnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">persoonʼnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">persoonʼnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -44041,7 +44041,7 @@
    <lg>
      <l pos="A">pesspääččõk</l>
      <stg>
-       <st Contlex="A_SAJOS">pesspääččõ%^1VOWk</st>
+       <st Contlex="A_SAJOS">pesspääččõ%^1VOW%{ʹØ%}k</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-čõõǥǥ</wordform>
@@ -44196,7 +44196,7 @@
    <lg>
      <l pos="A">peäʹltõs</l>
      <stg>
-       <st Contlex="A_SAJOS">peäʹltõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">peäʹltõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -44349,7 +44349,7 @@
    <lg>
      <l pos="A">peʹcclatem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">peʹcclatẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">peʹcclatẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -44368,7 +44368,7 @@
    <lg>
      <l pos="A">peʹcclateʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">peʹcclatẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">peʹcclatẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -44698,7 +44698,7 @@
    <lg>
      <l pos="A">pieʹlljââlkõs</l>
      <stg>
-       <st Contlex="A_SAJOS" NumContlex="1.2">pieʹlljââlkõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" NumContlex="1.2">pieʹlljââlkõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="N_Pl_Nom">
            <wordform>-jâlkkâz</wordform>
@@ -45109,7 +45109,7 @@
    <lg>
      <l pos="A">piustõknallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">piustõknallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">piustõknallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -45149,7 +45149,7 @@
    <lg>
      <l pos="A">piuʹlli</l>
      <stg>
-       <st Contlex="A_JIOQNNI">piull</st>
+       <st Contlex="A_JIOQNNI">piu%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -45277,7 +45277,7 @@
    <lg>
      <l pos="A">piârgglõk</l>
      <stg>
-       <st Contlex="A_SAJOS">piârgglõ%^1VOWk</st>
+       <st Contlex="A_SAJOS">piârgglõ%^1VOW%{ʹØ%}k</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-lõõǥǥ</wordform>
@@ -45304,7 +45304,7 @@
    <lg>
      <l pos="A">piârtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">piârtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">piârtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -45323,7 +45323,7 @@
    <lg>
      <l pos="A">piârteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">piârtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">piârtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -45342,7 +45342,7 @@
    <lg>
      <l pos="A">piõggtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">piõggtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">piõggtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -45361,7 +45361,7 @@
    <lg>
      <l pos="A">piõggteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">piõggtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">piõggtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -45419,7 +45419,7 @@
    <lg>
      <l pos="A">piõuʹlli</l>
      <stg>
-       <st Contlex="A_JIOQNNI">piõull</st>
+       <st Contlex="A_JIOQNNI">piõu%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -45457,7 +45457,7 @@
    <lg>
      <l pos="A">piõʹǧǧi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">piõgg</st>
+       <st Contlex="A_JIOQNNI">piõ%{ʹØ%}gg</st>
      </stg>
    </lg>
      <sources>
@@ -45602,7 +45602,7 @@
    <lg>
      <l pos="A">piʹǧǧi</l>
      <stg>
-       <st Contlex="A_JIOQNNI" inflexId="::::">pigg</st>
+       <st Contlex="A_JIOQNNI" inflexId="::::">pi%{ʹØ%}gg</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5930</c>
@@ -46294,7 +46294,7 @@
    <lg>
      <l pos="A">porrmõõžžtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">porrmõõžžtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">porrmõõžžtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="ruoka" ms="" ord="E1" pos="N">porrmõš</comp>
@@ -46320,7 +46320,7 @@
    <lg>
      <l pos="A">porrmõõžžteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">porrmõõžžtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">porrmõõžžtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N»A" type="Der">
        <comp fin="ruoka" ms="" ord="E1" pos="N»A">porrmõš</comp>
@@ -46445,7 +46445,7 @@
    <lg>
      <l pos="A">poʒʒtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">poʒʒtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">poʒʒtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -46464,7 +46464,7 @@
    <lg>
      <l pos="A">poʒʒteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">poʒʒtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">poʒʒtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -47064,7 +47064,7 @@
        <etymon algu_lekseemi_id="74021" id="214323" xml:lang="sms">pueʹrr</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KUEQLL" inflexId="::50::1.113">puârr</st>
+       <st Contlex="A_KUEQLL" inflexId="::50::1.113">puâ%{ʹØ%}rr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1956</c>
@@ -47122,7 +47122,7 @@
    <lg>
      <l pos="A">pueʹrrtättõs</l>
      <stg>
-       <st Contlex="A_SAJOS" NumContlex="400">pueʹrrtättõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" NumContlex="400">pueʹrrtättõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -47315,7 +47315,7 @@
    <lg>
      <l pos="A">puknallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">puknallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">puknallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -47443,7 +47443,7 @@
    <lg>
      <l pos="A">puuđtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">puuđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">puuđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -47462,7 +47462,7 @@
    <lg>
      <l pos="A">puuđteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">puuđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">puuđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -47579,7 +47579,7 @@
    <lg>
      <l pos="A">puuʹnes</l>
      <stg>
-       <st Contlex="A_KAAQMES">pu%^1VOWnn</st>
+       <st Contlex="A_KAAQMES">pu%^1VOW%{ʹØ%}nn</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>puʹnnes</wordform>
@@ -47631,7 +47631,7 @@
        <etymon algu_lekseemi_id="75395" id="218746" xml:lang="sms">puuʹttes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_PUUQTTES" inflexId="::::1.2">pu%^1VOWtt</st>
+       <st Contlex="A_PUUQTTES" inflexId="::::1.2">pu%^1VOW%{ʹØ%}tt</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1204</c>
@@ -47683,7 +47683,7 @@
    <lg>
      <l pos="A">puuʹđtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">puuʹđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">puuʹđtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-teem</wordform>
@@ -47711,7 +47711,7 @@
    <lg>
      <l pos="A">puuʹđteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">puuʹđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">puuʹđtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Pl_Nom">
            <wordform>-teem</wordform>
@@ -48030,7 +48030,7 @@
    <lg>
      <l pos="A">puästnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">puästnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">puästnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -48082,7 +48082,7 @@
        <l_attr>puäʒʒteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">puäʒʒtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">puäʒʒtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5961</c>
@@ -48132,7 +48132,7 @@
        <l_attr>puäʒʒteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">puäʒʒtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">puäʒʒtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5961</c>
@@ -48220,7 +48220,7 @@
        <etymon algu_lekseemi_id="74393" id="215569" xml:lang="sms">puäʹres</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_PUAQRES" inflexId="::4e::1.2">puärˈr</st>
+       <st Contlex="A_PUAQRES" inflexId="::4e::1.2">puä%{ʹØ%}rˈr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2803</c>
@@ -48737,7 +48737,7 @@
    <lg>
      <l pos="A">pâiʹlkuʹǩǩ</l>
      <stg>
-       <st Contlex="A_NUQBB">pâiʹlku%^1VOWkk</st>
+       <st Contlex="A_NUQBB">pâiʹlku%^1VOW%{ʹØ%}kk</st>
      </stg>
    </lg>
      <sources>
@@ -49256,7 +49256,7 @@
    <lg>
      <l pos="A">pââsttʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pââsttʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pââsttʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -49275,7 +49275,7 @@
    <lg>
      <l pos="A">pââsttʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pââsttʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pââsttʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -49294,7 +49294,7 @@
    <lg>
      <l pos="A">pââʹjjnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">pââʹjjnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">pââʹjjnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -49317,7 +49317,7 @@
        <etymon algu_lekseemi_id="73630" id="212976" xml:lang="sms">pââʹss</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_CHAAQCC" inflexId="1.113">pââss</st>
+       <st Contlex="N_CHAAQCC" inflexId="1.113">pââ%{ʹØ%}ss</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2132</c>
@@ -49638,7 +49638,7 @@
    <lg>
      <l pos="A">päikklõs</l>
      <stg>
-       <st Contlex="A_SAJOS">päikklõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">päikklõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -49867,7 +49867,7 @@
    <lg>
      <l pos="A">pääiʹǩtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääiʹǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääiʹǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="paikka, koti" ms="" ord="E1" pos="N">päiʹǩǩ</comp>
@@ -49894,7 +49894,7 @@
    <lg>
      <l pos="A">pääiʹǩteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääiʹǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääiʹǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N»A" type="Der">
        <comp fin="paikka, koti" ms="" ord="E1" pos="N»A">päiʹǩǩ</comp>
@@ -49948,7 +49948,7 @@
    <lg>
      <l pos="A">pääkktem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääkktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääkktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -49967,7 +49967,7 @@
    <lg>
      <l pos="A">pääkkteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääkktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääkktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50083,7 +50083,7 @@
    <lg>
      <l pos="A">päärnainallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">päärnainallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">päärnainallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50103,7 +50103,7 @@
    <lg>
      <l pos="A">päärnaitem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">päärnaitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">päärnaitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50122,7 +50122,7 @@
    <lg>
      <l pos="A">päärnaiteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">päärnaitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">päärnaitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50141,7 +50141,7 @@
    <lg>
      <l pos="A">päärtʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">päärtʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">päärtʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50160,7 +50160,7 @@
    <lg>
      <l pos="A">päärtʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">päärtʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">päärtʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50203,7 +50203,7 @@
    <lg>
      <l pos="A">pääʹccemnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">pääʹccemnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">pääʹccemnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50222,7 +50222,7 @@
    <lg>
      <l pos="A">pääʹlǩtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääʹlǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääʹlǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50241,7 +50241,7 @@
    <lg>
      <l pos="A">pääʹlǩteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääʹlǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääʹlǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50271,7 +50271,7 @@
    <lg>
      <l pos="A">pääʹntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50290,7 +50290,7 @@
    <lg>
      <l pos="A">pääʹnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50311,7 +50311,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQMES">pä%^1VOWrr</st>
+       <st Contlex="A_KAAQMES">pä%^1VOW%{ʹØ%}rr</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -50357,7 +50357,7 @@
    <lg>
      <l pos="A">pääʹǧǧtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääʹǧǧtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääʹǧǧtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -50376,7 +50376,7 @@
    <lg>
      <l pos="A">pääʹǧǧteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">pääʹǧǧtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">pääʹǧǧtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -51030,7 +51030,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_SAJOS">põõltõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">põõltõ%^1VOW%{ʹØ%}s</st>
      </stg>
      <compg drv="V:Suf»A" type="Der">
        <comp fin="pelätä" ms="" ord="E1" pos="V»A">põõllâd</comp>
@@ -51250,7 +51250,7 @@
        <etymon algu_lekseemi_id="73959" id="214036" xml:lang="sms">põʹlvvi</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_JIOQNNI">põlvv</st>
+       <st Contlex="A_JIOQNNI">põ%{ʹØ%}lvv</st>
        <st Contlex="A-ATTR_">põʹlvves</st>
      </stg>
    </lg>
@@ -51352,7 +51352,7 @@
    <lg>
      <l pos="A">raaitem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">raaitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">raaitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -51371,7 +51371,7 @@
    <lg>
      <l pos="A">raaiteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">raaitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">raaitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -51813,7 +51813,7 @@
        <etymon algu_lekseemi_id="24104" id="59919" xml:lang="sms">reeʹǧǧes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQLLES" inflexId="::::1.2">rẹ%^1VOWgg</st>
+       <st Contlex="A_KAAQLLES" inflexId="::::1.2">rẹ%^1VOW%{ʹØ%}gg</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3360</c>
@@ -51945,7 +51945,7 @@
    <lg>
      <l pos="A">registõõlltem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">registõõlltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">registõõlltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -51964,7 +51964,7 @@
    <lg>
      <l pos="A">registõõllteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">registõõlltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">registõõlltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -52403,7 +52403,7 @@
    <lg>
      <l pos="A">reâuǥääʹpptem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">reâuǥääʹpptẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">reâuǥääʹpptẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -52422,7 +52422,7 @@
    <lg>
      <l pos="A">reâuǥääʹppteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">reâuǥääʹpptẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">reâuǥääʹpptẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -52892,7 +52892,7 @@
        <l_var>riäʹǩǩteʹm</l_var>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">riẹʹǩǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">riẹʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2271</c>
@@ -52942,7 +52942,7 @@
        <l_var>riäʹǩǩteʹm</l_var>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">riẹʹǩǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">riẹʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2271</c>
@@ -53034,7 +53034,7 @@
    <lg>
      <l pos="A">riistlatem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">riistlatẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">riistlatẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -53053,7 +53053,7 @@
    <lg>
      <l pos="A">riistlateʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">riistlatẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">riistlatẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -53095,7 +53095,7 @@
        <l_attr>riistˈteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">riistˈtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">riistˈtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2888</c>
@@ -53141,7 +53141,7 @@
        <l_attr>riistˈteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">riistˈtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">riistˈtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2888</c>
@@ -53183,7 +53183,7 @@
    <lg>
      <l pos="A">riistʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">riistʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">riistʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -53204,7 +53204,7 @@
    <lg>
      <l pos="A">riistʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">riistʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">riistʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -53282,7 +53282,7 @@
    <lg>
      <l pos="A">risttlõs</l>
      <stg>
-       <st Contlex="A_SAJOS" NumContlex="400">risttlõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" NumContlex="400">risttlõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -53412,7 +53412,7 @@
        <l_attr>riäʹǩǩteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">riäʹǩǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">riäʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2270</c>
@@ -53457,7 +53457,7 @@
        <l_attr>riäʹǩǩteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">riäʹǩǩtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">riäʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2270</c>
@@ -53520,7 +53520,7 @@
    <lg>
      <l pos="A">riʹjttjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">riʹjttjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">riʹjttjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -53539,7 +53539,7 @@
    <lg>
      <l pos="A">riʹjttjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">riʹjttjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">riʹjttjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -53577,7 +53577,7 @@
    <lg>
      <l pos="A">riʹttjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">riʹttjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">riʹttjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -53596,7 +53596,7 @@
    <lg>
      <l pos="A">riʹttjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">riʹttjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">riʹttjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -53654,7 +53654,7 @@
    <lg>
      <l pos="A">roodtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">roodtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">roodtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -53674,7 +53674,7 @@
    <lg>
      <l pos="A">roodteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">roodtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">roodtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -54000,7 +54000,7 @@
    <lg>
      <l pos="A">roʹppi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">ropp</st>
+       <st Contlex="A_JIOQNNI">ro%{ʹØ%}pp</st>
      </stg>
    </lg>
      <sources>
@@ -54659,7 +54659,7 @@
    <lg>
      <l pos="A">ruõbdtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ruõbdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ruõbdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -54678,7 +54678,7 @@
    <lg>
      <l pos="A">ruõbdteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ruõbdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ruõbdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -54782,7 +54782,7 @@
    <lg>
      <l pos="A">ruõidtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ruõidtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ruõidtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -54801,7 +54801,7 @@
    <lg>
      <l pos="A">ruõidteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ruõidtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ruõidtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -55018,7 +55018,7 @@
    <lg>
      <l pos="A">ruõstʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ruõstʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ruõstʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -55037,7 +55037,7 @@
    <lg>
      <l pos="A">ruõstʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ruõstʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ruõstʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -55056,7 +55056,7 @@
    <lg>
      <l pos="A">ruõʹpssesnjiõʹrri</l>
      <stg>
-       <st Contlex="A_JIOQNNI">ruõʹpsses#njiõrˈr</st>
+       <st Contlex="A_JIOQNNI">ruõʹpsses#njiõ%{ʹØ%}rˈr</st>
        <st Contlex="A-ATTR_">ruõʹpsses#njiõʹrres</st>
      </stg>
    </lg>
@@ -55075,7 +55075,7 @@
    <lg>
      <l pos="A">ruõʹstti</l>
      <stg>
-       <st Contlex="A_JIOQNNI">ruõstt</st>
+       <st Contlex="A_JIOQNNI">ruõ%{ʹØ%}stt</st>
        <st Contlex="A-ATTR_">ruõʹsttes</st>
      </stg>
    </lg>
@@ -55144,7 +55144,7 @@
    <lg>
      <l pos="A">ruʹppi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">rupp</st>
+       <st Contlex="A_JIOQNNI">ru%{ʹØ%}pp</st>
        <st Contlex="A-ATTR_">ruʹppes</st>
      </stg>
      <compg drv="N:Suf»A" type="drv">
@@ -55299,7 +55299,7 @@
    <lg>
      <l pos="A">rââʹšš</l>
      <stg>
-       <st Contlex="A_CHAAQCC" inflexId="::::3.11">rââšš</st>
+       <st Contlex="A_CHAAQCC" inflexId="::::3.11">rââ%{ʹØ%}šš</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5855</c>
@@ -55395,7 +55395,7 @@
    <lg>
      <l pos="A">râʹšši</l>
      <stg>
-       <st Contlex="A_JIOQNNI">râšš</st>
+       <st Contlex="A_JIOQNNI">râ%{ʹØ%}šš</st>
      </stg>
    </lg>
      <sources>
@@ -55773,7 +55773,7 @@
        <etymon algu_lekseemi_id="24027" id="59635" xml:lang="sms">räuʹǩǩ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_JAUQRR">rä%^1VOWukk</st>
+       <st Contlex="A_JAUQRR">rä%^1VOWu%{ʹØ%}kk</st>
      </stg>
    </lg>
      <sources>
@@ -55896,7 +55896,7 @@
    <lg>
      <l pos="A">rääuhlõs</l>
      <stg>
-       <st Contlex="A_SAJOS">rääuhlõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">rääuhlõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -55916,7 +55916,7 @@
    <lg>
      <l pos="A">rääuhnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">rääuhnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">rääuhnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -55935,7 +55935,7 @@
    <lg>
      <l pos="A">rääuhtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">rääuhtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">rääuhtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -55955,7 +55955,7 @@
    <lg>
      <l pos="A">rääuhteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">rääuhtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">rääuhtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -56001,7 +56001,7 @@
        <etymon algu_lekseemi_id="17373" id="43437" xml:lang="sms">rääʹnes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQMES" inflexId="::::1.2">rä%^1VOWnn</st>
+       <st Contlex="A_KAAQMES" inflexId="::::1.2">rä%^1VOW%{ʹØ%}nn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1976</c>
@@ -56080,7 +56080,7 @@
        <etymon algu_lekseemi_id="17380" id="43457" xml:lang="sms">rääʹppes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQLLES">rä%^1VOWpp</st>
+       <st Contlex="A_KAAQLLES">rä%^1VOW%{ʹØ%}pp</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>räppaz</wordform>
@@ -56159,7 +56159,7 @@
        <etymon algu_lekseemi_id="23957" id="59412" xml:lang="sms">rääʹves</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQMES" inflexId="::::1.2">rä%^1VOWvv</st>
+       <st Contlex="A_KAAQMES" inflexId="::::1.2">rä%^1VOW%{ʹØ%}vv</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">639</c>
@@ -56216,7 +56216,7 @@
        <etymon algu_lekseemi_id="17346" id="43358" xml:lang="sms">rääʹǩǩes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQLLES" inflexId="::::1.2">rä%^1VOWkk</st>
+       <st Contlex="A_KAAQLLES" inflexId="::::1.2">rä%^1VOW%{ʹØ%}kk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1406</c>
@@ -56301,7 +56301,7 @@
    <lg>
      <l pos="A">räʹsǩǩi</l>
      <stg>
-       <st Contlex="A_JIOQNNI">räskk</st>
+       <st Contlex="A_JIOQNNI">rä%{ʹØ%}skk</st>
      </stg>
    </lg>
      <sources>
@@ -56349,8 +56349,8 @@
    <lg>
      <l pos="A">räʹǩstemnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">räʹǩstemnallšẹ%^1VOWm</st>
-       <st Contlex="A_NALLSHEM">rääʹǩǩstemnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">räʹǩstemnallšẹ%^1VOW%{ʹØ%}m</st>
+       <st Contlex="A_NALLSHEM">rääʹǩǩstemnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -56590,7 +56590,7 @@
    <lg>
      <l pos="A">rååʹtt</l>
      <stg>
-       <st Contlex="A_SAAQMM" inflexId="::::3.11">råått</st>
+       <st Contlex="A_SAAQMM" inflexId="::::3.11">råå%{ʹØ%}tt</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5750</c>
@@ -56982,7 +56982,7 @@
    <lg>
      <l pos="A">saanjueʹlǧǧ</l>
      <stg>
-       <st Contlex="A_MUEQRJJ">saan#juâlgg</st>
+       <st Contlex="A_MUEQRJJ">saan#juâ%{ʹØ%}lgg</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-jueʹlj</wordform>
@@ -57038,7 +57038,7 @@
    <lg>
      <l pos="A">saaʹminallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">saaʹmi#nallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">saaʹmi#nallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="kolttasaamelainen" ms="" ord="E1" pos="N">sääʹmm</comp>
@@ -57068,7 +57068,7 @@
        <l_attr>saaʹniteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">saaʹnitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">saaʹnitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2260</c>
@@ -57110,7 +57110,7 @@
        <l_attr>saaʹniteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">saaʹnitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">saaʹnitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2260</c>
@@ -57220,7 +57220,7 @@
    <lg>
      <l pos="A">sami pueʹrr</l>
      <stg>
-       <st Contlex="A_KUEQLL">sami puârr</st>
+       <st Contlex="A_KUEQLL">sami puâ%{ʹØ%}rr</st>
      </stg>
    </lg>
      <sources>
@@ -57412,7 +57412,7 @@
        <l_attr>seeiʹbteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">seeiʹbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">seeiʹbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5953</c>
@@ -57460,7 +57460,7 @@
        <l_attr>seeiʹbteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">seeiʹbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">seeiʹbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5953</c>
@@ -57606,7 +57606,7 @@
        <etymon algu_lekseemi_id="36979" id="92931" xml:lang="sms">seeʹll</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_SAAQMM" inflexId="::::3.11">seell</st>
+       <st Contlex="A_SAAQMM" inflexId="::::3.11">see%{ʹØ%}ll</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3745</c>
@@ -57820,7 +57820,7 @@
    <lg>
      <l pos="A">seuʹnnjed</l>
      <stg>
-       <st Contlex="A_AQKHKHED">seuʹnnj</st>
+       <st Contlex="A_AQKHKHED">seuʹn%{ʹØ%}nj</st>
      </stg>
    </lg>
      <sources>
@@ -57886,7 +57886,7 @@
        <l_var>seuʹnnjed</l_var>
      </variants>
      <stg>
-       <st Contlex="A_AQKHKHED" inflexId="::::1.25">seuʹŋŋ</st>
+       <st Contlex="A_AQKHKHED" inflexId="::::1.25">seuʹ%{ʹØ%}ŋŋ</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1391</c>
@@ -58172,8 +58172,8 @@
    <lg>
      <l pos="A">seämmanallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">seämmanallšẹ%^1VOWm</st>
-       <st Contlex="A_NALLSHEM" status="Use/SpellNoSugg">seämmnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">seämmanallšẹ%^1VOW%{ʹØ%}m</st>
+       <st Contlex="A_NALLSHEM" status="Use/SpellNoSugg">seämmnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -58278,7 +58278,7 @@
        <etymon algu_lekseemi_id="38394" id="97996" xml:lang="sms">seäʹǧˈǧ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_JEAQNNN" inflexId="::1e::3.11">seägˈg</st>
+       <st Contlex="A_JEAQNNN" inflexId="::1e::3.11">seä%{ʹØ%}gˈg</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2698</c>
@@ -58362,7 +58362,7 @@
    <lg>
      <l pos="A">seʹlvv</l>
      <stg>
-       <st Contlex="A_KHEQRJJ" inflexId="::::3.11">sẹ%^1VOWlvv</st>
+       <st Contlex="A_KHEQRJJ" inflexId="::::3.11">sẹ%^1VOW%{ʹØ%}lvv</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1206</c>
@@ -59033,7 +59033,7 @@
    <lg>
      <l pos="A">siõmetem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">siõmetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">siõmetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -59052,7 +59052,7 @@
    <lg>
      <l pos="A">siõmeteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">siõmetẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">siõmetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -59091,7 +59091,7 @@
    <lg>
      <l pos="A">siõmtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">siõmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">siõmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1175</c>
@@ -59128,7 +59128,7 @@
    <lg>
      <l pos="A">siõmteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">siõmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">siõmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1175</c>
@@ -60118,7 +60118,7 @@
    <lg>
      <l pos="A">smääǥǥtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">smääǥǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">smääǥǥtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60137,7 +60137,7 @@
    <lg>
      <l pos="A">smääǥǥteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">smääǥǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">smääǥǥtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60296,7 +60296,7 @@
    <lg>
      <l pos="A">snäätntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">snäätntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">snäätntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60315,7 +60315,7 @@
    <lg>
      <l pos="A">snäätnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">snäätntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">snäätntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60465,7 +60465,7 @@
    <lg>
      <l pos="A">soojtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">soojtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">soojtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60485,7 +60485,7 @@
    <lg>
      <l pos="A">soojteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">soojtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">soojtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60730,7 +60730,7 @@
    <lg>
      <l pos="A">späʹssbõõžžtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">späʹssbõõžžtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">späʹssbõõžžtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60749,7 +60749,7 @@
    <lg>
      <l pos="A">späʹssbõõžžteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">späʹssbõõžžtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">späʹssbõõžžtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60779,7 +60779,7 @@
    <lg>
      <l pos="A">staan</l>
      <stg>
-       <st Contlex="A_PLAAN">staan</st>
+       <st Contlex="A_PLAAN">staa%{ʹØ%}n</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>=</wordform>
@@ -60854,7 +60854,7 @@
    <lg>
      <l pos="A">staantem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">staantẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">staantẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60873,7 +60873,7 @@
    <lg>
      <l pos="A">staanteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">staantẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">staantẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60960,7 +60960,7 @@
    <lg>
      <l pos="A">staullnjõs</l>
      <stg>
-       <st Contlex="A_SAJOS">staullnjõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">staullnjõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-njõõzz</wordform>
@@ -61035,7 +61035,7 @@
    <lg>
      <l pos="A">steriil</l>
      <stg>
-       <st Contlex="A_PLAAN" NumContlex="1.22">steriil</st>
+       <st Contlex="A_PLAAN" NumContlex="1.22">sterii%{ʹØ%}l</st>
      </stg>
    </lg>
      <sources>
@@ -61097,8 +61097,8 @@
        <l_attr>straammteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">straammtẹ%^1VOWm</st>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">sraammtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">straammtẹ%^1VOW%{ʹØ%}m</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">sraammtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3551</c>
@@ -61152,8 +61152,8 @@
        <l_attr>straammteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">straammtẹ%^1VOWm</st>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">sraammtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">straammtẹ%^1VOW%{ʹØ%}m</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">sraammtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3551</c>
@@ -61203,7 +61203,7 @@
    <lg>
      <l pos="A">straaŋgtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">straaŋgtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">straaŋgtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -61222,7 +61222,7 @@
    <lg>
      <l pos="A">straaŋgteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">straaŋgtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">straaŋgtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -61789,7 +61789,7 @@
    <lg>
      <l pos="A">sueiʹntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">sueiʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">sueiʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -61808,7 +61808,7 @@
    <lg>
      <l pos="A">sueiʹnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">sueiʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">sueiʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -61866,7 +61866,7 @@
    <lg>
      <l pos="A">sueʹles</l>
      <stg>
-       <st Contlex="A_CHUEQDHES" inflexId="::::1.2">suâll</st>
+       <st Contlex="A_CHUEQDHES" inflexId="::::1.2">suâ%{ʹØ%}ll</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3717</c>
@@ -62085,7 +62085,7 @@
        <l_attr>sueʹrteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">sueʹrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">sueʹrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1024</c>
@@ -62131,7 +62131,7 @@
        <l_attr>sueʹrteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">sueʹrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">sueʹrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1024</c>
@@ -62256,7 +62256,7 @@
    <lg>
      <l pos="A">suuddtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">suuddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">suuddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -62275,7 +62275,7 @@
    <lg>
      <l pos="A">suuddteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">suuddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">suuddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -62293,7 +62293,7 @@
    <lg>
      <l pos="A">suunallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">suunallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">suunallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -62364,7 +62364,7 @@
    <lg>
      <l pos="A">suuʹddes</l>
      <stg>
-       <st Contlex="A_PUUQTTES">su%^1VOWdd</st>
+       <st Contlex="A_PUUQTTES">su%^1VOW%{ʹØ%}dd</st>
      </stg>
    </lg>
      <sources>
@@ -62715,7 +62715,7 @@
    <lg>
      <l pos="A">suäjjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">suäjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">suäjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -62735,7 +62735,7 @@
    <lg>
      <l pos="A">suäjjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">suäjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">suäjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -63376,7 +63376,7 @@
    <lg>
      <l pos="A">suʹdd</l>
      <stg>
-       <st Contlex="A_NUQBB">su%^1VOWdd</st>
+       <st Contlex="A_NUQBB">su%^1VOW%{ʹØ%}dd</st>
      </stg>
    </lg>
      <sources>
@@ -63533,7 +63533,7 @@
    <lg>
      <l pos="A">symbolnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">symbolnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">symbolnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -63939,7 +63939,7 @@
        <etymon algu_lekseemi_id="36855" id="92491" xml:lang="sms">säuʹrr</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_JAUQRR" inflexId="::::3.11">sä%^1VOWurr</st>
+       <st Contlex="A_JAUQRR" inflexId="::::3.11">sä%^1VOWu%{ʹØ%}rr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1289</c>
@@ -64030,7 +64030,7 @@
    <lg>
      <l pos="A">säähhartem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">säähhartẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">säähhartẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="sokeri" ms="" ord="E1" pos="N">säähhar</comp>
@@ -64056,7 +64056,7 @@
    <lg>
      <l pos="A">säähharteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">säähhartẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">säähhartẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N»A" type="Der">
        <comp fin="sokeri" ms="" ord="E1" pos="N»A">säähhar</comp>
@@ -64141,7 +64141,7 @@
    <lg>
      <l pos="A">säärntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">säärntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">säärntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -64162,7 +64162,7 @@
    <lg>
      <l pos="A">säärnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">säärntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">säärntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -64322,7 +64322,7 @@
        <l_attr>sääʹnteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">sääʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">sääʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3790</c>
@@ -64373,7 +64373,7 @@
        <l_attr>sääʹnteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">sääʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">sääʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3790</c>
@@ -65012,7 +65012,7 @@
    <lg>
      <l pos="A">sõõustem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">sõõustẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">sõõustẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -65031,7 +65031,7 @@
    <lg>
      <l pos="A">sõõusteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">sõõustẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">sõõustẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -65517,7 +65517,7 @@
    <lg>
      <l pos="A">taaltem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">taaltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">taaltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -65536,7 +65536,7 @@
    <lg>
      <l pos="A">taalteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">taaltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">taaltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -65613,7 +65613,7 @@
    <lg>
      <l pos="A">taarbtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">taarbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">taarbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -65632,7 +65632,7 @@
    <lg>
      <l pos="A">taarbteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">taarbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">taarbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -65782,7 +65782,7 @@
    <lg>
      <l pos="A">takainallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">takainallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">takainallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -65971,7 +65971,7 @@
    <lg>
      <l pos="A">teeivtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">teeivtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">teeivtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-teeʹm</wordform>
@@ -66001,7 +66001,7 @@
    <lg>
      <l pos="A">teeivteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">teeivtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">teeivtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Pl_Nom">
            <wordform>-teeʹm</wordform>
@@ -66072,7 +66072,7 @@
        <etymon algu_lekseemi_id="76085" id="221044" xml:lang="sms">teeʹmes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQMES" inflexId="::::1.2">tẹ%^1VOWmm</st>
+       <st Contlex="A_KAAQMES" inflexId="::::1.2">tẹ%^1VOW%{ʹØ%}mm</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3744</c>
@@ -66821,7 +66821,7 @@
    <lg>
      <l pos="A">teäddâlmnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">teäddâlmnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">teäddâlmnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -66840,7 +66840,7 @@
    <lg>
      <l pos="A">teäddâlmnallšeʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">teäddâlmnallše%^1VOWʹm</st>
+       <st Contlex="A_NALLSHEM">teäddâlmnallše%^1VOWʹ%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -67093,7 +67093,7 @@
    <lg>
      <l pos="A">teäʹmes</l>
      <stg>
-       <st Contlex="A_PUAQRES">teämˈm</st>
+       <st Contlex="A_PUAQRES">teä%{ʹØ%}mˈm</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>teämmaz</wordform>
@@ -67325,7 +67325,7 @@
    <lg>
      <l pos="A">tieʹddinallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tieʹddinallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tieʹddinallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -67344,7 +67344,7 @@
    <lg>
      <l pos="A">tieʹddinallšeʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tieʹddinallše%^1VOWʹm</st>
+       <st Contlex="A_NALLSHEM">tieʹddinallše%^1VOWʹ%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -67382,7 +67382,7 @@
    <lg>
      <l pos="A">tieʹddtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tieʹddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tieʹddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -67401,7 +67401,7 @@
    <lg>
      <l pos="A">tieʹddteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tieʹddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tieʹddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -67513,7 +67513,7 @@
    <lg>
      <l pos="A">tieʹǧǧtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tieʹǧǧtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tieʹǧǧtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -67532,7 +67532,7 @@
    <lg>
      <l pos="A">tieʹǧǧteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tieʹǧǧtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tieʹǧǧtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -67642,7 +67642,7 @@
    <lg>
      <l pos="A">tiivtnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">tiivtnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">tiivtnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -68034,7 +68034,7 @@
    <lg>
      <l pos="A">tiârkk</l>
      <stg>
-       <st Contlex="A_MIYRKK" inflexId="::::1.111">tiârkk</st>
+       <st Contlex="A_MIYRKK" inflexId="::::1.111">tiâ%{ʹØ%}rkk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3074</c>
@@ -68296,7 +68296,7 @@
    <lg>
      <l pos="A">tollsââidõs</l>
      <stg>
-       <st Contlex="A_SAJOS">tollsââidõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">tollsââidõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-sâiddâz</wordform>
@@ -68399,7 +68399,7 @@
    <lg>
      <l pos="A">toobdtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">toobdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">toobdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -68419,7 +68419,7 @@
    <lg>
      <l pos="A">toobdteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">toobdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">toobdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -68519,7 +68519,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM">toolktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">toolktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="tolkku, äly" ord="E1" pos="N">toolk</comp>
@@ -68549,7 +68549,7 @@
    <lg>
      <l pos="A">toolkteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">toolktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">toolktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -68593,7 +68593,7 @@
    <lg>
      <l pos="A">tooläʹrǧǧ</l>
      <stg>
-       <st Contlex="A_KAQLBB" NumContlex="3.11">tool#ä%^1VOWrgg</st>
+       <st Contlex="A_KAQLBB" NumContlex="3.11">tool#ä%^1VOW%{ʹØ%}rgg</st>
      </stg>
    </lg>
      <sources>
@@ -69212,7 +69212,7 @@
    <lg>
      <l pos="A">trooccâmnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">trooccâmnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">trooccâmnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -69354,7 +69354,7 @@
    <lg>
      <l pos="A">tunnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">tunnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">tunnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -69442,7 +69442,7 @@
    <lg>
      <l pos="A">tuunallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tuunallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tuunallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -69709,7 +69709,7 @@
    <lg>
      <l pos="A">tuâhhrõs</l>
      <stg>
-       <st Contlex="A_SAJOS">tuâhhrõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">tuâhhrõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-rõõzz</wordform>
@@ -69740,7 +69740,7 @@
        <l_attr>tuâiteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">tuâitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">tuâitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5762</c>
@@ -69786,7 +69786,7 @@
        <l_attr>tuâiteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">tuâitẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">tuâitẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5762</c>
@@ -70252,7 +70252,7 @@
    <lg>
      <l pos="A">tuäivtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tuäivtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tuäivtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -70271,7 +70271,7 @@
    <lg>
      <l pos="A">tuäivteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tuäivtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tuäivtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -70545,7 +70545,7 @@
        <etymon algu_lekseemi_id="76135" id="221206" xml:lang="sms">tuäʹŋǧǧ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_CHUAQRVV" inflexId="::::3.11">tuäŋgg</st>
+       <st Contlex="A_CHUAQRVV" inflexId="::::3.11">tuä%{ʹØ%}ŋgg</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3370</c>
@@ -70815,7 +70815,7 @@
    <lg>
      <l pos="A">tuåzztem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tuåzztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tuåzztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -70834,7 +70834,7 @@
    <lg>
      <l pos="A">tuåzzteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tuåzztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tuåzztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -70907,7 +70907,7 @@
    <lg>
      <l pos="A">tuõlbb</l>
      <stg>
-       <st Contlex="A_CHUOSHKK">tuõlbb</st>
+       <st Contlex="A_CHUOSHKK">tuõ%{ʹØ%}lbb</st>
      </stg>
    </lg>
      <sources>
@@ -71551,7 +71551,7 @@
        <etymon algu_lekseemi_id="76664" id="222859" xml:lang="sms">tuʹšš</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_NUQBB">tu%^1VOWšš</st>
+       <st Contlex="A_NUQBB">tu%^1VOW%{ʹØ%}šš</st>
      </stg>
    </lg>
      <sources>
@@ -71846,7 +71846,7 @@
    <lg>
      <l pos="A">tälkkamnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">tälkkamnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">tälkkamnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -71921,7 +71921,7 @@
    <lg>
      <l pos="A">tännallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tännallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tännallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -72325,7 +72325,7 @@
    <lg>
      <l pos="A">tääʹsnkõs</l>
      <stg>
-       <st Contlex="A_SAJOS">tääʹsnkõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">tääʹsnkõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -72484,7 +72484,7 @@
        <etymon algu_lekseemi_id="75575" id="219382" xml:lang="sms">täʹrǩǩ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAQLBB" inflexId="::::3.11">tä%^1VOWrkk</st>
+       <st Contlex="A_KAQLBB" inflexId="::::3.11">tä%^1VOW%{ʹØ%}rkk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1284</c>
@@ -72559,7 +72559,7 @@
    <lg>
      <l pos="A">täʹsnnʼnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">täʹsnnʼnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">täʹsnnʼnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -72768,7 +72768,7 @@
    <lg>
      <l pos="A">tååbdtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tååbdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tååbdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -72788,7 +72788,7 @@
    <lg>
      <l pos="A">tååbdteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tååbdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tååbdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -72850,7 +72850,7 @@
        <l_syn>??mieʹrres</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_KAQLBB" inflexId="::1e::3.11">tå%^1VOWlcc</st>
+       <st Contlex="A_KAQLBB" inflexId="::1e::3.11">tå%^1VOW%{ʹØ%}lcc</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">998</c>
@@ -73057,7 +73057,7 @@
    <lg>
      <l pos="A">tõnnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">tõnnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">tõnnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -73578,7 +73578,7 @@
    <lg>
      <l pos="A">uuʹrmtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">uuʹrmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">uuʹrmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -73597,7 +73597,7 @@
    <lg>
      <l pos="A">uuʹrmteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">uuʹrmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">uuʹrmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -73693,7 +73693,7 @@
        <c name="Swadesh100">15</c>
      </inc-sampling>
      <stg>
-       <st Contlex="A_UQCC" inflexId="::20::1.113">u%^1VOWcc</st>
+       <st Contlex="A_UQCC" inflexId="::20::1.113">u%^1VOW%{ʹØ%}cc</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3706</c>
@@ -73783,7 +73783,7 @@
    <lg>
      <l pos="A">uʹccnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">uʹccnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">uʹccnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -74135,7 +74135,7 @@
    <lg>
      <l pos="A">vaardtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vaardtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vaardtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -74154,7 +74154,7 @@
    <lg>
      <l pos="A">vaardteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vaardtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vaardtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -74268,7 +74268,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM">vaartẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vaartẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="vaara" ord="E1" pos="N">vaarr</comp>
@@ -74295,7 +74295,7 @@
    <lg>
      <l pos="A">vaarteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vaartẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vaartẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -75054,7 +75054,7 @@
    <lg>
      <l pos="A">veeitlõs</l>
      <stg>
-       <st Contlex="A_SAJOS">veeitlõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">veeitlõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-lõõzz</wordform>
@@ -75229,7 +75229,7 @@
    <lg>
      <l pos="A">veeʹrdtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">veeʹrdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">veeʹrdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -75249,7 +75249,7 @@
    <lg>
      <l pos="A">veeʹrdteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">veeʹrdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">veeʹrdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -75273,7 +75273,7 @@
        <etymon algu_lekseemi_id="79776" id="236611" xml:lang="sms">veeʹres</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQMES" inflexId="::::1.2">vẹ%^1VOWrr</st>
+       <st Contlex="A_KAAQMES" inflexId="::::1.2">vẹ%^1VOW%{ʹØ%}rr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3858</c>
@@ -75363,7 +75363,7 @@
    <lg>
      <l pos="A">veeʹrjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">veeʹrjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">veeʹrjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -75382,7 +75382,7 @@
    <lg>
      <l pos="A">veeʹrjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">veeʹrjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">veeʹrjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -75899,7 +75899,7 @@
        <l_syn>ååskteʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">veârtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">veârtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2886</c>
@@ -75953,7 +75953,7 @@
        <l_syn>ååskteʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">veârtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">veârtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2886</c>
@@ -76452,7 +76452,7 @@
    <lg>
      <l pos="A">veʹrddeemnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">veʹrddeemnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">veʹrddeemnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -76581,7 +76581,7 @@
    <lg>
      <l pos="A">vieʹljtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vieʹljtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vieʹljtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -76600,7 +76600,7 @@
    <lg>
      <l pos="A">vieʹljteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vieʹljtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vieʹljtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -76716,7 +76716,7 @@
    <lg>
      <l pos="A">vieʹncctem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vieʹncctẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vieʹncctẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -76736,7 +76736,7 @@
    <lg>
      <l pos="A">vieʹnccteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vieʹncctẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vieʹncctẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -76757,7 +76757,7 @@
    <lg>
      <l pos="A">vieʹnctem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">vieʹnctẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">vieʹnctẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2199</c>
@@ -76806,7 +76806,7 @@
    <lg>
      <l pos="A">vieʹncteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">vieʹnctẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">vieʹnctẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2199</c>
@@ -76900,7 +76900,7 @@
        <l_var>viäʹrr</l_var>
      </variants>
      <stg>
-       <st Contlex="A_HIEAQNN" inflexId="::::1.113">veärr</st>
+       <st Contlex="A_HIEAQNN" inflexId="::::1.113">veä%{ʹØ%}rr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">6018</c>
@@ -77363,7 +77363,7 @@
    <lg>
      <l pos="A">violeʹtt</l>
      <stg>
-       <st Contlex="A_SEQTT">violẹ%^1VOWtt</st>
+       <st Contlex="A_SEQTT">violẹ%^1VOW%{ʹØ%}tt</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>violeeʹtt</wordform>
@@ -77550,7 +77550,7 @@
    <lg>
      <l pos="A">virvv</l>
      <stg>
-       <st Contlex="A_ALGG">vi%^1VOWrvv</st>
+       <st Contlex="A_ALGG">vi%^1VOW%{ʹØ%}rvv</st>
      </stg>
    </lg>
      <sources>
@@ -77736,7 +77736,7 @@
    <lg>
      <l pos="A">viâltʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">viâltʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">viâltʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -77755,7 +77755,7 @@
    <lg>
      <l pos="A">viâltʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">viâltʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">viâltʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -77796,7 +77796,7 @@
    <lg>
      <l pos="A">viârtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">viârtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">viârtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -77815,7 +77815,7 @@
    <lg>
      <l pos="A">viârteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">viârtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">viârtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -78397,7 +78397,7 @@
    <lg>
      <l pos="A">viõǥǥtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">viõǥǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">viõǥǥtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5857</c>
@@ -78443,7 +78443,7 @@
    <lg>
      <l pos="A">viõǥǥteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">viõǥǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">viõǥǥtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5857</c>
@@ -78753,7 +78753,7 @@
    <lg>
      <l pos="A">vueiʹntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueiʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueiʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -78772,7 +78772,7 @@
    <lg>
      <l pos="A">vueiʹnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueiʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueiʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -78869,7 +78869,7 @@
    <lg>
      <l pos="A">vueiʹtʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueiʹtʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueiʹtʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -78889,7 +78889,7 @@
    <lg>
      <l pos="A">vueiʹtʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueiʹtʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueiʹtʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -78909,7 +78909,7 @@
    <lg>
      <l pos="A">vueiʹvtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueiʹvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueiʹvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -78930,7 +78930,7 @@
    <lg>
      <l pos="A">vueiʹvteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueiʹvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueiʹvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -78997,7 +78997,7 @@
    <lg>
      <l pos="A">vueiʹvvmeäʹrtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueiʹvvmeäʹrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueiʹvvmeäʹrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -79016,7 +79016,7 @@
    <lg>
      <l pos="A">vueiʹvvmeäʹrteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueiʹvvmeäʹrtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueiʹvvmeäʹrtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -79432,7 +79432,7 @@
    <lg>
      <l pos="A">vueʹrdʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueʹrdʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueʹrdʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -79451,7 +79451,7 @@
    <lg>
      <l pos="A">vueʹrdʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vueʹrdʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vueʹrdʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -79807,7 +79807,7 @@
        <l_attr>vuâsppååʹdteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">vuâsppååʹdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">vuâsppååʹdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1945</c>
@@ -79848,7 +79848,7 @@
        <l_attr>vuâsppååʹdteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">vuâsppååʹdtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">vuâsppååʹdtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1945</c>
@@ -79984,7 +79984,7 @@
    <lg>
      <l pos="A">vuâđtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuâđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuâđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -80004,7 +80004,7 @@
    <lg>
      <l pos="A">vuâđteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuâđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuâđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -80747,7 +80747,7 @@
    <lg>
      <l pos="A">vuäzztem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuäzztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuäzztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -80766,7 +80766,7 @@
    <lg>
      <l pos="A">vuäzzteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuäzztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuäzztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -80873,7 +80873,7 @@
        <etymon algu_lekseemi_id="73764" id="213391" xml:lang="sms">vuäʹmes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_PUAQRES" inflexId="::4e::1.2">vuämˈm</st>
+       <st Contlex="A_PUAQRES" inflexId="::4e::1.2">vuä%{ʹØ%}mˈm</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2804</c>
@@ -81526,7 +81526,7 @@
    <lg>
      <l pos="A">vuõiǥtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuõiǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuõiǥtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-teeʹm</wordform>
@@ -81556,7 +81556,7 @@
    <lg>
      <l pos="A">vuõiǥteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuõiǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuõiǥtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Pl_Nom">
            <wordform>-teeʹm</wordform>
@@ -81812,7 +81812,7 @@
    <lg>
      <l pos="A">vuõjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuõjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuõjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -81831,7 +81831,7 @@
    <lg>
      <l pos="A">vuõjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuõjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuõjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -81953,7 +81953,7 @@
    <lg>
      <l pos="A">vuõmtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuõmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuõmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -81972,7 +81972,7 @@
    <lg>
      <l pos="A">vuõmteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vuõmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vuõmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -81995,7 +81995,7 @@
        <etymon algu_lekseemi_id="80803" id="240834" xml:lang="sms">vuõnnteʹm</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">vuõnntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">vuõnntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2595</c>
@@ -82058,7 +82058,7 @@
        <etymon algu_lekseemi_id="80803" id="240834" xml:lang="sms">vuõnnteʹm</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">vuõnntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">vuõnntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2595</c>
@@ -82348,7 +82348,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_SAJOS" inflexId="::::">vuõsˈsmõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" inflexId="::::">vuõsˈsmõ%^1VOW%{ʹØ%}s</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">514</c>
@@ -82464,7 +82464,7 @@
        <etymon algu_lekseemi_id="80780" id="240767" xml:lang="sms">vuõʹmˈmi</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_JIOQNNI">vuõmˈm</st>
+       <st Contlex="A_JIOQNNI">vuõ%{ʹØ%}mˈm</st>
      </stg>
    </lg>
      <sources>
@@ -82626,7 +82626,7 @@
        <l_var>vuiʹrˈri</l_var>
      </variants>
      <stg>
-       <st Contlex="A_JIOQNNI" inflexId="::::">vuõrˈr</st>
+       <st Contlex="A_JIOQNNI" inflexId="::::">vuõ%{ʹØ%}rˈr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2491</c>
@@ -82978,7 +82978,7 @@
    <lg>
      <l pos="A">vââʹjjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vââʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vââʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -82999,7 +82999,7 @@
    <lg>
      <l pos="A">vââʹjjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vââʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vââʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -84258,7 +84258,7 @@
    <lg>
      <l pos="A">vääʹldtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vääʹldtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vääʹldtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -84277,7 +84277,7 @@
    <lg>
      <l pos="A">vääʹldteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">vääʹldtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">vääʹldtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -84296,7 +84296,7 @@
    <lg>
      <l pos="A">vääʹlpes</l>
      <stg>
-       <st Contlex="A_KOAQSHKHES">välpp</st>
+       <st Contlex="A_KOAQSHKHES">vä%^1VOW%{ʹØ%}lpp</st>
      </stg>
    </lg>
      <sources>
@@ -84474,7 +84474,7 @@
    <lg>
      <l pos="A">vääʹrkõs</l>
      <stg>
-       <st Contlex="A_SAJOS">vääʹrkõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">vääʹrkõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -84579,7 +84579,7 @@
    <lg>
      <l pos="A">väʹll</l>
      <stg>
-       <st Contlex="A_LOAQDD" inflexId="::::1.1">vä%^1VOWll</st>
+       <st Contlex="A_LOAQDD" inflexId="::::1.1">vä%^1VOW%{ʹØ%}ll</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
@@ -84785,7 +84785,7 @@
    <lg>
      <l pos="A">võboršeǩnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">võboršeǩnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">võboršeǩnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -84804,7 +84804,7 @@
    <lg>
      <l pos="A">võikk</l>
      <stg>
-       <st Contlex="A_AUTT">võ%^1VOWikk</st>
+       <st Contlex="A_AUTT">võ%^1VOWi%{ʹØ%}kk</st>
      </stg>
    </lg>
      <sources>
@@ -85799,7 +85799,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ââʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">ââʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3585</c>
@@ -85860,7 +85860,7 @@
    <lg>
      <l pos="A">ââʹjjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ââʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">ââʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3585</c>
@@ -86170,7 +86170,7 @@
    <lg>
      <l pos="A">ââʹnnemââʹntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ââʹnnemââʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ââʹnnemââʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -86189,7 +86189,7 @@
    <lg>
      <l pos="A">ââʹnnemââʹnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ââʹnnemââʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ââʹnnemââʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -86260,7 +86260,7 @@
    <lg>
      <l pos="A">ââʹntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ââʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ââʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -86279,7 +86279,7 @@
    <lg>
      <l pos="A">ââʹnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ââʹntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ââʹntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -86323,7 +86323,7 @@
        <etymon algu_lekseemi_id="63967" id="171238" xml:lang="sms">ââʹzzteʹm</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">ââʹzztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">ââʹzztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4057</c>
@@ -86367,7 +86367,7 @@
        <etymon algu_lekseemi_id="63967" id="171238" xml:lang="sms">ââʹzzteʹm</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">ââʹzztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::">ââʹzztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4057</c>
@@ -86427,7 +86427,7 @@
    <lg>
      <l pos="A">âʹlddsnimldõk</l>
      <stg>
-       <st Contlex="A_SAJOS">âʹlddsnimldõ%^1VOWk</st>
+       <st Contlex="A_SAJOS">âʹlddsnimldõ%^1VOW%{ʹØ%}k</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-dõõǥǥ</wordform>
@@ -86458,7 +86458,7 @@
        <etymon algu_lekseemi_id="63875" id="170805" xml:lang="sms">âʹrnn</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAQLBB" inflexId="::::3.11">â%^1VOWrnn</st>
+       <st Contlex="A_KAQLBB" inflexId="::::3.11">â%^1VOW%{ʹØ%}rnn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">33</c>
@@ -86530,7 +86530,7 @@
    <lg>
      <l pos="A">âʹzztem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">âʹzztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">âʹzztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -86549,7 +86549,7 @@
    <lg>
      <l pos="A">âʹzzteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">âʹzztẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">âʹzztẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -86572,7 +86572,7 @@
        <etymon algu_lekseemi_id="62807" id="165254" xml:lang="sms">âʹǩǩed</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_AQKHKHED" inflexId="::::1.25">âʹǩǩ</st>
+       <st Contlex="A_AQKHKHED" inflexId="::::1.25">âʹ%{ʹØ%}ǩǩ</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">24</c>
@@ -86800,7 +86800,7 @@
    <lg>
      <l pos="A">äimmkååʹšǩes</l>
      <stg>
-       <st Contlex="A_KOAQSHKHES">äimm#kå%^1VOWškk</st>
+       <st Contlex="A_KOAQSHKHES">äimm#kå%^1VOW%{ʹØ%}škk</st>
      </stg>
    </lg>
      <sources>
@@ -87002,7 +87002,7 @@
    <lg>
      <l pos="A">älddõk</l>
      <stg>
-       <st Contlex="A_SAJOS">älddõ%^1VOWk</st>
+       <st Contlex="A_SAJOS">älddõ%^1VOW%{ʹØ%}k</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-dõõǥǥ</wordform>
@@ -87347,7 +87347,7 @@
    <lg>
      <l pos="A">ärvvsažnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">ärvvsažnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">ärvvsažnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -87608,7 +87608,7 @@
    <lg>
      <l pos="A">ääiʹjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ääiʹjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ääiʹjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -87627,7 +87627,7 @@
    <lg>
      <l pos="A">ääiʹjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ääiʹjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ääiʹjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -87719,7 +87719,7 @@
    <lg>
      <l pos="A">äärmtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">äärmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">äärmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -87738,7 +87738,7 @@
    <lg>
      <l pos="A">äärmteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">äärmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">äärmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -87757,7 +87757,7 @@
    <lg>
      <l pos="A">äärvtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">äärvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">äärvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -87776,7 +87776,7 @@
    <lg>
      <l pos="A">äärvteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">äärvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">äärvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -87817,7 +87817,7 @@
    <lg>
      <l pos="A">ääuktem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ääuktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ääuktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -87836,7 +87836,7 @@
    <lg>
      <l pos="A">ääukteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ääuktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ääuktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -88000,7 +88000,7 @@
        <etymon algu_lekseemi_id="63626" id="169432" xml:lang="sms">ääʹhn</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_HAAQSKH" inflexId="::40e::3.11">ääʹhn</st>
+       <st Contlex="A_HAAQSKH" inflexId="::40e::3.11">ääʹ%{ʹØ%}hn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1978</c>
@@ -88088,7 +88088,7 @@
        <etymon algu_lekseemi_id="63625" id="169425" xml:lang="sms">ääʹnes</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQMES" inflexId="::::1.2">ä%^1VOWnn</st>
+       <st Contlex="A_KAAQMES" inflexId="::::1.2">ä%^1VOW%{ʹØ%}nn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2733</c>
@@ -88201,7 +88201,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ääʹpptẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">ääʹpptẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2095</c>
@@ -88262,7 +88262,7 @@
    <lg>
      <l pos="A">ääʹppteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ääʹpptẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">ääʹpptẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2095</c>
@@ -88317,7 +88317,7 @@
    <lg>
      <l pos="A">ääʹrbvuâlažnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">ääʹrbvuâlažnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">ääʹrbvuâlažnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -88434,7 +88434,7 @@
    <lg>
      <l pos="A">ääʹšštem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ääʹšštẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">ääʹšštẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2298</c>
@@ -88478,7 +88478,7 @@
    <lg>
      <l pos="A">ääʹššteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ääʹšštẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">ääʹšštẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2298</c>
@@ -88610,7 +88610,7 @@
        <etymon algu_lekseemi_id="63856" id="170706" xml:lang="sms">äʹrǧǧ</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAQLBB" inflexId="::::3.11">ä%^1VOWrgg</st>
+       <st Contlex="A_KAQLBB" inflexId="::::3.11">ä%^1VOW%{ʹØ%}rgg</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3516</c>
@@ -89268,7 +89268,7 @@
    <lg>
      <l pos="A">ååsktem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ååsktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ååsktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -89290,7 +89290,7 @@
    <lg>
      <l pos="A">ååskteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ååsktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ååsktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -89396,7 +89396,7 @@
    <lg>
      <l pos="A">ååuʹstem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ååuʹstẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ååuʹstẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -89415,7 +89415,7 @@
    <lg>
      <l pos="A">ååuʹsteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ååuʹstẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ååuʹstẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -89499,7 +89499,7 @@
    <lg>
      <l pos="A">ååʹbleǩmättnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">ååʹbleǩmättnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">ååʹbleǩmättnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -89521,7 +89521,7 @@
        <etymon algu_lekseemi_id="73027" id="211040" xml:lang="sms">ååʹlles</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KAAQLLES">å%^1VOWll</st>
+       <st Contlex="A_KAAQLLES">å%^1VOW%{ʹØ%}ll</st>
      <mini_paradigm exclude="NDS"> ållaz ållsa
      </mini_paradigm>
      </stg> <compg> </compg>
@@ -90012,7 +90012,7 @@
    <lg>
      <l pos="A">õllʼjummõs</l>
      <stg>
-       <st Contlex="A_SAJOS" NumContlex="400">õllʼjummõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" NumContlex="400">õllʼjummõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -90451,7 +90451,7 @@
    <lg>
      <l pos="A">õõmâsnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">õõmâsnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">õõmâsnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -90720,7 +90720,7 @@
        <l_syn>seämmanallšem</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::1.22">õõutnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::1.22">õõutnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3620</c>
@@ -91109,7 +91109,7 @@
    <lg>
      <l pos="A">čaaǥǥatem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čaaǥǥatẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čaaǥǥatẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -91129,7 +91129,7 @@
    <lg>
      <l pos="A">čaaǥǥateʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čaaǥǥatẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čaaǥǥatẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -91302,7 +91302,7 @@
    <lg>
      <l pos="A">čaʹjjõs</l>
      <stg>
-       <st Contlex="A_SAJOS">čaʹjjõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">čaʹjjõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-jõõzz</wordform>
@@ -91778,7 +91778,7 @@
    <lg>
      <l class="1e" pos="A">čeäʹpp</l>
      <stg>
-       <st Contlex="A_JEAQNNN" inflexId="::1e::">čeäp'p</st>
+       <st Contlex="A_JEAQNNN" inflexId="::1e::">čeä%{ʹØ%}p'p</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1609</c>
@@ -92243,7 +92243,7 @@
    <lg>
      <l pos="A">čiõlǥtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čiõlǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čiõlǥtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -92262,7 +92262,7 @@
    <lg>
      <l pos="A">čiõlǥteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čiõlǥtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čiõlǥtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -93192,7 +93192,7 @@
    <lg>
      <l pos="A">čueʹcǩes</l>
      <stg>
-       <st Contlex="A_CHUEAQCKHES" inflexId="::::1.2">čuäckk</st>
+       <st Contlex="A_CHUEAQCKHES" inflexId="::::1.2">čuä%{ʹØ%}ckk</st>
      </stg>
      <compg drv="V»A" type="Der">
        <comp fin="viiletä" ms="" ord="E1" pos="V»A">cuäckkad</comp>
@@ -93290,7 +93290,7 @@
    <lg>
      <l pos="A">čueʹrbb</l>
      <stg>
-       <st Contlex="A_MUEQRJJ" inflexId="::::3.11">čuârbb</st>
+       <st Contlex="A_MUEQRJJ" inflexId="::::3.11">čuâ%{ʹØ%}rbb</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2247</c>
@@ -93368,7 +93368,7 @@
        <etymon algu_lekseemi_id="77490" id="225939" xml:lang="sms">čuẹʹss</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_SUEAQKHKH">čuäss</st>
+       <st Contlex="A_SUEAQKHKH">čuä%{ʹØ%}ss</st>
      </stg>
    </lg>
      <sources>
@@ -93478,7 +93478,7 @@
    <lg>
      <l class="1e" pos="A">čueʹǩǩ</l>
      <stg>
-       <st Contlex="A_SUEAQKHKH" inflexId="::1e::">čuäkk</st>
+       <st Contlex="A_SUEAQKHKH" inflexId="::1e::">čuä%{ʹØ%}kk</st>
      </stg>
    </lg>
      <sources>
@@ -93529,7 +93529,7 @@
        <l_syn>mueʹǩǩteʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">čueʹʒʒtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">čueʹʒʒtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">39</c>
@@ -93576,7 +93576,7 @@
        <l_syn>mueʹǩǩteʹm</l_syn>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">čueʹʒʒtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">čueʹʒʒtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">39</c>
@@ -93733,7 +93733,7 @@
    <lg>
      <l pos="A">čuâvtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuâvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čuâvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -93752,7 +93752,7 @@
    <lg>
      <l pos="A">čuâvteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuâvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čuâvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -94247,7 +94247,7 @@
    <lg>
      <l pos="A">čuäʹlǯǯ</l>
      <stg>
-       <st Contlex="A_CHUAQRVV">čuälǯǯ</st>
+       <st Contlex="A_CHUAQRVV">čuä%{ʹØ%}lǯǯ</st>
      </stg>
    </lg>
      <sources>
@@ -94267,7 +94267,7 @@
    <lg>
      <l pos="A">čuäʹrvtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuäʹrvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čuäʹrvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -94286,7 +94286,7 @@
    <lg>
      <l pos="A">čuäʹrvteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuäʹrvtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čuäʹrvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -94564,7 +94564,7 @@
    <lg>
      <l pos="A">čuõmârnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuõmârnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čuõmârnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -94768,7 +94768,7 @@
    <lg>
      <l pos="A">čuõvvpuuʹttes</l>
      <stg>
-       <st Contlex="A_PUUQTTES" inflexId="::::1.2">čuõvvpu%^1VOWtt</st>
+       <st Contlex="A_PUUQTTES" inflexId="::::1.2">čuõvvpu%^1VOW%{ʹØ%}tt</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">489</c>
@@ -94981,7 +94981,7 @@
    <lg>
      <l pos="A">čuõšktem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuõšktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čuõšktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -95000,7 +95000,7 @@
    <lg>
      <l pos="A">čuõškteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuõšktẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čuõšktẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -95146,7 +95146,7 @@
    <lg>
      <l pos="A">čuõʹjjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuõʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čuõʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -95165,7 +95165,7 @@
    <lg>
      <l pos="A">čuõʹjjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuõʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čuõʹjjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -95784,7 +95784,7 @@
    <lg>
      <l pos="A">čââʹlmtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">čââʹlmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">čââʹlmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="silmä" ms="" ord="E1" pos="N">čâʹlmm</comp>
@@ -95851,7 +95851,7 @@
        <l_attr>čââʹlmteʹmes</l_attr>
      </variants>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">čââʹlmtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">čââʹlmtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">960</c>
@@ -96458,7 +96458,7 @@
    <lg>
      <l pos="A">čååuʹjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čååuʹjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čååuʹjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -96477,7 +96477,7 @@
    <lg>
      <l pos="A">čååuʹjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čååuʹjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čååuʹjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -96624,7 +96624,7 @@
    <lg>
      <l pos="A">čõnnõõttʼtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čõnnõõttʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čõnnõõttʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -96643,7 +96643,7 @@
    <lg>
      <l pos="A">čõnnõõttʼteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čõnnõõttʼtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">čõnnõõttʼtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -96909,7 +96909,7 @@
    <lg>
      <l pos="A">šeeʹšntem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">šeeʹšntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">šeeʹšntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -96928,7 +96928,7 @@
    <lg>
      <l pos="A">šeeʹšnteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">šeeʹšntẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">šeeʹšntẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -97032,7 +97032,7 @@
    <lg>
      <l pos="A">šeʹšnn</l>
      <stg>
-       <st Contlex="A_KHEQRJJ" inflexId="::::1.113">šẹ%^1VOWšnn</st>
+       <st Contlex="A_KHEQRJJ" inflexId="::::1.113">šẹ%^1VOW%{ʹØ%}šnn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2845</c>
@@ -97617,7 +97617,7 @@
    <lg>
      <l pos="A">škoouʹlʼjemnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">škoouʹlʼjemnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">škoouʹlʼjemnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -97749,7 +97749,7 @@
    <lg>
      <l pos="A">šlaajjnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">šlaajjnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">šlaajjnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -98341,7 +98341,7 @@
    <lg>
      <l class="50" pos="A">šurr</l>
      <stg>
-       <st Contlex="A_TOLL" inflexId="::50::1.111">šu%^1VOWrr</st>
+       <st Contlex="A_TOLL" inflexId="::50::1.111">šu%^1VOW%{ʹØ%}rr</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
@@ -98897,7 +98897,7 @@
    <lg>
      <l pos="A">šââddtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">šââddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">šââddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -98917,7 +98917,7 @@
    <lg>
      <l pos="A">šââddteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">šââddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">šââddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -99399,7 +99399,7 @@
    <lg>
      <l pos="A">šõõddtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">šõõddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">šõõddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -99418,7 +99418,7 @@
    <lg>
      <l pos="A">šõõddteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">šõõddtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">šõõddtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -99575,7 +99575,7 @@
    <lg>
      <l pos="A">žaaʹltem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">žaaʹltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">žaaʹltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -99594,7 +99594,7 @@
    <lg>
      <l pos="A">žaaʹlteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">žaaʹltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">žaaʹltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -99632,7 +99632,7 @@
    <lg>
      <l pos="A">žeeʹvetnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" NumContlex="1.22">žeeʹvetnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" NumContlex="1.22">žeeʹvetnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -99837,7 +99837,7 @@
    <lg>
      <l pos="A">ǩeeʹjjtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ǩeeʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ǩeeʹjjtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-teeʹm</wordform>
@@ -99873,7 +99873,7 @@
    <lg>
      <l pos="A">ǩeeʹjjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ǩeeʹjjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ǩeeʹjjtẹ%^1VOW%{ʹØ%}m</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A_Pl_Nom">
            <wordform>-teeʹm</wordform>
@@ -99912,7 +99912,7 @@
        <etymon algu_lekseemi_id="69769" id="200007" xml:lang="sms">ǩeeʹles</etymon>
      </etymology>
      <stg>
-       <st Contlex="A_KHEEQLES">ǩeâlˈl</st>
+       <st Contlex="A_KHEEQLES">ǩeâ%{ʹØ%}lˈl</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>ǩeâlˈlaz</wordform>
@@ -99943,7 +99943,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="A_NALLSHEM">ǩeeʹrjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ǩeeʹrjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="kirja" ms="" ord="E1" pos="N">ǩeʹrjj</comp>
@@ -99983,7 +99983,7 @@
    <lg>
      <l pos="A">ǩeeʹrjteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ǩeeʹrjtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ǩeeʹrjtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <compg drv="N»A" type="Der">
        <comp fin="kirja" ms="" ord="E1" pos="N»A">ǩeʹrjj</comp>
@@ -100057,7 +100057,7 @@
    <lg>
      <l pos="A">ǩeukklõs</l>
      <stg>
-       <st Contlex="A_SAJOS">ǩeukklõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">ǩeukklõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -100330,7 +100330,7 @@
    <lg>
      <l pos="A">ǩeâʹlbtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ǩeâʹlbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ǩeâʹlbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -100349,7 +100349,7 @@
    <lg>
      <l pos="A">ǩeâʹlbteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ǩeâʹlbtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ǩeâʹlbtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -100618,7 +100618,7 @@
    <lg>
      <l pos="A">ǩeäjjlõs</l>
      <stg>
-       <st Contlex="A_SAJOS" NumContlex="400">ǩeäjjlõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" NumContlex="400">ǩeäjjlõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -101258,7 +101258,7 @@
    <lg>
      <l pos="A">ǩeʹrjjǩiõtt</l>
      <stg>
-       <st Contlex="A_MUORR" NumContlex="1.111">ǩeʹrjj#ǩiõtt</st>
+       <st Contlex="A_MUORR" NumContlex="1.111">ǩeʹrjj#ǩiõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -101443,7 +101443,7 @@
    <lg>
      <l pos="A">ǩiiddõs</l>
      <stg>
-       <st Contlex="A_SAJOS" NumContlex="400">ǩiiddõ%^1VOWs</st>
+       <st Contlex="A_SAJOS" NumContlex="400">ǩiiddõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -101584,7 +101584,7 @@
    <lg>
      <l pos="A">ǩijjõs</l>
      <stg>
-       <st Contlex="A_SAJOS">ǩijjõ%^1VOWs</st>
+       <st Contlex="A_SAJOS">ǩijjõ%^1VOW%{ʹØ%}s</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-jõõzz</wordform>
@@ -102212,7 +102212,7 @@
    <lg>
      <l pos="A">ǩiõltem</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ǩiõltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">ǩiõltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5957</c>
@@ -102265,7 +102265,7 @@
    <lg>
      <l pos="A">ǩiõlteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ǩiõltẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM" inflexId="::::650">ǩiõltẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5957</c>
@@ -102565,7 +102565,7 @@
    <lg>
      <l pos="A">ǩiõttʼtõõllâmnallšem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ǩiõttʼtõõllâmnallšẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ǩiõttʼtõõllâmnallšẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -102584,7 +102584,7 @@
    <lg>
      <l pos="A">ǩiõđtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ǩiõđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ǩiõđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
@@ -102608,7 +102608,7 @@
    <lg>
      <l pos="A">ǩiõđteʹm</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ǩiõđtẹ%^1VOWm</st>
+       <st Contlex="A_NALLSHEM">ǩiõđtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>

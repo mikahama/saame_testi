@@ -9969,12 +9969,15 @@
    </mg>
 </e>
 <e>
+   <map/>
    <lg>
      <l pos="Adv">leâša</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="ADV_">leâša</st>
        <st Contlex="ADV_" status="Err/Orth">leâʹša</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
        <book name="AKU" type="db"/>

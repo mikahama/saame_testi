@@ -640,11 +640,14 @@
    </mg>
 </e>
 <e>
+   <map/>
    <lg>
      <l pos="CS">leâša</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="CS_">leâša</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
        <book name="AKU" type="db"/>
@@ -654,6 +657,9 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="CS">vaikka</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="CS">однако</t>
      </tg>
    </mg>
 </e>

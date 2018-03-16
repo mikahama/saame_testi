@@ -5,7 +5,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">eʹmm</l>
      <stg>
-       <st Contlex="N_AQVV" inflexId="1.113">ẹ%^1VOWmm</st>
+       <st Contlex="N_AQVV" inflexId="1.113">ẹ%^1VOW%{ʹØ%}mm</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3630</c>
@@ -120,7 +120,7 @@
        <etymon source="uralic" type="inher">ićä</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_EQCHCH" inflexId="1.113">ẹ%^1VOWčč</st>
+       <st Contlex="N_EQCHCH" inflexId="1.113">ẹ%^1VOW%{ʹØ%}čč</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1678</c>
@@ -182,7 +182,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">jeänäi</l>
      <stg>
-       <st Contlex="N_LOAQDD" NumContlex="1.113">jeän#ä%^1VOWjj</st>
+       <st Contlex="N_LOAQDD" NumContlex="1.113">jeän#ä%^1VOW%{ʹØ%}jj</st>
      </stg>
    </lg>
      <sources>
@@ -206,7 +206,7 @@
        <l_var>jieʹnˈn</l_var>
      </variants>
      <stg>
-       <st Contlex="N_JEAQNNN">jeänˈn</st>
+       <st Contlex="N_JEAQNNN">jeä%{ʹØ%}nˈn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2638</c>
@@ -271,7 +271,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">jieʹnn-jeäʹnn</l>
      <stg>
-       <st Contlex="N_JEAQNNN" NumContlex="1.113">jieʹnn-#jeänˈn</st>
+       <st Contlex="N_JEAQNNN" NumContlex="1.113">jieʹnn-#jeä%{ʹØ%}nˈn</st>
      </stg>
    </lg>
      <sources>
@@ -290,7 +290,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">jieʹnnʼjeäʹnn</l>
      <stg>
-       <st Contlex="N_JEAQNNN" NumContlex="1.113">jieʹnnʼ#jeänˈn</st>
+       <st Contlex="N_JEAQNNN" NumContlex="1.113">jieʹnnʼ#jeä%{ʹØ%}nˈn</st>
      </stg>
    </lg>
      <sources>
@@ -310,7 +310,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">jieʹǩǩäi</l>
      <stg>
-       <st Contlex="N_LOAQDD" NumContlex="1.113">jiẹʹǩǩ#ä%^1VOWjj</st>
+       <st Contlex="N_LOAQDD" NumContlex="1.113">jiẹʹǩǩ#ä%^1VOW%{ʹØ%}jj</st>
      </stg>
    </lg>
      <sources>
@@ -390,7 +390,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">jäänäi</l>
      <stg>
-       <st Contlex="N_LOAQDD">jään#ä%^1VOWjj</st>
+       <st Contlex="N_LOAQDD">jään#ä%^1VOW%{ʹØ%}jj</st>
      </stg>
    </lg>
      <sources>
@@ -508,7 +508,7 @@
        <etymon algu_lekseemi_id="70684" id="204448" xml:lang="sms">kuäʹsǩǩ</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_CHUAQRVV" inflexId="1.113">kuäskk</st>
+       <st Contlex="N_CHUAQRVV" inflexId="1.113">kuä%{ʹØ%}skk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">774</c>
@@ -615,7 +615,7 @@
        <etymon algu_lekseemi_id="63851" id="170673" xml:lang="sms">kuõjj</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_KHIOJJ" inflexId="1.112">kuõjj</st>
+       <st Contlex="N_KHIOJJ" inflexId="1.112">kuõ%{ʹØ%}jj</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2179</c>
@@ -668,7 +668,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">käälʼjeäʹnn</l>
      <stg>
-       <st Contlex="N_JEAQNNN" NumContlex="1.113">käälʼ#jeänˈn</st>
+       <st Contlex="N_JEAQNNN" NumContlex="1.113">käälʼ#jeä%{ʹØ%}nˈn</st>
      </stg>
    </lg>
      <sources>
@@ -731,7 +731,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">käärjeäʹnn</l>
      <stg>
-       <st Contlex="N_JEAQNNN">käär#jeänˈn</st>
+       <st Contlex="N_JEAQNNN">käär#jeä%{ʹØ%}nˈn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3631</c>
@@ -821,7 +821,7 @@
        <etymon algu_lekseemi_id="106125" id="315264" xml:lang="sms">maaddâräʹjj</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_LOAQDD" inflexId="1.113">maaddâr#ä%^1VOWjj</st>
+       <st Contlex="N_LOAQDD" inflexId="1.113">maaddâr#ä%^1VOW%{ʹØ%}jj</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1981</c>
@@ -918,7 +918,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">mueʹđđ</l>
      <stg>
-       <st Contlex="N_KUEQLL" inflexId="1.113">muâđđ</st>
+       <st Contlex="N_KUEQLL" inflexId="1.113">muâ%{ʹØ%}đđ</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">775</c>
@@ -1027,7 +1027,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">mâʹnnjsõs</l>
      <stg>
-       <st Contlex="N_SAJOS" NumContlex="400">mâʹnnjsõ%^1VOWs</st>
+       <st Contlex="N_SAJOS" NumContlex="400">mâʹnnjsõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -1189,7 +1189,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">ođđkääʹlles</l>
      <stg>
-       <st Contlex="N_KAAQLLES" NumContlex="1.2">ođđ#kä%^1VOWlles</st>
+       <st Contlex="N_KAAQLLES" NumContlex="1.2">ođđ#kä%^1VOW%{ʹØ%}lles</st>
      </stg>
      <compg drv="A:N»N" type="Cmp">
        <comp fin="uusi" ms="Attr" ord="E1" pos="A">ođđ</comp>
@@ -1223,7 +1223,7 @@
        <etymon algu_lekseemi_id="73557" id="212739" xml:lang="sms">päʹrnn</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_KAQLBB" inflexId="1.113">pä%^1VOWrnn</st>
+       <st Contlex="N_KAQLBB" inflexId="1.113">pä%^1VOW%{ʹØ%}rnn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1172</c>
@@ -1307,7 +1307,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">rieʹmjjvivv</l>
      <stg>
-       <st Contlex="N_PAPP" NumContlex="1.111">rieʹmjj#vi%^1VOWvv</st>
+       <st Contlex="N_PAPP" NumContlex="1.111">rieʹmjj#vi%^1VOW%{ʹØ%}vv</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
        <comp fin="kettu" ms="Sg.Nom" ord="E1" pos="N">rieʹmjj</comp>
@@ -1332,7 +1332,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">rieʹmjjzeeʹtt</l>
      <stg>
-       <st Contlex="N_ZEEQTT">rieʹmjj#zẹẹtt</st>
+       <st Contlex="N_ZEEQTT">rieʹmjj#zẹẹ%{ʹØ%}tt</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
        <comp fin="kettu" ms="Sg.Nom" ord="E1" pos="N">rieʹmjj</comp>
@@ -1359,7 +1359,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">risttjeäʹnn</l>
      <stg>
-       <st Contlex="N_JEAQNNN">ristt#jeänˈn</st>
+       <st Contlex="N_JEAQNNN">ristt#jeä%{ʹØ%}nˈn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1947</c>
@@ -1424,7 +1424,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">risttvillj</l>
      <stg>
-       <st Contlex="N_PAPP" NumContlex="1.111">risttvi%^1VOWllj</st>
+       <st Contlex="N_PAPP" NumContlex="1.111">risttvi%^1VOWl%{ʹØ%}lj</st>
      </stg>
    </lg>
      <sources>
@@ -1447,7 +1447,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="N_JEAQNNN" NumContlex="1.113">ristt#vuäbˈb</st>
+       <st Contlex="N_JEAQNNN" NumContlex="1.113">ristt#vuä%{ʹØ%}bˈb</st>
      </stg>
      <compg drv="N:N»N" type="Cmp">
        <comp fin="risti" ms="Sg.Nom" ord="E1" pos="N">ristt</comp>
@@ -1476,7 +1476,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">risttâʹlǧǧ</l>
      <stg>
-       <st Contlex="N_KAQLBB" NumContlex="1.113">ristt#â%^1VOWlgg</st>
+       <st Contlex="N_KAQLBB" NumContlex="1.113">ristt#â%^1VOW%{ʹØ%}lgg</st>
      </stg>
    </lg>
      <sources>
@@ -1496,7 +1496,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">risttäi</l>
      <stg>
-       <st Contlex="N_LOAQDD" NumContlex="1.113">ristt#ä%^1VOWjj</st>
+       <st Contlex="N_LOAQDD" NumContlex="1.113">ristt#ä%^1VOW%{ʹØ%}jj</st>
      </stg>
    </lg>
      <sources>
@@ -1535,7 +1535,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">sieʹss</l>
      <stg>
-       <st Contlex="N_MIEQLLL">seâsˈs</st>
+       <st Contlex="N_MIEQLLL">seâ%{ʹØ%}sˈs</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">773</c>
@@ -1629,7 +1629,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="N_JEAQNNN">veäʹncc#jeänˈn</st>
+       <st Contlex="N_JEAQNNN">veäʹncc#jeä%{ʹØ%}nˈn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1697</c>
@@ -1698,7 +1698,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">vieʹncteʹmes kuõjj</l>
      <stg>
-       <st Contlex="N_KHIOJJ" NumContlex="1.112">vieʹncteʹmes kuõjj</st>
+       <st Contlex="N_KHIOJJ" NumContlex="1.112">vieʹncteʹmes kuõ%{ʹØ%}jj</st>
      </stg>
    </lg>
      <sources>
@@ -1794,8 +1794,8 @@
        <l_var>viʹllj</l_var>
      </variants>
      <stg>
-       <st Contlex="N_PAPP" inflexId="1.111">vi%^1VOWllj</st>
-       <st Contlex="N_PAPP" inflexId="1.111" status="Err/Orth">vi%^1VOWʹllj</st>
+       <st Contlex="N_PAPP" inflexId="1.111">vi%^1VOWl%{ʹØ%}lj</st>
+       <st Contlex="N_PAPP" inflexId="1.111" status="Err/Orth">vi%^1VOWʹl%{ʹØ%}lj</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1049</c>
@@ -1871,7 +1871,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">villjbieʹll</l>
      <stg>
-       <st Contlex="N_MIEAQRR" NumContlex="1.113">villj#beäll</st>
+       <st Contlex="N_MIEAQRR" NumContlex="1.113">villj#beä%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -1890,7 +1890,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">villjpieʹll</l>
      <stg>
-       <st Contlex="N_MIEAQRR" NumContlex="1.113">villj#peäll</st>
+       <st Contlex="N_MIEAQRR" NumContlex="1.113">villj#peä%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -1913,7 +1913,7 @@
        <etymon algu_lekseemi_id="80189" id="238396" xml:lang="sms">vivv</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_TOLL" inflexId="1.111">vi%^1VOWvv</st>
+       <st Contlex="N_TOLL" inflexId="1.111">vi%^1VOW%{ʹØ%}vv</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3757</c>
@@ -1953,7 +1953,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">vivvbieʹll</l>
      <stg>
-       <st Contlex="N_MIEAQRR" NumContlex="1.113">vivv#beäll</st>
+       <st Contlex="N_MIEAQRR" NumContlex="1.113">vivv#beä%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -1971,7 +1971,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">vivvsõs</l>
      <stg>
-       <st Contlex="N_SAJOS" NumContlex="400">vivvsõ%^1VOWs</st>
+       <st Contlex="N_SAJOS" NumContlex="400">vivvsõ%^1VOW%{ʹØ%}s</st>
      </stg>
    </lg>
      <sources>
@@ -1994,7 +1994,7 @@
        <etymon algu_lekseemi_id="73768" id="213402" xml:lang="sms">vuäʹbˈb</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_JEAQNNN" inflexId="1.113">vuäbˈb</st>
+       <st Contlex="N_JEAQNNN" inflexId="1.113">vuä%{ʹØ%}bˈb</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3629</c>
@@ -2041,7 +2041,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">vuäʹbb-bieʹll</l>
      <stg>
-       <st Contlex="N_MIEAQRR" NumContlex="1.113">vuäʹbb-#beäll</st>
+       <st Contlex="N_MIEAQRR" NumContlex="1.113">vuäʹbb-#beä%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -2064,7 +2064,7 @@
        <etymon algu_lekseemi_id="58458" id="153427" xml:lang="sms">zeeʹtt</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_ZEEQTT">zẹẹtt</st>
+       <st Contlex="N_ZEEQTT">zẹẹ%{ʹØ%}tt</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3756</c>
@@ -2105,7 +2105,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">âʹlǧǧ</l>
      <stg>
-       <st Contlex="N_KAQLBB" inflexId="1.113">â%^1VOWlgg</st>
+       <st Contlex="N_KAQLBB" inflexId="1.113">â%^1VOW%{ʹØ%}lgg</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1014</c>
@@ -2169,7 +2169,7 @@
        <etymon algu_lekseemi_id="62544" id="163670" xml:lang="sms">äʹjj</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_PEQLLJ" inflexId="1.113">ä%^1VOWjj</st>
+       <st Contlex="N_PEQLLJ" inflexId="1.113">ä%^1VO%{ʹØ%}Wjj</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1966</c>
@@ -2299,7 +2299,7 @@
        <etymon algu_lekseemi_id="62454" id="163235" xml:lang="sms">äʹǩǩ</etymon>
      </etymology>
      <stg>
-       <st Contlex="N_AQKHKH" inflexId="1.113">ä%^1VOWkk</st>
+       <st Contlex="N_AQKHKH" inflexId="1.113">ä%^1VOW%{ʹØ%}kk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2810</c>
@@ -2570,7 +2570,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">čieʹcc</l>
      <stg>
-       <st Contlex="N_PIEAQSS">čeäcc</st>
+       <st Contlex="N_PIEAQSS">čeä%{ʹØ%}cc</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5755</c>
@@ -2635,7 +2635,7 @@
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">čieʹccäi</l>
      <stg>
-       <st Contlex="N_LOAQDD" NumContlex="1.113">čieʹcc#ä%^1VOWjj</st>
+       <st Contlex="N_LOAQDD" NumContlex="1.113">čieʹcc#ä%^1VOW%{ʹØ%}jj</st>
      </stg>
    </lg>
      <sources>
