@@ -179,7 +179,7 @@
 		<lg>
 			<l pos="Pron">muånn</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
 				<st Contlex="PRON_" inflexId="::::1.111">muånn</st>
 			</stg>
@@ -189,8 +189,7 @@
 				<c name="Recording">1</c>
 				<c name="included">yes</c>
 			</inc-audio>
-			<compg>
-</compg>
+			<compg> </compg>
 			<mini_paradigm>
 				<analysis ms="Sg_Gen">
 					<wordform>muån</wordform>
@@ -2025,8 +2024,7 @@
 			<stg>
 				<st Contlex="PRON-PERS-SG1_" inflexId="::::1000">m</st>
 			</stg>
-			<compg>
-</compg>
+			<compg> </compg>
 			<mini_paradigm>
 				<analysis ms="Pron_Pers_Sg1_Gen">
 					<wordform>muu</wordform>
@@ -3126,11 +3124,10 @@
 		<lg>
 			<l pos="Pron">ǩii-ne</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
