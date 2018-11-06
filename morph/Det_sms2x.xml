@@ -22,8 +22,8 @@
      </tg>
    </mg>
 </e>
-<e meta="06" id="gt_Det_8">
-   <map stamp="gt_Det_8:fm_708:sml_4902:sml_4903:sml_4904" fin_lemma_id="1750::14255::"/>
+<e id="gt_Det_8" meta="06">
+   <map fin_lemma_id="1750::14255::" stamp="gt_Det_8:fm_708:sml_4902:sml_4903:sml_4904"/>
    <rev-sort_key>serʹeej</rev-sort_key>
    <lg>
      <l pos="Det">jeeʹres</l>
@@ -46,10 +46,10 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="2" name="kurss"/>
        <book lesson="1" name="lookkamkerjj"/>
-       <book name="200" BEDLAN_ID="116"/>
+       <book BEDLAN_ID="116" name="200"/>
        <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
      </sources>
    <mg relId="0">
@@ -61,17 +61,17 @@
        <t pos="Det">ein/jemand anderes</t>
      </tg>
      <tg xml:lang="eng">
-       <t stat="pref" pos="Det">other</t>
+       <t pos="Det" stat="pref">other</t>
        <t pos="Det">different</t>
        <t pos="Det">another one</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="Det">eri</t>
        <t pos="Det">toinen</t>
-       <t stat="pref" pos="Det">muu</t>
+       <t pos="Det" stat="pref">muu</t>
      </tg>
      <tg xml:lang="nob">
-       <t stat="pref" pos="Det">annen</t>
+       <t pos="Det" stat="pref">annen</t>
        <t pos="Det">annerledes</t>
      </tg>
      <tg xml:lang="rus">
@@ -87,7 +87,7 @@
    </mg>
 </e>
 <e id="fm_2866">
-   <map stamp="fm_2866:sml_5073" fin_lemma_id="16509::"/>
+   <map fin_lemma_id="16509::" stamp="fm_2866:sml_5073"/>
    <rev-sort_key>barʹäej</rev-sort_key>
    <lg>
      <l pos="Det">jeäʹrab</l>
@@ -219,7 +219,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -255,7 +255,7 @@
    </mg>
 </e>
 <e id="fm_1537">
-   <map stamp="fm_1537" fin_lemma_id=""/>
+   <map fin_lemma_id="" stamp="fm_1537"/>
    <rev-sort_key>ǩǩʹeuj</rev-sort_key>
    <lg>
      <l pos="Det">jueʹǩǩ</l>
@@ -306,8 +306,8 @@
    </lg>
      <sources>
        <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
-       <book type="db" name="sjm"/>
-       <book type="db" name="AKU"/>
+       <book name="sjm" type="db"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -319,7 +319,7 @@
    </mg>
 </e>
 <e id="fm_999">
-   <map stamp="fm_999:sml_8480:sml_9141" fin_lemma_id="13899::9477::"/>
+   <map fin_lemma_id="13899::9477::" stamp="fm_999:sml_8480:sml_9141"/>
    <rev-sort_key>utthuk</rev-sort_key>
    <lg>
      <l pos="Det">kuhttu</l>
@@ -338,7 +338,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -362,7 +362,7 @@
    </mg>
 </e>
 <e id="fm_3638">
-   <map stamp="fm_3638:sml_8903:sml_8907" fin_lemma_id="9897::10021::"/>
+   <map fin_lemma_id="9897::10021::" stamp="fm_3638:sml_8903:sml_8907"/>
    <rev-sort_key>dađuuk</rev-sort_key>
    <lg>
      <l pos="Det">kuuđad</l>
@@ -385,8 +385,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="book" name="Mattu saaʹnid" pg="54"/>
-       <book type="db" name="AKU"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -430,7 +430,7 @@
    </mg>
 </e>
 <e id="fm_221">
-   <map stamp="fm_221:sml_9143" fin_lemma_id="9472::"/>
+   <map fin_lemma_id="9472::" stamp="fm_221:sml_9143"/>
    <rev-sort_key>žabbäuk</rev-sort_key>
    <lg>
      <l pos="Det">kuäbbaž</l>
@@ -445,7 +445,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -489,7 +489,7 @@
    </mg>
 </e>
 <e id="fm_4060">
-   <map stamp="fm_4060:sml_9243" fin_lemma_id="8537::"/>
+   <map fin_lemma_id="8537::" stamp="fm_4060:sml_9243"/>
    <rev-sort_key>damläuk</rev-sort_key>
    <lg>
      <l pos="Det">kuälmad</l>
@@ -512,8 +512,8 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="book" name="Mattu saaʹnid" pg="54"/>
-       <book type="db" name="AKU"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -547,7 +547,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -558,7 +558,7 @@
    </mg>
 </e>
 <e id="fm_58">
-   <map stamp="fm_58" fin_lemma_id=""/>
+   <map fin_lemma_id="" stamp="fm_58"/>
    <rev-sort_key>dallââk</rev-sort_key>
    <lg>
      <l pos="Det">kââllad</l>
@@ -595,7 +595,7 @@
    </mg>
 </e>
 <e id="fm_1567">
-   <map stamp="fm_1567:sml_10144" fin_lemma_id="5794::"/>
+   <map fin_lemma_id="5794::" stamp="fm_1567:sml_10144"/>
    <rev-sort_key>dacuääk</rev-sort_key>
    <lg>
      <l pos="Det">kääucad</l>
@@ -615,7 +615,7 @@
        <comp drv="Num»Det" ord="E2" pos="Suf">Der/ad</comp> </compg>
    </lg>
      <sources>
-       <book type="book" name="Mattu saaʹnid" pg="54"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -642,7 +642,7 @@
    </mg>
 </e>
 <e id="fm_3991">
-   <map stamp="fm_3991:sml_12810" fin_lemma_id="10156::"/>
+   <map fin_lemma_id="10156::" stamp="fm_3991:sml_12810"/>
    <rev-sort_key>daǥǥåål</rev-sort_key>
    <lg>
      <l pos="Det">lååǥǥad</l>
@@ -665,7 +665,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -732,7 +732,7 @@
    </mg>
 </e>
 <e id="fm_589">
-   <map stamp="fm_589" fin_lemma_id=""/>
+   <map fin_lemma_id="" stamp="fm_589"/>
    <rev-sort_key>dˈdʹäum</rev-sort_key>
    <lg>
      <l pos="Det">muäʹdd</l>
@@ -747,7 +747,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -779,7 +779,7 @@
    </mg>
 </e>
 <e id="fm_5892">
-   <map stamp="fm_5892:sml_14590" fin_lemma_id="13812::"/>
+   <map fin_lemma_id="13812::" stamp="fm_5892:sml_14590"/>
    <rev-sort_key>meddvʹum</rev-sort_key>
    <lg>
      <l pos="Det">muʹvddem</l>
@@ -802,7 +802,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -827,8 +827,8 @@
      </tg>
    </mg>
 </e>
-<e meta="01" id="gt_Det_1">
-   <map stamp="gt_Det_1:gt_Det_2:fm_6372:sml_14656" fin_lemma_id="13811::"/>
+<e id="gt_Det_1" meta="01">
+   <map fin_lemma_id="13811::" stamp="gt_Det_1:gt_Det_2:fm_6372:sml_14656"/>
    <rev-sort_key>makåm</rev-sort_key>
    <lg>
      <l pos="Det">måkam</l>
@@ -841,7 +841,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -863,8 +863,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_Det_6">
-   <map stamp="gt_Det_6:fm_2836:sml_14710" fin_lemma_id="14258::"/>
+<e id="gt_Det_6" meta="03">
+   <map fin_lemma_id="14258::" stamp="gt_Det_6:fm_2836:sml_14710"/>
    <rev-sort_key>mattåm</rev-sort_key>
    <lg>
      <l pos="Det">måttam</l>
@@ -883,7 +883,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="5" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -935,7 +935,7 @@
    </mg>
 </e>
 <e id="fm_1854">
-   <map stamp="fm_1854:sml_15253" fin_lemma_id="14796::"/>
+   <map fin_lemma_id="14796::" stamp="fm_1854:sml_15253"/>
    <rev-sort_key>dajlleen</rev-sort_key>
    <lg>
      <l pos="Det">neelljad</l>
@@ -958,7 +958,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -999,7 +999,7 @@
    </mg>
 </e>
 <e id="fm_3494">
-   <map stamp="fm_3494:sml_16470:sml_16471:sml_16472" fin_lemma_id="25151::21822::21827::"/>
+   <map fin_lemma_id="25151::21822::21827::" stamp="fm_3494:sml_16470:sml_16471:sml_16472"/>
    <rev-sort_key>bbʹun</rev-sort_key>
    <lg>
      <l pos="Det">nuʹbb</l>
@@ -1024,7 +1024,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1051,7 +1051,7 @@
    </mg>
 </e>
 <e id="fm_3882">
-   <map stamp="fm_3882:sml_16631:sml_16632" fin_lemma_id="25671::::21741::"/>
+   <map fin_lemma_id="25671::::21741::" stamp="fm_3882:sml_16631:sml_16632"/>
    <rev-sort_key>meddvʹun</rev-sort_key>
    <lg>
      <l pos="Det">nuʹvddem</l>
@@ -1074,7 +1074,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1104,7 +1104,7 @@
    </mg>
 </e>
 <e id="fm_2423">
-   <map stamp="fm_2423:sml_16702" fin_lemma_id="26194::"/>
+   <map fin_lemma_id="26194::" stamp="fm_2423:sml_16702"/>
    <rev-sort_key>makän</rev-sort_key>
    <lg>
      <l pos="Det">näkam</l>
@@ -1130,7 +1130,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1157,8 +1157,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_Det_7">
-   <map stamp="gt_Det_7:fm_3881:sml_16658:sml_16659" fin_lemma_id="13885::21741::"/>
+<e id="gt_Det_7" meta="03">
+   <map fin_lemma_id="13885::21741::" stamp="gt_Det_7:fm_3881:sml_16658:sml_16659"/>
    <rev-sort_key>makkån</rev-sort_key>
    <lg>
      <l pos="Det">nåkkam</l>
@@ -1185,9 +1185,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
        <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="5" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -1217,22 +1217,13 @@
    </mg>
 </e>
 <e id="fm_3080">
-   <map stamp="fm_3080:sml_17151" fin_lemma_id="33898::"/>
+   <map fin_lemma_id="33898::" stamp="fm_3080:sml_17151"/>
    <rev-sort_key>žubdʹuoo</rev-sort_key>
    <lg>
      <l pos="Det">oouʹdbuž</l>
-     <variants>
-       <l_var>oouʹdbuž</l_var>
-     </variants>
      <stg>
        <st Contlex="DET_" inflexId="::::1.26">oouʹdbuž</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">3081</c>
-       <c name="Reader">0</c>
-       <c name="Recording">9</c>
-       <c name="included">yes</c>
-     </inc-audio>
+     </stg> <compg> </compg>
      <mini_paradigm>
        <analysis ms="Pl_Nom">
            <wordform>oouʹdbu</wordform>
@@ -1241,9 +1232,20 @@
            <wordform>oouʹdba</wordform>
        </analysis>
      </mini_paradigm>
+     <etymology>
+     </etymology>
+     <inc-audio>
+       <c name="ID_Audio">3081</c>
+       <c name="Reader">0</c>
+       <c name="Recording">9</c>
+       <c name="included">yes</c>
+     </inc-audio>
+     <variants>
+       <l_var>oouʹdbuž</l_var>
+     </variants>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1266,7 +1268,7 @@
    </mg>
 </e>
 <e id="fm_2834">
-   <map stamp="fm_2834" fin_lemma_id=""/>
+   <map fin_lemma_id="" stamp="fm_2834"/>
    <rev-sort_key>bʹenllʹäip</rev-sort_key>
    <lg>
      <l pos="Det">piäʹllneʹb</l>
@@ -1302,8 +1304,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_Det_5">
-   <map stamp="gt_Det_5:fm_1:sml_23702:sml_23703" fin_lemma_id="21286::21273::"/>
+<e id="gt_Det_5" meta="03">
+   <map fin_lemma_id="21286::21273::" stamp="gt_Det_5:fm_1:sml_23702:sml_23703"/>
    <rev-sort_key>ammäes</rev-sort_key>
    <lg>
      <l pos="Det">seämma</l>
@@ -1318,7 +1320,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -1361,8 +1363,8 @@
      <sources>
      </sources>
 </e>
-<e meta="04" id="gt_Det_3">
-   <map stamp="gt_Det_3:fm_3999:sml_28887" fin_lemma_id="25636::"/>
+<e id="gt_Det_3" meta="04">
+   <map fin_lemma_id="25636::" stamp="gt_Det_3:fm_3999:sml_28887"/>
    <rev-sort_key>tut</rev-sort_key>
    <lg>
      <l pos="Det">tut</l>
@@ -1392,9 +1394,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="dict" name="kurss"/>
-       <book name="200" BEDLAN_ID="*168"/>
+       <book BEDLAN_ID="*168" name="200"/>
        <book name="100"/>
      </sources>
    <mg relId="0">
@@ -1408,11 +1410,11 @@
        <t pos="Det">that</t>
      </tg>
      <tg xml:lang="fin">
-       <t stat="pref" pos="Det">tuo</t>
+       <t pos="Det" stat="pref">tuo</t>
        <t pos="Det">tuo tuolla</t>
      </tg>
      <tg xml:lang="nob">
-       <t stat="pref" pos="Det">det</t>
+       <t pos="Det" stat="pref">det</t>
        <t pos="Det">det der</t>
      </tg>
      <tg xml:lang="rus">
@@ -1430,8 +1432,8 @@
      </tg>
    </mg>
 </e>
-<e meta="04" id="gt_Det_4">
-   <map stamp="gt_Det_4:fm_4064:sml_29369" fin_lemma_id="26196::"/>
+<e id="gt_Det_4" meta="04">
+   <map fin_lemma_id="26196::" stamp="gt_Det_4:fm_4064:sml_29369"/>
    <rev-sort_key>tät</rev-sort_key>
    <lg>
      <l pos="Det">tät</l>
@@ -1461,9 +1463,9 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="1" name="kurss"/>
-       <book name="200" BEDLAN_ID="*174"/>
+       <book BEDLAN_ID="*174" name="200"/>
        <book name="100"/>
      </sources>
    <mg relId="0">
@@ -1481,7 +1483,7 @@
        <t pos="Det">tämä</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Det" neuter="dette">denne</t>
+       <t neuter="dette" pos="Det">denne</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Det">этот</t>
@@ -1497,8 +1499,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_Det_9">
-   <map stamp="gt_Det_9:fm_472:sml_28211" fin_lemma_id="21605::"/>
+<e id="gt_Det_9" meta="03">
+   <map fin_lemma_id="21605::" stamp="gt_Det_9:fm_472:sml_28211"/>
    <rev-sort_key>tõt</rev-sort_key>
    <lg>
      <l pos="Det">tõt</l>
@@ -1524,7 +1526,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -1542,18 +1544,18 @@
        <t pos="Det">se</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Det" neuter="dette">denne</t>
-       <t pos="Det" neuter="det">den</t>
+       <t neuter="dette" pos="Det">denne</t>
+       <t neuter="det" pos="Det">den</t>
      </tg>
      <tg xml:lang="rus">
-       <t stat="pref" pos="Det">этот</t>
+       <t pos="Det" stat="pref">этот</t>
        <t pos="Det">тот</t>
        <t pos="Det">??он, она, оно (не о человеке)</t>
      </tg>
    </mg>
 </e>
 <e id="fm_1708">
-   <map stamp="fm_1708:fm_6536:sml_30785" fin_lemma_id="28322"/>
+   <map fin_lemma_id="28322" stamp="fm_1708:fm_6536:sml_30785"/>
    <rev-sort_key>dađiiv</rev-sort_key>
    <lg>
      <l pos="Det">viiđad</l>
@@ -1574,7 +1576,7 @@
      </mini_paradigm>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1617,8 +1619,8 @@
      </tg>
    </mg>
 </e>
-<e meta="06" id="gt_Num_3">
-   <map stamp="gt_Num_3:fm_1748" fin_lemma_id=""/>
+<e id="gt_Num_3" meta="06">
+   <map fin_lemma_id="" stamp="gt_Num_3:fm_1748"/>
    <rev-sort_key>ssõuv</rev-sort_key>
    <lg>
      <l pos="Det">vuõss</l>
@@ -1633,7 +1635,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book lesson="1" name="lookkamkerjj"/>
      </sources>
    <mg relId="0">
@@ -1661,7 +1663,7 @@
    </mg>
 </e>
 <e id="fm_2742">
-   <map stamp="fm_2742:sml_33502" fin_lemma_id="29316::"/>
+   <map fin_lemma_id="29316::" stamp="fm_2742:sml_33502"/>
    <rev-sort_key>dacuåå</rev-sort_key>
    <lg>
      <l pos="Det">ååucad</l>
@@ -1676,7 +1678,7 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1699,7 +1701,7 @@
    </mg>
 </e>
 <e id="fm_3534">
-   <map stamp="fm_3534:sml_1870" fin_lemma_id="21655::"/>
+   <map fin_lemma_id="21655::" stamp="fm_3534:sml_1870"/>
    <rev-sort_key>daččiič</rev-sort_key>
    <lg>
      <l pos="Det">čiiččad</l>
@@ -1714,8 +1716,8 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="book" name="Mattu saaʹnid" pg="54"/>
-       <book type="db" name="AKU"/>
+       <book name="Mattu saaʹnid" pg="54" type="book"/>
+       <book name="AKU" type="db"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1738,7 +1740,7 @@
    </mg>
 </e>
 <e id="fm_2163">
-   <map stamp="fm_2163:sml_2341" fin_lemma_id="21506::"/>
+   <map fin_lemma_id="21506::" stamp="fm_2163:sml_2341"/>
    <rev-sort_key>dađâuč</rev-sort_key>
    <lg>
      <l pos="Det">čuâđad</l>

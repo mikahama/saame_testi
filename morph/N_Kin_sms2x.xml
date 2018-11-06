@@ -8,7 +8,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -20,7 +20,7 @@
    </mg>
 </e>
 <e id="fm_3629">
-   <map stamp="fm_3629:sml_3605:sml_3606" fin_lemma_id="26244::10281::"/>
+   <map fin_lemma_id="26244::10281::" stamp="fm_3629:sml_3605:sml_3606"/>
    <rev-sort_key>mmʹe</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">eʹmm</l>
@@ -35,10 +35,10 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -72,7 +72,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -92,7 +92,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -116,7 +116,7 @@
        <comp fin="isoäiti" ord="E2" pos="N">äkk</comp> </compg>
    </lg>
      <sources>
-       <book type="book" name="KKS" page="44:13.2"/>
+       <book name="KKS" page="44:13.2" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -131,8 +131,8 @@
      </xg>
    </mg>
 </e>
-<e meta="03" id="gt_N_49">
-   <map stamp="gt_N_49:fm_1677:sml_3456" fin_lemma_id="4671::"/>
+<e id="gt_N_49" meta="03">
+   <map fin_lemma_id="4671::" stamp="gt_N_49:fm_1677:sml_3456"/>
    <rev-sort_key>ččʹe</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">eʹčč</l>
@@ -150,13 +150,13 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="49"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="49" type="book"/>
        <book lesson="1" name="kurss"/>
-       <book name="200" BEDLAN_ID="45"/>
+       <book BEDLAN_ID="45" name="200"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -207,7 +207,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -225,7 +225,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -236,8 +236,8 @@
      </tg>
    </mg>
 </e>
-<e meta="04" id="gt_N_71">
-   <map stamp="gt_N_71:gt_N_77:fm_2637:fm_6276:sml_5061:sml_5062" fin_lemma_id="1585:29696"/>
+<e id="gt_N_71" meta="04">
+   <map fin_lemma_id="1585:29696" stamp="gt_N_71:gt_N_77:fm_2637:fm_6276:sml_5061:sml_5062"/>
    <rev-sort_key>nnʹäej</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">jeäʹnn</l>
@@ -260,12 +260,12 @@
    </lg>
      <sources>
        <book name="KKS" page="61:4"/>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
-       <book name="200" BEDLAN_ID="103"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
+       <book BEDLAN_ID="103" name="200"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -314,7 +314,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -333,7 +333,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -353,7 +353,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -364,8 +364,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_N_92">
-   <map stamp="gt_N_92:fm_2531:fm_6265:sml_5065" fin_lemma_id="1666::"/>
+<e id="gt_N_92" meta="03">
+   <map fin_lemma_id="1666::" stamp="gt_N_92:fm_2531:fm_6265:sml_5065"/>
    <rev-sort_key>nääj</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">jään</l>
@@ -387,10 +387,10 @@
    </lg>
      <sources>
        <book name="KKS" page="50:1"/>
-       <book type="db" name="gt"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
        <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -433,7 +433,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -443,8 +443,8 @@
      </tg>
    </mg>
 </e>
-<e meta="05" id="gt_N_97">
-   <map stamp="gt_N_97:fm_5915:sml_6561:sml_6562:sml_6563" fin_lemma_id="27037::18768::1219::"/>
+<e id="gt_N_97" meta="05">
+   <map fin_lemma_id="27037::18768::1219::" stamp="gt_N_97:fm_5915:sml_6561:sml_6562:sml_6563"/>
    <rev-sort_key>vaak</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">kaav</l>
@@ -463,13 +463,13 @@
    </lg>
      <sources>
        <book name="KKS" page="99:9"/>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
        <book lesson="2" name="kurss"/>
-       <book name="200" BEDLAN_ID="196"/>
+       <book BEDLAN_ID="196" name="200"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -513,7 +513,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -523,8 +523,8 @@
      </tg>
    </mg>
 </e>
-<e id="fm_6040">
-   <map stamp="fm_6040:sml_9371" fin_lemma_id="26245::"/>
+<e exclude="fst" id="fm_6040">
+   <map fin_lemma_id="26245::" stamp="fm_6040:sml_9371"/>
    <rev-sort_key>eʒʒʹidaksäuk</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">kuäskadiʹʒʒe</l>
@@ -540,7 +540,7 @@
    </lg>
      <sources>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -557,7 +557,7 @@
    </mg>
 </e>
 <e id="fm_773">
-   <map stamp="fm_773:sml_9378:sml_9379" fin_lemma_id="26247::22250::"/>
+   <map fin_lemma_id="26247::22250::" stamp="fm_773:sml_9378:sml_9379"/>
    <rev-sort_key>ǩǩsʹäuk</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">kuäʹsǩǩ</l>
@@ -572,14 +572,14 @@
        <c name="Reader">7</c>
        <c name="Recording">9</c>
        <c name="included">yes</c>
-     </inc-audio>
+     </inc-audio> <compg> </compg>
    </lg>
      <sources>
        <book name="KKS" page="136:5"/>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -591,9 +591,11 @@
      </tg>
      <tg xml:lang="eng">
        <t pos="N">aunt</t>
+       <t pos="N">mother’s elder sister</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="N">täti</t>
+       <t pos="N">äidin vanhempi sisar</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="N">tante</t>
@@ -613,7 +615,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -632,7 +634,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -651,7 +653,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -662,8 +664,8 @@
      </tg>
    </mg>
 </e>
-<e meta="05" id="gt_N_124">
-   <map stamp="gt_N_124:fm_2178:sml_8665:sml_8666" fin_lemma_id="1213::18767::"/>
+<e id="gt_N_124" meta="05">
+   <map fin_lemma_id="1213::18767::" stamp="gt_N_124:fm_2178:sml_8665:sml_8666"/>
    <rev-sort_key>jjõuk</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">kuõjj</l>
@@ -683,12 +685,12 @@
    </lg>
      <sources>
        <book name="KKS" page="170:3"/>
-       <book type="db" name="gt"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="KKS" page="170"/>
-       <book name="200" BEDLAN_ID="81"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="KKS" page="170" type="book"/>
+       <book BEDLAN_ID="81" name="200"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -698,7 +700,7 @@
        <t pos="N">Ehemann</t>
      </tg>
      <tg xml:lang="eng">
-       <t stat="pref" pos="N">husband</t>
+       <t pos="N" stat="pref">husband</t>
        <t pos="N">man</t>
      </tg>
      <tg xml:lang="fin">
@@ -706,7 +708,7 @@
        <t pos="N">puoliso</t>
      </tg>
      <tg xml:lang="nob">
-       <t stat="pref" short="mann" pos="N">ektemann</t>
+       <t pos="N" short="mann" stat="pref">ektemann</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="N">муж</t>
@@ -729,8 +731,8 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -741,7 +743,7 @@
    </mg>
 </e>
 <e id="fm_3631">
-   <map stamp="fm_3631" fin_lemma_id=""/>
+   <map fin_lemma_id="" stamp="fm_3631"/>
    <rev-sort_key>žennʹeijʼlääk</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">käälʼjieʹnnež</l>
@@ -783,7 +785,7 @@
    </mg>
 </e>
 <e id="fm_3630">
-   <map stamp="fm_3630" fin_lemma_id=""/>
+   <map fin_lemma_id="" stamp="fm_3630"/>
    <rev-sort_key>nˈnʹäejrääk</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">käärjeäʹnn</l>
@@ -821,7 +823,7 @@
    </mg>
 </e>
 <e id="fm_237">
-   <map stamp="fm_237:sml_11325" fin_lemma_id="720"/>
+   <map fin_lemma_id="720" stamp="fm_237:sml_11325"/>
    <rev-sort_key>jjaal</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">laajj</l>
@@ -841,7 +843,7 @@
      <sources>
        <book name="KKS" page="189:4"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -870,7 +872,7 @@
    </mg>
 </e>
 <e id="fm_1980">
-   <map stamp="fm_1980:sml_13165:sml_13166:sml_13167:sml_13168" fin_lemma_id="1849::4634::4603::4601::"/>
+   <map fin_lemma_id="1849::4634::4603::4601::" stamp="fm_1980:sml_13165:sml_13166:sml_13167:sml_13168"/>
    <rev-sort_key>jjʹärâddaam</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">maaddâräi</l>
@@ -888,11 +890,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="KKS" page="231:14.4"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="KKS" page="231:14.4" type="book"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -922,7 +924,7 @@
    </mg>
 </e>
 <e id="fm_1981">
-   <map stamp="fm_1981:sml_13169:sml_13170:sml_13171" fin_lemma_id="4635::1890::4640::"/>
+   <map fin_lemma_id="4635::1890::4640::" stamp="fm_1981:sml_13169:sml_13170:sml_13171"/>
    <rev-sort_key>kkärâddaam</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">maaddâräkk</l>
@@ -937,9 +939,9 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -969,8 +971,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_N_188">
-   <map stamp="gt_N_188:fm_774:sml_14347:sml_14348" fin_lemma_id="26246::22249::"/>
+<e id="gt_N_188" meta="03">
+   <map fin_lemma_id="26246::22249::" stamp="gt_N_188:fm_774:sml_14347:sml_14348"/>
    <rev-sort_key>đđʹeum</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">mueʹđđ</l>
@@ -985,11 +987,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
        <book lesson="phon" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -1028,8 +1030,8 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
+       <book name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1048,7 +1050,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1067,8 +1069,8 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
+       <book name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1088,7 +1090,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1107,7 +1109,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1117,8 +1119,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_N_208">
-   <map stamp="gt_N_208:fm_1928:fm_6399:fm_6400:sml_15418:sml_15419:sml_15420" fin_lemma_id="14777::26022::26018::"/>
+<e id="gt_N_208" meta="03">
+   <map fin_lemma_id="14777::26022::26018::" stamp="gt_N_208:fm_1928:fm_6399:fm_6400:sml_15418:sml_15419:sml_15420"/>
    <rev-sort_key>ddjin</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">nijdd</l>
@@ -1136,14 +1138,14 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="KKS" page="281:1"/>
+       <book name="sjm" type="db"/>
+       <book name="KKS" page="281:1" type="book"/>
        <book lesson="phon" name="kurss"/>
        <book lesson="4" name="kurss"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1227,7 +1229,7 @@
        <comp fin="vaimo" ord="E2" pos="N">kaav</comp> </compg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1253,7 +1255,7 @@
        <comp fin="mies" ord="E2" pos="N">kääʹlles</comp> </compg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1267,8 +1269,8 @@
      </xg>
    </mg>
 </e>
-<e meta="04" id="gt_N_278">
-   <map stamp="gt_N_278:fm_1171:sml_21138" fin_lemma_id="17999::"/>
+<e id="gt_N_278" meta="04">
+   <map fin_lemma_id="17999::" stamp="gt_N_278:fm_1171:sml_21138"/>
    <rev-sort_key>nnrʹäp</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">päʹrnn</l>
@@ -1291,14 +1293,14 @@
    </lg>
      <sources>
        <book name="KKS" page="340:10"/>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
        <book lesson="3" name="kurss"/>
        <book lesson="phon" name="kurss"/>
-       <book name="200" BEDLAN_ID="215"/>
-       <book name="200" BEDLAN_ID="21"/>
+       <book BEDLAN_ID="215" name="200"/>
+       <book BEDLAN_ID="21" name="200"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1318,7 +1320,7 @@
        <t pos="N">barn</t>
      </tg>
      <tg xml:lang="rus">
-       <t stat="pref" pos="N">ребёнок</t>
+       <t pos="N" stat="pref">ребёнок</t>
        <t pos="N" t_type="sr">ребенок</t>
        <t pos="N">дитя</t>
        <t pos="N">малыш</t>
@@ -1371,7 +1373,7 @@
        <comp fin="vävy" ord="E2" pos="N">vivv</comp> </compg>
    </lg>
      <sources>
-       <book type="db" name="VJO"/>
+       <book name="VJO" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1396,7 +1398,7 @@
        <comp fin="vävy" ord="E2" pos="N">zeeʹtt</comp> </compg>
    </lg>
      <sources>
-       <book type="db" name="VJO"/>
+       <book name="VJO" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1411,7 +1413,7 @@
    </mg>
 </e>
 <e id="fm_1946">
-   <map stamp="fm_1946" fin_lemma_id="9447"/>
+   <map fin_lemma_id="9447" stamp="fm_1946"/>
    <rev-sort_key>nˈnʹäejttsir</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">risttjeäʹnn</l>
@@ -1426,10 +1428,10 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1465,8 +1467,8 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1480,14 +1482,16 @@
    <map sml_ids="9451"/>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">risttvillj</l>
+     <etymology>
+     </etymology>
      <stg>
-       <st Contlex="N_PAPP" NumContlex="1.111">risttvi%^1VOWl%{ʹØ%}lj</st>
-     </stg>
+       <st Contlex="N_PAPP" NumContlex="1.111">risttvi%^1VOW%{ʹØ%}llj</st>
+     </stg> <compg> </compg>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
+       <book name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1511,8 +1515,8 @@
        <comp fin="sisko" ord="E2" pos="N">vuäʹbb</comp> </compg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
-       <book type="book" name="KKS" page="442:5.2"/>
+       <book name="sjm" type="db"/>
+       <book name="KKS" page="442:5.2" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1537,8 +1541,8 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
+       <book name="AKU" type="db"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1557,7 +1561,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1576,7 +1580,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1587,7 +1591,7 @@
    </mg>
 </e>
 <e id="fm_772">
-   <map stamp="fm_772" fin_lemma_id=""/>
+   <map fin_lemma_id="" stamp="fm_772"/>
    <rev-sort_key>ssʹeis</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">sieʹss</l>
@@ -1602,9 +1606,9 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="fm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1639,7 +1643,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
        <book name="Lääʹdd-sääʹm sääʹnnǩeʹrjj, 1991"/>
      </sources>
    <mg relId="0">
@@ -1662,8 +1666,8 @@
        <comp fin="mummo" ord="E2" pos="N">äkk</comp> </compg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Vuõʹlǧǧe jååʹtted ooudâs, 2012"/>
+       <book name="sjm" type="db"/>
+       <book name="Vuõʹlǧǧe jååʹtted ooudâs, 2012" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1679,7 +1683,7 @@
    </mg>
 </e>
 <e id="fm_1696">
-   <map stamp="fm_1696" fin_lemma_id="5720"/>
+   <map fin_lemma_id="5720" stamp="fm_1696"/>
    <rev-sort_key>nˈnʹäejccnʹäev</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">veäʹnccjeäʹnn</l>
@@ -1700,9 +1704,9 @@
    </lg>
      <sources>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
-       <book type="book" name="KKS" page="744:7.2"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
+       <book name="KKS" page="744:7.2" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1740,7 +1744,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1759,7 +1763,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1778,7 +1782,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1797,7 +1801,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1808,7 +1812,7 @@
    </mg>
 </e>
 <e id="fm_1052">
-   <map stamp="fm_1052:sml_30819:sml_30820:sml_30821" fin_lemma_id="27809::27816::27806::"/>
+   <map fin_lemma_id="27809::27816::27806::" stamp="fm_1052:sml_30819:sml_30820:sml_30821"/>
    <rev-sort_key>žâjlliiv</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">viilljâž</l>
@@ -1825,10 +1829,10 @@
      </inc-audio> <compg> </compg>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="KKS" page="753:13.3"/>
+       <book name="sjm" type="db"/>
+       <book name="KKS" page="753:13.3" type="book"/>
      </sources>
    <mg relId="0">
      <semantics>
@@ -1865,7 +1869,7 @@
        <t pos="N">little brother</t>
      </tg>
      <tg xml:lang="fin">
-       <t stat="pref" pos="N">pikkuveli</t>
+       <t pos="N" stat="pref">pikkuveli</t>
        <t pos="N">veljyt</t>
      </tg>
      <tg xml:lang="nob">
@@ -1880,8 +1884,8 @@
      </xg>
    </mg>
 </e>
-<e meta="03" id="gt_N_419">
-   <map stamp="gt_N_419:fm_1048:sml_30893" fin_lemma_id="27806::"/>
+<e id="gt_N_419" meta="03">
+   <map fin_lemma_id="27806::" stamp="gt_N_419:fm_1048:sml_30893"/>
    <rev-sort_key>jlliv</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">villj</l>
@@ -1889,8 +1893,8 @@
        <l_var>viʹllj</l_var>
      </variants>
      <stg>
-       <st Contlex="N_PAPP" inflexId="1.111">vi%^1VOWl%{ʹØ%}lj</st>
-       <st Contlex="N_PAPP" inflexId="1.111" status="Err/Orth">vi%^1VOWʹl%{ʹØ%}lj</st>
+       <st Contlex="N_PAPP" inflexId="1.111">vi%^1VOW%{ʹØ%}llj</st>
+       <st Contlex="N_PAPP" inflexId="1.111" status="Err/Orth">vi%^1VOWʹ%{ʹØ%}llj</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1049</c>
@@ -1900,15 +1904,15 @@
      </inc-audio>
      <etymology>
        <etymon algu_lekseemi_id="80043" id="237848" xml:lang="sms">villj</etymon>
-     </etymology>
+     </etymology> <compg> </compg>
    </lg>
      <sources>
        <book name="KKS" page="753:13"/>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
        <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -1918,7 +1922,7 @@
        <sem class="M_MALE"/>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="N">Bruder</t>
+       <t gen="Msc" pos="N">Bruder</t>
      </tg>
      <tg xml:lang="eng">
        <t pos="N">brother</t>
@@ -1951,7 +1955,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1970,7 +1974,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -1989,7 +1993,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2000,7 +2004,7 @@
    </mg>
 </e>
 <e id="fm_3756">
-   <map stamp="fm_3756:sml_31151" fin_lemma_id="29261::"/>
+   <map fin_lemma_id="29261::" stamp="fm_3756:sml_31151"/>
    <rev-sort_key>vviv</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">vivv</l>
@@ -2019,10 +2023,10 @@
    </lg>
      <sources>
        <book name="KKS" page="759:3"/>
-       <book type="db" name="AKU"/>
+       <book name="AKU" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2052,7 +2056,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2070,7 +2074,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2089,7 +2093,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2099,8 +2103,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_N_429">
-   <map stamp="gt_N_429:fm_3628:sml_32455:sml_32456" fin_lemma_id="22243::22226::"/>
+<e id="gt_N_429" meta="03">
+   <map fin_lemma_id="22243::22226::" stamp="gt_N_429:fm_3628:sml_32455:sml_32456"/>
    <rev-sort_key>bbʹäuv</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">vuäʹbb</l>
@@ -2119,11 +2123,11 @@
    </lg>
      <sources>
        <book name="KKS" page="761:3"/>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
        <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -2159,7 +2163,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2178,7 +2182,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2197,7 +2201,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2208,7 +2212,7 @@
    </mg>
 </e>
 <e id="fm_3755">
-   <map stamp="fm_3755" fin_lemma_id="sml_29261"/>
+   <map fin_lemma_id="sml_29261" stamp="fm_3755"/>
    <rev-sort_key>ttʹeez</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">zeeʹtt</l>
@@ -2228,8 +2232,8 @@
      <sources>
        <book name="KKS" page="540:16"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2251,8 +2255,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_N_451">
-   <map stamp="gt_N_451:fm_1013:fm_6169:fm_6170:sml_748" fin_lemma_id="17999::"/>
+<e id="gt_N_451" meta="03">
+   <map fin_lemma_id="17999::" stamp="gt_N_451:fm_1013:fm_6169:fm_6170:sml_748"/>
    <rev-sort_key>ǧǧlʹâ</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">âʹlǧǧ</l>
@@ -2267,11 +2271,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="49"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="49" type="book"/>
        <book lesson="phon" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -2312,8 +2316,8 @@
      </tg>
    </mg>
 </e>
-<e meta="01" id="gt_N_459">
-   <map stamp="gt_N_459:fm_1965:fm_6168:sml_33653:sml_33654:sml_33655:sml_33656:sml_33657:sml_33658:sml_33659" fin_lemma_id="26893::4602::23867::29694::4632::4672::26414::"/>
+<e id="gt_N_459" meta="01">
+   <map fin_lemma_id="26893::4602::23867::29694::4632::4672::26414::" stamp="gt_N_459:fm_1965:fm_6168:sml_33653:sml_33654:sml_33655:sml_33656:sml_33657:sml_33658:sml_33659"/>
    <rev-sort_key>jjʹä</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">äi</l>
@@ -2332,11 +2336,11 @@
    </lg>
      <sources>
        <book name="KKS" page="5:3"/>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
        <book name="perintökieli"/>
        <book name="Lääʹdd-sääʹm sääʹnnǩeʹrjj, 1991"/>
      </sources>
@@ -2383,8 +2387,8 @@
      </tg>
    </mg>
 </e>
-<e meta="01" id="gt_N_455">
-   <map stamp="gt_N_455:fm_1966:fm_6187:sml_33678:sml_33679:sml_33680:sml_33681" fin_lemma_id="4639::29747::14040::4633::"/>
+<e id="gt_N_455" meta="01">
+   <map fin_lemma_id="4639::29747::14040::4633::" stamp="gt_N_455:fm_1966:fm_6187:sml_33678:sml_33679:sml_33680:sml_33681"/>
    <rev-sort_key>kkä</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">äkk</l>
@@ -2399,12 +2403,12 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="KKS" page="7"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="KKS" page="7" type="book"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
        <book name="perintökieli"/>
      </sources>
    <mg relId="0">
@@ -2451,7 +2455,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2464,8 +2468,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_N_461">
-   <map stamp="gt_N_461:fm_2809:sml_33686:sml_33687:sml_33688:sml_33689" fin_lemma_id="27038::390::1218::18769::"/>
+<e id="gt_N_461" meta="03">
+   <map fin_lemma_id="27038::390::1218::18769::" stamp="gt_N_461:fm_2809:sml_33686:sml_33687:sml_33688:sml_33689"/>
    <rev-sort_key>ǩǩʹä</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">äʹǩǩ</l>
@@ -2484,11 +2488,11 @@
    </lg>
      <sources>
        <book name="KKS" page="7:8"/>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
        <book lesson="phon" name="kurss"/>
        <book name="perintökieli"/>
      </sources>
@@ -2552,8 +2556,8 @@
      </tg>
    </mg>
 </e>
-<e meta="04" id="gt_N_464">
-   <map stamp="gt_N_464:sml_33437" fin_lemma_id="13762::"/>
+<e id="gt_N_464" meta="04">
+   <map fin_lemma_id="13762::" stamp="gt_N_464:sml_33437"/>
    <rev-sort_key>iamlåå</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">åålmai</l>
@@ -2570,10 +2574,10 @@
      </etymology>
    </lg>
      <sources>
-       <book type="db" name="gt"/>
-       <book type="db" name="sjm"/>
+       <book name="gt" type="db"/>
+       <book name="sjm" type="db"/>
        <book lesson="1" name="kurss"/>
-       <book name="200" BEDLAN_ID="*99"/>
+       <book BEDLAN_ID="*99" name="200"/>
        <book name="100"/>
      </sources>
    <mg relId="0">
@@ -2581,7 +2585,7 @@
        <sem class="HUMAN">FAMILY</sem>
      </semantics>
      <tg xml:lang="deu">
-       <t short="Mann" pos="N">Ehemann</t>
+       <t pos="N" short="Mann">Ehemann</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="N">mies</t>
@@ -2627,8 +2631,8 @@
      </tg>
    </mg>
 </e>
-<e meta="04" id="gt_N_463">
-   <map stamp="gt_N_463:fm_2500:sml_33437" fin_lemma_id="13762::"/>
+<e id="gt_N_463" meta="04">
+   <map fin_lemma_id="13762::" stamp="gt_N_463:fm_2500:sml_33437"/>
    <rev-sort_key>muåå</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">ååum</l>
@@ -2654,13 +2658,13 @@
      </etymology>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="50"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="50" type="book"/>
        <book lesson="1" name="kurss"/>
-       <book name="200" BEDLAN_ID="*99"/>
+       <book BEDLAN_ID="*99" name="200"/>
        <book name="100"/>
      </sources>
    <mg relId="0">
@@ -2668,7 +2672,7 @@
        <sem class="HUMAN">FAMILY</sem>
      </semantics>
      <tg xml:lang="deu">
-       <t short="Mann" pos="N">Ehemann</t>
+       <t pos="N" short="Mann">Ehemann</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="N">aviomies</t>
@@ -2738,8 +2742,8 @@
      </tg>
    </mg>
 </e>
-<e meta="03" id="gt_N_475">
-   <map stamp="gt_N_475:fm_5754:sml_1847" fin_lemma_id="21809::"/>
+<e id="gt_N_475" meta="03">
+   <map fin_lemma_id="21809::" stamp="gt_N_475:fm_5754:sml_1847"/>
    <rev-sort_key>ccʹeič</rev-sort_key>
    <lg>
      <l pos="N" sem_type="Kin" type="Kin">čieʹcc</l>
@@ -2754,11 +2758,11 @@
      </inc-audio>
    </lg>
      <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="gt"/>
+       <book name="AKU" type="db"/>
+       <book name="gt" type="db"/>
        <book name="fm"/>
-       <book type="db" name="sjm"/>
-       <book type="book" name="Mattu saaʹnid" pg="49"/>
+       <book name="sjm" type="db"/>
+       <book name="Mattu saaʹnid" pg="49" type="book"/>
        <book lesson="3" name="kurss"/>
      </sources>
    <mg relId="0">
@@ -2793,7 +2797,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">
@@ -2813,7 +2817,7 @@
      </stg>
    </lg>
      <sources>
-       <book type="db" name="sjm"/>
+       <book name="sjm" type="db"/>
      </sources>
    <mg relId="0">
      <semantics sem_type="Kin">

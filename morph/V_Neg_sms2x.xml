@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="sms">
 <e id="fm_2762">
-   <map stamp="fm_2762:sml_4528" fin_lemma_id="1419::"/>
+   <map fin_lemma_id="1419::" stamp="fm_2762:sml_4528"/>
    <rev-sort_key>ji</rev-sort_key>
    <lg>
      <l pos="V" type="Neg">ij</l>
@@ -29,7 +29,7 @@
        <t pos="Pcle">not </t>
      </tg>
      <tg xml:lang="fin">
-       <t type="Neg" pos="V">ei</t>
+       <t pos="V" type="Neg">ei</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="Pcle">ikke, nei</t>
@@ -38,12 +38,12 @@
        <t pos="Pcle">нет, не (отрицание)</t>
      </tg>
      <tg xml:lang="sjd">
-       <t type="Neg" pos="V">эйй</t>
+       <t pos="V" type="Neg">эйй</t>
      </tg>
    </mg>
 </e>
 <e exclude="fst" id="fm_2761">
-   <map stamp="fm_2761" fin_lemma_id=""/>
+   <map fin_lemma_id="" stamp="fm_2761"/>
    <rev-sort_key>täej</rev-sort_key>
    <lg>
      <l pos="V" type="Neg">jeät</l> <lemma_ref lemmaID="ij_V_Neg">ij</lemma_ref>
@@ -82,7 +82,7 @@
    </mg>
 </e>
 <e exclude="fst" id="fm_1492">
-   <map stamp="fm_1492:sml_5038" fin_lemma_id="29742::"/>
+   <map fin_lemma_id="29742::" stamp="fm_1492:sml_5038"/>
    <rev-sort_key>lʹeij</rev-sort_key>
    <lg>
      <l pos="V" type="Neg">jieʹl</l>
@@ -124,7 +124,7 @@
    </mg>
 </e>
 <e id="fm_2760">
-   <map stamp="fm_2760:sml_5130" fin_lemma_id="1430::"/>
+   <map fin_lemma_id="1430::" stamp="fm_2760:sml_5130"/>
    <rev-sort_key>âij</rev-sort_key>
    <lg>
      <l pos="V" type="Neg">jiâ</l>
