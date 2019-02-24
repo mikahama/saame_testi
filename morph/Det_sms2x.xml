@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="sms">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="sms">
 <e>
    <rev-sort_key>dathod</rev-sort_key>
    <lg>
@@ -128,11 +128,14 @@
    </mg>
 </e>
 <e exclude="fst">
+   <map/>
    <lg>
      <l pos="Det">jiijjâd</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="DET-REFL_">jiijj</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -188,11 +191,14 @@
    </mg>
 </e>
 <e exclude="fst">
+   <map/>
    <lg>
      <l pos="Det">jiiʹjjen</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="DET-REFL_">jiijj</st>
-     </stg>
+     </stg> <compg> </compg>
    </lg>
      <sources>
      </sources>
@@ -1504,6 +1510,8 @@
    <rev-sort_key>tõt</rev-sort_key>
    <lg>
      <l pos="Det">tõt</l>
+     <etymology>
+     </etymology>
      <stg>
        <st Contlex="DET-SHORTDEM_" inflexId="::::1000">tõ</st>
      </stg>
@@ -1512,7 +1520,7 @@
        <c name="Reader">14</c>
        <c name="Recording">1</c>
        <c name="included">yes</c>
-     </inc-audio>
+     </inc-audio> <compg> </compg>
      <mini_paradigm>
        <analysis ms="Sg_Gen">
            <wordform>tõn</wordform>

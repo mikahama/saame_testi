@@ -230,11 +230,27 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">måtam</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">joku</t>
+				<t pos="Pron">jokunen</t>
+				<t pos="Pron">muuan</t>
+			</tg>
+		</mg>
 	</e>
 	<e id="gt_Adp_22" meta="05">
 		<map fin_lemma_id="5021::" stamp="gt_Adp_22:sml_9388"/>
@@ -388,11 +404,26 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">mââʹđen</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">miksi</t>
+				<t pos="Pron">minä</t>
+			</tg>
+		</mg>
 	</e>
 	<e exclude="fst" order="1">
 		<lg>
@@ -613,11 +644,25 @@
          </sources>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">jiijjâd</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">teidän itsenne</t>
+			</tg>
+		</mg>
 	</e>
 	<e exclude="fst" order="1">
 		<lg>
@@ -674,11 +719,25 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">jiiččan</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">minun itseni</t>
+			</tg>
+		</mg>
 	</e>
 	<e id="fm_4032">
 		<map fin_lemma_id="4716:15911:24529" stamp="fm_4032:sml_5279:sml_5280:sml_5281"/>
@@ -731,11 +790,25 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">jiiʹjjen</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">meidän itsemme</t>
+			</tg>
+		</mg>
 	</e>
 	<e>
 		<lg>
@@ -1593,11 +1666,25 @@
          </sources>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">kuhttže</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">kummallekin</t>
+			</tg>
+		</mg>
 	</e>
 	<e id="fm_1000">
 		<map fin_lemma_id="9477" stamp="fm_1000:sml_9141"/>
@@ -1773,11 +1860,25 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">kååʹtt-a</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">kukin</t>
+			</tg>
+		</mg>
 	</e>
 	<e id="fm_3749">
 		<map fin_lemma_id="5013" stamp="fm_3749:sml_10977"/>
@@ -1887,11 +1988,25 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">mii-a</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">niin mikä</t>
+			</tg>
+		</mg>
 	</e>
 	<e id="fm_3750">
 		<map fin_lemma_id="5001" stamp="fm_3750:sml_13921"/>
@@ -2003,18 +2118,46 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">miõlstad</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">mielelläsi</t>
+			</tg>
+		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">miõlstan</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">mielelläni</t>
+			</tg>
+		</mg>
 	</e>
 	<e id="gt_Pro_4" meta="03">
 		<map fin_lemma_id="13832" stamp="gt_Pro_4:fm_2181:sml_14116"/>
@@ -2200,11 +2343,25 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">mâiʹd-ne</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">jotakin</t>
+			</tg>
+		</mg>
 	</e>
 	<e id="fm_353">
 		<map stamp="fm_353"/>
@@ -2714,11 +2871,25 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">tuk</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">nuo</t>
+			</tg>
+		</mg>
 	</e>
 	<e id="fm_6524">
 		<map stamp="fm_6524"/>
@@ -2851,18 +3022,46 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">tõk</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">ne</t>
+			</tg>
+		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">tõt</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">se</t>
+			</tg>
+		</mg>
 	</e>
 	<e exclude="fst" id="gt_Pro_9" meta="04">
 		<map fin_lemma_id="9228" stamp="gt_Pro_9:fm_5904:fm_6315:sml_10996"/>
@@ -2999,18 +3198,46 @@
 		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">ǩeäzz</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">kenelle</t>
+			</tg>
+		</mg>
 	</e>
 	<e exclude="fst" order="1">
+		<map/>
 		<lg>
 			<l pos="Pron">ǩeäʹst</l>
+			<etymology>
+</etymology>
+			<stg>
+</stg>
+			<compg>
+</compg>
 		</lg>
 		<sources>
          </sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="fin">
+				<t pos="Pron">kenellä</t>
+			</tg>
+		</mg>
 	</e>
 	<e exclude="fst" id="gt_Pro_9" meta="04">
 		<map fin_lemma_id="9228" stamp="gt_Pro_9:fm_5904:fm_6315:sml_10996"/>

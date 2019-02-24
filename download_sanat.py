@@ -45,7 +45,7 @@ def download_xmls():
 		for file in files[folder]:
 			print "Downloading: " + folder + ", " + file
 			payload = {'language': language, 'file': file, "type": folder}
-			r = requests.get('http://sanat.csc.fi:8000/smsxml/xml_out/', params=payload)
+			r = requests.get('http://www.akusanat.com/smsxml/xml_out/', params=payload)
 			if r.status_code != requests.codes.ok:
 				r.raise_for_status()
 			f = codecs.open(folder + "/" + file, "w", encoding="UTF-8")
@@ -69,7 +69,7 @@ change_branch()
 print "Downloading XMLs from sanat"
 download_xmls()
 pretty_xmls()
-print "\n\nAll done!\n\nMerge wiki_branch to master. Push and go to http://sanat.csc.fi:smsxml/git_postmerge/?language=" + language
+print "\n\nAll done!\n\nMerge wiki_branch to master. Push and go to http://www.akusanat.com/smsxml/git_postmerge/?language=" + language
 
 
 	 

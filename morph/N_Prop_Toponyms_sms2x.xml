@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="sms">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="sms">
 <e id="gt_Prop_3" meta="08_369">
    <map fin_lemma_id="4457::" stamp="gt_Prop_3:fm_368:fm_6182:sml_61"/>
    <rev-sort_key>ranaA</rev-sort_key>
@@ -5894,6 +5894,23 @@
      </tg>
    </mg>
 </e>
+<e src="jmr_2015-11-10">
+   <lg>
+     <l pos="Prop">Pâjj-Sääʹmjânnam</l>
+     <stg>
+       <st Contlex="PROP_AANAR">Pâjj-#Sääʹm#jânnam</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="PROP">Ylä-Lappi</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <map sml_ids="19032"/>
    <lg>
@@ -8106,6 +8123,23 @@
      </tg>
    </mg>
 </e>
+<e src="jmr_2015-11-10">
+   <lg>
+     <l pos="Prop">Tuõddâr-Sääʹmjânnam</l>
+     <stg>
+       <st Contlex="PROP_AANAR">Tuõddâr-#Sääʹmjânnam</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="PROP">Tunturi-Lappi</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <map sml_ids="19158"/>
    <lg>
@@ -8252,6 +8286,24 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="N" type="Prop">северная финляндия</t>
+     </tg>
+   </mg>
+</e>
+<e src="jmr_2015-11-10">
+   <lg>
+     <l pos="Prop">Tâʹvv-Sääʹmjânnam</l>
+     <stg>
+       <st Contlex="PROP_AANAR">Tâʹvv-#Sääʹm#jânnam</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="PROP">Pohjois-Lappi</t>
+       <t pos="PROP">Ylä-Lappi</t>
      </tg>
    </mg>
 </e>
@@ -10695,58 +10747,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="N">Käsivarsi</t>
-     </tg>
-   </mg>
-</e>
-<e src="jmr_2015-11-10">
-   <lg>
-     <l pos="Prop">Pâjj-Sääʹmjânnam</l>
-     <stg>
-       <st Contlex="PROP_AANAR">Pâjj-#Sääʹm#jânnam</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="PROP">Ylä-Lappi</t>
-     </tg>
-   </mg>
-</e>
-<e src="jmr_2015-11-10">
-   <lg>
-     <l pos="Prop">Tuõddâr-Sääʹmjânnam</l>
-     <stg>
-       <st Contlex="PROP_AANAR">Tuõddâr-#Sääʹmjânnam</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="PROP">Tunturi-Lappi</t>
-     </tg>
-   </mg>
-</e>
-<e src="jmr_2015-11-10">
-   <lg>
-     <l pos="Prop">Tâʹvv-Sääʹmjânnam</l>
-     <stg>
-       <st Contlex="PROP_AANAR">Tâʹvv-#Sääʹm#jânnam</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="PROP">Pohjois-Lappi</t>
-       <t pos="PROP">Ylä-Lappi</t>
      </tg>
    </mg>
 </e>
