@@ -1,5 +1,93 @@
 <?xml version="1.0" ?>
 <r xml:lang="sms" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd">
+	<e exclude="fst" id="fm_5909">
+		<map stamp="fm_5909"/>
+		<rev-sort_key>nook</rev-sort_key>
+		<lg>
+			<l pos="Pron">koon</l>
+			<stg>
+				<st Contlex="PRON_" inflexId="::::">koon</st>
+			</stg>
+			<inc-audio>
+				<c name="ID_Audio">5910</c>
+				<c name="Reader">7</c>
+				<c name="Recording">1</c>
+				<c name="included">yes</c>
+			</inc-audio>
+		</lg>
+		<sources>
+			<book name="AKU" type="db"/>
+		</sources>
+		<mg relId="0">
+			<semantics>
+</semantics>
+			<tg xml:lang="deu">
+				<t pos="Pron">wessen; dessen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="Pron">whose, which</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron">kenen; jonka</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="Pron">hvis</t>
+				<t pos="Pron">hvem</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="Pron">чей, какой</t>
+			</tg>
+		</mg>
+	</e>
+	<e id="gt_Adp_22" meta="05">
+		<map fin_lemma_id="5021::" stamp="gt_Adp_22:sml_9388"/>
+		<rev-sort_key>ssʹäuk</rev-sort_key>
+		<lg>
+			<l pos="Pron" type="Rel">kuäʹss</l>
+			<etymology>
+				<etymon source="finnosaamic" type="xxx">ko+nsa</etymon>
+			</etymology>
+			<stg>
+				<st Contlex="PRON-REL_" inflexId="::::1000">kuäʹss</st>
+			</stg>
+			<inc-audio>
+				<c name="ID_Audio">5885</c>
+				<c name="Reader">7</c>
+				<c name="Recording">9</c>
+				<c name="included">yes</c>
+			</inc-audio>
+		</lg>
+		<sources>
+			<book name="AKU" type="db"/>
+			<book BEDLAN_ID="191" name="200"/>
+		</sources>
+		<mg relId="0">
+			<semantics>
+				<sem class="TIME">POINT</sem>
+			</semantics>
+			<tg xml:lang="deu">
+				<t>wann, wenn, als??</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="Pron">when</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="Pron" type="Rel">jolloin</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="Pron">når</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="Pron">когда</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="Pron">gåssee</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="Pron">goas</t>
+			</tg>
+		</mg>
+	</e>
 	<e>
 		<lg>
 			<l pos="Pron" type="Pers">muʹnne</l>
@@ -234,11 +322,10 @@
 		<lg>
 			<l pos="Pron">måtam</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -249,94 +336,6 @@
 				<t pos="Pron">joku</t>
 				<t pos="Pron">jokunen</t>
 				<t pos="Pron">muuan</t>
-			</tg>
-		</mg>
-	</e>
-	<e id="gt_Adp_22" meta="05">
-		<map fin_lemma_id="5021::" stamp="gt_Adp_22:sml_9388"/>
-		<rev-sort_key>ssʹäuk</rev-sort_key>
-		<lg>
-			<l pos="Pron" type="Rel">kuäʹss</l>
-			<etymology>
-				<etymon source="finnosaamic" type="xxx">ko+nsa</etymon>
-			</etymology>
-			<stg>
-				<st Contlex="PRON-REL_" inflexId="::::1000">kuäʹss</st>
-			</stg>
-			<inc-audio>
-				<c name="ID_Audio">5885</c>
-				<c name="Reader">7</c>
-				<c name="Recording">9</c>
-				<c name="included">yes</c>
-			</inc-audio>
-		</lg>
-		<sources>
-			<book name="AKU" type="db"/>
-			<book BEDLAN_ID="191" name="200"/>
-		</sources>
-		<mg relId="0">
-			<semantics>
-				<sem class="TIME">POINT</sem>
-			</semantics>
-			<tg xml:lang="deu">
-				<t>wann, wenn, als??</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="Pron">when</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="Pron" type="Rel">jolloin</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="Pron">når</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="Pron">когда</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="Pron">gåssee</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="Pron">goas</t>
-			</tg>
-		</mg>
-	</e>
-	<e exclude="fst" id="fm_5909">
-		<map stamp="fm_5909"/>
-		<rev-sort_key>nook</rev-sort_key>
-		<lg>
-			<l pos="Pron">koon</l>
-			<stg>
-				<st Contlex="PRON_" inflexId="::::">koon</st>
-			</stg>
-			<inc-audio>
-				<c name="ID_Audio">5910</c>
-				<c name="Reader">7</c>
-				<c name="Recording">1</c>
-				<c name="included">yes</c>
-			</inc-audio>
-		</lg>
-		<sources>
-			<book name="AKU" type="db"/>
-		</sources>
-		<mg relId="0">
-			<semantics>
-</semantics>
-			<tg xml:lang="deu">
-				<t pos="Pron">wessen; dessen</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="Pron">whose, which</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="Pron">kenen; jonka</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="Pron">hvis</t>
-				<t pos="Pron">hvem</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="Pron">чей, какой</t>
 			</tg>
 		</mg>
 	</e>
@@ -408,11 +407,10 @@
 		<lg>
 			<l pos="Pron">mââʹđen</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -648,11 +646,10 @@
 		<lg>
 			<l pos="Pron">jiijjâd</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -723,11 +720,10 @@
 		<lg>
 			<l pos="Pron">jiiččan</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -794,11 +790,10 @@
 		<lg>
 			<l pos="Pron">jiiʹjjen</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -1670,11 +1665,10 @@
 		<lg>
 			<l pos="Pron">kuhttže</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -1864,11 +1858,10 @@
 		<lg>
 			<l pos="Pron">kååʹtt-a</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -1992,11 +1985,10 @@
 		<lg>
 			<l pos="Pron">mii-a</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -2122,11 +2114,10 @@
 		<lg>
 			<l pos="Pron">miõlstad</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -2143,11 +2134,10 @@
 		<lg>
 			<l pos="Pron">miõlstan</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -2347,11 +2337,10 @@
 		<lg>
 			<l pos="Pron">mâiʹd-ne</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -2875,11 +2864,10 @@
 		<lg>
 			<l pos="Pron">tuk</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -3026,11 +3014,10 @@
 		<lg>
 			<l pos="Pron">tõk</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -3047,11 +3034,10 @@
 		<lg>
 			<l pos="Pron">tõt</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -3202,11 +3188,10 @@
 		<lg>
 			<l pos="Pron">ǩeäzz</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
@@ -3223,11 +3208,10 @@
 		<lg>
 			<l pos="Pron">ǩeäʹst</l>
 			<etymology>
-</etymology>
+     </etymology>
 			<stg>
-</stg>
-			<compg>
-</compg>
+     </stg>
+			<compg> </compg>
 		</lg>
 		<sources>
          </sources>
