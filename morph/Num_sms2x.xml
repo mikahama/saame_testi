@@ -1164,26 +1164,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" meta="01" id="gt_Num_17">
-   <map stamp="gt_Num_17:fm_6381:sml_13948" fin_lemma_id="13809::"/>
-   <rev-sort_key>drajlim</rev-sort_key>
-   <lg>
-     <l pos="Num">miljard</l>
-     <stg>
-       <st Contlex="NUM_ATOM" inflexId="::::1.22">milja%^1VOWrd</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-       <sem class="SENSE">QUANTITY</sem>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="Num">billion</t>
-     </tg>
-   </mg>
-</e>
 <e meta="01" id="gt_Num_17">
    <map stamp="gt_Num_17:fm_6381:sml_13948" fin_lemma_id="13809::"/>
    <lg>

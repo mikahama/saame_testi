@@ -837,6 +837,52 @@
      </tg>
    </mg>
 </e>
+<e id="fm_875">
+   <map stamp="fm_875:sml_3334:sml_15005" fin_lemma_id="24067::28878::"/>
+   <rev-sort_key>tsenʹiääm</rev-sort_key>
+   <lg>
+     <l pos="Po">määiʹnest</l>
+     <variants>
+       <l_syn>vääras</l_syn>
+       <l_syn>ǩeäčča</l_syn>
+       <l_syn>diõtt</l_syn>
+     </variants>
+     <stg>
+       <st Contlex="PO_" inflexId="::::1000">määiʹnest</st>
+     </stg>
+     <inc-audio>
+       <c name="ID_Audio">876</c>
+       <c name="Reader">9</c>
+       <c name="Recording">1</c>
+       <c name="included">yes</c>
+     </inc-audio>
+   </lg>
+     <sources>
+       <book type="db" name="AKU"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="deu">
+       <t pos="Pr">wegen</t>
+     </tg>
+     <tg xml:lang="eng">
+       <t pos="Pr">because of</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Po">takia</t>
+       <t pos="Po">vuoksi</t>
+       <t pos="Po">tähden</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t pos="Pr">på gunn av</t>
+       <t pos="Pr">for noens skyld</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Pr">из-за</t>
+     </tg>
+   </mg>
+</e>
 <e id="fm_5964">
    <map stamp="fm_5964:sml_16380:sml_16381" fin_lemma_id="4336::16510::"/>
    <rev-sort_key>atton</rev-sort_key>

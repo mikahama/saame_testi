@@ -1204,9 +1204,10 @@
 <e>
    <map sml_ids="7979"/>
    <lg>
-     <l pos="V">aukktõõvvâd</l>
+     <l pos="V">aauktõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">aukktõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">aauktõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">aukktõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -1631,9 +1632,10 @@
 <e>
    <map sml_ids="6610"/>
    <lg>
-     <l pos="V">aʹrvvjed</l>
+     <l pos="V">âbrrjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">aʹrvv</st>
+       <st Contlex="V_KUYDHDHDHJED">âbrr</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">aʹrvv</st>
      </stg>
    </lg>
      <sources>
@@ -3105,7 +3107,8 @@
    <lg>
      <l pos="V">ciilltõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">ciilltõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">ciiltõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">ciilltõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -4157,9 +4160,10 @@
 <e>
    <map sml_ids="5855"/>
    <lg>
-     <l pos="V">cuõʒʒtõõvvâd</l>
+     <l pos="V">cuõʒʒõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">cuõʒʒtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">cuõʒʒõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">cuõʒʒtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -4277,9 +4281,10 @@
 <e>
    <map sml_ids="20264:14159"/>
    <lg>
-     <l pos="V">cuʹvkkned</l>
+     <l pos="V">cuvkkned</l>
      <stg>
-       <st Contlex="V_KHEEQRJTED">cuʹvkken</st>
+       <st Contlex="V_KHIORGGNED">cuvkkân</st>
+       <st Contlex="V_KHEEQRJTED" status="Err/Orth">cuʹvkken</st>
      </stg>
    </lg>
      <sources>
@@ -5527,9 +5532,9 @@
 <e exclude="fst">
    <map sml_ids="29195"/>
    <lg>
-     <l pos="V">eeuʹn suåppõõttâd</l>
+     <l pos="V">määŋg eunna suåppõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">eeuʹn suåppõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">määŋg eunna suåppõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -5539,7 +5544,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="V::A::N">vivahtaa moneen väriin</t>
+       <t pos="V" type="V::A::N">vivahtaa moneen väriin</t>
      </tg>
    </mg>
 </e>
@@ -5726,7 +5731,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="V">hiillostaa</t>
+       <t pos="V">hiillostuttaa</t>
      </tg>
    </mg>
 </e>
@@ -5999,9 +6004,10 @@
 <e>
    <map sml_ids="3172"/>
    <lg>
-     <l pos="V">fijnstõõllâd</l>
+     <l pos="V">fiinstõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">fijnstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">fiinstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">fijnstõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -6240,9 +6246,10 @@
 <e>
    <map sml_ids="20428"/>
    <lg>
-     <l pos="V">fâʹsttjed</l>
+     <l pos="V">fâststõõllâd</l>
      <stg>
-       <st Contlex="V_VOQLLJED">fâʹstt</st>
+       <st Contlex="V_LAUKKOOLLYD">fâststõõ%{ʹØ%}ll</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">fâʹstt</st>
      </stg>
    </lg>
      <sources>
@@ -6259,8 +6266,9 @@
 <e>
    <map sml_ids="20632"/>
    <lg>
-     <l pos="V">fâʹsttõõvvâd</l>
+     <l pos="V">fâsttad</l>
      <stg>
+       <st Contlex="IV_SARNNAD">fâ%^1VOW%{ʹØ%}stt</st>
        <st Contlex="IV_LAUKKOOLLYD">fâʹsttõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
@@ -6375,9 +6383,10 @@
 <e>
    <map sml_ids="2595"/>
    <lg>
-     <l pos="V">gåårâʹtted</l>
+     <l pos="V">gåårted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">gåårâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_SHORRNED">gåårat</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">gåårâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -6658,9 +6667,10 @@
 <e>
    <map sml_ids="2714"/>
    <lg>
-     <l pos="V">hauddâd</l>
+     <l pos="V">häuddad</l>
      <stg>
-       <st Contlex="V_AIBBYD">ha%^1VOWu%{ʹØ%}dd</st>
+       <st Contlex="V_LAEULLAD">ha%^1VOWudd</st>
+       <st Contlex="V_AIBBYD" status="Err/Orth">ha%^1VOWu%{ʹØ%}dd</st>
      </stg>
    </lg>
      <sources>
@@ -6783,9 +6793,10 @@
 <e>
    <map sml_ids="2550:25279"/>
    <lg>
-     <l pos="V">haʹrjjned</l>
+     <l pos="V">harjjned</l>
      <stg>
-       <st Contlex="V_KHIORGGNED">haʹrjjân</st>
+       <st Contlex="V_KHIORGGNED">harjjân</st>
+       <st Contlex="V_KHIORGGNED" status="Err/Orth">haʹrjjân</st>
      </stg>
    </lg>
      <sources>
@@ -6798,6 +6809,26 @@
      <tg xml:lang="fin">
        <t pos="V">harjaantua</t>
        <t pos="V">tottua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <map sml_ids="27253"/>
+   <lg>
+     <l pos="V">haʹrjjtâʹtted</l>
+     <stg>
+       <st Contlex="V_KAEQTTED">haʹrjjtâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Lex">vuõiǥstâ%^1VOW%{ʹØ%}tt</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">valmentaa</t>
      </tg>
    </mg>
 </e>
@@ -7515,11 +7546,32 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="2454"/>
    <lg>
      <l pos="V">heättʼtâʹtted</l>
      <stg>
+       <st Contlex="V_KAEQTTED">heättʼtâ%^1VOW%{ʹØ%}tt</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="xyz">
+       <t pos="V">hankaloittaa</t>
+       <t pos="V">hätyytellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <map sml_ids="2454"/>
+   <lg>
+     <l pos="V">heättõõlled</l>
+     <stg>
+       <st Contlex="V_LAUKKOOLLYD">heättõõ%{ʹØ%}ll</st>
        <st Contlex="V_KAEQTTED">heättʼtâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
@@ -8229,9 +8281,10 @@
 <e exclude="fst">
    <map sml_ids="23558"/>
    <lg>
-     <l pos="V">hooddin čiõrstõõllâd</l>
+     <l pos="V">hooddin čiõrsted</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">hooddin čiõrstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_KHIORGGNED">hooddin čiõrâst</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Lex">hooddin čiõrstõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -8449,9 +8502,10 @@
 <e>
    <map sml_ids="4683"/>
    <lg>
-     <l pos="V">hoʹzjeʹnsõõzzâd</l>
+     <l pos="V">hoʹzjensõõššâd</l>
      <stg>
-       <st Contlex="V_LAADDYD">hoʹzjeʹnsõõ%{ʹØ%}zz</st>
+       <st Contlex="V_LAADDYD">hoʹzjensõõ%{ʹØ%}šš</st>
+       <st Contlex="V_LAADDYD" status="Err/Orth">hoʹzjeʹnsõõ%{ʹØ%}zz</st>
      </stg>
    </lg>
      <sources>
@@ -8813,8 +8867,9 @@
 <e>
    <map sml_ids="25751"/>
    <lg>
-     <l pos="V">hâudrded</l>
+     <l pos="V">haudrded</l>
      <stg>
+       <st Contlex="V_MAINSTED">haaudârd</st>
        <st Contlex="V_JOARGXSTED">hââudard</st>
      </stg>
    </lg>
@@ -9383,9 +9438,10 @@
 <e>
    <map sml_ids="2635"/>
    <lg>
-     <l pos="V">häʹrvvad</l>
+     <l pos="V">härvvad</l>
      <stg>
-       <st Contlex="V_LAEULLAD">hä%^1VOWʹrvv</st>
+       <st Contlex="V_LAEULLAD">hä%^1VOWrvv</st>
+       <st Contlex="V_LAEULLAD" status="Err/Orth">hä%^1VOWʹrvv</st>
      </stg>
    </lg>
      <sources>
@@ -9403,9 +9459,10 @@
 <e>
    <map sml_ids="2629"/>
    <lg>
-     <l pos="V">häʹrvveed</l>
+     <l pos="V">hääʹrveed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">häʹrvv</st>
+       <st Contlex="V_TEEQMEED">hääʹrv</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">häʹrvv</st>
      </stg>
    </lg>
      <sources>
@@ -9422,9 +9479,10 @@
 <e>
    <map sml_ids="2632"/>
    <lg>
-     <l pos="V">häʹrvvned</l>
+     <l pos="V">härvvned</l>
      <stg>
-       <st Contlex="V_KHEEQRJTED">häʹrvven</st>
+       <st Contlex="V_SHORRNED">härvvan</st>
+       <st Contlex="V_KHEEQRJTED" status="Err/Orth">häʹrvven</st>
      </stg>
    </lg>
      <sources>
@@ -10861,9 +10919,10 @@
 <e>
    <map sml_ids="9383"/>
    <lg>
-     <l pos="V">jaggred</l>
+     <l pos="V">jâggred</l>
      <stg>
-       <st Contlex="V_KHIORGGNED">jaggâr</st>
+       <st Contlex="V_SHORRNED">jâggar</st>
+       <st Contlex="V_KHIORGGNED" status="Err/Orth">jaggâr</st>
      </stg>
    </lg>
      <sources>
@@ -10880,9 +10939,10 @@
 <e>
    <map sml_ids="9580"/>
    <lg>
-     <l pos="V">jamljõõvvâd</l>
+     <l pos="V">jämljõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">jamljõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">jämljõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">jamljõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -10900,9 +10960,10 @@
 <e>
    <map sml_ids="9603"/>
    <lg>
-     <l pos="V">jammõõvvâd</l>
+     <l pos="V">jammjõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">jammõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">jammjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">jammõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -11202,9 +11263,10 @@
 <e>
    <map sml_ids="9580"/>
    <lg>
-     <l pos="V">jaʹmlʼjed</l>
+     <l pos="V">jämljed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">jaʹml</st>
+       <st Contlex="V_JAEMLJED">jäämalǥ</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">jaʹml</st>
      </stg>
    </lg>
      <sources>
@@ -11360,9 +11422,10 @@
 <e>
    <map sml_ids="27748"/>
    <lg>
-     <l pos="V">jeällõõvvâd</l>
+     <l pos="V">jeälšmed</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">jeällõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_TEYPSTED">jeällašm</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Lex">jeällõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -11413,9 +11476,10 @@
 <e>
    <map sml_ids="7985:10465"/>
    <lg>
-     <l pos="V">jeällõččâd</l>
+     <l pos="V">jällʼlõččâd</l>
      <stg>
-       <st Contlex="V_ROVVYD">jeällõ%^1VOW%{ʹØ%}čč</st>
+       <st Contlex="V_ROVVYD">jällʼlõ%^1VOW%{ʹØ%}čč</st>
+       <st Contlex="V_ROVVYD" status="Err/Orth">jeällõ%^1VOW%{ʹØ%}čč</st>
      </stg>
    </lg>
      <sources>
@@ -11545,48 +11609,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="V">erottua</t>
-     </tg>
-   </mg>
-</e>
-<e src="t" id="fm_2816">
-   <map stamp="fm_2816:sml_5109" fin_lemma_id="10082"/>
-   <rev-sort_key>datträej</rev-sort_key>
-   <lg>
-     <l pos="V">jeärttad</l>
-     <stg>
-       <st Contlex="V_KUAESTTAD">jeärtt</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2817</c>
-       <c name="Reader">6</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-       <book type="book" name="fm"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="V">auf der Seite</t>
-       <t pos="V">auf die Seite</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="V">on its side</t>
-       <t pos="V">its side</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="V">kyljellään</t>
-       <t pos="V">kyljelleen</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="V">ligge på siden</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="V">на боку</t>
      </tg>
    </mg>
 </e>
@@ -11878,9 +11900,10 @@
 <e>
    <map sml_ids="1815"/>
    <lg>
-     <l pos="V">jeäʹrded</l>
+     <l pos="V">jeärted</l>
      <stg>
-       <st Contlex="V_KHEEQRJTED">jeäʹred</st>
+       <st Contlex="V_SHORRNED">jeärat</st>
+       <st Contlex="V_KHEEQRJTED" status="Err/Orth">jeäʹred</st>
      </stg>
    </lg>
      <sources>
@@ -12083,9 +12106,11 @@
 <e exclude="fst">
    <map sml_ids="19187"/>
    <lg>
-     <l pos="V">jieʹrmid rõttjed</l>
+     <l pos="V">jieʹrmid roʹttjed</l>
      <stg>
-       <st Contlex="V_">jieʹrmid rõttjed</st>
+       <st Contlex="V_">jieʹrmid roʹttjed</st>
+       <st Contlex="V_" status="Use/SpellNoSugg">jieʹrmid rõʹttjed</st>
+       <st Contlex="V_" status="Err/Orth">jieʹrmid rõttjed</st>
      </stg>
    </lg>
      <sources>
@@ -12224,9 +12249,10 @@
 <e>
    <map sml_ids="19785:2321"/>
    <lg>
-     <l pos="V">jiâllõõvvâd</l>
+     <l pos="V">jeâllõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">jiâllõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">jeâllõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">jiâllõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -12285,9 +12311,10 @@
 <e>
    <map sml_ids="4084"/>
    <lg>
-     <l pos="V">jiâreed</l>
+     <l pos="V">jiõreed</l>
      <stg>
-       <st Contlex="V_SILTTEED">jiâr</st>
+       <st Contlex="V_SILTTEED">jiõr</st>
+       <st Contlex="V_SILTTEED" status="Err/Orth">jiâr</st>
      </stg>
    </lg>
      <sources>
@@ -12387,9 +12414,10 @@
 <e>
    <map sml_ids="30128"/>
    <lg>
-     <l pos="V">jiõnntâʹtted</l>
+     <l pos="V">jiõntâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">jiõnntâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">jiõntâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">jiõnntâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -12470,9 +12498,10 @@
 <e>
    <map sml_ids="4736"/>
    <lg>
-     <l pos="V">jiõččmõõvvâd</l>
+     <l pos="V">jiõččsmõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">jiõččmõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">jiõččsmõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">jiõččmõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -13435,9 +13464,10 @@
 <e exclude="fst">
    <map sml_ids="4830:4831"/>
    <lg>
-     <l pos="V">jueʹlji ool pâjjned</l>
+     <l pos="V">juõʹlji ool pâjjned</l>
      <stg>
-       <st Contlex="V_SHORRNED">jueʹlji ool pâjjan</st>
+       <st Contlex="V_SHORRNED">juõʹlji ool pâjjan</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">jueʹlji ool pâjjan</st>
      </stg>
    </lg>
      <sources>
@@ -13621,9 +13651,10 @@
 <e>
    <map sml_ids="5111"/>
    <lg>
-     <l pos="V">juuhlʼjed</l>
+     <l pos="V">juuʹhlʼjed</l>
      <stg>
-       <st Contlex="IV_KUOCCJED">juuhl</st>
+       <st Contlex="IV_VOQLLJED">juuʹhl</st>
+       <st Contlex="IV_KUOCCJED" status="Err/Orth">juuhl</st>
      </stg>
    </lg>
      <sources>
@@ -14928,9 +14959,10 @@
 <e>
    <map sml_ids="2320"/>
    <lg>
-     <l pos="V">jâllʼjed</l>
+     <l pos="V">jeâllʼjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">jâll</st>
+       <st Contlex="V_KUYDHDHDHJED">jeâll</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">jâll</st>
      </stg>
    </lg>
      <sources>
@@ -17265,9 +17297,10 @@
 <e>
    <map sml_ids="3299"/>
    <lg>
-     <l pos="V">jõskksmõõvvâd</l>
+     <l pos="V">jõsksmõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">jõskksmõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">jõsksmõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">jõskksmõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -17357,9 +17390,10 @@
 <e>
    <map sml_ids="5366"/>
    <lg>
-     <l pos="V">jõõrhâʹtted</l>
+     <l pos="V">jâârhâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">jõõrhâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">jâârhâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">jõõrhâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -19030,9 +19064,10 @@
 <e>
    <map sml_ids="29276"/>
    <lg>
-     <l pos="V">kanggâd</l>
+     <l pos="V">kaŋggâd</l>
      <stg>
-       <st Contlex="V_TOBDDYD">ka%^1VOW%{ʹØ%}ngg</st>
+       <st Contlex="V_TOBDDYD">ka%^1VOW%{ʹØ%}ŋgg</st>
+       <st Contlex="V_TOBDDYD" status="Err/Orth">ka%^1VOW%{ʹØ%}ngg</st>
      </stg>
    </lg>
      <sources>
@@ -19315,7 +19350,7 @@
    <lg>
      <l pos="V">kasttâd</l>
      <variants>
-       <l_syn>aʹrvvjed</l_syn>
+       <l_syn>âbrrjed</l_syn>
      </variants>
      <stg>
        <st Contlex="V_TOBDDYD">ka%^1VOW%{ʹØ%}stt</st>
@@ -19652,8 +19687,9 @@
 <e>
    <map sml_ids="13435"/>
    <lg>
-     <l pos="V">kažldõõttâd</l>
+     <l pos="V">kažldâʹtted</l>
      <stg>
+       <st Contlex="V_KAEQTTED">kažldâ%^1VOW%{ʹØ%}tt</st>
        <st Contlex="V_LAUKKOOLLYD">kažldõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
@@ -19848,7 +19884,7 @@
    <lg>
      <l pos="V">kaʹđđsted</l>
      <stg>
-       <st Contlex="V_NJAQDSTED">kaaʹđđest</st>
+       <st Contlex="V_KHEEQRJTED">kaʹđđest</st>
      </stg>
      <compg drv="V:Suf»V" type="Der">
        <comp msd="" ord="E1" pos="V">kaʹđđjed</comp>
@@ -19890,9 +19926,10 @@
 <e>
    <map sml_ids="6224"/>
    <lg>
-     <l pos="V">kaʹŋǩǩeed</l>
+     <l pos="V">kaʹŋǧǧeed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">kaʹŋǩǩ</st>
+       <st Contlex="V_TEEQMEED">kaʹŋǧǧ</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">kaʹŋǩǩ</st>
      </stg>
    </lg>
      <sources>
@@ -19978,25 +20015,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="V">luokitella</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="15698"/>
-   <lg>
-     <l pos="V">kleezz mõõnnâd</l>
-     <stg>
-       <st Contlex="V_POOLLYD">kleezz mõõ%{ʹØ%}nn</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">ohittaa hipaisten</t>
      </tg>
    </mg>
 </e>
@@ -22222,9 +22240,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">kreäppõõttâd</l>
+     <l pos="V">kreäpstõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">kreäppõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">kreäpstõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">kreäppõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -22261,9 +22280,10 @@
 <e>
    <map sml_ids="17625"/>
    <lg>
-     <l pos="V">kruugstâʹtted</l>
+     <l pos="V">kruuggstâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">kruugstâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">kruuggstâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">kruugstâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -22730,9 +22750,10 @@
 <e>
    <map sml_ids="10136:10148:28173"/>
    <lg>
-     <l pos="V">kueʹssjed</l>
+     <l pos="V">kuõʹssjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">kueʹss</st>
+       <st Contlex="V_VOQLLJED">kuõʹss</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">kueʹss</st>
      </stg>
    </lg>
      <sources>
@@ -23771,9 +23792,10 @@
 <e>
    <map sml_ids="30015"/>
    <lg>
-     <l pos="V">kuvddlõddâd</l>
+     <l pos="V">kulddlõddâd</l>
      <stg>
-       <st Contlex="V_ROVVYD">kuvddlõ%^1VOW%{ʹØ%}dd</st>
+       <st Contlex="V_ROVVYD">kulddlõ%^1VOW%{ʹØ%}dd</st>
+       <st Contlex="V_ROVVYD" status="Use/SpellNoSugg">kuvddlõ%^1VOW%{ʹØ%}dd</st>
      </stg>
      <compg drv="V:Suf»V" type="Der">
        <comp ms="Inf_Stem" ord="E1" pos="V">kuvddled</comp>
@@ -24469,8 +24491,9 @@
 <e>
    <map sml_ids="9670"/>
    <lg>
-     <l pos="V">kuârmted</l>
+     <l pos="V">kueʹrmted</l>
      <stg>
+       <st Contlex="V_SHORRNED">kueʹrmet</st>
        <st Contlex="V_SHORRNED">kuârmat</st>
      </stg>
    </lg>
@@ -24488,12 +24511,13 @@
 <e src="t">
    <map sml_ids="12347:11780"/>
    <lg>
-     <l pos="V">kuârrsed</l>
+     <l pos="V">kuõrrsed</l>
      <etymology>
        <cognate modality="plausible" pos="V" src="aku_2019-02-24" xml:lang="sme">guorrasit</cognate>
      </etymology>
      <stg>
-       <st Contlex="V_KAEIGGSHED">kuârras</st>
+       <st Contlex="V_KHIORGGNED">kuõrrâs</st>
+       <st Contlex="V_KAEIGGSHED" status="Err/Orth">kuârras</st>
      </stg>
    </lg>
      <sources>
@@ -24999,9 +25023,10 @@
 <e>
    <map sml_ids="6618"/>
    <lg>
-     <l pos="V">kuâšktõõvvâd</l>
+     <l pos="V">kuäšktõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">kuâšktõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">kuäšktõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">kuâšktõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -25543,9 +25568,10 @@
 <e>
    <map sml_ids="9102"/>
    <lg>
-     <l pos="V">kuällšmed</l>
+     <l pos="V">kuälšsmed</l>
      <stg>
-       <st Contlex="V_SHORRNED">kuällašm</st>
+       <st Contlex="V_SHORRNED">kuälšasm</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">kuällašm</st>
      </stg>
    </lg>
      <sources>
@@ -25700,8 +25726,9 @@
 <e>
    <map sml_ids="34073"/>
    <lg>
-     <l pos="V">kuäreed</l>
+     <l pos="V">kuäʹreed</l>
      <stg>
+       <st Contlex="V_TEEQMEED">kuäʹr</st>
        <st Contlex="V_SOLLEED">kuär</st>
      </stg>
    </lg>
@@ -25816,7 +25843,7 @@
    <lg>
      <l pos="V">kuärjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">kuär</st>
+       <st Contlex="V_STOAOARJED">kuär</st>
      </stg>
    </lg>
      <sources>
@@ -25856,9 +25883,10 @@
 <e>
    <map sml_ids="13138:13304:13306"/>
    <lg>
-     <l pos="V">kuärjjed</l>
+     <l pos="V">kuäʹrjjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">kuärj</st>
+       <st Contlex="V_CEAQLKHKHED">kuä%{ʹØ%}rjj</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">kuärj</st>
      </stg>
    </lg>
      <sources>
@@ -26423,9 +26451,10 @@
 <e>
    <map sml_ids="7354:17835"/>
    <lg>
-     <l pos="V">kuäʹppelǩeʹrjjõõvvâd</l>
+     <l pos="V">kuäʹppelǩerjjõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">kuäʹppelǩeʹrjjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">kuäʹppel#ǩerjjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">kuäʹppelǩeʹrjjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -26503,9 +26532,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">kuäʹǩsted</l>
+     <l pos="V">kueʹǩsted</l>
      <stg>
-       <st Contlex="V_CHIEQKHRDED">kuäʹǩǩest</st>
+       <st Contlex="V_CHIEQKHRDED">kuẹʹǩǩest</st>
+       <st Contlex="V_CHIEQKHRDED" status="Err/Orth">kuäʹǩǩest</st>
      </stg>
    </lg>
      <sources>
@@ -26838,9 +26868,10 @@
 <e>
    <map sml_ids="10259"/>
    <lg>
-     <l pos="V">kuåmššjed</l>
+     <l pos="V">kuämššjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">kuåmšš</st>
+       <st Contlex="V_KUYDHDHDHJED">kuämšš</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">kuåmšš</st>
      </stg>
    </lg>
      <sources>
@@ -27052,9 +27083,10 @@
 <e>
    <map sml_ids="29835"/>
    <lg>
-     <l pos="V">kuårâʹtted</l>
+     <l pos="V">kuårted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">kuårâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_AALGXTED">kuårât</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">kuårâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -27253,9 +27285,9 @@
 <e exclude="fst">
    <map sml_ids="21902"/>
    <lg>
-     <l pos="V">kuõbbrid uussâd</l>
+     <l pos="V">kuõbbrid noorrâd</l>
      <stg>
-       <st Contlex="V_">kuõbbrid uussâd</st>
+       <st Contlex="V_POOLLYD">kuõbbrid noorrâd</st>
      </stg>
    </lg>
      <sources>
@@ -28938,9 +28970,10 @@
 <e>
    <map sml_ids="7679"/>
    <lg>
-     <l pos="V">kâârvted</l>
+     <l pos="V">kââʹrvted</l>
      <stg>
-       <st Contlex="V_SHORRNED">kâârvat</st>
+       <st Contlex="V_KHEEQRJTED">kââʹrvet</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">kâârvat</st>
      </stg>
    </lg>
      <sources>
@@ -29408,9 +29441,10 @@
 <e>
    <map sml_ids="14547:19555:14543"/>
    <lg>
-     <l pos="V">kâʹrddjed</l>
+     <l pos="V">kârddjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">kâʹrdd</st>
+       <st Contlex="V_KUYDHDHDHJED">kârdd</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">kâʹrdd</st>
      </stg>
    </lg>
      <sources>
@@ -30384,12 +30418,13 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="18865"/>
    <lg>
-     <l pos="V">kääʹcǩstõõttâd</l>
+     <l pos="V">kääʹcǩtõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">kääʹcǩstõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">kääʹcǩtõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">kääʹcǩstõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -30632,8 +30667,9 @@
 <e>
    <map sml_ids="8452:16300"/>
    <lg>
-     <l pos="V">käʹcǩšnõõvvâd</l>
+     <l pos="V">käʹǩšnõõvvâd</l>
      <stg>
+       <st Contlex="IV_LAUKKOOLLYD">käʹǩšnõõ%{ʹØ%}vv</st>
        <st Contlex="IV_LAUKKOOLLYD">käʹcǩšnõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
@@ -32555,6 +32591,26 @@
      </tg>
    </mg>
 </e>
+<e exclude="fst">
+   <map sml_ids="2151:15784"/>
+   <lg>
+     <l pos="V">kåččad suudid</l>
+     <stg>
+       <st Contlex="V_">kåččad suudid</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">haastaa</t>
+       <t pos="V">haastaa oikeuteen</t>
+     </tg>
+   </mg>
+</e>
 <e src="t" id="fm_4670">
    <map stamp="fm_4670:sml_9451" fin_lemma_id="9876"/>
    <rev-sort_key>dejččåk</rev-sort_key>
@@ -32610,46 +32666,6 @@
        <x>Evvan kåččjõõvâm</x>
        <xt xml:lang="fin">nimeni on Evvan</xt>
      </xg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="2151:15784"/>
-   <lg>
-     <l pos="V">kåččâd suudid</l>
-     <stg>
-       <st Contlex="V_">kåččâd suudid</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">haastaa</t>
-       <t pos="V">haastaa oikeuteen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="2151:15784"/>
-   <lg>
-     <l pos="V">kåččad suudid</l>
-     <stg>
-       <st Contlex="V_">kåččad suudid</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">haastaa</t>
-       <t pos="V">haastaa oikeuteen</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -33106,9 +33122,10 @@
 <e>
    <map sml_ids="3312"/>
    <lg>
-     <l pos="V">kõbbjõõvvâd</l>
+     <l pos="V">kõbjjõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">kõbbjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">kõbjjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">kõbbjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -33197,9 +33214,10 @@
 <e>
    <map sml_ids="22912"/>
    <lg>
-     <l pos="V">kõineed</l>
+     <l pos="V">kõõineed</l>
      <stg>
-       <st Contlex="V_SILTTEED">kõin</st>
+       <st Contlex="V_SILTTEED">kõõin</st>
+       <st Contlex="V_SILTTEED" status="Err/Orth">kõin</st>
      </stg>
    </lg>
      <sources>
@@ -33504,9 +33522,11 @@
 <e>
    <map sml_ids="10239"/>
    <lg>
-     <l pos="V">kõnnjldõõttâd</l>
+     <l pos="V">kõnjldõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">kõnnjldõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">kõnjldõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Use/SpellNoSugg">kõõnjldõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">kõnnjldõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -35151,7 +35171,7 @@
        <etymon algu_lekseemi_id="40373" id="105755" xml:lang="sms">laddâd</etymon>
      </etymology>
      <stg>
-       <st Contlex="V_DOOIDYD">la%{ʹØ%}dd</st>
+       <st Contlex="V_ROVVYD">la%^1VOW%{ʹØ%}dd</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5212</c>
@@ -35881,9 +35901,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">laʹđđeed</l>
+     <l pos="V">lađđeed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">laʹđđ</st>
+       <st Contlex="V_SILTTEED">lađđ</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">laʹđđ</st>
      </stg>
    </lg>
      <sources>
@@ -36901,9 +36922,10 @@
 <e>
    <map sml_ids="12880"/>
    <lg>
-     <l pos="V">leâggted</l>
+     <l pos="V">liõʹǧǧsted</l>
      <stg>
-       <st Contlex="V_SHORRNED">leâggat</st>
+       <st Contlex="V_KHEEQRJTED">liõʹǧǧest</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">leâggat</st>
      </stg>
    </lg>
      <sources>
@@ -37092,9 +37114,10 @@
 <e>
    <map sml_ids="1195"/>
    <lg>
-     <l pos="V">leävhâʹtted</l>
+     <l pos="V">liâvhâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">leävhâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">liâvhâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">leävhâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -37154,9 +37177,10 @@
    <map stamp="fm_5051" fin_lemma_id="11573:1201"/>
    <rev-sort_key>denvˈväel</rev-sort_key>
    <lg>
-     <l pos="V">leävvned</l>
+     <l pos="V">liâvvned</l>
      <stg>
-       <st Contlex="V_SHORRNED">leävˈvan</st>
+       <st Contlex="V_KHIORGGNED">liâvˈvân</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">leävˈvan</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5052</c>
@@ -37197,7 +37221,7 @@
        <t pos="V">распространяться</t>
      </tg>
      <xg>
-       <x src="KM:2011:11">Kååššak ǩiõđâst kõõčči, iil tõk puk ǩieʹjjmieʹldd šââʹld leävvne.</x>
+       <x src="KM:2011:11">Kååššak ǩiõđâst kõõčči, iil tõk puk ǩieʹjjmieʹldd šââʹld liâvvne.</x>
        <xt xml:lang="fin">Ruukku (?) kädessä kaatui, hiilet leivisivät kaikki pitkin lattiaa.</xt>
      </xg>
    </mg>
@@ -37658,9 +37682,10 @@
 <e>
    <map sml_ids="9248"/>
    <lg>
-     <l pos="V">lieʹđeed</l>
+     <l pos="V">lieʹđđeed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">lieʹđ</st>
+       <st Contlex="V_TEEQMEED">lieʹđđ</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">lieʹđ</st>
      </stg>
    </lg>
      <sources>
@@ -38395,9 +38420,11 @@
 <e>
    <map sml_ids="11781"/>
    <lg>
-     <l pos="V">liuggsâʹtted</l>
+     <l pos="V">liuǥstâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">liuggsâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" varid="1">liuǥstâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Use/SpellNoSugg" varid="2">liiuǥstâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth" varid="3">liuggsâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -39229,9 +39256,10 @@
 <e>
    <map sml_ids="12568"/>
    <lg>
-     <l pos="V">lohssjed</l>
+     <l pos="V">loʹhssjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">lohss</st>
+       <st Contlex="V_VOQLLJED">loʹhss</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">lohss</st>
      </stg>
    </lg>
      <sources>
@@ -41338,9 +41366,10 @@
 <e>
    <map sml_ids="28868"/>
    <lg>
-     <l pos="V">luäikkted</l>
+     <l pos="V">lääikted</l>
      <stg>
-       <st Contlex="V_SHORRNED">luäikkat</st>
+       <st Contlex="V_SHORRNED">lääikat</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">luäikkat</st>
      </stg>
    </lg>
      <sources>
@@ -42262,9 +42291,10 @@
 <e>
    <map sml_ids="25834"/>
    <lg>
-     <l pos="V">lâuʹŋŋad</l>
+     <l pos="V">lâuŋŋad</l>
      <stg>
-       <st Contlex="V_LAEULLAD">lâ%^1VOWuʹŋŋ</st>
+       <st Contlex="V_LAEULLAD">lâ%^1VOWuŋŋ</st>
+       <st Contlex="V_LAEULLAD" status="Err/Orth">lâ%^1VOWuʹŋŋ</st>
      </stg>
    </lg>
      <sources>
@@ -42330,9 +42360,10 @@
 <e>
    <map sml_ids="11979"/>
    <lg>
-     <l pos="V">lââʹsstõõllâd</l>
+     <l pos="V">lââzztõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">lââʹsstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">lââzztõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">lââʹsstõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -42400,7 +42431,7 @@
    <lg>
      <l pos="V">lââʹǩǩ-lâkka čuõppâd</l>
      <stg>
-       <st Contlex="V_HUOLLYD">lââʹǩǩ-lâkka čuõ%{ʹØ%}pp</st>
+       <st Contlex="V_RIYDDDYD">lââʹǩǩ-lâkka čuõ%{ʹØ%}pˈp</st>
      </stg>
    </lg>
      <sources>
@@ -43110,8 +43141,9 @@
 </e>
 <e>
    <lg>
-     <l pos="V">lävvšõvvâd</l>
+     <l pos="V">lävvšõõvvâd</l>
      <stg>
+       <st Contlex="V_LAUKKOOLLYD">lävvšõõ%{ʹØ%}vv</st>
        <st Contlex="V_ROVVYD">lävvšõ%^1VOW%{ʹØ%}vv</st>
      </stg>
    </lg>
@@ -43397,9 +43429,10 @@
 <e>
    <map sml_ids="15298"/>
    <lg>
-     <l pos="V">läʹbllʼjõõvvâd</l>
+     <l pos="V">läbllʼjõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">läʹbllʼjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">läbllʼjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">läʹbllʼjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -43504,9 +43537,10 @@
 <e>
    <map sml_ids="10792"/>
    <lg>
-     <l pos="V">läʹškksmõddâd</l>
+     <l pos="V">läʹšǩsmõddâd</l>
      <stg>
-       <st Contlex="V_ROVVYD">läʹškksmõ%^1VOW%{ʹØ%}dd</st>
+       <st Contlex="V_ROVVYD">läʹšǩsmõ%^1VOW%{ʹØ%}dd</st>
+       <st Contlex="V_ROVVYD" status="Err/Orth">läʹškksmõ%^1VOW%{ʹØ%}dd</st>
      </stg>
    </lg>
      <sources>
@@ -43841,9 +43875,10 @@
 <e>
    <map sml_ids="11094"/>
    <lg>
-     <l pos="V">låuddad</l>
+     <l pos="V">läuddad</l>
      <stg>
-       <st Contlex="V_LAEULLAD">lå%^1VOWudd</st>
+       <st Contlex="V_LAEULLAD">lä%^1VOWudd</st>
+       <st Contlex="V_LAEULLAD" status="Err/Orth">lå%^1VOWudd</st>
      </stg>
    </lg>
      <sources>
@@ -44546,8 +44581,9 @@
 <e>
    <map sml_ids="6612"/>
    <lg>
-     <l pos="V">lõõʒʒâd</l>
+     <l pos="V">lõõccâd</l>
      <stg>
+       <st Contlex="IV_VIIKKYD">lõõ%{ʹØ%}cc</st>
        <st Contlex="IV_LAADDYD">lõõ%{ʹØ%}ʒʒ</st>
      </stg>
    </lg>
@@ -44820,9 +44856,11 @@
 </e>
 <e>
    <lg>
-     <l pos="V">maazârdâʹstted</l>
+     <l pos="V">mazrdâʹstted</l>
      <stg>
-       <st Contlex="V_CEQPCCED">maazârdâ%^1VOW%{ʹØ%}stt</st>
+       <st Contlex="V_CEQPCCED">mazrdâ%^1VOW%{ʹØ%}stt</st>
+       <st Contlex="V_CEQPCCED" status="Use/SpellNoSugg">maazzrdâ%^1VOW%{ʹØ%}stt</st>
+       <st Contlex="V_CEQPCCED" status="Err/Orth">maazârdâ%^1VOW%{ʹØ%}stt</st>
      </stg>
    </lg>
      <sources>
@@ -45625,7 +45663,7 @@
    <lg>
      <l pos="V">mettõõllâd</l>
      <variants>
-       <l_syn>mieʹrrõõllâd</l_syn>
+       <l_syn>meärrõõllâd</l_syn>
      </variants>
      <stg>
        <st Contlex="V_LAUKKOOLLYD">mẹttõõ%{ʹØ%}ll</st>
@@ -45659,93 +45697,6 @@
      <tg xml:lang="rus">
        <t pos="V">измерять</t>
        <t pos="V">мерять</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" src="t" id="fm_5035">
-   <map stamp="fm_5035:sml_13489" fin_lemma_id="13604"/>
-   <rev-sort_key>dakkrâem</rev-sort_key>
-   <lg>
-     <l pos="V">meârkkad</l>
-     <stg>
-       <st Contlex="V_KUAESTTAD">meârkk</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5036</c>
-       <c name="Reader">9</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="book" name="fm"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="V">aufzeichnen</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="V">note down</t>
-     </tg>
-     <tg xml:lang="xyz">
-       <t pos="V">merkitä</t>
-       <t pos="V">panna merkki</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="V">merke</t>
-       <t pos="V">bety</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="V">отмечать</t>
-       <t pos="V">обозначать</t>
-     </tg>
-   </mg>
-</e>
-<e src="t" id="fm_5035">
-   <map stamp="fm_5035:sml_13489" fin_lemma_id="13604"/>
-   <rev-sort_key>dakkräem</rev-sort_key>
-   <lg>
-     <l pos="V">meärkkad</l>
-     <stg>
-       <st Contlex="V_KUAESTTAD">meärkk</st>
-       <st Contlex="V_KUAESTTAD" status="Err/Orth">meârkk</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5036</c>
-       <c name="Reader">9</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="book" name="fm"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="V">aufzeichnen</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="V">note down</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="V">merkitä</t>
-       <t pos="V">panna merkki</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="V">merke</t>
-       <t pos="V">bety</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="V">отмечать</t>
-       <t pos="V">обозначать</t>
      </tg>
    </mg>
 </e>
@@ -45959,12 +45910,13 @@
 <e>
    <map sml_ids="12272"/>
    <lg>
-     <l pos="V">meältteed</l>
+     <l pos="V">meälteed</l>
      <etymology>
        <cognate modality="plausible" pos="V" src="aku_2019-02-24" xml:lang="sme">mealtit</cognate>
      </etymology>
      <stg>
-       <st Contlex="V_SOLLEED">meältt</st>
+       <st Contlex="V_SOLLEED">meält</st>
+       <st Contlex="V_SOLLEED" status="Err/Orth">meältt</st>
      </stg>
    </lg>
      <sources>
@@ -46075,9 +46027,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">meärkkned</l>
+     <l pos="V">meärggned</l>
      <stg>
-       <st Contlex="V_SHORRNED">meärkkan</st>
+       <st Contlex="V_SHORRNED">meärggan</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">meärkkan</st>
      </stg>
    </lg>
      <sources>
@@ -46521,9 +46474,10 @@
 <e>
    <map sml_ids="13867"/>
    <lg>
-     <l pos="V">mieʹrrõõllâd</l>
+     <l pos="V">meärrõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">mieʹrrõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">meärrõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">miẹʹrrõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -46601,9 +46555,10 @@
 <e>
    <map sml_ids="10558"/>
    <lg>
-     <l pos="V">mieʹđeed</l>
+     <l pos="V">miõđeed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">mieʹđ</st>
+       <st Contlex="V_SILTTEED">miõđ</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">mieʹđ</st>
      </stg>
    </lg>
      <sources>
@@ -46639,9 +46594,10 @@
 <e>
    <map sml_ids="13786"/>
    <lg>
-     <l pos="V">mikksjed</l>
+     <l pos="V">mikssjed</l>
      <stg>
-       <st Contlex="TV_KUOCCJED">mikks</st>
+       <st Contlex="TV_VOQLLJED">miʹkss</st>
+       <st Contlex="TV_KUOCCJED" status="Err/Orth">mikks</st>
      </stg>
    </lg>
      <sources>
@@ -47050,7 +47006,7 @@
        <l_syn>vuõrrâd</l_syn>
      </variants>
      <stg>
-       <st Contlex="V_KULSTED">miâđâld</st>
+       <st Contlex="V_KHIORGGNED">miâđâld</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4260</c>
@@ -47130,9 +47086,11 @@
 <e exclude="fst">
    <map sml_ids="13734"/>
    <lg>
-     <l pos="V">miõlid rõttjed</l>
+     <l pos="V">miõlid roʹttjed</l>
      <stg>
-       <st Contlex="V_">miõlid rõttjed</st>
+       <st Contlex="V_">miõlid roʹttjed</st>
+       <st Contlex="V_" status="Use/SpellNoSugg">miõlid rõʹttjed</st>
+       <st Contlex="V_" status="Err/Orth">miõlid rõttjed</st>
      </stg>
    </lg>
      <sources>
@@ -47149,9 +47107,10 @@
 <e>
    <map sml_ids="26031"/>
    <lg>
-     <l pos="V">miõllpuâreed</l>
+     <l pos="V">miõllpueʹreed</l>
      <stg>
-       <st Contlex="V_SOLLEED">miõllpuâr</st>
+       <st Contlex="V_TEEQMEED">miõll#pueʹr</st>
+       <st Contlex="V_SOLLEED" status="Err/Orth">miõllpuâr</st>
      </stg>
    </lg>
      <sources>
@@ -47168,9 +47127,10 @@
 <e>
    <map sml_ids="13744"/>
    <lg>
-     <l pos="V">miõlltõõvvâd</l>
+     <l pos="V">miõltõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">miõlltõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">miõltõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">miõlltõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -47691,25 +47651,6 @@
        <x src="VJO:2012:50">Pâi jäurra moolčti de pâi vuõjjli.</x>
        <xt xml:lang="fin">[Kala] vain lipsahti järveen ja lähti uimaan.</xt>
      </xg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="11954"/>
-   <lg>
-     <l pos="V">moolččad</l>
-     <stg>
-       <st Contlex="V_">moolččad</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">lipsua</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -48262,9 +48203,10 @@
 <e>
    <map sml_ids="12325:21439"/>
    <lg>
-     <l pos="V">moʹǩrded</l>
+     <l pos="V">måʹǩrded</l>
      <stg>
-       <st Contlex="V_KOAQMRDED">mooʹǩǩerd</st>
+       <st Contlex="V_KOAQMRDED">mååʹǩǩerd</st>
+       <st Contlex="V_KOAQMRDED" status="Err/Orth">mooʹǩǩerd</st>
      </stg>
    </lg>
      <sources>
@@ -48384,7 +48326,7 @@
    <lg>
      <l pos="V">mueʹǩǩeed</l>
      <variants>
-       <l_syn>piinnjed</l_syn>
+       <l_syn>piʹjnnjed</l_syn>
      </variants>
      <stg>
        <st Contlex="V_TEEQMEED">mueʹǩǩ</st>
@@ -48494,9 +48436,10 @@
 <e>
    <map sml_ids="14267:26972"/>
    <lg>
-     <l pos="V">mutstõõllâd</l>
+     <l pos="V">muʹtstõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">mutstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">muʹtstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">mutstõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -48614,9 +48557,10 @@
 <e>
    <map sml_ids="7653"/>
    <lg>
-     <l pos="V">muâlkkrõõššâd</l>
+     <l pos="V">muålkkrõõššâd</l>
      <stg>
-       <st Contlex="V_VIIKKYD">muâlkkrõõ%{ʹØ%}šš</st>
+       <st Contlex="V_VIIKKYD">muålkkrõõ%{ʹØ%}šš</st>
+       <st Contlex="V_VIIKKYD" status="Err/Orth">muâlkkrõõ%{ʹØ%}šš</st>
      </stg>
    </lg>
      <sources>
@@ -48634,9 +48578,10 @@
 <e>
    <map sml_ids="7654"/>
    <lg>
-     <l pos="V">muâlkktõõllâd</l>
+     <l pos="V">muälktõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">muâlkktõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">muälktõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">muâlkktõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -48653,9 +48598,10 @@
 <e>
    <map sml_ids="7652"/>
    <lg>
-     <l pos="V">muâlkrjed</l>
+     <l pos="V">muälkkjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">muâlkr</st>
+       <st Contlex="V_KUYDHDHDHJED">muälkk</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">muâlkr</st>
      </stg>
    </lg>
      <sources>
@@ -48842,7 +48788,7 @@
    <lg>
      <l pos="V">muärsǩed</l>
      <stg>
-       <st Contlex="V_SHORRNED">muärasǩ</st>
+       <st Contlex="V_MUAERSKHED">muärask</st>
      </stg>
    </lg>
      <sources>
@@ -48972,43 +48918,6 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="V">говорить на ломанно языке</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="V">muållâd</l>
-     <stg>
-       <st Contlex="V_SUOAPPYD">muå%{ʹØ%}ll</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">rynnätä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">muõllâd</l>
-     <stg>
-       <st Contlex="V_HUOLLYD">muõ%{ʹØ%}ll</st>
-       <st Contlex="V_SUOAPPYD" status="Err/Orth">muå%{ʹØ%}ll</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">rynnätä</t>
      </tg>
    </mg>
 </e>
@@ -49246,6 +49155,25 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="V">köpöttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">muõllâd</l>
+     <stg>
+       <st Contlex="V_HUOLLYD">muõ%{ʹØ%}ll</st>
+       <st Contlex="V_SUOAPPYD" status="Err/Orth">muå%{ʹØ%}ll</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">rynnätä</t>
      </tg>
    </mg>
 </e>
@@ -49728,12 +49656,13 @@
 <e>
    <map sml_ids="14281"/>
    <lg>
-     <l pos="V">muʹvrjed</l>
+     <l pos="V">muʹvrrjed</l>
      <etymology>
        <cognate modality="plausible" pos="V" src="aku_2019-02-24" xml:lang="sme">muvret</cognate>
      </etymology>
      <stg>
-       <st Contlex="V_VOQLLJED">muʹvr</st>
+       <st Contlex="V_VOQLLJED">muʹvrr</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">muʹvr</st>
      </stg>
    </lg>
      <sources>
@@ -49804,9 +49733,10 @@
 <e>
    <map sml_ids="14001"/>
    <lg>
-     <l pos="V">muʹšttlõõttâd</l>
+     <l pos="V">mušttlõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">muʹšttlõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">mušttlõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">muʹšttlõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -50914,9 +50844,10 @@
 <e>
    <map sml_ids="14236"/>
    <lg>
-     <l pos="V">mååktõõllâd</l>
+     <l pos="V">mååkktõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">mååktõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">mååkktõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">mååktõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -51048,9 +50979,10 @@
 <e>
    <map sml_ids="30063"/>
    <lg>
-     <l pos="V">mååʹđjõõvvâd</l>
+     <l pos="V">måđđjõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">mååʹđjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">måđđjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">mååʹđjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -52313,13 +52245,14 @@
    <map stamp="fm_5653:sml_4286:sml_15342:sml_15343" fin_lemma_id="3732::12283::15663"/>
    <rev-sort_key>deerrʹuen</rev-sort_key>
    <lg>
-     <l pos="V">neuʹrreed</l>
+     <l pos="V">neurreed</l>
      <variants>
        <l_syn>hueʹneed</l_syn>
        <l_syn>ǩeähneed</l_syn>
      </variants>
      <stg>
-       <st Contlex="V_TEEQMEED">neuʹrr</st>
+       <st Contlex="V_SOLLEED">neurr</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">neuʹrr</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5654</c>
@@ -52422,9 +52355,10 @@
 <e>
    <map sml_ids="12289:16348"/>
    <lg>
-     <l pos="V">neuʹrrõõvvâd</l>
+     <l pos="V">neurrõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">neuʹrrõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">neurrõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">neuʹrrõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -52567,9 +52501,10 @@
 <e>
    <map sml_ids="14627"/>
    <lg>
-     <l pos="V">neäʹppšed</l>
+     <l pos="V">neäppšed</l>
      <stg>
-       <st Contlex="V_NJAQMMSHED">neäʹppeš</st>
+       <st Contlex="V_KAEIGGSHED">neäppaš</st>
+       <st Contlex="V_NJAQMMSHED" status="Err/Orth">neäʹppeš</st>
      </stg>
    </lg>
      <sources>
@@ -52641,9 +52576,10 @@
 <e exclude="fst">
    <map sml_ids="4449"/>
    <lg>
-     <l pos="V">nijddsläävâs puåttrâʹtted</l>
+     <l pos="V">nijddsläävžes puåttrâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">nijddsläävâs puåttrâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">nijddsläävžes puåttrâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">nijddsläävâs puåttrâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -53130,9 +53066,10 @@
 <e>
    <map sml_ids="4541"/>
    <lg>
-     <l pos="V">njackksed</l>
+     <l pos="V">njõckksed</l>
      <stg>
-       <st Contlex="V_TAARBSHED">njackkâs</st>
+       <st Contlex="V_TAARBSHED">njõckkâs</st>
+       <st Contlex="V_TAARBSHED" status="Err/Orth">njackkâs</st>
      </stg>
    </lg>
      <sources>
@@ -53170,8 +53107,9 @@
 <e>
    <map sml_ids="4441:30342"/>
    <lg>
-     <l pos="V">njammjed</l>
+     <l pos="V">njâmmjed</l>
      <stg>
+       <st Contlex="V_KUYDHDHDHJED">njâmm</st>
        <st Contlex="V_KUYDHDHDHJED">njamm</st>
      </stg>
    </lg>
@@ -53191,9 +53129,10 @@
 <e>
    <map sml_ids="4442"/>
    <lg>
-     <l pos="V">njammsed</l>
+     <l pos="V">njâmmsed</l>
      <stg>
-       <st Contlex="V_KAEIGGSHED">njammâs</st>
+       <st Contlex="V_KAEIGGSHED">njâmmâs</st>
+       <st Contlex="V_KAEIGGSHED" status="Err/Orth">njammâs</st>
      </stg>
    </lg>
      <sources>
@@ -53252,9 +53191,10 @@
 <e>
    <map sml_ids="22064"/>
    <lg>
-     <l pos="V">njaukkeed</l>
+     <l pos="V">njaaukeed</l>
      <stg>
-       <st Contlex="V_SILTTEED">njaukk</st>
+       <st Contlex="V_SILTTEED">njaauk</st>
+       <st Contlex="V_SILTTEED" status="Err/Orth">njaukk</st>
      </stg>
    </lg>
      <sources>
@@ -53849,9 +53789,10 @@
 <e>
    <map sml_ids="9712"/>
    <lg>
-     <l pos="V">njeäʹššõõvvâd</l>
+     <l pos="V">njeäššõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">njeäʹššõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">njeäššõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">njeäʹššõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -53964,9 +53905,11 @@
 <e>
    <map sml_ids="20298:20415"/>
    <lg>
-     <l pos="V">njeʹʒstõõttâd</l>
+     <l pos="V">njeʒstõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">njeʹʒstõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">njeʒstõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">njâʹʒstõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">njeʹʒstõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -54404,9 +54347,10 @@
 <e>
    <map sml_ids="6614"/>
    <lg>
-     <l pos="V">njiâccad</l>
+     <l pos="V">njiâccâd</l>
      <stg>
-       <st Contlex="V_REAEKKAD">njiâcc</st>
+       <st Contlex="V_PIYSSYD">njiâcc</st>
+       <st Contlex="V_REAEKKAD" status="Err/Orth">njiâcc</st>
      </stg>
    </lg>
      <sources>
@@ -54495,9 +54439,10 @@
 <e>
    <map sml_ids="3273:14926"/>
    <lg>
-     <l pos="V">njiõkknâʹstõõllâd</l>
+     <l pos="V">njiõkknâstõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">njiõkknâʹstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">njiõkknâstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">njiõkknâʹstõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -55226,9 +55171,10 @@
 <e exclude="fst">
    <map sml_ids="19833"/>
    <lg>
-     <l pos="V">njuuni laʹddjed</l>
+     <l pos="V">njuuʹni laʹddjed</l>
      <stg>
-       <st Contlex="V_">njuuni laʹddjed</st>
+       <st Contlex="V_">njuuʹni laʹddjed</st>
+       <st Contlex="V_" status="Err/Orth">njuuni laʹddjed</st>
      </stg>
    </lg>
      <sources>
@@ -56939,8 +56885,9 @@
 <e>
    <map sml_ids="14945"/>
    <lg>
-     <l pos="V">njâʹlddjed</l>
+     <l pos="V">njâlddjed</l>
      <stg>
+       <st Contlex="V_KUYDHDHDHJED">njâldd</st>
        <st Contlex="V_VOQLLJED">njâʹldd</st>
      </stg>
    </lg>
@@ -56998,7 +56945,7 @@
    <lg>
      <l pos="V">njäbbad</l>
      <stg>
-       <st Contlex="V_ROVVYD">njä%^1VOW%{ʹØ%}bb</st>
+       <st Contlex="V_LEKKAD">njä%^1VOW%{ʹØ%}bb</st>
      </stg>
    </lg>
      <sources>
@@ -57119,9 +57066,10 @@
 <e>
    <map sml_ids="14720"/>
    <lg>
-     <l pos="V">njäukkad</l>
+     <l pos="V">njäuggad</l>
      <stg>
-       <st Contlex="V_LAEULLAD">njä%^1VOWukk</st>
+       <st Contlex="V_LAEULLAD">njä%^1VOWugg</st>
+       <st Contlex="V_LAEULLAD" status="Err/Orth">njä%^1VOWukk</st>
      </stg>
    </lg>
      <sources>
@@ -57195,9 +57143,10 @@
 <e>
    <map sml_ids="11160"/>
    <lg>
-     <l pos="V">njääʹbbted</l>
+     <l pos="V">njääbbted</l>
      <stg>
-       <st Contlex="V_KHEEQRJTED">njääʹbbet</st>
+       <st Contlex="V_SHORRNED">njääbbet</st>
+       <st Contlex="V_KHEEQRJTED" status="Err/Orth">njääʹbbet</st>
      </stg>
    </lg>
      <sources>
@@ -57467,9 +57416,10 @@
 <e>
    <map sml_ids="14946"/>
    <lg>
-     <l pos="V">njõõllted</l>
+     <l pos="V">njõõlted</l>
      <stg>
-       <st Contlex="V_AALGXTED">njõõllât</st>
+       <st Contlex="V_AALGXTED">njõõlât</st>
+       <st Contlex="V_AALGXTED" status="Err/Orth">njõõllât</st>
      </stg>
    </lg>
      <sources>
@@ -58378,8 +58328,8 @@
      </etymology>
      <stg>
        <st Contlex="V_TEEQMEED" varid="1">noʹǩǩ</st>
-       <st Contlex="V_TEEQMEED" lemma="nooʹǩǩeed" status="Use/SpellNoSugg" varid="2">nooʹǩǩ</st>
-       <st Contlex="V_SOLLEED" lemma="nååkkeed" status="Use/SpellNoSugg" varid="3">nååkk</st>
+       <st Contlex="V_TEEQMEED" lemma="nooʹǩǩeed" status="Err/Orth" varid="2">nooʹǩǩ</st>
+       <st Contlex="V_SOLLEED" lemma="nååkkeed" status="Err/Orth" varid="3">nååkk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4571</c>
@@ -60517,9 +60467,10 @@
 <e>
    <map sml_ids="28840"/>
    <lg>
-     <l pos="V">oijjšed</l>
+     <l pos="V">ojjšed</l>
      <stg>
-       <st Contlex="V_TAARBSHED">oijjâš</st>
+       <st Contlex="V_TAARBSHED">ojjâš</st>
+       <st Contlex="V_TAARBSHED" status="Err/Orth">oijjâš</st>
      </stg>
    </lg>
      <sources>
@@ -60892,12 +60843,13 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="2181"/>
    <lg>
-     <l pos="V">oocctõõllâd</l>
+     <l pos="V">ooʒʒtõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">oocctõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">ooʒʒtõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">oocctõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -61072,8 +61024,9 @@
 <e>
    <map sml_ids="9796"/>
    <lg>
-     <l pos="V">oormtõõvvâd</l>
+     <l pos="V">uuʹrmtõõvvâd</l>
      <stg>
+       <st Contlex="IV_LAUKKOOLLYD">uuʹrmtõõ%{ʹØ%}vv</st>
        <st Contlex="IV_LAUKKOOLLYD">oormtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
@@ -61123,6 +61076,27 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="V">enteillä</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <map sml_ids="1364:6980"/>
+   <lg>
+     <l pos="V">ooudâs viikkâd</l>
+     <stg>
+       <st Contlex="V_" varid="1">ooudâs viikkâd</st>
+       <st Contlex="V_" varid="2">viikkâd ooudâs</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">edistää</t>
+       <t pos="V">kehittää</t>
      </tg>
    </mg>
 </e>
@@ -62350,9 +62324,10 @@
 <e>
    <map sml_ids="24265"/>
    <lg>
-     <l pos="V">paarctted</l>
+     <l pos="V">pärtsǩed</l>
      <stg>
-       <st Contlex="V_AALGXTED">paarctât</st>
+       <st Contlex="V_TOINXSKHED">päärtask</st>
+       <st Contlex="V_AALGXTED" status="Err/Orth">paarctât</st>
      </stg>
    </lg>
      <sources>
@@ -62961,25 +62936,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="V">tuskin ymmärtää</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="28766"/>
-   <lg>
-     <l pos="V">pannalla võõjjâd</l>
-     <stg>
-       <st Contlex="V_POOLLYD">pannalla võõ%{ʹØ%}jj</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V::Adv">voida pahoin</t>
      </tg>
    </mg>
 </e>
@@ -63668,9 +63624,10 @@
 <e>
    <map sml_ids="17560"/>
    <lg>
-     <l pos="V">peektõõvvâd</l>
+     <l pos="V">pekkõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">pẹẹktõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">pẹkkõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">pẹẹktõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -64086,8 +64043,9 @@
 <e>
    <map sml_ids="17071"/>
    <lg>
-     <l pos="V">peiʹttjed</l>
+     <l pos="V">peittjed</l>
      <stg>
+       <st Contlex="V_KUYDHDHDHJED">pẹitt</st>
        <st Contlex="V_VOQLLJED">peiʹtt</st>
      </stg>
    </lg>
@@ -64373,9 +64331,10 @@
 <e>
    <map sml_ids="25046"/>
    <lg>
-     <l pos="V">pepčtted</l>
+     <l pos="V">piʒʒted</l>
      <stg>
-       <st Contlex="V_">pẹpčtted</st>
+       <st Contlex="V_AALGXTED">piʒʒted</st>
+       <st Contlex="V_" status="Err/Orth">pẹpčtted</st>
      </stg>
    </lg>
      <sources>
@@ -64982,8 +64941,9 @@
 <e>
    <map sml_ids="24301"/>
    <lg>
-     <l pos="V">peäčkkted</l>
+     <l pos="V">piâčkkted</l>
      <stg>
+       <st Contlex="V_AALGXTED">piâčkkât</st>
        <st Contlex="V_SHORRNED">peäčkkat</st>
      </stg>
    </lg>
@@ -65086,18 +65046,16 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg descr_trans="ein Schaf" xml:lang="deu">
-       <t pos="V">scheren</t>
-       <t pos="V">schneiden (Stoff</t>
-       <t pos="V">Haare)</t>
+     <tg  xml:lang="deu">
+       <t descr_trans="ein Schaf" pos="V">scheren</t>
+       <t pos="V" descr_trans="Stoff, Haare">schneiden (Stoff, Haare)</t>
      </tg>
-     <tg descr_trans="of sheep" xml:lang="eng">
-       <t pos="V">shear</t>
-       <t pos="V">cut (cloth</t>
-       <t pos="V">hair)</t>
+     <tg xml:lang="eng">
+       <t pos="V" descr_trans="of sheep">shear</t>
+       <t pos="V" descr_trans="cloth, hair">cut</t>
      </tg>
-     <tg descr_trans="lammasta" xml:lang="fin">
-       <t pos="V">keritä</t>
+     <tg  xml:lang="fin">
+       <t pos="V" descr_trans="lammasta">keritä</t>
        <t pos="V" descr_trans="kangasta, karvaa, hiuksia tms.">leikata</t>
      </tg>
      <tg descr_trans="sauer, tøy, hår osv." xml:lang="nob">
@@ -65271,7 +65229,8 @@
    <lg>
      <l pos="V">pečktted</l>
      <stg>
-       <st Contlex="V_">pẹčktted</st>
+       <st Contlex="V_SHORRNED">pẹčkkat</st>
+       <st Contlex="V_" status="Err/Orth">pẹčktted</st>
      </stg>
    </lg>
      <sources>
@@ -65288,9 +65247,10 @@
 <e>
    <map sml_ids="28259"/>
    <lg>
-     <l pos="V">pečpštted</l>
+     <l pos="V">pespšted</l>
      <stg>
-       <st Contlex="V_">pẹčpštted</st>
+       <st Contlex="V_JOARGXSTED">pẹẹspašt</st>
+       <st Contlex="V_" status="Err/Orth">pẹčpštted</st>
      </stg>
    </lg>
      <sources>
@@ -65914,9 +65874,10 @@
 <e>
    <map sml_ids="14434"/>
    <lg>
-     <l pos="V">pieʹcctõõvvâd</l>
+     <l pos="V">pieʹʒʒtõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">pieʹcctõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">pieʹʒʒtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">pieʹcctõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -66346,8 +66307,9 @@
 <e>
    <map sml_ids="17603"/>
    <lg>
-     <l pos="V">piinnjed</l>
+     <l pos="V">piʹjnnjed</l>
      <stg>
+       <st Contlex="V_VOQLLJED">piʹjnn</st>
        <st Contlex="V_VOQLLJED">piinn</st>
      </stg>
    </lg>
@@ -66383,9 +66345,10 @@
 <e>
    <map sml_ids="33989"/>
    <lg>
-     <l pos="V">piitõõllâd</l>
+     <l pos="V">piijtõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">piitõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">piijtõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">piitõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -66597,7 +66560,7 @@
    <lg>
      <l pos="V">pirrčuõppâd</l>
      <stg>
-       <st Contlex="V_HUOLLYD">pirr#čuõ%{ʹØ%}pp</st>
+       <st Contlex="V_RIYDDDYD">pirr#čuõ%{ʹØ%}pˈp</st>
      </stg>
    </lg>
      <sources>
@@ -66772,9 +66735,10 @@
 <e>
    <map sml_ids="25914"/>
    <lg>
-     <l pos="V">piâggjed</l>
+     <l pos="V">peâggjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">piâgˈg</st>
+       <st Contlex="V_KUYDHDHDHJED">peâgˈg</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">piâgˈg</st>
      </stg>
    </lg>
      <sources>
@@ -67001,9 +66965,10 @@
 <e>
    <map sml_ids="17183"/>
    <lg>
-     <l pos="V">piârrtõõvvâd</l>
+     <l pos="V">piârtõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">piârrtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">piârtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">piârrtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -68097,9 +68062,10 @@
 <e>
    <map sml_ids="3439"/>
    <lg>
-     <l pos="V">pliiʒʒõõddâd</l>
+     <l pos="V">pliiʒʒõddâd</l>
      <stg>
-       <st Contlex="IV_LAADDYD">pliiʒʒõõ%{ʹØ%}dd</st>
+       <st Contlex="IV_ROVVYD">pliiʒʒõ%{ʹØ%}dd</st>
+       <st Contlex="IV_LAADDYD" status="Err/Orth">pliiʒʒõõ%{ʹØ%}dd</st>
      </stg>
    </lg>
      <sources>
@@ -68265,9 +68231,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">pliʹčted</l>
+     <l pos="V">plitsted</l>
      <stg>
-       <st Contlex="V_AALGXTED">pliʹčât</st>
+       <st Contlex="V_AGSTED">pliittâst</st>
+       <st Contlex="V_AALGXTED" status="Err/Orth">pliʹčât</st>
      </stg>
    </lg>
      <sources>
@@ -69156,9 +69123,10 @@
 <e>
    <map sml_ids="1141"/>
    <lg>
-     <l pos="V">poostõõllâd</l>
+     <l pos="V">poostjâʹtted</l>
      <stg>
-       <st Contlex="TV_LAUKKOOLLYD">poostõõ%{ʹØ%}ll</st>
+       <st Contlex="TV_KAEQTTED">poostjâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="TV_LAUKKOOLLYD" status="Err/Orth">poostõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -69373,9 +69341,10 @@
 <e>
    <map sml_ids="25372:25377"/>
    <lg>
-     <l pos="V">porggjed</l>
+     <l pos="V">pårggjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">porgg</st>
+       <st Contlex="V_KUYDHDHDHJED">pårgg</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">porgg</st>
      </stg>
    </lg>
      <sources>
@@ -70184,9 +70153,10 @@
 <e>
    <map sml_ids="3930"/>
    <lg>
-     <l pos="V">priimmjõõvvâd</l>
+     <l pos="V">premmjed</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">priimmjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_KUYDHDHDHJED">premm</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">priimmjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -70648,9 +70618,10 @@
 <e>
    <map sml_ids="5111"/>
    <lg>
-     <l pos="V">prääznkõõssâd</l>
+     <l pos="V">prääʹznkõõššâd</l>
      <stg>
-       <st Contlex="V_VIIKKYD">prääznkõõ%{ʹØ%}ss</st>
+       <st Contlex="V_VIIKKYD">prääʹznkõõ%{ʹØ%}šš</st>
+       <st Contlex="V_VIIKKYD" status="Err/Orth">prääznkõõ%{ʹØ%}ss</st>
      </stg>
    </lg>
      <sources>
@@ -71273,9 +71244,10 @@
 <e>
    <map sml_ids="7847"/>
    <lg>
-     <l pos="V">pueʹššõõttâd</l>
+     <l pos="V">puâššõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">pueʹššõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">puâššõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">pueʹššõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -71386,9 +71358,10 @@
 <e>
    <map sml_ids="8275"/>
    <lg>
-     <l pos="V">puutšjed</l>
+     <l pos="V">puučjed</l>
      <stg>
-       <st Contlex="V_KUOCCJED">puutš</st>
+       <st Contlex="V_KUOCCJED">puuč</st>
+       <st Contlex="V_KUOCCJED" status="Err/Orth">puutš</st>
      </stg>
    </lg>
      <sources>
@@ -72800,9 +72773,9 @@
 <e exclude="fst">
    <map sml_ids="18315"/>
    <lg>
-     <l pos="V">puõccid käʹrjstâʹtted</l>
+     <l pos="V">puõccuin käʹrjstâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">puõccid käʹrjstâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">puõccuin käʹrjstâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -74077,9 +74050,10 @@
 <e>
    <map sml_ids="15202"/>
    <lg>
-     <l pos="V">pââʹjdõõllâd</l>
+     <l pos="V">pââjdõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">pââʹjdõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">pââjdõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">pââʹjdõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -74538,9 +74512,10 @@
 <e>
    <map sml_ids="8358"/>
    <lg>
-     <l pos="V">pâʹjjnõddâd</l>
+     <l pos="V">pâjjnõddâd</l>
      <stg>
-       <st Contlex="V_ROVVYD">pâʹjjnõ%^1VOW%{ʹØ%}dd</st>
+       <st Contlex="V_ROVVYD">pâjjnõ%^1VOW%{ʹØ%}dd</st>
+       <st Contlex="V_ROVVYD" status="Err/Orth">pâʹjjnõ%^1VOW%{ʹØ%}dd</st>
      </stg>
    </lg>
      <sources>
@@ -75659,9 +75634,10 @@
 <e>
    <map sml_ids="2403"/>
    <lg>
-     <l pos="V">pääʹnntõõvvâd</l>
+     <l pos="V">pääʹntõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">pääʹnntõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">pääʹntõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">pääʹnntõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -75697,9 +75673,10 @@
 <e>
    <map sml_ids="22679"/>
    <lg>
-     <l pos="V">pääʹtrjed</l>
+     <l pos="V">päätrjed</l>
      <stg>
-       <st Contlex="V_STOAOARJED">pääʹtr</st>
+       <st Contlex="V_STOAOARJED">päätr</st>
+       <st Contlex="V_STOAOARJED" status="Err/Orth">pääʹtr</st>
      </stg>
    </lg>
      <sources>
@@ -76215,8 +76192,9 @@
 <e>
    <map sml_ids="16292:16502"/>
    <lg>
-     <l pos="V">päʹšttjed</l>
+     <l pos="V">päšttjed</l>
      <stg>
+       <st Contlex="V_KUYDHDHDHJED">päštt</st>
        <st Contlex="V_VOQLLJED">päʹštt</st>
      </stg>
    </lg>
@@ -76266,8 +76244,9 @@
 <e>
    <map sml_ids="1094:18556"/>
    <lg>
-     <l pos="V">påccjed</l>
+     <l pos="V">poʹccjed</l>
      <stg>
+       <st Contlex="V_VOQLLJED">poʹcc</st>
        <st Contlex="V_KUYDHDHDHJED">påcc</st>
      </stg>
    </lg>
@@ -76434,9 +76413,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">pårggeed</l>
+     <l pos="V">porggeed</l>
      <stg>
-       <st Contlex="V_SOLLEED">pårgg</st>
+       <st Contlex="V_SILTTEED">porgg</st>
+       <st Contlex="V_SOLLEED" status="Err/Orth">pårgg</st>
      </stg>
    </lg>
      <sources>
@@ -76577,9 +76557,10 @@
 <e>
    <map sml_ids="18869"/>
    <lg>
-     <l pos="V">påårǥhâʹtted</l>
+     <l pos="V">poorǥhâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">påårǥhâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">poorǥhâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">påårǥhâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -78001,9 +77982,10 @@
 <e>
    <map sml_ids="19487"/>
    <lg>
-     <l pos="V">põõʹlâʹtted</l>
+     <l pos="V">põõʹlted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">põõʹlâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KHEEQRJTED">põõʹlet</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">põõʹlâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -78533,8 +78515,9 @@
 <e>
    <map sml_ids="7028"/>
    <lg>
-     <l pos="V">raamjed</l>
+     <l pos="V">raaʹmjed</l>
      <stg>
+       <st Contlex="TV_VOQLLJED">raaʹm</st>
        <st Contlex="TV_KUOCCJED">raam</st>
      </stg>
    </lg>
@@ -79723,9 +79706,10 @@
 <e>
    <map sml_ids="2802"/>
    <lg>
-     <l pos="V">reepčtted</l>
+     <l pos="V">reepčted</l>
      <stg>
-       <st Contlex="V_">rẹẹpčtted</st>
+       <st Contlex="V_SHORRNED">rẹẹpčat</st>
+       <st Contlex="V_" status="Err/Orth">rẹẹpčtted</st>
      </stg>
    </lg>
      <sources>
@@ -79742,9 +79726,10 @@
 <e exclude="fst">
    <map sml_ids="17641"/>
    <lg>
-     <l pos="V">reessin vââđđad</l>
+     <l pos="V">riiʹssin vââđđad</l>
      <stg>
-       <st Contlex="V_TEEVVAD">reessin vââđđ</st>
+       <st Contlex="V_TEEVVAD">riiʹssin vââđđ</st>
+       <st Contlex="V_TEEVVAD" status="Err/Orth">reessin vââđđ</st>
      </stg>
    </lg>
      <sources>
@@ -79812,9 +79797,10 @@
 <e>
    <map sml_ids="20083"/>
    <lg>
-     <l pos="V">registâʹtted</l>
+     <l pos="V">rekisterõõttâd</l>
      <stg>
-       <st Contlex="V_KAEQTTED">rẹgistâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">rẹkistẹrõõ%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">rẹgistâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -80427,9 +80413,10 @@
 <e>
    <map sml_ids="20297"/>
    <lg>
-     <l pos="V">reuʹddõõttâd</l>
+     <l pos="V">reeutõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">reuʹddõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">reeutõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">reuʹddõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -80520,9 +80507,10 @@
 <e>
    <map sml_ids="12924"/>
    <lg>
-     <l pos="V">reâhssjed</l>
+     <l pos="V">ruʹhssjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">reâhss</st>
+       <st Contlex="V_VOQLLJED">ruʹhss</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">reâhss</st>
      </stg>
    </lg>
      <sources>
@@ -80543,7 +80531,7 @@
      <l pos="V">reâuggad</l>
      <variants>
        <l_syn>tuejjeed</l_syn>
-       <l_syn>robbtõõššâd</l_syn>
+       <l_syn>roobbtõõššâd</l_syn>
      </variants>
      <stg>
        <st Contlex="V_KUAEIVVAD">reâugg</st>
@@ -81237,9 +81225,10 @@
 <e>
    <map sml_ids="8500"/>
    <lg>
-     <l pos="V">reäʹbccjed</l>
+     <l pos="V">reäpččjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">reäʹbcc</st>
+       <st Contlex="V_KUYDHDHDHJED">reäpčč</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">reäʹbcc</st>
      </stg>
    </lg>
      <sources>
@@ -81374,9 +81363,10 @@
 <e>
    <map sml_ids="20413"/>
    <lg>
-     <l pos="V">rieǯǯeed</l>
+     <l pos="V">riâǯǯeed</l>
      <stg>
-       <st Contlex="V_SILTTEED">rieǯǯ</st>
+       <st Contlex="V_SILTTEED">riâǯǯ</st>
+       <st Contlex="V_SILTTEED" status="Err/Orth">rieǯǯ</st>
      </stg>
    </lg>
      <sources>
@@ -81482,8 +81472,9 @@
 <e>
    <map sml_ids="20088"/>
    <lg>
-     <l pos="V">rieʹǧǧted</l>
+     <l pos="V">rieʹǧsted</l>
      <stg>
+       <st Contlex="V_KOAQMRDED">rieʹǧǧest</st>
        <st Contlex="V_KHEEQRJTED">rieʹǧǧet</st>
      </stg>
    </lg>
@@ -81742,9 +81733,10 @@
 <e>
    <map sml_ids="7290"/>
    <lg>
-     <l pos="V">riâddõõttâd</l>
+     <l pos="V">riâddõõvvâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">riâddõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">riâddõõ%{ʹØ%}vv</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">riâddõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -81823,8 +81815,9 @@
 <e>
    <map sml_ids="5484"/>
    <lg>
-     <l pos="V">riâššʼškueʹtted</l>
+     <l pos="V">riâžškueʹtted</l>
      <stg>
+       <st Contlex="V_SHKUEAQTTED">riâž»škuä%{ʹØ%}tt</st>
        <st Contlex="V_SHKUEAQTTED">riâššʼ»škuä%{ʹØ%}tt</st>
      </stg>
      <compg drv="V:Suf»V" type="Der">
@@ -82144,9 +82137,10 @@
 <e>
    <map sml_ids="24972"/>
    <lg>
-     <l pos="V">riʹjvjed</l>
+     <l pos="V">riʹjvvjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">riʹjv</st>
+       <st Contlex="V_VOQLLJED">riʹjvv</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">riʹjv</st>
      </stg>
    </lg>
      <sources>
@@ -82181,9 +82175,10 @@
 <e>
    <map sml_ids="26058"/>
    <lg>
-     <l pos="V">robbtõõššâd</l>
+     <l pos="V">roobbtõõššâd</l>
      <stg>
-       <st Contlex="V_VIIKKYD">robbtõõ%{ʹØ%}šš</st>
+       <st Contlex="V_VIIKKYD">roobbtõõ%{ʹØ%}šš</st>
+       <st Contlex="V_VIIKKYD" status="Err/Orth">robbtõõ%{ʹØ%}šš</st>
      </stg>
    </lg>
      <sources>
@@ -82431,9 +82426,10 @@
 <e>
    <map sml_ids="15597"/>
    <lg>
-     <l pos="V">roočmâʹstõõvvâd</l>
+     <l pos="V">ročmstõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">roočmâʹstõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">ročmstõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">roočmâʹstõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -82570,9 +82566,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">rovvâʹtted</l>
+     <l pos="V">roovvted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">rovvâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_AALGXTED">roovvât</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">rovvâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -82833,9 +82830,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">rumbbjed</l>
+     <l pos="V">ruʹmbbjed</l>
      <stg>
-       <st Contlex="V_KUOCCJED">rumbb</st>
+       <st Contlex="V_VOQLLJED">ruʹmbb</st>
+       <st Contlex="V_KUOCCJED" status="Err/Orth">rumbb</st>
      </stg>
    </lg>
      <sources>
@@ -82852,9 +82850,10 @@
 <e>
    <map sml_ids="2194"/>
    <lg>
-     <l pos="V">rumslõõvvâd</l>
+     <l pos="V">rumstõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">rumslõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">rumstõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">rumslõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -82994,9 +82993,10 @@
 <e>
    <map sml_ids="1416"/>
    <lg>
-     <l pos="V">ruustõõvvâd</l>
+     <l pos="V">ruuʹstõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">ruustõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">ruuʹstõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">ruustõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -83052,9 +83052,10 @@
 <e>
    <map sml_ids="16694"/>
    <lg>
-     <l pos="V">ruvjjed</l>
+     <l pos="V">ruvjjeed</l>
      <stg>
-       <st Contlex="V_KUOCCJED">ruvj</st>
+       <st Contlex="V_SILTTEED">ruvjj</st>
+       <st Contlex="V_KUOCCJED" status="Err/Orth">ruvj</st>
      </stg>
    </lg>
      <sources>
@@ -83621,8 +83622,9 @@
 <e>
    <map sml_ids="12974"/>
    <lg>
-     <l pos="V">ruäʹŋkkted</l>
+     <l pos="V">ruäŋkkted</l>
      <stg>
+       <st Contlex="V_SHORRNED">ruäŋkkat</st>
        <st Contlex="V_KHEEQRJTED">ruäʹŋkket</st>
      </stg>
    </lg>
@@ -83664,9 +83666,10 @@
 <e>
    <map sml_ids="29277"/>
    <lg>
-     <l pos="V">ruõiʹbjed</l>
+     <l pos="V">ruäibbjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">ruõiʹb</st>
+       <st Contlex="V_KUYDHDHDHJED">ruäibb</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">ruõiʹb</st>
      </stg>
    </lg>
      <sources>
@@ -84120,9 +84123,9 @@
 <e>
    <map sml_ids="27879"/>
    <lg>
-     <l pos="V">ruõššted</l>
+     <l pos="V">ruõšsted</l>
      <stg>
-       <st Contlex="V_AALGXTED">ruõššât</st>
+       <st Contlex="V_CHIOPSTED">ruõššâst</st>
      </stg>
    </lg>
      <sources>
@@ -84474,9 +84477,10 @@
 <e>
    <map sml_ids="2788"/>
    <lg>
-     <l pos="V">rââššeed</l>
+     <l pos="V">rââʹžžeed</l>
      <stg>
-       <st Contlex="V_SOLLEED">rââšš</st>
+       <st Contlex="V_TEEQMEED">rââʹžž</st>
+       <st Contlex="V_SOLLEED" status="Err/Orth">rââšš</st>
      </stg>
    </lg>
      <sources>
@@ -87512,25 +87516,6 @@
      </tg>
    </mg>
 </e>
-<e src="t">
-   <map sml_ids="6465"/>
-   <lg>
-     <l pos="V">saaʹrjjded</l>
-     <stg>
-       <st Contlex="V_KHEEQRJTED">saaʹrjjed</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">karkaista</t>
-     </tg>
-   </mg>
-</e>
 <e src="t" id="fm_5243">
    <map stamp="fm_5243:sml_23252" fin_lemma_id="21152"/>
    <rev-sort_key>dejvʹaas</rev-sort_key>
@@ -88199,9 +88184,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">seeičâʹstted</l>
+     <l pos="V">šeeišâʹstted</l>
      <stg>
-       <st Contlex="V_CEQPCCED">sẹẹičâ%^1VOW%{ʹØ%}stt</st>
+       <st Contlex="V_CEQPCCED">šẹẹišâ%^1VOW%{ʹØ%}stt</st>
+       <st Contlex="V_CEQPCCED" status="Err/Orth">sẹẹičâ%^1VOW%{ʹØ%}stt</st>
      </stg>
    </lg>
      <sources>
@@ -89113,9 +89099,10 @@
 <e>
    <map sml_ids="21858"/>
    <lg>
-     <l pos="V">seäʹbrjed</l>
+     <l pos="V">sieʹbrrjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">seäʹbr</st>
+       <st Contlex="V_VOQLLJED">sieʹbrr</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">seäʹbr</st>
      </stg>
    </lg>
      <sources>
@@ -89134,9 +89121,10 @@
 <e>
    <map sml_ids="21857"/>
    <lg>
-     <l pos="V">seäʹbrjõõttâd</l>
+     <l pos="V">sieʹbrrjõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">seäʹbrjõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">sieʹbrrjõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">seäʹbrjõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -89174,13 +89162,14 @@
    <map stamp="fm_4675:sml_15352:sml_23653" fin_lemma_id="12289"/>
    <rev-sort_key>deŋŋdʹäes</rev-sort_key>
    <lg>
-     <l pos="V">seäʹdŋŋed</l>
+     <l pos="V">seäʹđŋŋed</l>
      <variants>
        <l_syn>neuʹrrõõvvâd</l_syn>
        <l_var>seäʹdnnjed</l_var>
      </variants>
      <stg>
-       <st Contlex="IV_CEAQLKHKHED">seä%{ʹØ%}dŋŋ</st>
+       <st Contlex="IV_CEAQLKHKHED">seä%{ʹØ%}đŋŋ</st>
+       <st Contlex="IV_CEAQLKHKHED" status="Err/Orth">seä%{ʹØ%}dŋŋ</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4676</c>
@@ -89329,9 +89318,9 @@
 </e>
 <e src="t" id="fm_4380">
    <map stamp="fm_4380:sml_1968" fin_lemma_id="21761"/>
-   <rev-sort_key>detvlʹes</rev-sort_key>
+   <rev-sort_key>detvvlʹes</rev-sort_key>
    <lg>
-     <l pos="V">seʹlvted</l>
+     <l pos="V">seʹlvvted</l>
      <variants>
        <l_syn>čiõʹlǧǧeed</l_syn>
        <l_syn>čiõlǥeed</l_syn>
@@ -89340,7 +89329,8 @@
        <l_syn>seʹlvvjed</l_syn>
      </variants>
      <stg>
-       <st Contlex="V_KHEEQRJTED">seʹlvet</st>
+       <st Contlex="V_KHEEQRJTED">seʹlvvet</st>
+       <st Contlex="V_KHEEQRJTED" status="Err/Orth">seʹlvet</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4381</c>
@@ -89578,9 +89568,10 @@
 <e>
    <map sml_ids="22628"/>
    <lg>
-     <l pos="V">siebltõõvvâd</l>
+     <l pos="V">siõbltõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">siebltõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">siõbltõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">siebltõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -89811,9 +89802,10 @@
    <map stamp="fm_96" fin_lemma_id="20602"/>
    <rev-sort_key>dâttõõdŋđʹeis</rev-sort_key>
    <lg>
-     <l pos="V">sieʹđŋdõõttâd</l>
+     <l pos="V">sieʹđŋtõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">siẹʹđŋdõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">siẹʹđŋtõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">siẹʹđŋdõõ%{ʹØ%}tt</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">97</c>
@@ -89833,7 +89825,7 @@
        <t pos="V">einen Korb bekommen</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="V">get the mitten</t>
+       <t pos="V">get turned down</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="V">saada rukkaset</t>
@@ -90211,9 +90203,10 @@
 <e>
    <map sml_ids="23673"/>
    <lg>
-     <l pos="V">siâkkeed</l>
+     <l pos="V">siâkkted</l>
      <stg>
-       <st Contlex="V_SILTTEED">siâkk</st>
+       <st Contlex="V_KHIORGGNED">siâkkât</st>
+       <st Contlex="V_SILTTEED" status="Err/Orth">siâkk</st>
      </stg>
    </lg>
      <sources>
@@ -90290,9 +90283,10 @@
 <e>
    <map sml_ids="23104"/>
    <lg>
-     <l pos="V">siâssõõllâd</l>
+     <l pos="V">siâzztõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">siâssõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">siâzztõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">siâssõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -90696,8 +90690,9 @@
 <e>
    <map sml_ids="11698"/>
    <lg>
-     <l pos="V">siŋŋted</l>
+     <l pos="V">siʹŋŋted</l>
      <stg>
+       <st Contlex="V_KHEEQRJTED">siʹŋŋet</st>
        <st Contlex="V_AALGXTED">siŋŋât</st>
      </stg>
    </lg>
@@ -91440,7 +91435,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="V">kiehätä</t>
+       <t pos="V">kiehnätä</t>
      </tg>
    </mg>
 </e>
@@ -91882,9 +91877,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">snasmiâhhjed</l>
+     <l pos="V">snasmieʹhhjed</l>
      <stg>
-       <st Contlex="V_KUOCCJED">snasmiâhh</st>
+       <st Contlex="V_VOQLLJED">snasmieʹhh</st>
+       <st Contlex="V_KUOCCJED" status="Err/Orth">snasmiâhh</st>
      </stg>
    </lg>
      <sources>
@@ -92136,7 +92132,7 @@
    <lg>
      <l pos="V">snoittred</l>
      <stg>
-       <st Contlex="V_">snoittred</st>
+       <st Contlex="V_SHORRNED">snoittar</st>
      </stg>
    </lg>
      <sources>
@@ -92279,9 +92275,10 @@
 <e>
    <map sml_ids="23351"/>
    <lg>
-     <l pos="V">snäʹrkkõõvvâd</l>
+     <l pos="V">snärkkõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">snäʹrkkõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">snärkkõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">snäʹrkkõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -92857,9 +92854,10 @@
 <e>
    <map sml_ids="22885"/>
    <lg>
-     <l pos="V">soʹddjed</l>
+     <l pos="V">soddjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">soʹdd</st>
+       <st Contlex="V_KUYDHDHDHJED">sodd</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">soʹdd</st>
      </stg>
    </lg>
      <sources>
@@ -92973,9 +92971,10 @@
 <e>
    <map sml_ids="1762"/>
    <lg>
-     <l pos="V">spesiallõõvvâd</l>
+     <l pos="V">spesiallisõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">spẹsiallõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">spẹsiallisõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">spẹsiallõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -93451,12 +93450,13 @@
 </e>
 <e>
    <lg>
-     <l pos="V">stappjed</l>
+     <l pos="V">staʹppjed</l>
      <etymology>
        <cognate modality="plausible" pos="V" src="aku_2019-02-24" xml:lang="sme">stáhppet</cognate>
      </etymology>
      <stg>
-       <st Contlex="TV_KUOCCJED">stapp</st>
+       <st Contlex="TV_VOQLLJED">staʹpp</st>
+       <st Contlex="TV_KUOCCJED" status="Err/Orth">stapp</st>
      </stg>
    </lg>
      <sources>
@@ -93584,25 +93584,6 @@
      </tg>
    </mg>
 </e>
-<e>
-   <map sml_ids="5556"/>
-   <lg>
-     <l pos="V">staʹǧǧeed</l>
-     <stg>
-       <st Contlex="V_TEEQMEED">staʹǧǧ</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">jäykistää</t>
-     </tg>
-   </mg>
-</e>
 <e src="t" id="fm_5414">
    <map stamp="fm_5414" fin_lemma_id=""/>
    <rev-sort_key>deeǩǩʹats</rev-sort_key>
@@ -93664,9 +93645,10 @@
    <map stamp="fm_5686:sml_24901" fin_lemma_id="17871"/>
    <rev-sort_key>dâkiits</rev-sort_key>
    <lg>
-     <l pos="V">stiikkâd</l>
+     <l pos="V">stiikâd</l>
      <stg>
-       <st Contlex="V_SUUDYD">stii%{ʹØ%}kk</st>
+       <st Contlex="V_SUUDYD">stii%{ʹØ%}k</st>
+       <st Contlex="V_SUUDYD" status="Err/Orth">stii%{ʹØ%}kk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5687</c>
@@ -93920,9 +93902,10 @@
 <e>
    <map sml_ids="19870"/>
    <lg>
-     <l pos="V">strassjõõvvâd</l>
+     <l pos="V">sträššjõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">strassjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">sträššjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">strassjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -94298,9 +94281,10 @@
 <e exclude="fst">
    <map sml_ids="10357"/>
    <lg>
-     <l pos="V">sudâst leeʹd</l>
+     <l pos="V">suudâst leeʹd</l>
      <stg>
-       <st Contlex="V_">sudâst leeʹd</st>
+       <st Contlex="V_">suudâst leeʹd</st>
+       <st Contlex="V_" status="Err/Orth">sudâst leeʹd</st>
      </stg>
    </lg>
      <sources>
@@ -94478,9 +94462,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">sueiʹnjed</l>
+     <l pos="V">suõiʹnnʼjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">sueiʹn</st>
+       <st Contlex="V_VOQLLJED">suõiʹnn</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">sueiʹn</st>
      </stg>
    </lg>
      <sources>
@@ -94497,9 +94482,10 @@
 <e>
    <map sml_ids="2844"/>
    <lg>
-     <l pos="V">sueiʹnntõõvvâd</l>
+     <l pos="V">sueiʹntõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">sueiʹnntõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">sueiʹntõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">sueiʹnntõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -94518,7 +94504,8 @@
    <lg>
      <l pos="V">sueiʹnnõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">sueiʹnnõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">suâinnõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">sueiʹnnõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -94577,9 +94564,10 @@
 <e>
    <map sml_ids="3297"/>
    <lg>
-     <l pos="V">sueʹnnõõvvâd</l>
+     <l pos="V">suännõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">sueʹnnõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">suännõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">sueʹnnõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -95248,9 +95236,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">suuʹdi-suuʹdi-siõrrâd</l>
+     <l pos="V">suudi-suudi siõrrâd</l>
      <stg>
-       <st Contlex="V_SIORRYD">suuʹdi-suuʹdi-siõ%{ʹØ%}rr</st>
+       <st Contlex="V_SIORRYD">suudi-suudi siõ%{ʹØ%}rr</st>
+       <st Contlex="V_SIORRYD" status="Err/Orth">suuʹdi-suuʹdi-siõ%{ʹØ%}rr</st>
      </stg>
    </lg>
      <sources>
@@ -95287,12 +95276,13 @@
    <map stamp="fm_4624:sml_25462" fin_lemma_id="16631"/>
    <rev-sort_key>dejčʹuus</rev-sort_key>
    <lg>
-     <l pos="V">suuʹčjed</l>
+     <l pos="V">suučjed</l>
      <etymology>
        <etymon algu_lekseemi_id="38386" id="97968" xml:lang="sms">suuʹčjed</etymon>
      </etymology>
      <stg>
-       <st Contlex="IV_KUOCCJED">suuʹč</st>
+       <st Contlex="IV_KUOCCJED">suuč</st>
+       <st Contlex="IV_KUOCCJED" status="Err/Orth">suuʹč</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4625</c>
@@ -95664,7 +95654,7 @@
    <lg>
      <l pos="V">suânnʼjed</l>
      <stg>
-       <st Contlex="TV_KUYDHDHDHJED">suânˈn</st>
+       <st Contlex="TV_STOAOARJED">suânˈn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5079</c>
@@ -96231,24 +96221,6 @@
      </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="V" val="TV">suåvted</l>
-     <stg>
-       <st Contlex="TV_SHORRNED">suåvat</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V" val="TV"/>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
 <e src="t" id="fm_4600">
    <map stamp="fm_4600:sml_25080" fin_lemma_id="22733"/>
    <rev-sort_key>dâllõõtvåus</rev-sort_key>
@@ -96319,9 +96291,10 @@
 <e>
    <map sml_ids="22723"/>
    <lg>
-     <l pos="V">suåvvted</l>
+     <l pos="V">suåvted</l>
      <stg>
-       <st Contlex="V_AALGXTED">suåvvât</st>
+       <st Contlex="V_AALGXTED">suåvât</st>
+       <st Contlex="V_AALGXTED" status="Err/Orth">suåvvât</st>
      </stg>
    </lg>
      <sources>
@@ -96399,8 +96372,9 @@
 <e src="t">
    <map sml_ids="22980"/>
    <lg>
-     <l pos="V">suõjded</l>
+     <l pos="V">suejded</l>
      <stg>
+       <st Contlex="V_AALGXTED">suõjâd</st>
        <st Contlex="V_AALGXTED">suõjâd</st>
      </stg>
    </lg>
@@ -96614,9 +96588,10 @@
 <e>
    <map sml_ids="22598"/>
    <lg>
-     <l pos="V">suõrmmtõõvvâd</l>
+     <l pos="V">suõrmtõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">suõrmmtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">suõrmtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">suõrmmtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -97432,9 +97407,10 @@
 <e exclude="fst">
    <map sml_ids="28855"/>
    <lg>
-     <l pos="V">sââi šieʹtted</l>
+     <l pos="V">sââʹj šieʹtted</l>
      <stg>
-       <st Contlex="V_LIEQDHDHED">sââi #šeâ%{ʹØ%}tt</st>
+       <st Contlex="V_LIEQDHDHED">sââʹj #šeâ%{ʹØ%}tt</st>
+       <st Contlex="V_LIEQDHDHED" status="Err/Orth">sââi #šeâ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -97584,9 +97560,10 @@
 <e>
    <map sml_ids="22174"/>
    <lg>
-     <l pos="V">sââʹrrtõõvvâd</l>
+     <l pos="V">sââʹrtõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">sââʹrrtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">sââʹrtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">sââʹrrtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -97816,9 +97793,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">säkktõõvvâd</l>
+     <l pos="V">sääkktõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">säkktõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">sääkktõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">säkktõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -98564,9 +98542,10 @@
 <e>
    <map sml_ids="21562"/>
    <lg>
-     <l pos="V">sääunõõvvâd</l>
+     <l pos="V">sääuʹnted</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">sääunõõ%{ʹØ%}vv</st>
+       <st Contlex="V_KHEEQRJTED">sääuʹnet</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">sääunõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -98688,8 +98667,9 @@
 <e>
    <map sml_ids="21360"/>
    <lg>
-     <l pos="V">säʹnnâʹtted</l>
+     <l pos="V">sääʹnted</l>
      <stg>
+       <st Contlex="V_KHEEQRJTED">sääʹnet</st>
        <st Contlex="V_KAEQTTED">säʹnnâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
@@ -99172,9 +99152,10 @@
 <e>
    <map sml_ids="23155"/>
    <lg>
-     <l pos="V">såʹrmmšõõvvâd</l>
+     <l pos="V">sormmšõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">såʹrmmšõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">sormmšõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">såʹrmmšõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -99814,9 +99795,10 @@
 <e>
    <map sml_ids="21108"/>
    <lg>
-     <l pos="V">sǩeâppeed</l>
+     <l pos="V">sǩippeed</l>
      <stg>
-       <st Contlex="V_SOLLEED">sǩeâpp</st>
+       <st Contlex="V_SILTTEED">sǩipp</st>
+       <st Contlex="V_SOLLEED" status="Err/Orth">sǩeâpp</st>
      </stg>
    </lg>
      <sources>
@@ -100663,9 +100645,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">taiǥšed</l>
+     <l pos="V">taiǥsmed</l>
      <stg>
-       <st Contlex="V_TAARBSHED">taiǥâš</st>
+       <st Contlex="V_MAINSTED">taaiǥâsm</st>
+       <st Contlex="V_TAARBSHED" status="Err/Orth">taiǥâš</st>
      </stg>
    </lg>
      <sources>
@@ -100929,9 +100912,10 @@
 <e>
    <map sml_ids="16377"/>
    <lg>
-     <l pos="V">taʹlǩǩeed</l>
+     <l pos="V">tâʹlǧǧeed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">taʹlǩǩ</st>
+       <st Contlex="V_TEEQMEED">tâʹlǧǧ</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">taʹlǩǩ</st>
      </stg>
    </lg>
      <sources>
@@ -101502,9 +101486,10 @@
 <e>
    <map sml_ids="16131"/>
    <lg>
-     <l pos="V">teiʹvveed</l>
+     <l pos="V">teivveed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">teiʹvv</st>
+       <st Contlex="V_SOLLEED">teivv</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">teiʹvv</st>
      </stg>
    </lg>
      <sources>
@@ -101802,9 +101787,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">teâmmnõõvvâd</l>
+     <l pos="V">teâmnnõõvvâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">teâmmnõõ%{ʹØ%}vv</st>
+       <st Contlex="V_LAUKKOOLLYD">teâmnnõõ%{ʹØ%}vv</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">teâmmnõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -102532,6 +102518,27 @@
    </mg>
 </e>
 <e>
+   <map sml_ids="24751"/>
+   <lg>
+     <l pos="V">teärstâʹtted</l>
+     <stg>
+       <st Contlex="V_KAEQTTED" varid="1">teäˈrstâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth" varid="2">tieˈʹrstâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth" varid="3">tieʹrrstâ%^1VOW%{ʹØ%}tt</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">terästää</t>
+     </tg>
+   </mg>
+</e>
+<e>
    <lg>
      <l pos="V">teäčkkled</l>
      <etymology>
@@ -103039,47 +103046,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="V">terottaa</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="24751"/>
-   <lg>
-     <l pos="V">tieʹrstâʹtted</l>
-     <stg>
-       <st Contlex="V_KAEQTTED" varid="1" status="Err/Orth">tieˈʹrstâ%^1VOW%{ʹØ%}tt</st>
-       <st Contlex="V_KAEQTTED" varid="2" status="Err/Orth">tieʹrrstâ%^1VOW%{ʹØ%}tt</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">terästää</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="24751"/>
-   <lg>
-     <l pos="V">teärstâʹtted</l>
-     <stg>
-       <st Contlex="V_KAEQTTED" varid="1">teäˈrstâ%^1VOW%{ʹØ%}tt</st>
-       <st Contlex="V_KAEQTTED" varid="2" status="Err/Orth">tieˈʹrstâ%^1VOW%{ʹØ%}tt</st>
-       <st Contlex="V_KAEQTTED" varid="3" status="Err/Orth">tieʹrrstâ%^1VOW%{ʹØ%}tt</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">terästää</t>
      </tg>
    </mg>
 </e>
@@ -104066,8 +104032,9 @@
 <e exclude="fst">
    <map sml_ids="18392"/>
    <lg>
-     <l pos="V">tiõrvted njiõrr-njiõʹrre</l>
+     <l pos="V">njiõrr-njiõʹrre tiõrvted</l>
      <stg>
+       <st Contlex="V_">njiõrr-njiõʹrre tiõrvted</st>
        <st Contlex="V_">tiõrvted njiõrr-njiõʹrre</st>
      </stg>
    </lg>
@@ -104140,9 +104107,10 @@
 <e>
    <map sml_ids="24714"/>
    <lg>
-     <l pos="V">tiõrvvtõõvvâd</l>
+     <l pos="V">tiõrvtõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">tiõrvvtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">tiõrvtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">tiõrvvtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -104623,9 +104591,10 @@
 <e>
    <map sml_ids="25894"/>
    <lg>
-     <l pos="V">tohssted</l>
+     <l pos="V">tohsted</l>
      <stg>
-       <st Contlex="V_VUEJTED">tohssat</st>
+       <st Contlex="V_POAGXSTED">toohhast</st>
+       <st Contlex="V_VUEJTED" status="Err/Orth">tohssat</st>
      </stg>
    </lg>
      <sources>
@@ -105034,7 +105003,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="V">tehdä tuli</t>
      </tg>
    </mg>
@@ -105262,9 +105231,10 @@
 <e>
    <map sml_ids="34171"/>
    <lg>
-     <l pos="V">topstted</l>
+     <l pos="V">topsʼsted</l>
      <stg>
-       <st Contlex="V_">topstted</st>
+       <st Contlex="V_JOARGXSTED">toopsast</st>
+       <st Contlex="V_" status="Err/Orth">topstted</st>
      </stg>
    </lg>
      <sources>
@@ -105551,9 +105521,10 @@
 <e>
    <map sml_ids="20026"/>
    <lg>
-     <l pos="V">toʹlmmed</l>
+     <l pos="V">tåʹlmmeed</l>
      <stg>
-       <st Contlex="V_CEQPCCED">to%^1VOW%{ʹØ%}lmm</st>
+       <st Contlex="V_TEEQMEED">tåʹlmm</st>
+       <st Contlex="V_CEQPCCED" status="Err/Orth">to%^1VOW%{ʹØ%}lmm</st>
      </stg>
    </lg>
      <sources>
@@ -105671,9 +105642,10 @@
 <e>
    <map sml_ids="4365"/>
    <lg>
-     <l pos="V">trestjed</l>
+     <l pos="V">tressjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">trẹst</st>
+       <st Contlex="V_KUYDHDHDHJED">trẹss</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">trẹst</st>
      </stg>
    </lg>
      <sources>
@@ -105889,12 +105861,12 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="13930"/>
    <lg>
-     <l pos="V">tuejjeed määŋgpeällsen</l>
+     <l pos="V">määŋgpeälsted</l>
      <stg>
-       <st Contlex="V_">tuejjeed määŋgpeällsen</st>
+       <st Contlex="V_SHORRNED">määŋg#peälast</st>
      </stg>
    </lg>
      <sources>
@@ -105941,7 +105913,7 @@
    <lg>
      <l pos="V">tuejjsted</l>
      <stg>
-       <st Contlex="V_KHEEQRJTED">tuẹjjast</st>
+       <st Contlex="V_KHEEQRJTED">tuẹjˈjast</st>
      </stg>
      <compg drv="V:Suf»V" type="Der">
        <comp fin="leuddata" ord="E1" pos="V">tuejjeed</comp>
@@ -106267,8 +106239,9 @@
 <e>
    <map sml_ids="17951"/>
    <lg>
-     <l pos="V">tuunnʼjed</l>
+     <l pos="V">tuunʼjed</l>
      <stg>
+       <st Contlex="IV_KUOCCJED">tuun</st>
        <st Contlex="IV_KUOCCJED">tuunn</st>
      </stg>
    </lg>
@@ -106535,9 +106508,10 @@
 <e>
    <map sml_ids="17066:25401"/>
    <lg>
-     <l pos="V">tuuʹđčõõttâd</l>
+     <l pos="V">toouđčõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">tuuʹđčõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">toouđčõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">tuuʹđčõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -106662,12 +106636,32 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="12201"/>
    <lg>
      <l pos="V">tuâitâʹtted</l>
      <stg>
        <st Contlex="V_KAEQTTED">tuâitâ%^1VOW%{ʹØ%}tt</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="xyz">
+       <t pos="V">lomauttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <map sml_ids="12201"/>
+   <lg>
+     <l pos="V">tuâjtâʹtted</l>
+     <stg>
+       <st Contlex="V_KAEQTTED">tuâjtâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">tuâitâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -106727,9 +106721,10 @@
 <e>
    <map sml_ids="26078"/>
    <lg>
-     <l pos="V">tuâjjtâʹtted</l>
+     <l pos="V">tuejjtâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">tuâjjtâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">tuejjtâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">tuâjjtâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -108051,9 +108046,10 @@
 </e>
 <e src="t">
    <lg>
-     <l pos="V">tuåimmad</l>
+     <l pos="V">tåimmad</l>
      <stg>
-       <st Contlex="V_KUAEIVVAD">tuåimm</st>
+       <st Contlex="V_LAEULLAD">tå%^1VOWimm</st>
+       <st Contlex="V_KUAEIVVAD" status="Err/Orth">tuåimm</st>
      </stg>
    </lg>
      <sources>
@@ -108085,9 +108081,10 @@
 <e>
    <map sml_ids="25102"/>
    <lg>
-     <l pos="V">tuåimmjed</l>
+     <l pos="V">tåimmjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">tuåimm</st>
+       <st Contlex="V_KUYDHDHDHJED">tåimm</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">tuåimm</st>
      </stg>
    </lg>
      <sources>
@@ -108104,9 +108101,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">tuåimmješkueʹtted</l>
+     <l pos="V">tåimmješkueʹtted</l>
      <stg>
-       <st Contlex="V_SHKUEAQTTED">tuåimmješkuä%{ʹØ%}tt</st>
+       <st Contlex="V_SHKUEAQTTED">tåimmješkuä%{ʹØ%}tt</st>
+       <st Contlex="V_SHKUEAQTTED" status="Err/Orth">tuåimmješkuä%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -108124,13 +108122,14 @@
    <map stamp="fm_5446:sml_28977" fin_lemma_id="25134"/>
    <rev-sort_key>detmiåut</rev-sort_key>
    <lg>
-     <l pos="V">tuåimted</l>
+     <l pos="V">tåimted</l>
      <etymology>
        <cognate modality="plausible" pos="V" src="aku_2019-02-24" xml:lang="sme">doaimmahit</cognate>
        <etymon algu_lekseemi_id="76489" id="222313" xml:lang="sms">tuåimted</etymon>
      </etymology>
      <stg>
-       <st Contlex="V_SHORRNED">tuåimat</st>
+       <st Contlex="V_SHORRNED">tåimat</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">tuåimat</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5447</c>
@@ -108171,12 +108170,13 @@
 <e>
    <map sml_ids="25101"/>
    <lg>
-     <l pos="V">tuåimtõõvvâd</l>
+     <l pos="V">tåimtõõvvâd</l>
      <etymology>
        <cognate modality="plausible" pos="V" src="aku_2019-02-24" xml:lang="sme">doaimmahuvvat</cognate>
      </etymology>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">tuåimtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">tåimtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">tuåimtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -108842,8 +108842,9 @@
 <e>
    <map sml_ids="19475:25753"/>
    <lg>
-     <l pos="V">tuõpttâd</l>
+     <l pos="V">tuâppted</l>
      <stg>
+       <st Contlex="V_SHORRNED">tuâppat</st>
        <st Contlex="V_KUOSKKYD">tuõ%{ʹØ%}ptt</st>
      </stg>
    </lg>
@@ -109594,9 +109595,10 @@
 <e>
    <map sml_ids="17472:17481"/>
    <lg>
-     <l pos="V">tuõʹlstõõllâd</l>
+     <l pos="V">tuõʹllstõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">tuõʹlstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">tuõʹllstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">tuõʹlstõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -110201,9 +110203,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">tuʹšštõõvvâd</l>
+     <l pos="V">tuʹšstõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">tuʹšštõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">tuʹšstõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">tuʹšštõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -110594,11 +110597,12 @@
 <e>
    <map sml_ids="21793"/>
    <lg>
-     <l pos="V">täjsked</l>
+     <l pos="V">täjsǩed</l>
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="IV_JAELSTED">tääjask</st>
+       <st Contlex="IV_TOINXSKHED">tääjask</st>
+       <st Contlex="IV_JAELSTED" status="Err/Orth">tääjask</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -111088,9 +111092,10 @@
 <e>
    <map sml_ids="25722"/>
    <lg>
-     <l pos="V">tääbbkõõččâd</l>
+     <l pos="V">tääbbkõõššâd</l>
      <stg>
-       <st Contlex="V_PIYKKLOOCHCHYD">tääbbkõõ%{ʹØ%}čč</st>
+       <st Contlex="V_PIYKKLOOCHCHYD">tääbbkõõ%{ʹØ%}šš</st>
+       <st Contlex="V_PIYKKLOOCHCHYD" status="Err/Orth">tääbbkõõ%{ʹØ%}čč</st>
      </stg>
    </lg>
      <sources>
@@ -111373,9 +111378,10 @@
 <e>
    <map sml_ids="6505"/>
    <lg>
-     <l pos="V">täällâʹtted</l>
+     <l pos="V">taalted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">täällâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_AALGXTED">taalât</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">täällâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -111659,9 +111665,10 @@
 <e>
    <map sml_ids="24502"/>
    <lg>
-     <l pos="V">täävveed</l>
+     <l pos="V">tävvted</l>
      <stg>
-       <st Contlex="V_SOLLEED">täävv</st>
+       <st Contlex="V_SHORRNED">tävvat</st>
+       <st Contlex="V_SOLLEED" status="Err/Orth">täävv</st>
      </stg>
    </lg>
      <sources>
@@ -111737,9 +111744,10 @@
 <e>
    <map sml_ids="30338"/>
    <lg>
-     <l pos="V">tääʹlvtõõvvâd</l>
+     <l pos="V">täälvtõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">tääʹlvtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">täälvtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">tääʹlvtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -113000,9 +113008,10 @@
 <e>
    <map sml_ids="2149:25349"/>
    <lg>
-     <l pos="V">uhoded</l>
+     <l pos="V">uhååʹded</l>
      <stg>
-       <st Contlex="V_">uhoded</st>
+       <st Contlex="V_">uhååʼd</st>
+       <st Contlex="V_" status="Err/Orth">uhod</st>
      </stg>
    </lg>
      <sources>
@@ -114427,8 +114436,9 @@
 <e>
    <map sml_ids="3517"/>
    <lg>
-     <l pos="V">vaardšed</l>
+     <l pos="V">vaardčed</l>
      <stg>
+       <st Contlex="V_AALGXTED">vaardâč</st>
        <st Contlex="V_TAARBSHED">vaardâš</st>
      </stg>
    </lg>
@@ -114446,9 +114456,10 @@
 <e>
    <map sml_ids="26884"/>
    <lg>
-     <l pos="V">vaarrted</l>
+     <l pos="V">vaareed</l>
      <stg>
-       <st Contlex="V_AALGXTED">vaarrât</st>
+       <st Contlex="V_SILTTEED">vaar</st>
+       <st Contlex="V_AALGXTED" status="Err/Orth">vaarrât</st>
      </stg>
    </lg>
      <sources>
@@ -114466,9 +114477,10 @@
 <e>
    <map sml_ids="26887"/>
    <lg>
-     <l pos="V">vaarrtõõvvâd</l>
+     <l pos="V">vaartõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">vaarrtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">vaartõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">vaarrtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -115969,9 +115981,10 @@
 <e>
    <map sml_ids="28360"/>
    <lg>
-     <l pos="V">veillʼjed</l>
+     <l pos="V">viʹllʼjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">vẹill</st>
+       <st Contlex="V_VOQLLJED">viʹll</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">vẹill</st>
      </stg>
    </lg>
      <sources>
@@ -116029,9 +116042,10 @@
 <e>
    <map sml_ids="4026"/>
    <lg>
-     <l pos="V">veiʹǧǧeed</l>
+     <l pos="V">veeiǥeed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">veiʹǧǧ</st>
+       <st Contlex="V_SOLLEED">vẹẹiǥ</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">veiʹǧǧ</st>
      </stg>
    </lg>
      <sources>
@@ -116128,9 +116142,10 @@
 <e>
    <map sml_ids="27788"/>
    <lg>
-     <l pos="V">veiʹǩǩjed</l>
+     <l pos="V">veikkjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">veiʹǩǩ</st>
+       <st Contlex="V_KUYDHDHDHJED">vẹikk</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">veiʹǩǩ</st>
      </stg>
    </lg>
      <sources>
@@ -116408,9 +116423,10 @@
 <e>
    <map sml_ids="10580"/>
    <lg>
-     <l pos="V">veâppjed</l>
+     <l pos="V">veäppjed</l>
      <stg>
-       <st Contlex="V_KUYDHDHDHJED">veâpˈp</st>
+       <st Contlex="V_KUYDHDHDHJED">veäpˈp</st>
+       <st Contlex="V_KUYDHDHDHJED" status="Err/Orth">veâpˈp</st>
      </stg>
    </lg>
      <sources>
@@ -116641,9 +116657,10 @@
 <e>
    <map sml_ids="12337"/>
    <lg>
-     <l pos="V">veälčtted</l>
+     <l pos="V">veälččted</l>
      <stg>
-       <st Contlex="V_">veälčtted</st>
+       <st Contlex="V_SHORRNED">veälččat</st>
+       <st Contlex="V_" status="Err/Orth">veälčtted</st>
      </stg>
    </lg>
      <sources>
@@ -116708,8 +116725,9 @@
 <e>
    <map sml_ids="27818"/>
    <lg>
-     <l pos="V">veälǥtõõvvâd</l>
+     <l pos="V">vieʹljtõõvvâd</l>
      <stg>
+       <st Contlex="IV_LAUKKOOLLYD">viẹʹljtõõ%{ʹØ%}vv</st>
        <st Contlex="IV_LAUKKOOLLYD">veälǥtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
@@ -117163,9 +117181,10 @@
 <e>
    <map sml_ids="22345"/>
    <lg>
-     <l pos="V">večkkšed</l>
+     <l pos="V">veečkšed</l>
      <stg>
-       <st Contlex="V_KAEIGGSHED">vẹčkkaš</st>
+       <st Contlex="V_KAEIGGSHED">vẹẹčkaš</st>
+       <st Contlex="V_KAEIGGSHED" status="Err/Orth">vẹčkkaš</st>
      </stg>
    </lg>
      <sources>
@@ -117314,9 +117333,10 @@
 <e>
    <map sml_ids="28003"/>
    <lg>
-     <l pos="V">veʹrddõõllâd</l>
+     <l pos="V">verddõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">veʹrddõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">verddõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">veʹrddõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -117398,9 +117418,10 @@
 <e>
    <map sml_ids="29247"/>
    <lg>
-     <l pos="V">viezzted</l>
+     <l pos="V">viõzzted</l>
      <stg>
-       <st Contlex="V_AALGXTED">viezzât</st>
+       <st Contlex="V_AALGXTED">viõzzât</st>
+       <st Contlex="V_AALGXTED" status="Err/Orth">viezzât</st>
      </stg>
    </lg>
      <sources>
@@ -117510,9 +117531,10 @@
 <e>
    <map sml_ids="4014:27722:28211"/>
    <lg>
-     <l pos="V">vieʹrrjed</l>
+     <l pos="V">viõʹrrjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">vieʹrr</st>
+       <st Contlex="V_VOQLLJED">viõʹrr</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">vieʹrr</st>
      </stg>
    </lg>
      <sources>
@@ -117927,47 +117949,6 @@
        <t pos="V">нести</t>
        <t pos="V">носить</t>
        <t pos="V">уносить</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="1364:6980"/>
-   <lg>
-     <l pos="V">viikkâd ooudâs</l>
-     <stg>
-       <st Contlex="V_">viikkâd ooudâs</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">edistää</t>
-       <t pos="V">kehittää</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="1364:6980"/>
-   <lg>
-     <l pos="V">ooudâs viikkâd</l>
-     <stg>
-       <st Contlex="V_" varid="1">ooudâs viikkâd</st>
-       <st Contlex="V_" varid="2">viikkâd ooudâs</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">edistää</t>
-       <t pos="V">kehittää</t>
      </tg>
    </mg>
 </e>
@@ -118494,9 +118475,10 @@
 <e>
    <map sml_ids="28139"/>
    <lg>
-     <l pos="V">vikkjõõvvâd</l>
+     <l pos="V">vekkjõõvvâd</l>
      <stg>
        <st Contlex="IV_LAUKKOOLLYD">vikkjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">vikkjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -118806,8 +118788,9 @@
 <e>
    <map sml_ids="28725"/>
    <lg>
-     <l pos="V">visplded</l>
+     <l pos="V">viʹsppjed</l>
      <stg>
+       <st Contlex="V_VOQLLJED">viʹspp</st>
        <st Contlex="V_MAINSTED">viispâld</st>
      </stg>
    </lg>
@@ -118875,9 +118858,10 @@
 </e>
 <e>
    <lg>
-     <l pos="V">viâlttõõvvâd</l>
+     <l pos="V">veâlttõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">viâlttõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">veâlttõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">viâlttõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -119097,9 +119081,10 @@
 <e>
    <map sml_ids="23540"/>
    <lg>
-     <l pos="V">viârrtõõvvâd</l>
+     <l pos="V">viârtõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">viârrtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">viârtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">viârrtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -120108,9 +120093,10 @@
 <e>
    <map sml_ids="16283"/>
    <lg>
-     <l pos="V">viõʹsslõõvvâd</l>
+     <l pos="V">vieʹsslõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">viõʹsslõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">vieʹsslõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">viõʹsslõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -120301,9 +120287,10 @@
 <e>
    <map sml_ids="28671"/>
    <lg>
-     <l pos="V">viʹrbbeed</l>
+     <l pos="V">virbbeed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">viʹrbb</st>
+       <st Contlex="V_SILTTEED">virbb</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">viʹrbb</st>
      </stg>
    </lg>
      <sources>
@@ -121715,9 +121702,10 @@
 <e>
    <map sml_ids="20451:21924"/>
    <lg>
-     <l pos="V">vueʹrbbâʹtted</l>
+     <l pos="V">vuärbbâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">vueʹrbbâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">vuärbbâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">vueʹrbbâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -121735,13 +121723,14 @@
 <e>
    <map sml_ids="20450"/>
    <lg>
-     <l pos="V">vueʹrbbâʹtškueʹtted</l>
+     <l pos="V">vuärbbâʹtškueʹtted</l>
      <stg>
-       <st Contlex="V_SHKUEAQTTED" varid="1">vueʹrbbâʹt»škuä%{ʹØ%}tt</st>
-       <st Contlex="V_SHKUEAQTTED" status="Use/SpellNoSugg" varid="2">vueʹrbbââʹtt»škuä%{ʹØ%}tt</st>
+       <st Contlex="V_SHKUEAQTTED" varid="1">vuärbbâʹt»škuä%{ʹØ%}tt</st>
+       <st Contlex="V_SHKUEAQTTED" varid="2" status="Err/Orth">vueʹrbbâʹt»škuä%{ʹØ%}tt</st>
+       <st Contlex="V_SHKUEAQTTED" status="Err/Orth" varid="3">vueʹrbbââʹtt»škuä%{ʹØ%}tt</st>
      </stg>
      <compg drv="V:Suf»V" type="Der">
-       <comp ms="Inf_Stem" ord="E1" pos="V">vueʹrbbâʹtted</comp>
+       <comp ms="Inf_Stem" ord="E1" pos="V">vuärbbâʹtted</comp>
        <comp ord="E2" pos="Suf">Der/škueʹtted</comp> </compg>
    </lg>
      <sources>
@@ -121756,11 +121745,12 @@
    </mg>
 </e>
 <e>
-   <map sml_ids="20449:21923"/>
+   <map sml_ids="2449:21923"/>
    <lg>
-     <l pos="V">vueʹrbbõõvvâd</l>
+     <l pos="V">vuärbbõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">vueʹrbbõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">vuärbbõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">vueʹrbbõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -122442,9 +122432,10 @@
 <e>
    <map sml_ids="26616"/>
    <lg>
-     <l pos="V">vuâllmned</l>
+     <l pos="V">vuâlmmned</l>
      <stg>
-       <st Contlex="V_SHORRNED">vuâllman</st>
+       <st Contlex="V_SHORRNED">vuâlmman</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">vuâllman</st>
      </stg>
    </lg>
      <sources>
@@ -122588,9 +122579,10 @@
 <e>
    <map sml_ids="26620"/>
    <lg>
-     <l pos="V">vuâlmted</l>
+     <l pos="V">vueʹlmted</l>
      <stg>
-       <st Contlex="V_SHORRNED">vuâlmat</st>
+       <st Contlex="V_KHEEQRJTED">vueʹlmet</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">vuâlmat</st>
      </stg>
    </lg>
      <sources>
@@ -122607,9 +122599,10 @@
 <e>
    <map sml_ids="10645"/>
    <lg>
-     <l pos="V">vuâmmlõõvvâd</l>
+     <l pos="V">vuâmmõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">vuâmmlõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">vuâmmõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">vuâmmlõõ%{ʹØ%}vv</st>
      </stg>
      <compg drv="N:Suf»V" type="Der">
        <comp ms="N" ord="E1" pos="N">vueʹmm</comp>
@@ -123577,8 +123570,9 @@
 <e>
    <map sml_ids="5187"/>
    <lg>
-     <l pos="V">vuäggâʹtted</l>
+     <l pos="V">vuäǥǥted</l>
      <stg>
+       <st Contlex="V_SHORRNED">vuäǥǥat</st>
        <st Contlex="V_KAEQTTED">vuäggâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
@@ -125168,10 +125162,11 @@
 <e>
    <map sml_ids="15309"/>
    <lg>
-     <l pos="V">vuäʹđstõlškueʹtted</l>
+     <l pos="V">vuäđđstõõllâd</l>
      <stg>
-       <st Contlex="IV_SHKUEAQTTED" varid="1">vuäˈʹđstõl»škuä%{ʹØ%}tt</st>
-       <st Contlex="IV_SHKUEAQTTED" status="Use/SpellNoSugg" varid="2">vuäʹđstõõl»škuä%{ʹØ%}tt</st>
+       <st Contlex="IV_LAUKKOOLLYD" varid="1">vuäđđstõõll</st>
+       <st Contlex="IV_SHKUEAQTTED" status="Err/Orth" varid="2">vuäʹđstõl»škuä%{ʹØ%}tt</st>
+       <st Contlex="IV_SHKUEAQTTED" status="Err/Orth" varid="3">vuäʹđstõõl»škuä%{ʹØ%}tt</st>
      </stg>
      <compg drv="V:Suf»V" type="Der">
        <comp ms="Inf_Stem" ord="E1" pos="V">vuäʹđstõõllâd</comp>
@@ -125401,9 +125396,10 @@
 <e>
    <map sml_ids="25283"/>
    <lg>
-     <l pos="V">vuåkkõõvvâd</l>
+     <l pos="V">vuâkkõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">vuåkkõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">vuâkkõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">vuåkkõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -125625,9 +125621,10 @@
 <e exclude="fst">
    <map sml_ids="3162"/>
    <lg>
-     <l pos="V">vuõddsid kâʹlvveed</l>
+     <l pos="V">vuõddsid kâʹlvved</l>
      <stg>
-       <st Contlex="V_TEEQMEED">vuõddsid kâʹlvv</st>
+       <st Contlex="V_CEQPCCED">vuõddsid kâ%^1VOW%{ʹØ%}lvv</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">vuõddsid kâʹlvv</st>
      </stg>
    </lg>
      <sources>
@@ -125644,13 +125641,14 @@
 <e>
    <map sml_ids="3147"/>
    <lg>
-     <l pos="V">vuõddslõõvvâd</l>
+     <l pos="V">vuõdstõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">vuõddslõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">vuõdstõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">vuõddslõõ%{ʹØ%}vv</st>
      </stg>
      <compg drv="N:Suf»V" type="Der">
        <comp ms="N" ord="E1" pos="N">vuõddâs</comp>
-       <comp ord="E2" pos="Suf">Der/lõõvvâd</comp> </compg>
+       <comp ord="E2" pos="Suf">Der/tõõvvâd</comp> </compg>
    </lg>
      <sources>
        <book type="db" name="sjm"/>
@@ -126246,45 +126244,6 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="27253"/>
-   <lg>
-     <l pos="V">vuõiǥstâʹtted</l>
-     <stg>
-       <st Contlex="V_KAEQTTED">vuõiǥstâ%^1VOW%{ʹØ%}tt</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">valmentaa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="27253"/>
-   <lg>
-     <l pos="V">haʹrjjtâʹtted</l>
-     <stg>
-       <st Contlex="V_KAEQTTED">haʹrjjtâ%^1VOW%{ʹØ%}tt</st>
-       <st Contlex="V_KAEQTTED" status="Err/Lex">vuõiǥstâ%^1VOW%{ʹØ%}tt</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">valmentaa</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="15820"/>
    <lg>
@@ -126456,9 +126415,10 @@
 <e>
    <map sml_ids="19913:19903"/>
    <lg>
-     <l pos="V">vuõjjtõõllâd</l>
+     <l pos="V">vuõjjõõvvâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">vuõjjtõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">vuõjjõõ%{ʹØ%}vv</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">vuõjjtõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -126557,9 +126517,10 @@
 <e>
    <map sml_ids="28839"/>
    <lg>
-     <l pos="V">vuõjjšõõddâd</l>
+     <l pos="V">vuõjjšõddâd</l>
      <stg>
-       <st Contlex="V_LAADDYD">vuõjj»šõõ%{ʹØ%}dd</st>
+       <st Contlex="V_ROVVYD">vuõjj»šõ%^1VOW%{ʹØ%}dd</st>
+       <st Contlex="V_LAADDYD" status="Err/Orth">vuõjj»šõõ%{ʹØ%}dd</st>
      </stg>
    </lg>
      <sources>
@@ -127730,9 +127691,10 @@
 <e>
    <map sml_ids="27098"/>
    <lg>
-     <l pos="V">väijvvõõttâd</l>
+     <l pos="V">väivvõõttâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">väijvvõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD">väivvõõ%{ʹØ%}tt</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">väijvvõõ%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -128174,9 +128136,10 @@
 <e>
    <map sml_ids="27914"/>
    <lg>
-     <l pos="V">värddlõõvvâd</l>
+     <l pos="V">värttlõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">värddlõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">värttlõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">värddlõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -129222,9 +129185,10 @@
 <e>
    <map sml_ids="27596"/>
    <lg>
-     <l pos="V">väʹrddjed</l>
+     <l pos="V">vaʹrddjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">väʹrdd</st>
+       <st Contlex="V_VOQLLJED">vaʹrdd</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">väʹrdd</st>
      </stg>
    </lg>
      <sources>
@@ -129412,9 +129376,10 @@
 <e>
    <map sml_ids="9381"/>
    <lg>
-     <l pos="V">väʹʒʒjõõvvâd</l>
+     <l pos="V">väʒʒjõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">väʹʒʒjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">väʒʒjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">väʹʒʒjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -129723,9 +129688,10 @@
 <e>
    <map sml_ids="27865"/>
    <lg>
-     <l pos="V">võnntõõllâd</l>
+     <l pos="V">võõntõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">võnntõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">võõntõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">võnntõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -130199,9 +130165,10 @@
 <e exclude="fst">
    <map sml_ids="28867"/>
    <lg>
-     <l pos="V">võõur vuâlla uʹvdded</l>
+     <l pos="V">vååur vuâlla uʹvdded</l>
      <stg>
-       <st Contlex="V_">võõur vuâlla uʹvdded</st>
+       <st Contlex="V_">vååur vuâlla uʹvdded</st>
+       <st Contlex="V_" status="Err/Orth">võõur vuâlla uʹvdded</st>
      </stg>
    </lg>
      <sources>
@@ -132879,9 +132846,11 @@
 <e>
    <map sml_ids="813"/>
    <lg>
-     <l pos="V">ärjstõõllâd</l>
+     <l pos="V">ärǥstõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">ärjstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" varid="1">ärǥstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Use/SpellNoSugg" varid="2">äärǥstõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth" varid="3">ärjstõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -132976,26 +132945,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="4101"/>
-   <lg>
-     <l pos="V">äuʹǩtõõvvâd</l>
-     <stg>
-       <st Contlex="IV_LAUKKOOLLYD" varid="1">äuʹǩtõõ%{ʹØ%}vv</st>
-       <st Contlex="IV_LAUKKOOLLYD" varid="2">ääuʹǩtõõ%{ʹØ%}vv</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">hätääntyä</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="4101"/>
    <lg>
@@ -133003,8 +132952,8 @@
      <stg>
        <st Contlex="IV_LAUKKOOLLYD" varid="1">äuʹcstõõ%{ʹØ%}vv</st>
        <st Contlex="IV_LAUKKOOLLYD" varid="2">ääuʹcstõõ%{ʹØ%}vv</st>
-       <st Contlex="IV_LAUKKOOLLYD" varid="3" status="Err/Orth">äuʹǩtõõ%{ʹØ%}vv</st>
-       <st Contlex="IV_LAUKKOOLLYD" varid="4" status="Err/Orth">ääuʹǩtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth" varid="3">äuʹǩtõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth" varid="4">ääuʹǩtõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -133506,9 +133455,10 @@
 <e>
    <map sml_ids="189"/>
    <lg>
-     <l pos="V">ääʹjeed</l>
+     <l pos="V">ääiʹjeed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">ääʹj</st>
+       <st Contlex="V_TEEQMEED">ääiʹj</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">ääʹj</st>
      </stg>
    </lg>
      <sources>
@@ -134988,9 +134938,10 @@
 <e>
    <map sml_ids="26102"/>
    <lg>
-     <l pos="V">ååiǥted</l>
+     <l pos="V">ooiǥted</l>
      <stg>
-       <st Contlex="V_SHORRNED">ååiǥat</st>
+       <st Contlex="V_AALGXTED">ooiǥât</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">ååiǥat</st>
      </stg>
    </lg>
      <sources>
@@ -136928,9 +136879,10 @@
 <e>
    <map sml_ids="21936:23633"/>
    <lg>
-     <l pos="V">čeehtted</l>
+     <l pos="V">čeehhted</l>
      <stg>
-       <st Contlex="V_">čẹẹhtt</st>
+       <st Contlex="V_SHORRNED">čẹẹhhat</st>
+       <st Contlex="V_" status="Err/Orth">čẹẹhtt</st>
      </stg>
    </lg>
      <sources>
@@ -136948,9 +136900,10 @@
 <e>
    <map sml_ids="26522"/>
    <lg>
-     <l pos="V">čeennkõõvvâd</l>
+     <l pos="V">čeeʹnkõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">čẹẹnnkõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">čeʹnkõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">čẹẹnnkõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -136967,9 +136920,10 @@
 <e>
    <map sml_ids="14921"/>
    <lg>
-     <l pos="V">čeerted</l>
+     <l pos="V">čieʹreed</l>
      <stg>
-       <st Contlex="V_SHORRNED">čẹẹrat</st>
+       <st Contlex="V_TEEQMEED">čieʹr</st>
+       <st Contlex="V_SHORRNED" status="Err/Orth">čẹẹrat</st>
      </stg>
    </lg>
      <sources>
@@ -137058,9 +137012,10 @@
 <e>
    <map sml_ids="25489"/>
    <lg>
-     <l pos="V">čeuʹllõõvvâd</l>
+     <l pos="V">čeullõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">čeuʹllõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">čeullõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">čeuʹllõõ%{ʹØ%}vv</st>
      </stg>
      <compg drv="N:Suf»V" type="Der">
        <comp ms="N" ord="E1" pos="N">čeuʹll</comp>
@@ -137296,9 +137251,10 @@
 <e>
    <map sml_ids="34135"/>
    <lg>
-     <l pos="V">čeäkrded</l>
+     <l pos="V">čeäkkred</l>
      <stg>
-       <st Contlex="V_TEYPSTED">čeäkkard</st>
+       <st Contlex="V_SHORRNED">čeäkkar</st>
+       <st Contlex="V_TEYPSTED" status="Err/Orth">čeäkkard</st>
      </stg>
    </lg>
      <sources>
@@ -137486,12 +137442,13 @@
 <e>
    <map sml_ids="22823:23994:16422"/>
    <lg>
-     <l pos="V">čeʹptted</l>
+     <l pos="V">čepttjed</l>
      <etymology>
        <cognate modality="plausible" pos="V" src="aku_2019-02-24" xml:lang="sme">čiktit</cognate>
      </etymology>
      <stg>
-       <st Contlex="V_CEQPCCED">čẹ%^1VOW%{ʹØ%}ptt</st>
+       <st Contlex="V_KUYDHDHDHJED">čẹ%^1VOWptt</st>
+       <st Contlex="V_CEQPCCED" status="Err/Orth">čẹ%^1VOW%{ʹØ%}ptt</st>
      </stg>
    </lg>
      <sources>
@@ -138173,7 +138130,7 @@
      <variants>
        <l_syn>čiõʹlǧǧeed</l_syn>
        <l_syn>čiõlǥeed</l_syn>
-       <l_syn>seʹlvted</l_syn>
+       <l_syn>seʹlvvted</l_syn>
        <l_syn>seʹlvveed</l_syn>
        <l_syn>seʹlvvjed</l_syn>
      </variants>
@@ -138293,7 +138250,7 @@
      <variants>
        <l_syn>čiõʹlǧǧeed</l_syn>
        <l_syn>čiõlggeed</l_syn>
-       <l_syn>seʹlvted</l_syn>
+       <l_syn>seʹlvvted</l_syn>
        <l_syn>seʹlvveed</l_syn>
        <l_syn>seʹlvvjed</l_syn>
      </variants>
@@ -138926,7 +138883,7 @@
    <lg>
      <l pos="V">čokkned</l>
      <stg>
-       <st Contlex="V_SHORRNED">čokkan</st>
+       <st Contlex="V_KHIORGGNED">čokkân</st>
      </stg>
    </lg>
      <sources>
@@ -139666,7 +139623,7 @@
        <cognate xml:lang="sjd">чуэннче</cognate>
      </etymology>
      <stg>
-       <st Contlex="IV_VUAGGGAD">čuẹǯʼǯ</st>
+       <st Contlex="IV_VUAGGGAD">čuẹǯˈǯ</st>
      </stg>
    </lg>
      <sources>
@@ -141045,9 +141002,10 @@
 <e>
    <map sml_ids="16299"/>
    <lg>
-     <l pos="V">čuäʹǧǧõõvvâd</l>
+     <l pos="V">čuäggõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">čuäʹǧǧõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">čuäggõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">čuäʹǧǧõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -141695,9 +141653,10 @@
 <e>
    <map sml_ids="19847"/>
    <lg>
-     <l pos="V">čuõmârdõõvvâd</l>
+     <l pos="V">čuõmrdõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">čuõmârdõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">čuõmrdõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">čuõmârdõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -141806,7 +141765,7 @@
        <cognate xml:lang="sjd">чӯһпэ</cognate>
      </etymology>
      <stg>
-       <st Contlex="V_HUOLLYD">čuõ%{ʹØ%}pp</st>
+       <st Contlex="V_RIYDDDYD">čuõ%{ʹØ%}pˈp</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4449</c>
@@ -141863,7 +141822,7 @@
    <lg>
      <l pos="V">čuõppâd sueiʹnid</l>
      <stg>
-       <st Contlex="V_">čuõppâd sueiʹnid</st>
+       <st Contlex="V_">čuõpˈpâd sueiʹnid</st>
      </stg>
    </lg>
      <sources>
@@ -142414,12 +142373,13 @@
 <e>
    <map sml_ids="22430"/>
    <lg>
-     <l pos="V">čuõʹjjted</l>
+     <l pos="V">čuõjjeed</l>
      <etymology>
        <cognate modality="plausible" pos="V" src="aku_2019-02-24" xml:lang="sme">čuojahit</cognate>
      </etymology>
      <stg>
-       <st Contlex="V_KHEEQRJTED">čuõʹjjet</st>
+       <st Contlex="V_KHEEQRJTED">čuõjj</st>
+       <st Contlex="V_KHEEQRJTED" status="Err/Orth">čuõʹjjet</st>
      </stg>
    </lg>
      <sources>
@@ -142681,9 +142641,10 @@
 <e>
    <map sml_ids="7354"/>
    <lg>
-     <l pos="V">čâmmõõvvâd</l>
+     <l pos="V">čämmõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">čâmmõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">čämmõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">čâmmõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -143472,9 +143433,10 @@
 <e>
    <map sml_ids="17245"/>
    <lg>
-     <l pos="V">čäʹllʼjõõvvâd</l>
+     <l pos="V">čällʼjõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">čäʹllʼjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">čällʼjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">čäʹllʼjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -145140,25 +145102,6 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="23728"/>
-   <lg>
-     <l pos="V">šejjšted</l>
-     <stg>
-       <st Contlex="V_">šẹjjšted</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">säteillä</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="23728"/>
    <lg>
@@ -145182,9 +145125,10 @@
 <e>
    <map sml_ids="22254"/>
    <lg>
-     <l pos="V">šesnnad</l>
+     <l pos="V">šešnnad</l>
      <stg>
-       <st Contlex="V_SARNNAD">šẹ%^1VOWsnn</st>
+       <st Contlex="V_SARNNAD">šẹ%^1VOWšnn</st>
+       <st Contlex="V_SARNNAD" status="Err/Orth">šẹ%^1VOWsnn</st>
      </stg>
    </lg>
      <sources>
@@ -145422,7 +145366,8 @@
        <etymon algu_lekseemi_id="58571" id="153775" xml:lang="sms">šieʹtted</etymon>
      </etymology>
      <stg>
-       <st Contlex="V_SHIEQTTTED">šeâ%{ʹØ%}tˈt</st>
+       <st Contlex="V_TIEQTTED">šeâ%{ʹØ%}tt</st>
+       <st Contlex="V_SHIEQTTTED" status="Err/Orth">šeâ%{ʹØ%}tˈt</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4983</c>
@@ -145922,9 +145867,10 @@
 <e>
    <map sml_ids="5940"/>
    <lg>
-     <l pos="V">škääited</l>
+     <l pos="V">škääjted</l>
      <stg>
-       <st Contlex="V_">škääited</st>
+       <st Contlex="V_VUEJTED">škääjat</st>
+       <st Contlex="V_" status="Err/Orth">škääited</st>
      </stg>
    </lg>
      <sources>
@@ -146215,9 +146161,10 @@
 <e>
    <map sml_ids="12312"/>
    <lg>
-     <l pos="V">šluäʹđted</l>
+     <l pos="V">šluäđted</l>
      <stg>
-       <st Contlex="V_KHEEQRJTED">šluäʹđet</st>
+       <st Contlex="V_VUEJTED">šluäđat</st>
+       <st Contlex="V_KHEEQRJTED" status="Err/Orth">šluäʹđet</st>
      </stg>
    </lg>
      <sources>
@@ -146353,9 +146300,10 @@
 <e>
    <map sml_ids="6734"/>
    <lg>
-     <l pos="V">šmeergted</l>
+     <l pos="V">šmerggted</l>
      <stg>
-       <st Contlex="V_VUEJTED">šmẹẹrǥat</st>
+       <st Contlex="V_VUEJTED">šmẹrggat</st>
+       <st Contlex="V_VUEJTED" status="Err/Orth">šmẹẹrǥat</st>
      </stg>
    </lg>
      <sources>
@@ -146443,9 +146391,10 @@
 <e>
    <map sml_ids="2684"/>
    <lg>
-     <l pos="V">šmiõrkeed</l>
+     <l pos="V">šmiõrkâʹtted</l>
      <stg>
-       <st Contlex="V_SILTTEED">šmiõrk</st>
+       <st Contlex="V_SILTTEED">šmiõrkâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_SILTTEED" status="Err/Orth">šmiõrk</st>
      </stg>
    </lg>
      <sources>
@@ -146462,9 +146411,10 @@
 <e>
    <map sml_ids="2686"/>
    <lg>
-     <l pos="V">šmiõrkkõõvvâd</l>
+     <l pos="V">šmiõrkõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">šmiõrkkõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">šmiõrkõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">šmiõrkkõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -146483,7 +146433,7 @@
    <lg>
      <l pos="V">šmoiggad</l>
      <stg>
-       <st Contlex="V_MEINNAD">šmo%^1VOWigg</st>
+       <st Contlex="V_LAEULLAD">šmo%^1VOWigg</st>
      </stg>
    </lg>
      <sources>
@@ -146879,9 +146829,10 @@
 <e>
    <map sml_ids="33952"/>
    <lg>
-     <l pos="V">špeigghâʹtted</l>
+     <l pos="V">špeeiǥhâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">špẹigghâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">špẹẹiǥhâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">špẹigghâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -148946,7 +148897,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="V">pujahuttaa lanka neulansilmään</t>
+       <t pos="V">pujauttaa lanka neulansilmään</t>
      </tg>
    </mg>
 </e>
@@ -149249,8 +149200,9 @@
 </e>
 <e>
    <lg>
-     <l pos="V">ǩeeʹlljeed</l>
+     <l pos="V">ǩeelljeed</l>
      <stg>
+       <st Contlex="V_SOLLEED">ǩeellj</st>
        <st Contlex="V_TEEQMEED">ǩeeʹllj</st>
      </stg>
    </lg>
@@ -149738,9 +149690,10 @@
 <e>
    <map sml_ids="23104"/>
    <lg>
-     <l pos="V">ǩeâittõõllâd</l>
+     <l pos="V">ǩeâitõõllâd</l>
      <stg>
-       <st Contlex="V_LAUKKOOLLYD">ǩeâittõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD">ǩeâitõõ%{ʹØ%}ll</st>
+       <st Contlex="V_LAUKKOOLLYD" status="Err/Orth">ǩeâittõõ%{ʹØ%}ll</st>
      </stg>
    </lg>
      <sources>
@@ -151085,9 +151038,10 @@
    <map stamp="fm_4772" fin_lemma_id="27213"/>
    <rev-sort_key>detsˈsäeǩ</rev-sort_key>
    <lg>
-     <l pos="V">ǩeässted</l>
+     <l pos="V">ǩeäsʼsted</l>
      <stg>
-       <st Contlex="TV_SHORRNED">ǩeäsˈsat</st>
+       <st Contlex="TV_TEYPSTED">ǩeässast</st>
+       <st Contlex="TV_SHORRNED" status="Err/Orth">ǩeäsˈsat</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4773</c>
@@ -151322,9 +151276,10 @@
 <e>
    <map sml_ids="15739"/>
    <lg>
-     <l pos="V">ǩeäʹrǥeed</l>
+     <l pos="V">ǩeärǥeed</l>
      <stg>
-       <st Contlex="V_TEEQMEED">ǩeäʹrǥ</st>
+       <st Contlex="V_SOLLEED">ǩeärǥ</st>
+       <st Contlex="V_TEEQMEED" status="Err/Orth">ǩeäʹrǥ</st>
      </stg>
    </lg>
      <sources>
@@ -151361,8 +151316,9 @@
 <e>
    <map sml_ids="6951"/>
    <lg>
-     <l pos="V">ǩeäʹʒʒnõõvvâd</l>
+     <l pos="V">ǩeäʒʒned</l>
      <stg>
+       <st Contlex="IV_SHORRNED">ǩeäʒˈʒan</st>
        <st Contlex="IV_LAUKKOOLLYD">ǩeäʹʒˈʒnõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
@@ -151380,8 +151336,9 @@
 <e>
    <map sml_ids="6959"/>
    <lg>
-     <l pos="V">ǩeʹhtteed</l>
+     <l pos="V">ǩeʹhttjed</l>
      <stg>
+       <st Contlex="V_VOQLLJED">ǩeʹhtt</st>
        <st Contlex="V_TEEQMEED">ǩeʹhtt</st>
      </stg>
    </lg>
@@ -151721,12 +151678,33 @@
      </tg>
    </mg>
 </e>
+<e>
+   <map sml_ids="33934"/>
+   <lg>
+     <l pos="V">ǩeʹrjjlõõvvâd</l>
+     <stg>
+       <st Contlex="IV_LAUKKOOLLYD">ǩeʹrjjlõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">ǩeʹrjstõõ%{ʹØ%}vv</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="V">kirjallistua</t>
+     </tg>
+   </mg>
+</e>
 <e exclude="fst">
    <map sml_ids="8076"/>
    <lg>
-     <l pos="V">ǩeʹrjjted mušttu</l>
+     <l pos="V">ǩeeʹrjted mušttu</l>
      <stg>
-       <st Contlex="V_">ǩeʹrjjted mušttu</st>
+       <st Contlex="V_">ǩeeʹrjted mušttu</st>
+       <st Contlex="V_" status="Err/Orth">ǩeʹrjjted mušttu</st>
      </stg>
    </lg>
      <sources>
@@ -151755,45 +151733,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="V">pakinoida</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="33934"/>
-   <lg>
-     <l pos="V">ǩeʹrjstõõvvâd</l>
-     <stg>
-       <st Contlex="IV_LAUKKOOLLYD">ǩeʹrjstõõ%{ʹØ%}vv</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="V">kirjallistua</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="33934"/>
-   <lg>
-     <l pos="V">ǩeʹrjjlõõvvâd</l>
-     <stg>
-       <st Contlex="IV_LAUKKOOLLYD">ǩeʹrjjlõõ%{ʹØ%}vv</st>
-       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">ǩeʹrjstõõ%{ʹØ%}vv</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V">kirjallistua</t>
      </tg>
    </mg>
 </e>
@@ -152032,9 +151971,10 @@
 <e>
    <map sml_ids="7779"/>
    <lg>
-     <l pos="V">ǩiddteed</l>
+     <l pos="V">ǩiddeed</l>
      <stg>
-       <st Contlex="V_SILTTEED">ǩiddt</st>
+       <st Contlex="V_SILTTEED">ǩidd</st>
+       <st Contlex="V_SILTTEED" status="Err/Orth">ǩiddt</st>
      </stg>
    </lg>
      <sources>
@@ -152157,8 +152097,9 @@
 <e>
    <map sml_ids="15072"/>
    <lg>
-     <l pos="V">ǩieʹppted</l>
+     <l pos="V">ǩiõpttâd</l>
      <stg>
+       <st Contlex="V_KUOSKKYD">ǩiõ%{ʹØ%}ptt</st>
        <st Contlex="V_KHEEQRJTED">ǩieʹppet</st>
      </stg>
    </lg>
@@ -152802,12 +152743,32 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="15100"/>
    <lg>
      <l pos="V">ǩiâpptõõvvâd</l>
      <stg>
        <st Contlex="IV_LAUKKOOLLYD">ǩiâpptõõ%{ʹØ%}vv</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="xyz">
+       <t pos="V">nokeentua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <map sml_ids="15100"/>
+   <lg>
+     <l pos="V">ǩiõptčõõttâd</l>
+     <stg>
+       <st Contlex="IV_LAUKKOOLLYD">ǩiõptčõõ%{ʹØ%}tt</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Lex">ǩiâpptõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -153010,9 +152971,10 @@
 <e>
    <map sml_ids="7652:10294"/>
    <lg>
-     <l pos="V">ǩiõbrnʼjed</l>
+     <l pos="V">ǩiõbrnjed</l>
      <stg>
-       <st Contlex="IV_KUOCCJED">ǩiõbrn</st>
+       <st Contlex="IV_KHIORGGNED">ǩiõbrânj</st>
+       <st Contlex="IV_KUOCCJED" status="Err/Orth">ǩiõbrn</st>
      </stg>
    </lg>
      <sources>
@@ -153030,9 +152992,10 @@
 <e>
    <map sml_ids="10297"/>
    <lg>
-     <l pos="V">ǩiõbrnʼjâʹtted</l>
+     <l pos="V">ǩiõbrnjâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">ǩiõbrnʼjâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">ǩiõbrnjâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">ǩiõbrnʼjâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -153049,9 +153012,10 @@
 <e>
    <map sml_ids="10295:8000"/>
    <lg>
-     <l pos="V">ǩiõbrnʼjõõvvâd</l>
+     <l pos="V">ǩiõbrnjõõvvâd</l>
      <stg>
-       <st Contlex="IV_LAUKKOOLLYD">ǩiõbrnʼjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD">ǩiõbrnjõõ%{ʹØ%}vv</st>
+       <st Contlex="IV_LAUKKOOLLYD" status="Err/Orth">ǩiõbrnʼjõõ%{ʹØ%}vv</st>
      </stg>
    </lg>
      <sources>
@@ -153331,9 +153295,10 @@
 <e exclude="fst">
    <map sml_ids=""/>
    <lg>
-     <l pos="V">ǩiõppkuurč jåårǥlâʹtted</l>
+     <l pos="V">ǩiõppkuuʹrč jåårǥlâʹtted</l>
      <stg>
-       <st Contlex="V_KAEQTTED">ǩiõppkuurč jåårǥlâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED">ǩiõpp#kuuʹrč jåårǥlâ%^1VOW%{ʹØ%}tt</st>
+       <st Contlex="V_KAEQTTED" status="Err/Orth">ǩiõppkuurč jåårǥlâ%^1VOW%{ʹØ%}tt</st>
      </stg>
    </lg>
      <sources>
@@ -153719,8 +153684,9 @@
 </e>
 <e>
    <lg>
-     <l pos="V">ǩiõuddted</l>
+     <l pos="V">ǩiõuddeed</l>
      <stg>
+       <st Contlex="V_SILTTEED">ǩiõudd</st>
        <st Contlex="V_AALGXTED">ǩiõuddât</st>
      </stg>
    </lg>
@@ -154219,7 +154185,7 @@
        <l_syn>praavâd</l_syn>
      </variants>
      <stg>
-       <st Contlex="V_PIOGGGYD">ǩi%{ʹØ%}čˈč</st>
+       <st Contlex="V_ROVVYD">ǩi%{ʹØ%}čč</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">4943</c>
@@ -154378,9 +154344,10 @@
 <e>
    <map sml_ids="8003"/>
    <lg>
-     <l pos="V">ǩiʹppsjed</l>
+     <l pos="V">ǩiʹpssjed</l>
      <stg>
-       <st Contlex="V_VOQLLJED">ǩiʹpps</st>
+       <st Contlex="V_VOQLLJED">ǩiʹpss</st>
+       <st Contlex="V_VOQLLJED" status="Err/Orth">ǩiʹpps</st>
      </stg>
    </lg>
      <sources>

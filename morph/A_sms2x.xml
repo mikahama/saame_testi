@@ -115,6 +115,7 @@
      <l pos="A">aaili</l>
      <stg>
        <st Contlex="A_">aail%{ʼØ%}i</st>
+       <st Contlex="A-ATTR_">aailsõs</st>
      </stg>
    </lg>
      <sources>
@@ -129,7 +130,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="15664"/>
    <lg>
      <l pos="A" type="Attr">aailsõs</l>
@@ -423,25 +424,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">aineeton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="225"/>
-   <lg>
-     <l pos="A">aaunteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">aauntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">aineeton</t>
      </tg>
    </mg>
@@ -1564,25 +1546,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="886"/>
-   <lg>
-     <l pos="A">aʹrvvteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">aʹrvvtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">arvaamaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <lg>
      <l pos="A">aʹŋǧǧlinallšem</l>
@@ -2316,25 +2279,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="21365"/>
-   <lg>
-     <l pos="A">cieʹlǩteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">cieʹlǩtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">sanomaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="2916:7870"/>
    <lg>
@@ -2372,28 +2316,6 @@
      <tg xml:lang="fin">
        <t pos="A">sirisevä</t>
        <t pos="A">tirisevä</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_1473">
-   <map stamp="fm_1473" fin_lemma_id=""/>
-   <rev-sort_key>mʹetˈtsiic</rev-sort_key>
-   <lg>
-     <l pos="A">ciistteʹm</l>
-     <variants>
-       <l_attr>ciistˈteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">ciistˈtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">unehrlich</t>
      </tg>
    </mg>
 </e>
@@ -2489,26 +2411,6 @@
      <tg xml:lang="rus">
        <t pos="A">нечестный</t>
        <t pos="A">бесчестный</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="1708:9517"/>
-   <lg>
-     <l pos="A">ciistʼteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ciistʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">epäkohtelias</t>
-       <t pos="A">kunniaton</t>
      </tg>
    </mg>
 </e>
@@ -3227,36 +3129,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="1901"/>
-   <lg>
-     <l pos="A">cõõǥteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">cõõǥtẹ%^1VOW%{ʹØ%}m</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A_Pl_Nom">
-           <wordform>-teeʹm</wordform>
-       </analysis>
-       <analysis ms="A_Attr">
-           <wordform>cõõǥteʹmes</wordform>
-       </analysis>
-       <analysis ms="A_Sg_Ill">
-           <wordform>-tẹmma</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">esteetön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="1901"/>
    <lg>
@@ -3264,7 +3136,7 @@
      <stg>
        <st Contlex="A_NALLSHEM">cõõǥǥtẹ%^1VOW%{ʹØ%}m</st>
        <st Contlex="A_NALLSHEM" status="Err/Orth">cõõǥtẹ%^1VOW%{ʹØ%}m</st>
-       <mini_paradigm exclude="NDS">
+     <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>cõõǥǥteeʹm</wordform>
        </analysis>
@@ -3632,36 +3504,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="29212"/>
-   <lg>
-     <l pos="A">eeuʹnteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">eeuʹntẹ%^1VOW%{ʹØ%}m</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A_Attr">
-           <wordform>eeuʹnteʹmes</wordform>
-       </analysis>
-       <analysis ms="A_Pl_Nom">
-           <wordform>-teeʹm</wordform>
-       </analysis>
-       <analysis ms="A_Sg_Ill">
-           <wordform>-tẹmma</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">väritön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="4600"/>
    <lg>
@@ -3764,40 +3606,6 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="A">без отца</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_1680">
-   <map stamp="fm_1680:sml_3486" sml_ids="4688" fin_lemma_id="4688::"/>
-   <rev-sort_key>mʹetjjʹee</rev-sort_key>
-   <lg>
-     <l pos="A">eeʹjjteʹm</l>
-     <variants>
-       <l_attr>eeʹjjteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">eeʹjjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">1681</c>
-       <c name="Reader">4</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>eeʹjjteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">vaterlos</t>
      </tg>
    </mg>
 </e>
@@ -4289,25 +4097,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">euromääräinen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="2000"/>
-   <lg>
-     <l pos="A">euʹrrmierrsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH" NumContlex="1.26">euʹrrmierrs</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">euromääräinen</t>
      </tg>
    </mg>
@@ -5467,25 +5256,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="2240"/>
-   <lg>
-     <l pos="A">haajjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">haajjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">hajuton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="2727"/>
    <lg>
@@ -5770,7 +5540,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="2793"/>
    <lg>
      <l pos="A" type="Attr">heäjas</l>
@@ -6100,7 +5870,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="3834"/>
    <lg>
      <l pos="A" type="Attr">hieʹrvves</l>
@@ -6377,7 +6147,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="2964"/>
    <lg>
      <l pos="A" type="Attr">hiâlpâs</l>
@@ -6934,38 +6704,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_1123">
-   <map stamp="fm_1123:sml_4315:sml_4316:sml_4317" fin_lemma_id="29145::::3690::::3684::"/>
-   <rev-sort_key>mʹetlõuh</rev-sort_key>
-   <lg>
-     <l pos="A">huõlteʹm</l>
-     <variants>
-       <l_syn>peʹcclatem</l_syn>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">huõltẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <etymology>
-       <etymon algu_lekseemi_id="86794" id="259445" xml:lang="sms">huõlteʹmes</etymon>
-     </etymology>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>huõlteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="book" name="KKS" page="42:15.2"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">nachlässig</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <lg>
      <l pos="A">hydrolooglaž</l>
@@ -7204,7 +6942,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=":"/>
    <lg>
      <l pos="A" type="Attr">härččas</l>
@@ -7276,25 +7014,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">muodoton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="33959:14083"/>
-   <lg>
-     <l pos="A">häämteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">häämtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">muodoton</t>
      </tg>
    </mg>
@@ -7699,7 +7418,7 @@
      </tg>
    </mg>
 </e>
-<e id="fm_1509">
+<e exclude="fst" id="fm_1509">
    <map stamp="fm_1509:sml_4504" fin_lemma_id="23377::"/>
    <rev-sort_key>sõšmii</rev-sort_key>
    <lg>
@@ -8253,7 +7972,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="9190:20769"/>
    <lg>
      <l pos="A" type="Attr">iŋŋ</l>
@@ -8299,7 +8018,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="3981:4306:14816::29526"/>
    <lg>
      <l pos="A" type="Attr">iʹlbbes</l>
@@ -8410,7 +8129,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="19660:28560:"/>
    <lg>
      <l pos="A" type="Attr">jaaldâs</l>
@@ -8915,7 +8634,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=""/>
    <lg>
      <l pos="A" type="Attr">jeällšõs</l>
@@ -9013,6 +8732,7 @@
      </variants>
      <stg>
        <st Contlex="A_SAELTTAI" inflexId="::::1.2">jeärmm</st>
+       <st Contlex="A-ATTR_" status="Err/Orth">jiẹʹrmes</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3788</c>
@@ -9022,7 +8742,7 @@
      </inc-audio>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Attr">
-           <wordform>jieʹrmmes</wordform>
+           <wordform>jeärmmas</wordform>
            <wordform>jeäʹrmm-</wordform>
        </analysis>
      </mini_paradigm>
@@ -9238,7 +8958,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="5498"/>
    <lg>
      <l pos="A" type="Attr">jeäʹrmmšõs</l>
@@ -9480,7 +9200,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="5498:29164:29737"/>
    <lg>
      <l pos="A" type="Attr">jieʹrmes</l>
@@ -9495,7 +9215,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">järkevä</t>
        <t pos="A">viisas</t>
        <t pos="A">välkky</t>
@@ -9587,7 +9307,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="5476"/>
    <lg>
      <l pos="A" type="Attr">jieʹrǧǧes</l>
@@ -9938,26 +9658,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="1531:2983"/>
-   <lg>
-     <l pos="A">jiõggteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">jiõggtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">eloton</t>
-       <t pos="A">hengetön</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_3799">
    <map stamp="fm_3799:sml_5365" fin_lemma_id="2975::"/>
    <rev-sort_key>žavlgõij</rev-sort_key>
@@ -10103,59 +9803,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="A">lautlos</t>
-       <t pos="A">geräuschlos</t>
-       <t pos="A">still</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">silent</t>
-       <t pos="A">quiet</t>
-       <t pos="A">soundless</t>
-       <t pos="A">dumb</t>
-       <t pos="A">mute</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">mykkä</t>
-       <t pos="A">äänetön</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">lydløs</t>
-       <t pos="A">stille</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">безмолвный</t>
-       <t pos="A">молчаливый</t>
-       <t pos="A">беззвучный</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_3615">
-   <map stamp="fm_3615:sml_5433" fin_lemma_id="29803::"/>
-   <rev-sort_key>mʹetnõij</rev-sort_key>
-   <lg>
-     <l pos="A">jiõnteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">jiõntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">3616</c>
-       <c name="Reader">6</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>jiõnteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">lautlos</t>
        <t pos="A">geräuschlos</t>
        <t pos="A">still</t>
@@ -10348,9 +9995,10 @@
 <e>
    <map sml_ids="15929"/>
    <lg>
-     <l pos="A">jiõččtuåimlaž</l>
+     <l pos="A">jiõččtåimlaž</l>
      <stg>
-       <st Contlex="A_MEERSAZH">jiõččtuåiml</st>
+       <st Contlex="A_MEERSAZH">jiõčč#tåiml</st>
+       <st Contlex="A_MEERSAZH" status="Err/Orth">jiõččtuåiml</st>
      </stg>
    </lg>
      <sources>
@@ -10634,7 +10282,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="19156"/>
    <lg>
      <l pos="A" type="Attr">jorbb</l>
@@ -10794,25 +10442,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">jakamaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="4793"/>
-   <lg>
-     <l pos="A">jueʹjjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">jueʹjjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">jakamaton</t>
      </tg>
    </mg>
@@ -11155,25 +10784,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="4790"/>
-   <lg>
-     <l pos="A">juâkkjeteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">juâkkjetẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">jakaantumaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="12498"/>
    <lg>
@@ -11313,7 +10923,6 @@
      <l pos="A">juârbbal</l>
      <stg>
        <st Contlex="A_AANAR" inflexId="::::" varid="1">juârbbal</st>
-       <st Contlex="A-ATTR_" inflexId="::::" varid="2">juârbblõs</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5771</c>
@@ -11365,25 +10974,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">vakaa</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="27117"/>
-   <lg>
-     <l pos="A">juârbteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">juârbtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">vakaa</t>
      </tg>
    </mg>
@@ -11625,7 +11215,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="4624"/>
    <lg>
      <l pos="A" type="Attr">juõʹlles</l>
@@ -11664,7 +11254,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="5194:8257:12280:12513:19761:"/>
    <lg>
      <l pos="A" type="Attr">juõʹvves</l>
@@ -11922,7 +11512,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="16229:28177:"/>
    <lg>
      <l pos="A" type="Attr">jâkk</l>
@@ -12000,25 +11590,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">maaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="13156:13020"/>
-   <lg>
-     <l pos="A">jânnamteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">jânnamtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">maaton</t>
      </tg>
    </mg>
@@ -12657,32 +12228,6 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="4919"/>
-   <lg>
-     <l pos="A">jäävvteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">jäävvtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <compg drv="N»A" type="Der">
-       <comp fin="jauho" ms="" ord="E1" pos="N»A">jävv</comp>
-       <comp drv="" ord="E2" pos="Suf" type="Der/teʹm"/> </compg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">jauhoton</t>
-     </tg>
-     <xg>
-       <x src="VJO:2012:75">A jäävv ku leʹjje occanj, kook jäävvteeʹm leʹjje, de tõk leeiʹb sâjja tõn raʹjje.</x>
-       <xt xml:lang="fin">Kun jauhoja oli vähän, [ne] joilla ei ollut jauhoja (sananmukaisesti: olivat jauhottomia), tekivät sitä (pettupuuroa) leivän sijaan.</xt>
-     </xg>
-   </mg>
-</e>
 <e>
    <map sml_ids="12262:10651"/>
    <lg>
@@ -12764,52 +12309,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="A">unsterblich</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">immortal</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kuolematon</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">udødelig</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">бессмертный</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_2203">
-   <map stamp="fm_2203:fm_6264:sml_6329:sml_6329" fin_lemma_id="9591::"/>
-   <rev-sort_key>mʹetmʹääj</rev-sort_key>
-   <lg>
-     <l pos="A">jääʹmteʹm</l>
-     <variants>
-       <l_attr>jääʹmteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">jääʹmtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2204</c>
-       <c name="Reader">6</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>jääʹmteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">unsterblich</t>
      </tg>
      <tg xml:lang="eng">
@@ -13119,7 +12618,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="15133"/>
    <lg>
      <l pos="A" type="Attr">jåʹttlõs</l>
@@ -13320,7 +12819,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="3278"/>
    <lg>
      <l pos="A" type="Attr">jõskk</l>
@@ -13433,7 +12932,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="3618:18268:29571"/>
    <lg>
      <l pos="A" type="Attr">jõõllâs</l>
@@ -13571,7 +13070,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="1097:24416"/>
    <lg>
      <l pos="A" type="Attr">jõʹlǧǧes</l>
@@ -13702,7 +13201,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="33868:6094:"/>
    <lg>
      <l pos="A" type="Attr">kaallšõs</l>
@@ -13856,7 +13355,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="10690"/>
    <lg>
      <l pos="A" type="Attr">kaauŋlõs</l>
@@ -14190,7 +13689,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="26826:2113:6127:"/>
    <lg>
      <l pos="A" type="Attr">kaiʹǧǧes</l>
@@ -14252,7 +13751,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="20747:26830"/>
    <lg>
      <l pos="A" type="Attr">kaiʹǧǧesruʹčǩǩes</l>
@@ -14591,7 +14090,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="A" type="Attr">kaʹrǩǩes</l>
      <stg>
@@ -14678,46 +14177,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="A">jmd. der keine Mütze aufhat</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">s.o. without a bonnet</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">lakiton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">uten lue</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">без шапки</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_5958">
-   <map stamp="fm_5958" fin_lemma_id="10877"/>
-   <rev-sort_key>mʹetrepˈpʹäek</rev-sort_key>
-   <lg>
-     <l pos="A">keäʹpperteʹm</l>
-     <variants>
-       <l_attr>keäʹpperteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">keäʹpˈpertẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5959</c>
-       <c name="Reader">7</c>
-       <c name="Recording">6</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">jmd. der keine Mütze aufhat</t>
      </tg>
      <tg xml:lang="eng">
@@ -15863,7 +15322,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="10001"/>
    <lg>
      <l pos="A" type="Attr">kooʹržvõs</l>
@@ -15933,7 +15392,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="20867"/>
    <lg>
      <l pos="A" type="Attr">korppas</l>
@@ -16139,8 +15598,9 @@
 <e>
    <map sml_ids="20867"/>
    <lg>
-     <l pos="A">koʹrppai</l>
+     <l pos="A">korppai</l>
      <stg>
+       <st Contlex="A_SAELTTAI">korpp</st>
        <st Contlex="A_">koʹrppai</st>
      </stg>
    </lg>
@@ -16620,7 +16080,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="6470"/>
    <lg>
      <l pos="A" type="Attr">krååvnõs</l>
@@ -16801,78 +16261,6 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst" id="fm_2192">
-   <map stamp="fm_2192:sml_8276:sml_8277:sml_8278:sml_8279:sml_8280:sml_10219" fin_lemma_id="6039::::5076::::25767::::13880::::1706::::7203::"/>
-   <rev-sort_key>mʹetdduk</rev-sort_key>
-   <lg>
-     <l pos="A">kuddteʹm</l>
-     <variants>
-       <l_syn>ǩeâʹlbteʹm</l_syn>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">kuddtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2193</c>
-       <c name="Reader">7</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <compg drv="A»A" type="Der">
-       <comp fin="kelpo" ms="" ord="E1" pos="A»A">kudd-</comp>
-       <comp drv="" ord="E2" pos="Suf" type="Der/teʹm"/> </compg>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>kuddteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">frei</t>
-       <t pos="A">müßig</t>
-       <t pos="A">unbrauchbar</t>
-       <t pos="A">fischlos (von einem See)</t>
-     </tg>
-     <tg xml:lang="xyz">
-       <t pos="A">free</t>
-       <t pos="A">idle</t>
-       <t pos="A">useless</t>
-       <t pos="A">fishless (of a lake)</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">joutava</t>
-       <t pos="A">turhanaikainen</t>
-       <t pos="A">mitätön</t>
-       <t pos="A">joutilas</t>
-       <t pos="A">kelvoton</t>
-       <t pos="A">epäkelpo</t>
-       <t pos="A">kalaton (järvestä)</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">ledig</t>
-       <t pos="A">ubrukelig</t>
-       <t pos="A">udugelig</t>
-       <t pos="A" descr_trans="om innsjø">uten fisk</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">праздный</t>
-       <t pos="A">незанятый</t>
-       <t pos="A">негодный</t>
-       <t pos="A">непригодный</t>
-       <t pos="A">безрыбный (об озере)</t>
-     </tg>
-     <xg>
-       <x src="VJO:2012:20">Tõt âma iʹlla kuddteʹmes ooumaž.</x>
-       <xt xml:lang="fin">Ei kai se ole kelvoton mies.</xt>
-     </xg>
-   </mg>
-</e>
 <e exclude="fst" id="fm_2191">
    <map stamp="fm_2191" fin_lemma_id=""/>
    <rev-sort_key>semʹetdduk</rev-sort_key>
@@ -16922,45 +16310,6 @@
        <t pos="A">негодный</t>
        <t pos="A">непригодный</t>
        <t pos="A">безрыбный (об озере)</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="18237"/>
-   <lg>
-     <l pos="A">kueimma naddjõõtti</l>
-     <stg>
-       <st Contlex="A_PRSPRC-VVCC-I">kueimma naddjõõtti</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">toiseen tukeutuva</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="18237"/>
-   <lg>
-     <l pos="A">kuâimma naʹddjõõtti</l>
-     <stg>
-       <st Contlex="A_PRSPRC-VVCC-I">kuâimma naʹddjõõtti</st>
-       <st Contlex="A_PRSPRC-VVCC-I" status="Err/Orth">kueimma naddjõõtti</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">toiseen tukeutuva</t>
      </tg>
    </mg>
 </e>
@@ -17035,24 +16384,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A"/>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="A">kueiʹt-peiʹvvsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH">kueiʹt-peiʹvvs</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A"/>
      </tg>
      <defNative/>
@@ -17244,25 +16575,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="15546"/>
-   <lg>
-     <l pos="A">kuestʼteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">kuestʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">näkymätön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <lg>
      <l pos="A">kueʹhtekksaž</l>
@@ -17343,7 +16655,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="5982"/>
    <lg>
      <l pos="A" type="Attr">kueʹlles</l>
@@ -17357,7 +16669,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">kalaisa</t>
      </tg>
    </mg>
@@ -17382,25 +16694,6 @@
    </mg>
 </e>
 <e exclude="fst">
-   <map sml_ids="6038"/>
-   <lg>
-     <l pos="A">kueʹlteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">kueʹltẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">kalaton</t>
-     </tg>
-   </mg>
-</e>
-<e>
    <map sml_ids="6133:9921"/>
    <lg>
      <l pos="A" type="Attr">kueʹlšes</l>
@@ -17420,7 +16713,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="26025"/>
    <lg>
      <l pos="A" type="Attr">kueʹlǩes</l>
@@ -17489,7 +16782,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="9116::25768:25768"/>
    <lg>
      <l pos="A" type="Attr">kueʹncces</l>
@@ -17594,7 +16887,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="12911"/>
    <lg>
      <l pos="A">kueʹsttel</l>
@@ -18089,6 +17382,26 @@
      </tg>
    </mg>
 </e>
+<e exclude="fst">
+   <map sml_ids="18237"/>
+   <lg>
+     <l pos="A">kuâimma naʹddjõõtti</l>
+     <stg>
+       <st Contlex="A_PRSPRC-VVCC-I">kuâimma naʹddjõõtti</st>
+       <st Contlex="A_PRSPRC-VVCC-I" status="Err/Orth">kueimma naddjõõtti</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">toiseen tukeutuva</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <map sml_ids="5912"/>
    <lg>
@@ -18136,6 +17449,7 @@
      <l pos="A">kuâllai</l>
      <stg>
        <st Contlex="A_SAELTTAI">kuâll</st>
+       <st Contlex="A-ATTR_" status="Err/Orth">kueʹlles</st>
      </stg>
    </lg>
      <sources>
@@ -18396,50 +17710,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_2286">
-   <map stamp="fm_2286:fm_2287" fin_lemma_id=""/>
-   <rev-sort_key>mʹetˈtsâuk</rev-sort_key>
-   <lg>
-     <l pos="A">kuâstʼteʹm</l>
-     <variants>
-       <l_attr>kuâstʼteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">kuâstʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2288</c>
-       <c name="Reader">7</c>
-       <c name="Recording">0</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">unsichtbar</t>
-       <t pos="A">unmerklich</t>
-     </tg>
-     <tg xml:lang="xyz">
-       <t pos="A">invisible</t>
-       <t pos="A">unseen</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">näkymätön</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">usynlig</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">невидимый</t>
-       <t pos="A">незримы</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="8978"/>
    <lg>
@@ -18592,7 +17862,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="8495"/>
    <lg>
      <l pos="A" type="Attr">kuälššas</l>
@@ -19064,50 +18334,6 @@
        <t pos="A">heimatlos</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="A">homeless</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">koditon</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">hjemmeløs</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">бездомный</t>
-       <t pos="A">бесприютный</t>
-       <t pos="A">беспризорный</t>
-       <t pos="A">не имеющий приюта</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_2135">
-   <map stamp="fm_2135:fm_2136" fin_lemma_id=""/>
-   <rev-sort_key>mʹetđʹäuk</rev-sort_key>
-   <lg>
-     <l pos="A">kuäʹđteʹm</l>
-     <variants>
-       <l_attr>kuäʹđteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">kuäʹđtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2137</c>
-       <c name="Reader">7</c>
-       <c name="Recording">9</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">obdachlos</t>
-       <t pos="A">heimatlos</t>
-     </tg>
-     <tg xml:lang="xyz">
        <t pos="A">homeless</t>
      </tg>
      <tg xml:lang="fin">
@@ -20014,7 +19240,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="17884"/>
    <lg>
      <l pos="A" type="Attr">kuʹǩes</l>
@@ -20054,7 +19280,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=":"/>
    <lg>
      <l pos="A" type="Attr">kuʹǩesjorbb</l>
@@ -20440,54 +19666,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_2271">
-   <map stamp="fm_2271:fm_2272:sml_6947:sml_6948" fin_lemma_id="10121::::10099::"/>
-   <rev-sort_key>mʹetanllâk</rev-sort_key>
-   <lg>
-     <l pos="A">kâllnateʹm</l>
-     <variants>
-       <l_attr>kâllnateʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">kâllnatẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2273</c>
-       <c name="Reader">7</c>
-       <c name="Recording">9</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>kâllnateʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">nimmersatt</t>
-       <t pos="A">unermüdlich</t>
-     </tg>
-     <tg xml:lang="xyz">
-       <t pos="A">insatiable</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kyllästymätön</t>
-       <t pos="A">kyltymätön</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">umettelig</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">ненасытный</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids=""/>
    <lg>
@@ -20710,7 +19888,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="28567"/>
    <lg>
      <l pos="A" type="Attr">kââlmčes</l>
@@ -20771,7 +19949,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="8143"/>
    <lg>
      <l pos="A" type="Attr">kâârčõs</l>
@@ -21020,7 +20198,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="26409"/>
    <lg>
      <l pos="A" type="Attr">käinnšõs</l>
@@ -21357,7 +20535,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="4693:8201:21191"/>
    <lg>
      <l pos="A" type="Attr">kääʹcces</l>
@@ -21450,7 +20628,7 @@
      <sources>
      </sources>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="9080"/>
    <lg>
      <l pos="A" type="Attr">kääʹšves</l>
@@ -21722,7 +20900,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="6939::"/>
    <lg>
      <l pos="A" type="Attr">käʹvvlõs</l>
@@ -22133,7 +21311,6 @@
      <l pos="A">kååʹšǩes</l>
      <stg>
        <st Contlex="A_KOAQSHKHES" inflexId="::::1.2" varid="1">kå%^1VOW%{ʹØ%}škk</st>
-       <st Contlex="A-ATTR_" varid="2">kåʹšǩǩ</st>
      </stg>
      <compg drv="V»A" type="Der">
        <comp fin="kuivua" ms="" ord="E1" pos="V»A">koškkâd</comp>
@@ -22359,7 +21536,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=":26828"/>
    <lg>
      <l pos="A" type="Attr">kåʹllviʹsǩǩes</l>
@@ -22383,9 +21560,9 @@
 <e>
    <map sml_ids="18309"/>
    <lg>
-     <l pos="N">kõbbjuʹvjj</l>
+     <l pos="A">kõbbjuʹvjj</l>
      <stg>
-       <st Contlex="N_JUQVJJ">kõbb#ju%^1VOW%{ʹØ%}v%{ʹØ%}jj</st>
+       <st Contlex="A_JUQVJJ">kõbbju%^1VOW%{ʹØ%}v%{ʹØ%}jj</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-juuʹj</wordform>
@@ -22481,7 +21658,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="A" type="Attr">kõlmm</l>
      <stg>
@@ -22694,7 +21871,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="689:25040:9078:19707:19802::"/>
    <lg>
      <l pos="A" type="Attr">kõrr</l>
@@ -22952,22 +22129,6 @@
        <t pos="A">keskimääräinen</t>
      </tg>
      <defNative>null</defNative>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="A">kõskkmieʹrrsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH">kõskkmieʹrrs</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A"/>
-     </tg>
-     <defNative/>
    </mg>
 </e>
 <e>
@@ -23488,25 +22649,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids=""/>
-   <lg>
-     <l pos="A">kõõrteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">kõõrtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">kuoreton</t>
-     </tg>
-   </mg>
-</e>
 <e meta="05" id="gt_A_12">
    <map stamp="gt_A_12:fm_3536:sml_7740:sml_7741:sml_7742:sml_7743:sml_7744:sml_7745:sml_7746" fin_lemma_id="19707:689:9078:19802:25040"/>
    <rev-sort_key>sârõõk</rev-sort_key>
@@ -23660,25 +22802,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">välitön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="29153"/>
-   <lg>
-     <l pos="A">kõõskteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">kõõsktẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">välitön</t>
      </tg>
    </mg>
@@ -23858,7 +22981,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="20733"/>
    <lg>
      <l pos="A" type="Attr">kõʹnnes</l>
@@ -23928,8 +23051,12 @@
    <map sml_ids=""/>
    <lg>
      <l pos="A">laaidâs</l>
+     <etymology>
+       <cognate modality="plausible" pos="A" src="aku_2019-02-24" xml:lang="sme">láiddas</cognate>
+     </etymology>
      <stg>
        <st Contlex="A_JOOSKYS">la%^1VOWidd</st>
+       <st Contlex="A-ATTR_" status="Err/Orth">laiddsõs</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>laiddâz</wordform>
@@ -24105,25 +23232,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids=""/>
-   <lg>
-     <l pos="A">laazzteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">laazztẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">väärinpauloitettu</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids=""/>
    <lg>
@@ -24164,6 +23272,26 @@
    </mg>
 </e>
 <e>
+   <map sml_ids="2726"/>
+   <lg>
+     <l pos="A">laaʹlli</l>
+     <stg>
+       <st Contlex="A_PRSPRC-VVCC-I">läällee</st>
+       <st Contlex="A_PRSPRC-EEI" status="Err/Orth">läällee</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">hautova</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
    <map sml_ids="8949"/>
    <lg>
      <l pos="A" type="Attr">lahtt</l>
@@ -24209,13 +23337,10 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=""/>
    <lg>
      <l pos="A" type="Attr">laiddsõs</l>
-     <etymology>
-       <cognate modality="plausible" pos="A" src="aku_2019-02-24" xml:lang="sme">láiddas</cognate>
-     </etymology>
      <stg>
        <st Contlex="A-ATTR_">laiddsõs</st>
      </stg>
@@ -24226,7 +23351,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">taluva</t>
      </tg>
    </mg>
@@ -24398,7 +23523,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=":"/>
    <lg>
      <l pos="A" type="Attr">laʹsses</l>
@@ -24458,7 +23583,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="17813"/>
    <lg>
      <l pos="A" type="Attr">laʹđđes</l>
@@ -24523,32 +23648,6 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="11413:11392"/>
-   <lg>
-     <l pos="A">leeiʹbteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">leeiʹbtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <compg drv="N»A" type="Der">
-       <comp fin="leipä" ms="" ord="E1" pos="N»A">leiʹbb</comp>
-       <comp drv="" ord="E2" pos="Suf" type="Der/teʹm"/> </compg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">leivätön</t>
-     </tg>
-     <xg>
-       <x src="VJO:2012:72">Nâ måtmin kâʹl leäi tõt leeiʹbteʹmes jieʹtt.</x>
-       <xt xml:lang="fin">No joillakin oli kyllä leivästä puutetta (sananmukaisesti: leivätön hätä).</xt>
-     </xg>
-   </mg>
-</e>
 <e>
    <map/>
    <lg>
@@ -24605,54 +23704,6 @@
        <t pos="A">unglückselig</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="A">unhappy</t>
-       <t pos="A">without luck</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">onneton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">ulykkelig</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">несчастный</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_5765">
-   <map stamp="fm_5765:sml_11666" fin_lemma_id="15980::"/>
-   <rev-sort_key>mʹetkkeel</rev-sort_key>
-   <lg>
-     <l pos="A">leekkteʹm</l>
-     <variants>
-       <l_attr>leekkteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">leekktẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5766</c>
-       <c name="Reader">8</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>leekkteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">unglücklich</t>
-       <t pos="A">unglückselig</t>
-     </tg>
-     <tg xml:lang="xyz">
        <t pos="A">unhappy</t>
        <t pos="A">without luck</t>
      </tg>
@@ -24800,9 +23851,9 @@
    <map stamp="fm_1638:sml_11720" fin_lemma_id="11700::"/>
    <rev-sort_key>ǧǧʹiel</rev-sort_key>
    <lg>
-     <l pos="N">leiʹǧǧ</l>
+     <l pos="A">leiʹǧǧ</l>
      <stg>
-       <st Contlex="N_PEIQVV" inflexId="::::1000">lẹ%^1VOWi%{ʹØ%}gg</st>
+       <st Contlex="A_PEIQVV" inflexId="::::1000">lẹ%^1VOWi%{ʹØ%}gg</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1639</c>
@@ -24811,6 +23862,9 @@
        <c name="included">yes</c>
      </inc-audio>
    </lg>
+     <sources>
+       <book type="db" name="AKU"/>
+     </sources>
    <mg relId="0">
      <semantics>
      </semantics>
@@ -24855,7 +23909,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="15988"/>
    <lg>
      <l pos="A" type="Attr">lekkas</l>
@@ -25414,7 +24468,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="15220"/>
    <lg>
      <l pos="A" type="Attr">leäkkas</l>
@@ -25950,7 +25004,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="12878"/>
    <lg>
      <l pos="A" type="Attr">liõgg</l>
@@ -26322,7 +25376,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="14189"/>
    <lg>
      <l pos="A" type="Attr">loolčõs</l>
@@ -26604,7 +25658,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="16438:16462:19877:22048"/>
    <lg>
      <l pos="A" type="Attr">loʹsses</l>
@@ -27181,7 +26235,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="12544"/>
    <lg>
      <l pos="A" type="Attr">luândnallšeʹmes</l>
@@ -27703,7 +26757,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="10713"/>
    <lg>
      <l pos="A" type="Attr">luʹhttes</l>
@@ -28183,25 +27237,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="6749"/>
-   <lg>
-     <l pos="A">läppjeteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">läppjetẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">katoamaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="12185"/>
    <lg>
@@ -28377,7 +27412,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=""/>
    <lg>
      <l pos="A" type="Attr">läädnas</l>
@@ -28548,25 +27583,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="10940"/>
-   <lg>
-     <l pos="A">lääiʹjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">lääiʹjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">langaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="10749:11661"/>
    <lg>
@@ -28587,7 +27603,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="10748:11660:13775"/>
    <lg>
      <l pos="A" type="Attr">lääiʹves</l>
@@ -28606,45 +27622,6 @@
        <t pos="A">laimea</t>
        <t pos="A">lievä</t>
        <t pos="A">mieto</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="2726"/>
-   <lg>
-     <l pos="A">läälleei</l>
-     <stg>
-       <st Contlex="A_PRSPRC-EEI">läällee</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">hautova</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="2726"/>
-   <lg>
-     <l pos="A">laaʹlli</l>
-     <stg>
-       <st Contlex="A_PRSPRC-VVCC-I">läällee</st>
-       <st Contlex="A_PRSPRC-EEI" status="Err/Orth">läällee</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">hautova</t>
      </tg>
    </mg>
 </e>
@@ -28753,52 +27730,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">nukaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="15295"/>
-   <lg>
-     <l pos="A">lääʹblteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">lääʹbltẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">nukaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="18195"/>
-   <lg>
-     <l pos="A">lääʹbǯâst põõlli</l>
-     <stg>
-       <st Contlex="A_PRSPRC-VVCC-I">lääʹbǯâst põõll%{ʼØ%}i</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A.Pl.Nom">
-           <wordform>põõli</wordform>
-       </analysis>
-       <analysis ms="A.Sg.Ill">
-           <wordform>põõllja</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">hihnaa pelkäävä</t>
      </tg>
    </mg>
 </e>
@@ -28931,25 +27862,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">laiton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="10811:10867"/>
-   <lg>
-     <l pos="A">lääʹjjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">lääʹjjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">laiton</t>
      </tg>
    </mg>
@@ -29229,7 +28141,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="18218:10786:"/>
    <lg>
      <l pos="A" type="Attr">lääʹšǩes</l>
@@ -29326,7 +28238,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="33970"/>
    <lg>
      <l pos="A" type="Attr">lääʹǩǩvaikktemnallšeʹmes</l>
@@ -29672,24 +28584,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <lg>
-     <l pos="A">lååʹvmieʹlddsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH">lååʹv#mieʹldds</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A"/>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
 <e id="fm_1823">
    <map stamp="fm_1823:sml_12854" fin_lemma_id="12680::"/>
    <rev-sort_key>mʹetvʹåål</rev-sort_key>
@@ -29724,51 +28618,6 @@
        <t pos="A">forbidden</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="A">luvaton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">ulovlig</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">незаконный</t>
-       <t pos="A">нелегальный</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_1823">
-   <map stamp="fm_1823:sml_12854" fin_lemma_id="12680::"/>
-   <rev-sort_key>mʹetvʹåål</rev-sort_key>
-   <lg>
-     <l pos="A">lååʹvteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">lååʹvtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">1824</c>
-       <c name="Reader">8</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>lååʹvteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">unerlaubt</t>
-       <t pos="A">verboten</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">forbidden</t>
-     </tg>
-     <tg xml:lang="xyz">
        <t pos="A">luvaton</t>
      </tg>
      <tg xml:lang="nob">
@@ -29834,25 +28683,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">kanneton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="6251:6308"/>
-   <lg>
-     <l pos="A">lååʹǩǩteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">lååʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">kanneton</t>
      </tg>
    </mg>
@@ -30085,25 +28915,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="13331"/>
-   <lg>
-     <l pos="A">maaltʼteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">maaltʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">malttamaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="18191:6516"/>
    <lg>
@@ -30217,7 +29028,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=""/>
    <lg>
      <l pos="A" type="Attr">maazzrõs</l>
@@ -30394,7 +29205,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=""/>
    <lg>
      <l pos="A" type="Attr">mallšõs</l>
@@ -30847,7 +29658,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="30133:30224"/>
    <lg>
      <l pos="A" type="Attr">meâhttlõs</l>
@@ -30866,6 +29677,18 @@
        <t pos="A">pounikkoinen</t>
      </tg>
    </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">meâlddsaž</l>
+     <stg>
+       <st Contlex="A_MEERSAZH">meâldds</st>
+       <st Contlex="A_MEERSAZH" status="Err/Orth">mieʹldds</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="AKU"/>
+     </sources>
 </e>
 <e>
    <map sml_ids="14013"/>
@@ -31248,67 +30071,6 @@
    </mg>
 </e>
 <e exclude="fst">
-   <map sml_ids=""/>
-   <lg>
-     <l pos="A">meäʹrteteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">meäʹrtetẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">määrittelemätön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="1716:14493:24508"/>
-   <lg>
-     <l pos="A">meäʹrteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">meäʹrtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">epämääräinen</t>
-       <t pos="A">määrätön</t>
-       <t pos="A">tavaton</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="1716:14493:24508"/>
-   <lg>
-     <l pos="A">meäʹrtem</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">meäʹrtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">epämääräinen</t>
-       <t pos="A">määrätön</t>
-       <t pos="A">tavaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
    <lg>
      <l pos="A">meäʹrteʹm ääiʹj viõǥǥâst åårrai</l>
      <stg>
@@ -31397,36 +30159,6 @@
        <t pos="A">korkeatörmäinen</t>
      </tg>
    </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="A">mieʹlddsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH">mieʹldds</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A"></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">meâlddsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH">meâldds</st>
-       <st Contlex="A_MEERSAZH" status="Err/Orth">mieʹldds</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
 </e>
 <e>
    <map sml_ids="13494:"/>
@@ -31597,7 +30329,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="18194:3133:29255"/>
    <lg>
      <l pos="A" type="Attr">mieʹtǩes</l>
@@ -31853,25 +30585,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="13600"/>
-   <lg>
-     <l pos="A">miârkteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">miârktẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">merkitön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="13599"/>
    <lg>
@@ -31887,25 +30600,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">merkityksetön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="13599"/>
-   <lg>
-     <l pos="A">miârkâlteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">miârkâltẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">merkityksetön</t>
      </tg>
    </mg>
@@ -32290,49 +30984,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_1810">
-   <map stamp="fm_1810:sml_14036:sml_14037:sml_14038:sml_14039" fin_lemma_id="5500::::13735::::13731::::3765::"/>
-   <rev-sort_key>mʹetlõim</rev-sort_key>
-   <lg>
-     <l pos="A">miõlteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">miõltẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">1811</c>
-       <c name="Reader">9</c>
-       <c name="Recording">2</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>miõlteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">albern</t>
-       <t pos="A">verdreht</t>
-       <t pos="A">blödsinnig</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">foolish</t>
-       <t pos="A">silly</t>
-     </tg>
-     <tg xml:lang="xyz">
-       <t pos="A">höperö</t>
-       <t pos="A">hupsu</t>
-       <t pos="A">järjetön</t>
-       <t pos="A">mieletön</t>
-     </tg>
-   </mg>
-</e>
 <e exclude="fst" id="fm_1809">
    <map stamp="fm_1809" fin_lemma_id=""/>
    <rev-sort_key>semʹetlõim</rev-sort_key>
@@ -32449,7 +31100,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="14472"/>
    <lg>
      <l pos="A" type="Attr">miõʹhttes</l>
@@ -32799,7 +31450,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=":"/>
    <lg>
      <l pos="A" type="Attr">moodras</l>
@@ -33171,26 +31822,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="14313:27126"/>
-   <lg>
-     <l pos="A">mottjeteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">mottjetẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">muuttumaton</t>
-       <t pos="A">vakio</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="14143"/>
    <lg>
@@ -33415,7 +32046,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=""/>
    <lg>
      <l pos="A" type="Attr">muerjjas</l>
@@ -33480,33 +32111,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids=""/>
-   <lg>
-     <l pos="A">mueʹrjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">mueʹrjtẹ%^1VOW%{ʹØ%}m</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A_Pl_Nom">
-           <wordform>teeʹm</wordform>
-       </analysis>
-       <analysis ms="A_Sg_Ill">
-           <wordform>-tẹmma</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">marjaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="27091:"/>
    <lg>
@@ -33550,26 +32154,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">tuskaton</t>
-       <t pos="A">kivuton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="8283:25858"/>
-   <lg>
-     <l pos="A">mueʹǩǩteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">mueʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">tuskaton</t>
        <t pos="A">kivuton</t>
      </tg>
@@ -33711,53 +32295,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="28447"/>
-   <lg>
-     <l pos="A">mutstõõlli korggčuõlmâš</l>
-     <stg>
-       <st Contlex="A_">mutstõõlli korggčuõlmâš</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A.Pl.Nom">
-           <wordform>-čuõlmmâž</wordform>
-       </analysis>
-       <analysis ms="A.Sg.Ill">
-           <wordform>-čuõʹlmmže</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">viitekorkosidonnainen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="28447"/>
-   <lg>
-     <l pos="A">čuäjtõskoʹrǧǧe čõnnum</l>
-     <stg>
-       <st Contlex="A_PSS-PRFPRC">čuäjtõs#koʹrǧǧe #čõnnum</st>
-       <st Contlex="A_" status="Err/Lex">mutstõõlli korggčuõlmâš</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">viitekorkosidonnainen</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="6136"/>
    <lg>
@@ -33793,26 +32330,6 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">muuntamaton</t>
-       <t pos="A">vakio</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="14312:27126"/>
-   <lg>
-     <l pos="A">muuʹttʼteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">muuʹttʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
        <t pos="A">muuntamaton</t>
        <t pos="A">vakio</t>
      </tg>
@@ -33950,7 +32467,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=""/>
    <lg>
      <l pos="A" type="Attr">muârjjas</l>
@@ -34000,7 +32517,6 @@
      </etymology>
      <stg>
        <st Contlex="A_SAELTTAI" varid="1">muärr</st>
-       <st Contlex="A-ATTR_" varid="2">muärras</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="hanki (päältä kova lumi, joka ei kanna poroa)" ms="" ord="E1" pos="N">mueʹrr</comp>
@@ -34081,28 +32597,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">mutkaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="14228"/>
-   <lg>
-     <l pos="A">muäʹlǩteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">muäʹlǩtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">mutkaton</t>
      </tg>
@@ -34247,28 +32741,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">puuton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="18924"/>
-   <lg>
-     <l pos="A">muõrteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">muõrtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">puuton</t>
      </tg>
@@ -34600,7 +33072,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="14374:14384"/>
    <lg>
      <l pos="A" type="Attr">mââjkõs</l>
@@ -34930,71 +33402,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_2301">
-   <map stamp="fm_2301:fm_2300:sml_15004:sml_15002:sml_15003:sml_15004" fin_lemma_id="15277::::28128::::23542::"/>
-   <rev-sort_key>mʹetmʹiääm</rev-sort_key>
-   <lg>
-     <l pos="A">määiʹmteʹm</l>
-     <variants>
-       <l_attr>määiʹmteʹmes</l_attr>
-       <l_syn>viârteʹm</l_syn>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">määiʹmtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2302</c>
-       <c name="Reader">9</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Pl_Nom">
-           <wordform>-teeʹm</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>-temma</wordform>
-       </analysis>
-       <analysis ms="Attr">
-           <wordform>määiʹmteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">tadellos</t>
-       <t pos="A">unbescholten</t>
-       <t pos="A">sündenfrei</t>
-       <t pos="A">fehlerfrei</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">irreproachable</t>
-       <t pos="A">innocent</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">nuhteeton</t>
-       <t pos="A">syytön</t>
-       <t pos="A">viaton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">uklanderlig</t>
-       <t pos="A">uskyldig</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">безупречный</t>
-       <t pos="A">безукоризненный</t>
-       <t pos="A">невиновный</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_2298">
    <map stamp="fm_2298:fm_2299" fin_lemma_id=""/>
    <rev-sort_key>semʹetnʹiääm</rev-sort_key>
@@ -35019,58 +33426,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">tadellos</t>
-       <t pos="A">unbescholten</t>
-       <t pos="A">sündenfrei</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">irreproachable</t>
-       <t pos="A">innocent</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">nuhteeton</t>
-       <t pos="A">syytön</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">uklanderlig</t>
-       <t pos="A">uskyldig</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">безупречный</t>
-       <t pos="A">безукоризненный</t>
-       <t pos="A">невиновный</t>
-       <t pos="A">безошибочный</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_2298">
-   <map stamp="fm_2298:fm_2299" fin_lemma_id=""/>
-   <rev-sort_key>semʹetnʹiääm</rev-sort_key>
-   <lg>
-     <l pos="A">määiʹnteʹm</l>
-     <variants>
-       <l_attr>määiʹnteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">määiʹntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2300</c>
-       <c name="Reader">9</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">tadellos</t>
        <t pos="A">unbescholten</t>
@@ -35130,29 +33485,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">maksuton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="13296"/>
-   <lg>
-     <l pos="A">määuʹsteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">määuʹstẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">maksuton</t>
      </tg>
@@ -35627,47 +33959,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="1834"/>
-   <lg>
-     <l pos="A">mäʹhssempeeiʹvteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">mäʹhssempeeiʹvtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-          <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">erääntymätön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="13384"/>
-   <lg>
-     <l pos="A">mäʹrǩǩmierrsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH" NumContlex="1.26">mäʹrǩǩmierrs</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">markkamääräinen</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="13384"/>
    <lg>
@@ -36033,7 +34324,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="21198"/>
    <lg>
      <l pos="A" type="Attr">mååsk</l>
@@ -36047,7 +34338,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">sakea</t>
      </tg>
    </mg>
@@ -36062,6 +34353,7 @@
      </variants>
      <stg>
        <st Contlex="A_VEEIDAS" inflexId="::::1.2">må%^1VOWskk</st>
+       <st Contlex="A-ATTR_" status="Err/Orth">mååsk</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">2663</c>
@@ -36233,28 +34525,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="14229"/>
-   <lg>
-     <l pos="A">mååʹǩteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">mååʹǩtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">mutkaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="11630:14211"/>
    <lg>
@@ -36278,7 +34548,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="11630"/>
    <lg>
      <l pos="A" type="Attr">måđđas</l>
@@ -36379,7 +34649,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="3045"/>
    <lg>
      <l pos="A" type="Attr">måʹrrsõs</l>
@@ -36678,7 +34948,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="95:17515:22936:24880:24884::25042:25891"/>
    <lg>
      <l pos="A" type="Attr">nagg</l>
@@ -36781,7 +35051,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="13326"/>
    <lg>
      <l pos="A" type="Attr">naʹllšõs</l>
@@ -36896,7 +35166,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=":33980:"/>
    <lg>
      <l pos="A" type="Attr">neeuʹres</l>
@@ -36987,7 +35257,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="14783:14784"/>
    <lg>
      <l pos="A" type="Attr">nelljtäkkšeʹmes</l>
@@ -37554,7 +35824,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="8946:14451"/>
    <lg>
      <l pos="A" type="Attr">njeeʹbles</l>
@@ -37884,25 +36154,6 @@
        <t pos="A">loivalaitainen</t>
        <t pos="A">matala</t>
        <t pos="A">matalalaitainen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="9714"/>
-   <lg>
-     <l pos="A" type="Attr">njeäʹššes</l>
-     <stg>
-       <st Contlex="A-ATTR_">njeäʹššes</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">kurainen</t>
      </tg>
    </mg>
 </e>
@@ -38334,7 +36585,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="14815"/>
    <lg>
      <l pos="A" type="Attr">njonnas</l>
@@ -39296,7 +37547,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="20936"/>
    <lg>
      <l pos="A" type="Attr">njuõʹlǧǧes</l>
@@ -39568,7 +37819,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="23206::30454"/>
    <lg>
      <l pos="A" type="Attr">njälmmas</l>
@@ -39721,12 +37972,13 @@
 <e>
    <map sml_ids="11161"/>
    <lg>
-     <l pos="A">njääʹbbteei</l>
+     <l pos="A">njääbbteei</l>
      <stg>
-       <st Contlex="A_PRSPRC-EEI">njääʹbbtee</st>
+       <st Contlex="A_PRSPRC-EEI">njääbbtee</st>
+       <st Contlex="A_PRSPRC-EEI" status="Err/Orth">njääʹbbtee</st>
      </stg>
      <compg drv="V:Suf»Prc" type="drv">
-       <comp ms="V" ord="E1" pos="V">njääʹbbted</comp>
+       <comp ms="V" ord="E1" pos="V">njääbbted</comp>
        <comp ord="E2" pos="Suf">Der/NomAg</comp> </compg>
    </lg>
      <sources>
@@ -40101,7 +38353,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="1725:11611:11853:20426:11853:22023:"/>
    <lg>
      <l pos="A" type="Attr">nueʹsǩes</l>
@@ -40605,7 +38857,7 @@
      <defNative/>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="15274"/>
    <lg>
      <l pos="A" type="Attr">nuõʹppes</l>
@@ -40856,28 +39108,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">uneton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="26566:26572"/>
-   <lg>
-     <l pos="A">nââʹerteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">nââʹertẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">uneton</t>
      </tg>
@@ -41135,73 +39365,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_5755">
-   <map stamp="fm_5755:sml_16752:sml_16753:sml_16754:sml_16755" fin_lemma_id="1714:22542::::2453::"/>
-   <rev-sort_key>mʹetlʹään</rev-sort_key>
-   <lg>
-     <l pos="A">nääʹlteʹm</l>
-     <variants>
-       <l_attr>nääʹlteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">nääʹltẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5756</c>
-       <c name="Reader">10</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>nääʹlteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">unbequem</t>
-       <t pos="A">unangenehm</t>
-       <t pos="A">peinlich</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">uncomfortable</t>
-       <t pos="A">embarrasing</t>
-       <t pos="A">unpleasent</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">epämukava</t>
-       <t pos="A">hankala</t>
-       <t pos="A">sopimaton</t>
-       <t pos="A">tavaton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">ubehagelig</t>
-       <t pos="A">vanskelig</t>
-       <t pos="A">vrien</t>
-       <t pos="A">brysom</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">неудобный</t>
-     </tg>
-   </mg>
-   <mg relId="1">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">tavaton</t>
-       <t pos="A">jolla ei ole tapoja</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="2456"/>
    <lg>
@@ -41413,28 +39576,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="14965:14959"/>
-   <lg>
-     <l pos="A">nõõmteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">nõõmtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">nimetön</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_5962">
    <map stamp="fm_5961:fm_5962:sml_16416" fin_lemma_id="27589::"/>
    <rev-sort_key>mʹetđõõn</rev-sort_key>
@@ -41483,58 +39624,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_5962">
-   <map stamp="fm_5961:fm_5962:sml_16416" fin_lemma_id="27589::"/>
-   <rev-sort_key>mʹetđõõn</rev-sort_key>
-   <lg>
-     <l pos="A">nõõđteʹm</l>
-     <variants>
-       <l_attr>nõõđteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">nõõđtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5963</c>
-       <c name="Reader">10</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>nõõđteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">ohne Stiel</t>
-       <t pos="A">ohne Schaft</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">without a shaft</t>
-       <t pos="A">without a handle</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">varreton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">skafteløs</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">без ручки</t>
-     </tg>
-   </mg>
-</e>
-<e>
+<e exclude="fst">
    <map sml_ids="26548:8462"/>
    <lg>
      <l pos="A" type="Attr">obb</l>
@@ -41593,24 +39683,6 @@
      <tg xml:lang="fin">
        <t pos="A">kokonaisvaltainen</t>
      </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="A">obbväʹlddsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH">obbväʹldds</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A"/>
-     </tg>
-     <defNative/>
    </mg>
 </e>
 <e>
@@ -41778,7 +39850,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="::5091:20059:22848:28622"/>
    <lg>
      <l pos="A" type="Attr">oddlõs</l>
@@ -42136,28 +40208,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="30470"/>
-   <lg>
-     <l pos="A">ooddteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ooddtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kyvytön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="26461"/>
    <lg>
@@ -42243,6 +40293,25 @@
    </mg>
 </e>
 <e>
+   <map sml_ids="29891"/>
+   <lg>
+     <l pos="A">ooudjurdditem</l>
+     <stg>
+       <st Contlex="A_NALLSHEM">ooudjurdditẹ%^1VOW%{ʹØ%}m</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">epäluuloton</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
    <map sml_ids="29891"/>
    <lg>
      <l pos="A" type="Attr">ooudjurdditeʹmes</l>
@@ -42740,28 +40809,6 @@
    </mg>
 </e>
 <e exclude="fst">
-   <map sml_ids="29890:29891"/>
-   <lg>
-     <l pos="A">ouddjurdditeʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ouddjurdditẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">epäluuloton</t>
-     </tg>
-   </mg>
-</e>
-<e>
    <map sml_ids="765"/>
    <lg>
      <l pos="A" type="Attr">ouddlõs</l>
@@ -43132,28 +41179,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="20930"/>
-   <lg>
-     <l pos="A">paaccteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">paacctẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">räjähtämätön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="3539"/>
    <lg>
@@ -43420,28 +41445,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="16876"/>
-   <lg>
-     <l pos="A">paarteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">paartẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">pariton</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_336">
    <map stamp="fm_336:sml_17784:sml_17785" fin_lemma_id="16337::::28234::"/>
    <rev-sort_key>saap</rev-sort_key>
@@ -43549,7 +41552,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=":"/>
    <lg>
      <l pos="A" type="Attr">paasnkõs</l>
@@ -43646,28 +41649,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="18782"/>
-   <lg>
-     <l pos="A">paaʹrtiteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">paaʹrtitẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">puolueeton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="20927"/>
    <lg>
@@ -43737,7 +41718,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="12878"/>
    <lg>
      <l pos="A" type="Attr">pakk</l>
@@ -44661,28 +42642,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids=""/>
-   <lg>
-     <l pos="A">peersteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">peerstẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">piittaamaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="7665:28584:"/>
    <lg>
@@ -44736,60 +42695,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">taub</t>
-       <t pos="A">schwerhörig</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">deaf</t>
-       <t pos="A">hard of hearing</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kuuro</t>
-       <t pos="A">huonokuuloinen</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">døv</t>
-       <t pos="A">tunghørt</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">глухой</t>
-       <t pos="A">тугоухий</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_1404">
-   <map stamp="fm_1404:sml_18454:sml_18455" fin_lemma_id="3729::::10005::"/>
-   <rev-sort_key>mʹetjllʹeep</rev-sort_key>
-   <lg>
-     <l pos="A">peeʹlljteʹm</l>
-     <variants>
-       <l_attr>peeʹlljteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">peeʹlljtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">1405</c>
-       <c name="Reader">11</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>peeʹlljteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">taub</t>
        <t pos="A">schwerhörig</t>
@@ -45119,7 +43024,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="7661"/>
    <lg>
      <l pos="A" type="Attr">pelbbas</l>
@@ -45475,7 +43380,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="20233"/>
    <lg>
      <l pos="A" type="Attr">pešttlõs</l>
@@ -45508,28 +43413,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">huoleton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="3684"/>
-   <lg>
-     <l pos="A">peʹcclateʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">peʹcclatẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">huoleton</t>
      </tg>
@@ -45605,7 +43488,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="24343"/>
    <lg>
      <l pos="A" type="Attr">peʹlljas</l>
@@ -45750,7 +43633,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="6550:7931:8152"/>
    <lg>
      <l pos="A" type="Attr">peʹčǩǩrõs</l>
@@ -46364,7 +44247,6 @@
      </etymology>
      <stg>
        <st Contlex="A_AANAR" varid="1">pivvâl</st>
-       <st Contlex="A-ATTR_" varid="2">pivvlõs</st>
      </stg>
      <compg drv="V»A" type="Der">
        <comp fin="tarjeta" ms="" ord="E1" pos="V»A">piivvâd</comp>
@@ -46407,7 +44289,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="24329"/>
    <lg>
      <l pos="A" type="Attr">pivvšõs</l>
@@ -46494,28 +44376,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="17188"/>
-   <lg>
-     <l pos="A">piârteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">piârtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">perheetön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="25910"/>
    <lg>
@@ -46530,28 +44390,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">tuuleton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="25910"/>
-   <lg>
-     <l pos="A">piõggteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">piõggtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">tuuleton</t>
      </tg>
@@ -46579,7 +44417,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <lg>
      <l pos="A" type="Attr">piõuʹlles</l>
      <stg>
@@ -46616,7 +44454,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="25930"/>
    <lg>
      <l pos="A" type="Attr">piõʹǧǧes</l>
@@ -47506,35 +45344,6 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="20651"/>
-   <lg>
-     <l pos="A">porrmõõžžteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">porrmõõžžtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <compg drv="N»A" type="Der">
-       <comp fin="ruoka" ms="" ord="E1" pos="N»A">porrmõš</comp>
-       <comp drv="" ord="E2" pos="Suf" type="Der/teʹm"/> </compg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">ruoaton</t>
-     </tg>
-     <xg>
-       <x src="VJO:2012:72">Mon jiõm teâttam tõn leeiʹbteʹmes jeäʹđ, ni säähhar-, porrmõõžžteʹmes jeäʹđ.</x>
-       <xt xml:lang="fin">Minulla ei kyllä ollut puutetta leivästä, eikä sokerista eikä ruoasta. (Sananmukaisesti: Minä en tiennyt sitä leivätöntä hätää, enkä sokeri-, ruoatonta hätää.)</xt>
-     </xg>
-   </mg>
-</e>
 <e>
    <map sml_ids="15578"/>
    <lg>
@@ -47648,28 +45457,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">sulkasatoinen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="22917"/>
-   <lg>
-     <l pos="A">poʒʒteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">poʒʒtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">sulkasatoinen</t>
      </tg>
@@ -47966,7 +45753,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="29159"/>
    <lg>
      <l pos="A" type="Attr">proostrõs</l>
@@ -48214,7 +46001,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="11679"/>
    <lg>
      <l pos="A" type="Attr">pueidkõs</l>
@@ -48747,28 +46534,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="12265"/>
-   <lg>
-     <l pos="A">puuđteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">puuđtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">loputon</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="20017"/>
    <lg>
@@ -48961,37 +46726,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="12251:12265"/>
-   <lg>
-     <l pos="A">puuʹđteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">puuʹđtẹ%^1VOW%{ʹØ%}m</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A_Pl_Nom">
-           <wordform>-teem</wordform>
-       </analysis>
-       <analysis ms="A_Sg_Ill">
-           <wordform>-tẹmma</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">loppumaton</t>
-       <t pos="A">loputon</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_923">
    <map stamp="fm_923" fin_lemma_id=""/>
    <rev-sort_key>ǥadiâup</rev-sort_key>
@@ -49057,7 +46791,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="16475"/>
    <lg>
      <l pos="A" type="Attr">puâkkas</l>
@@ -49381,59 +47115,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_5960">
-   <map stamp="fm_5960:sml_20677:sml_20678" fin_lemma_id="18371::::29069::"/>
-   <rev-sort_key>mʹetʒʒäup</rev-sort_key>
-   <lg>
-     <l pos="A">puäʒʒteʹm</l>
-     <variants>
-       <l_attr>puäʒʒteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">puäʒʒtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5961</c>
-       <c name="Reader">11</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>puäʒʒteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">rentierlos</t>
-       <t pos="A">mit wenigen Rentieren</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">without reindeer</t>
-       <t pos="A">with few reindeer</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">poroton</t>
-       <t pos="A">vähäporoinen</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">en som har ingen eller bare noen få rein</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">без северных оленей</t>
-       <t pos="A">с малым количеством оленей</t>
-     </tg>
-   </mg>
-</e>
 <e exclude="fst" id="fm_5959">
    <map stamp="fm_5959" fin_lemma_id=""/>
    <rev-sort_key>semʹetʒʒäup</rev-sort_key>
@@ -49497,7 +47178,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="18303"/>
    <lg>
      <l pos="A" type="Attr">puäʒʒčaʹppes</l>
@@ -50060,25 +47741,6 @@
      <defNative/>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="29482"/>
-   <lg>
-     <l pos="A">pâiʹlmierrsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH" NumContlex="1.26">pâiʹlmierrs</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">ylimääräinen</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="29482"/>
    <lg>
@@ -50268,7 +47930,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="5161"/>
    <lg>
      <l pos="A" type="Attr">pâssas</l>
@@ -50603,28 +48265,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="19068"/>
-   <lg>
-     <l pos="A">pââsttʼteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">pââsttʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">pystymätön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="6929"/>
    <lg>
@@ -50923,7 +48563,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="24753"/>
    <lg>
      <l pos="A" type="Attr">pâʹsttlõs</l>
@@ -50987,25 +48627,6 @@
      <tg xml:lang="fin">
        <t pos="A">epätasainen</t>
      </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <lg>
-     <l pos="A">päiʹǩǩsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH">päiʹǩǩs</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A"/>
-     </tg>
-     <defNative/>
    </mg>
 </e>
 <e>
@@ -51075,7 +48696,6 @@
      <l pos="A">pännai</l>
      <stg>
        <st Contlex="A_SAELTTAI" varid="1">pänn</st>
-       <st Contlex="A-ATTR_" varid="2">pännas</st>
      </stg>
    </lg>
      <sources>
@@ -51246,36 +48866,6 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="1051:8299"/>
-   <lg>
-     <l pos="A">pääiʹǩteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">pääiʹǩtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <compg drv="N»A" type="Der">
-       <comp fin="paikka, koti" ms="" ord="E1" pos="N»A">päiʹǩǩ</comp>
-       <comp drv="" ord="E2" pos="Suf" type="Der/teʹm"/> </compg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">asunnoton</t>
-       <t pos="A">koditon</t>
-     </tg>
-     <xg>
-       <x src="VJO:2012:93">Peäccam mõõni ruõššliʹžže, pääiʹǩteʹmes oummu kuâđđje jiânnai.</x>
-       <xt xml:lang="fin">Petsamo meni venäläiselle, kodittomia ihmisiä jäi paljon.</xt>
-     </xg>
-   </mg>
-</e>
 <e>
    <map sml_ids=""/>
    <lg>
@@ -51317,28 +48907,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">vapaaehtoinen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="27480"/>
-   <lg>
-     <l pos="A">pääkkteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">pääkktẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">vapaaehtoinen</t>
      </tg>
@@ -51480,28 +49048,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="11022"/>
-   <lg>
-     <l pos="A">päärnaiteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">päärnaitẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">lapseton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="26928"/>
    <lg>
@@ -51516,28 +49062,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">vahingoittumaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="26928"/>
-   <lg>
-     <l pos="A">päärtʼteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">päärtʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">vahingoittumaton</t>
      </tg>
@@ -51605,28 +49129,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="16655"/>
-   <lg>
-     <l pos="A">pääʹlǩteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">pääʹlǩtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">palkaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map/>
    <lg>
@@ -51663,28 +49165,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">hampaaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="2423:2402"/>
-   <lg>
-     <l pos="A">pääʹnteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">pääʹntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">hampaaton</t>
      </tg>
@@ -51752,28 +49232,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">pangaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="16779"/>
-   <lg>
-     <l pos="A">pääʹǧǧteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">pääʹǧǧtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">pangaton</t>
      </tg>
@@ -52476,7 +49934,6 @@
      </etymology>
      <stg>
        <st Contlex="A_AANAR" inflexId="::::1.2" varid="1">põõlâč</st>
-       <st Contlex="A-ATTR_" varid="2">põõlčõs</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1688</c>
@@ -52640,7 +50097,6 @@
      </etymology>
      <stg>
        <st Contlex="A_JIOQNNI" varid="1">põ%{ʹØ%}lvv</st>
-       <st Contlex="A-ATTR_" varid="2">põʹlvves</st>
      </stg>
    </lg>
      <sources>
@@ -52688,7 +50144,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="94:17529:24881"/>
    <lg>
      <l pos="A" type="Attr">põʹsǩǩes</l>
@@ -52755,34 +50211,13 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="19693"/>
-   <lg>
-     <l pos="A">raaiteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">raaitẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">rajaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="24571"/>
    <lg>
-     <l pos="A">raajjum</l>
+     <l pos="A">rajjum</l>
      <stg>
-       <st Contlex="A_PSS-PRFPRC">raajjum</st>
+       <st Contlex="A_PSS-PRFPRC">rajjum</st>
+       <st Contlex="A_PSS-PRFPRC" status="Err/Orth">raajjum</st>
      </stg>
    </lg>
      <sources>
@@ -53097,7 +50532,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=":4138:"/>
    <lg>
      <l pos="A" type="Attr">raʹppes</l>
@@ -53357,28 +50792,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="20078"/>
-   <lg>
-     <l pos="A">registõõllteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">registõõlltẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">rekisteröimätön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="7823:20227"/>
    <lg>
@@ -53408,7 +50821,6 @@
      <l pos="A">reiddal</l>
      <stg>
        <st Contlex="A_AANAR" varid="1">reiddal</st>
-       <st Contlex="A-ATTR_" varid="2">reiddlõs</st>
      </stg>
    </lg>
      <sources>
@@ -53495,7 +50907,6 @@
      <l pos="A">rennai</l>
      <stg>
        <st Contlex="A_SAELTTAI" varid="1">renn</st>
-       <st Contlex="A-ATTR_" varid="2">rennas</st>
      </stg>
    </lg>
      <sources>
@@ -53595,7 +51006,6 @@
      <l pos="A">reuggai</l>
      <stg>
        <st Contlex="A_SAELTTAI" inflexId="::::1.2" varid="1">rẹ%^1VOWugg</st>
-       <st Contlex="A-ATTR_" varid="2">reuggas</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5783</c>
@@ -53818,28 +51228,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="26074"/>
-   <lg>
-     <l pos="A">reâuǥääʹppteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">reâuǥääʹpptẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">työkyvytön</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_265">
    <map stamp="fm_265:sml_21881" fin_lemma_id="12207::"/>
    <rev-sort_key>iaǯǯbäer</rev-sort_key>
@@ -53847,7 +51235,6 @@
      <l pos="A">reäbǯǯai</l>
      <stg>
        <st Contlex="A_SAELTTAI" inflexId="::::1.2" varid="1">reäbǯǯ</st>
-       <st Contlex="A-ATTR_" varid="2">reäbǯǯas</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">266</c>
@@ -53933,7 +51320,6 @@
      <l pos="A">reäiggai</l>
      <stg>
        <st Contlex="A_SAELTTAI" varid="1">reäigg</st>
-       <st Contlex="A-ATTR_" varid="2">reäiggas</st>
      </stg>
    </lg>
      <sources>
@@ -54162,7 +51548,6 @@
      <l pos="A" class="30">reʹttev</l>
      <stg>
        <st Contlex="A_AANAR" inflexId="::30::1.2" varid="1">reʹttev</st>
-       <st Contlex="A-ATTR_" varid="2">reʹttvõs</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1074</c>
@@ -54337,59 +51722,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_2270">
-   <map stamp="fm_2270:sml_22015" fin_lemma_id="23385::"/>
-   <rev-sort_key>mʹetǩǩʹeir</rev-sort_key>
-   <lg>
-     <l pos="A">rieʹǩǩteʹm</l>
-     <variants>
-       <l_var>riäʹǩǩteʹm</l_var>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">riẹʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2271</c>
-       <c name="Reader">12</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>rieʹǩǩteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">unschuldig</t>
-       <t pos="A">rein</t>
-       <t pos="A">sündenlos</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">innocent</t>
-       <t pos="A">without sin</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">synnitön</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">syndfri</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">безгрешный</t>
-       <t pos="A">невинный</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids=""/>
    <lg>
@@ -54455,28 +51787,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="1709"/>
-   <lg>
-     <l pos="A">riistlateʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">riistlatẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">epäkristillinen</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="9127"/>
    <lg>
@@ -54519,55 +51829,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">Heide</t>
-       <t pos="A">nicht getauft</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">pagan</t>
-       <t pos="A">heathen</t>
-       <t pos="A">not baptized</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">pakana</t>
-       <t pos="A">ristimätön</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">hedning</t>
-       <t pos="A">ukristen</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">язычник</t>
-       <t pos="A">некрещеный</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_2887">
-   <map stamp="fm_2887" fin_lemma_id=""/>
-   <rev-sort_key>mʹetˈtsiir</rev-sort_key>
-   <lg>
-     <l pos="A">riistteʹm</l>
-     <variants>
-       <l_attr>riistˈteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">riistˈtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2888</c>
-       <c name="Reader">12</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">Heide</t>
        <t pos="A">nicht getauft</t>
@@ -54648,30 +51909,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="N">pakana</t>
-       <t pos="A">kastamaton</t>
-       <t pos="A">ristimätön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="6586:20384:16524"/>
-   <lg>
-     <l pos="A">riistʼteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">riistʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="N">pakana</t>
        <t pos="A">kastamaton</t>
@@ -54906,54 +52143,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_2269">
-   <map stamp="fm_2269" fin_lemma_id=""/>
-   <rev-sort_key>semʹetǩǩʹäir</rev-sort_key>
-   <lg>
-     <l pos="A">riäʹǩǩteʹm</l>
-     <variants>
-       <l_var>rieʹǩǩteʹmes</l_var>
-       <l_attr>riäʹǩǩteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">riäʹǩǩtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2270</c>
-       <c name="Reader">12</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">unschuldig</t>
-       <t pos="A">rein</t>
-       <t pos="A">sündenlos</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">innocent</t>
-       <t pos="A">without sin</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">synnitön</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">syndfri</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">безгрешный</t>
-       <t pos="A">невинный</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="20238"/>
    <lg>
@@ -54991,28 +52180,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">riittämätön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="20237"/>
-   <lg>
-     <l pos="A">riʹjttjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">riʹjttjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">riittämätön</t>
      </tg>
@@ -55056,35 +52223,12 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="20237"/>
-   <lg>
-     <l pos="A">riʹttjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">riʹttjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">riittämätön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="20733"/>
    <lg>
      <l pos="A">robbai</l>
      <stg>
        <st Contlex="A_SAELTTAI" varid="1">robb</st>
-       <st Contlex="A-ATTR_" varid="2">robbas</st>
      </stg>
    </lg>
      <sources>
@@ -55131,29 +52275,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">ilman sukua</t>
-       <t pos="A">orpo</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids=":"/>
-   <lg>
-     <l pos="A">roodteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">roodtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">ilman sukua</t>
        <t pos="A">orpo</t>
@@ -55408,7 +52529,6 @@
      <l pos="A">roʒʒai</l>
      <stg>
        <st Contlex="A_SAELTTAI" varid="1">roʒʒ</st>
-       <st Contlex="A-ATTR_" varid="2">roʒʒas</st>
      </stg>
    </lg>
      <sources>
@@ -55531,7 +52651,6 @@
      <l pos="A">rueʹšši</l>
      <stg>
        <st Contlex="N2A_LUOQSSI" varid="1">rueʹšš</st>
-       <st Contlex="A-ATTR_" varid="2">rueʹššes</st>
      </stg>
    </lg>
      <sources>
@@ -55768,7 +52887,7 @@
        <cognate xml:lang="sjd">руэнн</cognate>
      </etymology>
      <stg>
-       <st Contlex="A_" inflexId="::::">ruânn</st>
+       <st Contlex="A_VUYRR" inflexId="::::">ruânn</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1984</c>
@@ -55995,7 +53114,6 @@
      <l pos="A">ruäʹssev</l>
      <stg>
        <st Contlex="A_AANAR" varid="1">ruäʹssev</st>
-       <st Contlex="A-ATTR_" varid="2">ruäʹssvõs</st>
      </stg>
    </lg>
      <sources>
@@ -56042,12 +53160,13 @@
 <e>
    <map sml_ids="12972"/>
    <lg>
-     <l pos="A">ruäʹŋkkteei</l>
+     <l pos="A">ruäŋkkteei</l>
      <stg>
-       <st Contlex="A_PRSPRC-EEI">ruäʹŋkktee</st>
+       <st Contlex="A_PRSPRC-EEI">ruäŋkktee</st>
+       <st Contlex="A_PRSPRC-EEI" status="Err/Orth">ruäʹŋkktee</st>
      </stg>
      <compg drv="V:Suf»Prc" type="drv">
-       <comp ms="V" ord="E1" pos="V">ruäʹŋkkted</comp>
+       <comp ms="V" ord="E1" pos="V">ruäŋkkted</comp>
        <comp ord="E2" pos="Suf">Der/NomAg</comp> </compg>
    </lg>
      <sources>
@@ -56144,28 +53263,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="29837"/>
-   <lg>
-     <l pos="A">ruõbdteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ruõbdtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">ääretön</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_3923">
    <map stamp="fm_3923" fin_lemma_id=""/>
    <rev-sort_key>žalcˈcõur</rev-sort_key>
@@ -56237,7 +53334,6 @@
      <l pos="A">ruõiddai</l>
      <stg>
        <st Contlex="A_SAELTTAI" varid="1">ruõidd</st>
-       <st Contlex="A-ATTR_" varid="2">ruõiddâs</st>
      </stg>
    </lg>
      <sources>
@@ -56265,28 +53361,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">raajaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="19527"/>
-   <lg>
-     <l pos="A">ruõidteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ruõidtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">raajaton</t>
      </tg>
@@ -56417,7 +53491,6 @@
      </inc-sampling>
      <stg>
        <st Contlex="A_VISKKYD" inflexId="::11::1.25" varid="1">ruõ%{ʹØ%}pss</st>
-       <st Contlex="A-ATTR_" varid="2">ruõʹpsses</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3298</c>
@@ -56514,11 +53587,11 @@
    </mg>
 </e>
 <e exclude="fst">
-   <map sml_ids="20714"/>
+   <map sml_ids="18692"/>
    <lg>
-     <l pos="A">ruõstʼteʹm</l>
+     <l pos="A">ruõʹpssesnjiõʹrri</l>
      <stg>
-       <st Contlex="A_NALLSHEM">ruõstʼtẹ%^1VOW%{ʹØ%}m</st>
+       <st Contlex="A_JIOQNNI" varid="1">ruõʹpsses#njiõ%{ʹØ%}rˈr</st>
      </stg>
    </lg>
      <sources>
@@ -56527,21 +53600,18 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">ruostumaton</t>
+     <tg xml:lang="xyz">
+       <t pos="A">punaposkinen</t>
      </tg>
    </mg>
 </e>
 <e>
    <map sml_ids="18692"/>
    <lg>
-     <l pos="A">ruõʹpssesnjiõʹrri</l>
+     <l pos="A">ruõʹpssesniõʹrri</l>
      <stg>
-       <st Contlex="A_JIOQNNI" varid="1">ruõʹpsses#njiõ%{ʹØ%}rˈr</st>
-       <st Contlex="A-ATTR_" varid="2">ruõʹpsses#njiõʹrres</st>
+       <st Contlex="A_JIOQNNI" varid="1">ruõʹpsses#niõ%{ʹØ%}rˈr</st>
+       <st Contlex="A_JIOQNNI" varid="2" status="Err/Orth">ruõʹpsses#njiõ%{ʹØ%}rˈr</st>
      </stg>
    </lg>
      <sources>
@@ -56560,7 +53630,6 @@
      <l pos="A">ruõʹstti</l>
      <stg>
        <st Contlex="A_JIOQNNI" varid="1">ruõ%{ʹØ%}stt</st>
-       <st Contlex="A-ATTR_" varid="2">ruõʹsttes</st>
      </stg>
    </lg>
      <sources>
@@ -56633,7 +53702,6 @@
      <l pos="A">ruʹppi</l>
      <stg>
        <st Contlex="A_JIOQNNI" varid="1">ru%{ʹØ%}pp</st>
-       <st Contlex="A-ATTR_" varid="2">ruʹppes</st>
      </stg>
      <compg drv="N:Suf»A" type="drv">
        <comp ms="" ord="E1" pos="N">rupp</comp>
@@ -57488,29 +54556,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="19944"/>
-   <lg>
-     <l pos="A">rääuhteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">rääuhtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">rauhaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="19704"/>
    <lg>
@@ -57589,9 +54634,9 @@
 <e>
    <map sml_ids="18295"/>
    <lg>
-     <l pos="N">rääʹnesjuʹvjj</l>
+     <l pos="A">rääʹnesjuʹvjj</l>
      <stg>
-       <st Contlex="N_JUQVJJ">rääʹnesju%^1VOW%{ʹØ%}v%{ʹØ%}jj</st>
+       <st Contlex="A_JUQVJJ">rääʹnesju%^1VOW%{ʹØ%}v%{ʹØ%}jj</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
            <wordform>-juuʹj</wordform>
@@ -57938,7 +54983,6 @@
      </etymology>
      <stg>
        <st Contlex="A_SAELTTAI" varid="1">råpp</st>
-       <st Contlex="A-ATTR_" varid="2">råppas</st>
      </stg>
      <compg drv="N:Suf»A" type="Der">
        <comp fin="ruumis, kroppa" ms="" ord="E1" pos="N">råʹpp</comp>
@@ -58606,51 +55650,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_2258">
-   <map stamp="fm_2258:fm_2259" fin_lemma_id=""/>
-   <rev-sort_key>semʹetinʹaas</rev-sort_key>
-   <lg>
-     <l pos="A">saaʹniteʹm</l>
-     <variants>
-       <l_attr>saaʹniteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">saaʹnitẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2260</c>
-       <c name="Reader">13</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">unaussprechlich</t>
-       <t pos="A">unausgesprochen</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">inexpressable</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">sanomaton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">uutsigelig</t>
-       <t pos="A">usagt</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">невыразимый</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="9578"/>
    <lg>
@@ -58765,9 +55764,10 @@
 <e>
    <map sml_ids="6466:"/>
    <lg>
-     <l pos="A">sarjjai</l>
+     <l pos="A">särjjai</l>
      <stg>
-       <st Contlex="A_SAELTTAI">sarjj</st>
+       <st Contlex="A_SAELTTAI">särjj</st>
+       <st Contlex="A_SAELTTAI" status="Err/Orth">sarjj</st>
      </stg>
    </lg>
      <sources>
@@ -58959,57 +55959,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">schwanzlos</t>
-       <t pos="A">stutzschwänzig</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">without a tail</t>
-       <t pos="A">short-tailed</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">hännätön</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">haleløs</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">безхвостый</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_5952">
-   <map stamp="fm_5952:sml_23484" fin_lemma_id="4032::"/>
-   <rev-sort_key>mʹetbʹiees</rev-sort_key>
-   <lg>
-     <l pos="A">seeiʹbteʹm</l>
-     <variants>
-       <l_attr>seeiʹbteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">seeiʹbtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5953</c>
-       <c name="Reader">13</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>seeiʹbteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">schwanzlos</t>
        <t pos="A">stutzschwänzig</t>
@@ -60611,9 +57560,10 @@
 <e>
    <map sml_ids="11022"/>
    <lg>
-     <l pos="A">siõmetem</l>
+     <l pos="A">siõʹmetem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">siõmetẹ%^1VOW%{ʹØ%}m</st>
+       <st Contlex="A_NALLSHEM">siõʹmetẹ%^1VOW%{ʹØ%}m</st>
+       <st Contlex="A_NALLSHEM" status="Err/Orth">siõmetẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -60622,28 +57572,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">lapseton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="11022"/>
-   <lg>
-     <l pos="A">siõmeteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">siõmetẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">lapseton</t>
      </tg>
@@ -60688,46 +57616,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">kinderlos</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">childless</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">lapseton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">barnløs</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">бездетный</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_1174">
-   <map stamp="fm_1174" fin_lemma_id=""/>
-   <rev-sort_key>mʹetmõis</rev-sort_key>
-   <lg>
-     <l pos="A">siõmteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">siõmtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">1175</c>
-       <c name="Reader">13</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">kinderlos</t>
      </tg>
@@ -61123,9 +58011,10 @@
 <e>
    <map sml_ids="8564:12206"/>
    <lg>
-     <l pos="A">skoolčtam</l>
+     <l pos="A">skoolčtum</l>
      <stg>
-       <st Contlex="A_IS-ACT-PRFPRC">skoolčtam</st>
+       <st Contlex="A_PSS-PRFPRC">skoolčtum</st>
+       <st Contlex="A_IS-ACT-PRFPRC" status="Err/Orth">skoolčtam</st>
      </stg>
    </lg>
      <sources>
@@ -61748,28 +58637,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="13468:13301"/>
-   <lg>
-     <l pos="A">smääǥǥteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">smääǥǥtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">mauton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="15458:26235"/>
    <lg>
@@ -61929,28 +58796,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="1742"/>
-   <lg>
-     <l pos="A">snäätnteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">snäätntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">epävarma</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_3928">
    <map stamp="fm_3928" fin_lemma_id=""/>
    <rev-sort_key>iabbios</rev-sort_key>
@@ -62097,29 +58942,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">taipumaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids=""/>
-   <lg>
-     <l pos="A">soojteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">soojtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">taipumaton</t>
      </tg>
@@ -62394,28 +59216,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="7839"/>
-   <lg>
-     <l pos="A">späʹssbõõžžteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">späʹssbõõžžtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kiittämätön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <lg>
      <l pos="A">späʹssebvuõđlaž</l>
@@ -62516,28 +59316,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">turvaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="25824"/>
-   <lg>
-     <l pos="A">staanteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">staantẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">turvaton</t>
      </tg>
@@ -62799,64 +59577,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_3550">
-   <map stamp="fm_3550:sml_24920:sml_24921:sml_24922:sml_24923" fin_lemma_id="4040::::4119::::5133::::17650::"/>
-   <rev-sort_key>mʹetmmaarts</rev-sort_key>
-   <lg>
-     <l pos="A">straammteʹm</l>
-     <variants>
-       <l_attr>straammteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650" varid="1">straammtẹ%^1VOW%{ʹØ%}m</st>
-       <st Contlex="A_NALLSHEM" inflexId="::::650" varid="2">sraammtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">3551</c>
-       <c name="Reader">13</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <etymology>
-       <etymon algu_lekseemi_id="58283" id="152979" xml:lang="sms">straammteʹm</etymon>
-     </etymology>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>sraammteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="book" name="KKS" page="523:6"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">schamlos</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">shameless</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">hävytön</t>
-       <t pos="A">piittaamaton</t>
-       <t pos="A">häpeämätön</t>
-       <t pos="A">julkea</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">skamløs</t>
-       <t pos="A">hensynsløs</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">бесстыдный</t>
-     </tg>
-   </mg>
-</e>
 <e exclude="fst" id="fm_3549">
    <map stamp="fm_3549" fin_lemma_id=""/>
    <rev-sort_key>semʹetmmaarts</rev-sort_key>
@@ -62910,28 +59630,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">langaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="10939"/>
-   <lg>
-     <l pos="A">straaŋgteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">straaŋgtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">langaton</t>
      </tg>
@@ -63504,28 +60202,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids=""/>
-   <lg>
-     <l pos="A">sueiʹnteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">sueiʹntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">heinätön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="26720"/>
    <lg>
@@ -63802,55 +60478,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_1023">
-   <map stamp="fm_1023:sml_25257" fin_lemma_id="2135::"/>
-   <rev-sort_key>mʹetrʹeus</rev-sort_key>
-   <lg>
-     <l pos="A">sueʹrteʹm</l>
-     <variants>
-       <l_attr>sueʹrteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">sueʹrtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">1024</c>
-       <c name="Reader">13</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>sueʹrteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">zweiglos</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">branchless</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">haaraton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">greinløs</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">не имеющий ветвей</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="23276:29717"/>
    <lg>
@@ -63948,28 +60575,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">sulamaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="22888"/>
-   <lg>
-     <l pos="A">suuddteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">suuddtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">sulamaton</t>
      </tg>
@@ -64171,61 +60776,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">luotoinen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="18300"/>
-   <lg>
-     <l pos="A">suâlnas</l>
-     <stg>
-       <st Contlex="A_">suâlnas</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A.Pl.Nom">
-           <wordform>suâlnnaz</wordform>
-       </analysis>
-       <analysis ms="A.Sg.Ill">
-           <wordform>suâlnnsa</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">kuurakarvainen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="18300"/>
-   <lg>
-     <l pos="N">suâlnaž</l>
-     <stg>
-       <st Contlex="N_KUYLAZH">suâln</st>
-       <st Contlex="A_">suâlnas</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A.Pl.Nom">
-           <wordform>suâlnnaz</wordform>
-       </analysis>
-       <analysis ms="A.Sg.Ill">
-           <wordform>suâlnnsa</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">kuurakarvainen</t>
      </tg>
    </mg>
 </e>
@@ -64449,29 +60999,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="3196:22012"/>
-   <lg>
-     <l pos="A">suäjjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">suäjjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">hihaton</t>
-       <t pos="A">siivetön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="11100"/>
    <lg>
@@ -64665,13 +61192,31 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids=""/>
    <lg>
      <l pos="A">suõhssai</l>
      <stg>
        <st Contlex="A_SAELTTAI" varid="1">suõhss</st>
-       <st Contlex="A-ATTR_" varid="2">suõhssas</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="xyz">
+       <t pos="A">toukkainen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <map sml_ids=""/>
+   <lg>
+     <l pos="A">suõʹhssi</l>
+     <stg>
+       <st Contlex="A_JIOQNNI" varid="1">suõ%{ʹØ%}hss</st>
      </stg>
    </lg>
      <sources>
@@ -65505,25 +62050,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="20776"/>
-   <lg>
-     <l pos="A">säiʹmmčâʹlmmsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH" NumContlex="1.26">säiʹmmčâʹlmms</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">ruudullinen</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="20776"/>
    <lg>
@@ -65818,35 +62344,6 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="22468"/>
-   <lg>
-     <l pos="A">säähharteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">säähhartẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <compg drv="N»A" type="Der">
-       <comp fin="sokeri" ms="" ord="E1" pos="N»A">säähhar</comp>
-       <comp drv="" ord="E2" pos="Suf" type="Der/teʹm"/> </compg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">sokeriton</t>
-     </tg>
-     <xg>
-       <x src="VJO:2012:72">Mon jiõm teâttam tõn leeiʹbteʹmes jeäʹđ, ni säähhar-, porrmõõžžteʹmes jeäʹđ.</x>
-       <xt xml:lang="fin">Minulla ei kyllä ollut puutetta leivästä, eikä sokerista eikä ruoasta. (Sananmukaisesti: Minä en tiennyt sitä leivätöntä hätää, enkä sokeri-, ruoatonta hätää.)</xt>
-     </xg>
-   </mg>
-</e>
 <e>
    <map sml_ids="22663"/>
    <lg>
@@ -65928,30 +62425,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">umpimielinen</t>
-       <t pos="A">vähäpuheinen</t>
-       <t pos="A">sanomaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="26541:29070:21365"/>
-   <lg>
-     <l pos="A">säärnteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">säärntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">umpimielinen</t>
        <t pos="A">vähäpuheinen</t>
@@ -66124,60 +62597,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">stumm</t>
-       <t pos="A">schweigsam</t>
-       <t pos="A">sprachlos</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">speechless</t>
-       <t pos="A">wordless</t>
-       <t pos="A">dumbfounded</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">sanaton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">målløs</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">бессловесный</t>
-       <t pos="A">безмолвный</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_3789">
-   <map stamp="fm_3789:sml_26064" fin_lemma_id="21343::"/>
-   <rev-sort_key>mʹetnʹääs</rev-sort_key>
-   <lg>
-     <l pos="A">sääʹnteʹm</l>
-     <variants>
-       <l_attr>sääʹnteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">sääʹntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">3790</c>
-       <c name="Reader">13</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>sääʹnteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">stumm</t>
        <t pos="A">schweigsam</t>
@@ -66864,28 +63283,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="6526"/>
-   <lg>
-     <l pos="A">sõõusteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">sõõustẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">karvaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="17575:23687:24931"/>
    <lg>
@@ -67410,28 +63807,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="20537:20552"/>
-   <lg>
-     <l pos="A">taalteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">taaltẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">roudaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="8156"/>
    <lg>
@@ -67504,28 +63879,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">tarpeeton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="24364"/>
-   <lg>
-     <l pos="A">taarbteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">taarbtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">tarpeeton</t>
      </tg>
@@ -67878,39 +64231,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">epätarkka</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="1730"/>
-   <lg>
-     <l pos="A">teeivteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">teeivtẹ%^1VOW%{ʹØ%}m</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A_Pl_Nom">
-           <wordform>-teeʹm</wordform>
-       </analysis>
-       <analysis ms="A_Sg_Ill">
-           <wordform>tẹẹivtẹmma</wordform>
-       </analysis>
-       <analysis ms="A_Attr">
-           <wordform>tẹẹivteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">epätarkka</t>
      </tg>
@@ -68389,9 +64709,10 @@
 <e>
    <map sml_ids="25541"/>
    <lg>
-     <l pos="A">teâmmnai</l>
+     <l pos="A">teâmnnai</l>
      <stg>
-       <st Contlex="A_SAELTTAI">teâmmn</st>
+       <st Contlex="A_SAELTTAI">teâmnn</st>
+       <st Contlex="A_SAELTTAI" status="Err/Orth">teâmmn</st>
      </stg>
    </lg>
      <sources>
@@ -69080,25 +65401,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="19606"/>
-   <lg>
-     <l pos="A">teäʹǧǧmierrsaž</l>
-     <stg>
-       <st Contlex="A_MEERSAZH" NumContlex="1.26">teäʹǧǧmierrs</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">rahamääräinen</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="19606"/>
    <lg>
@@ -69312,28 +65614,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="16463"/>
-   <lg>
-     <l pos="A">tieʹddteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">tieʹddtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">painoton</t>
-     </tg>
-   </mg>
-</e>
 <e meta="04" id="gt_A_46">
    <map stamp="gt_A_46:fm_2092:sml_27634:sml_27635" fin_lemma_id=""/>
    <rev-sort_key>vellʹeit</rev-sort_key>
@@ -69441,28 +65721,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">rahaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="19620"/>
-   <lg>
-     <l pos="A">tieʹǧǧteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">tieʹǧǧtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">rahaton</t>
      </tg>
@@ -70378,29 +66636,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="25576:25598"/>
-   <lg>
-     <l pos="A">toobdteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">toobdtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">tunnoton</t>
-       <t pos="A">tunteeton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="25874:25879"/>
    <lg>
@@ -70509,31 +66744,6 @@
        <x src="KE2 03320_2a 0:18:38">Mij ko kuhttu leeiʹm ǩeeʹrjteʹmes, miʹjjid nuʹt iilbše, että mij leäʹp mâka nuʹt toolktem että jeäʹp fiʹtte.</x>
        <xt xml:lang="fin">Kun me molemmat olimme lukutaidottomia, meille niin ilkeiltiin, että me olemme muka niin typeriä että emme ymmärrä. </xt>
      </xg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="14866:25207:25996:29741"/>
-   <lg>
-     <l pos="A">toolkteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">toolktẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">neuvoton</t>
-       <t pos="A">tolkuton</t>
-       <t pos="A">typerä</t>
-       <t pos="A">älytön</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -71750,55 +67960,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_5761">
-   <map stamp="fm_5761:sml_28328" fin_lemma_id="26147::"/>
-   <rev-sort_key>mʹetiâut</rev-sort_key>
-   <lg>
-     <l pos="A">tuâiteʹm</l>
-     <variants>
-       <l_attr>tuâiteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">tuâitẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5762</c>
-       <c name="Reader">14</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>tuâiteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">arbeitslos</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">unemployed</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">työtön</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">arbeidsløs</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">безработный</t>
-     </tg>
-   </mg>
-</e>
 <e exclude="fst" id="fm_5760">
    <map stamp="fm_5760" fin_lemma_id=""/>
    <rev-sort_key>semʹetiâut</rev-sort_key>
@@ -72285,28 +68446,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="25189"/>
-   <lg>
-     <l pos="A">tuäivteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">tuäivtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">toivoton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="12065"/>
    <lg>
@@ -72614,9 +68753,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">tuåimlaž</l>
+     <l pos="A">tåimlaž</l>
      <stg>
-       <st Contlex="A_MEERSAZH">tuåiml</st>
+       <st Contlex="A_MEERSAZH">tåiml</st>
+       <st Contlex="A_MEERSAZH" status="Err/Orth">tuåiml</st>
      </stg>
    </lg>
      <sources>
@@ -72633,20 +68773,21 @@
 <e>
    <map sml_ids="25107"/>
    <lg>
-     <l pos="A">tuåimmai</l>
+     <l pos="A">tåimmai</l>
      <stg>
-       <st Contlex="A_PRSPRC-VWXYY-AI">tuåimmai</st>
+       <st Contlex="A_PRSPRC-VWXYY-AI">tåimmai</st>
+       <st Contlex="A_PRSPRC-VWXYY-AI" status="Err/Orth">tuåimmai</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
-           <wordform>tuåimai</wordform>
+           <wordform>tåimai</wordform>
        </analysis>
        <analysis ms="A.Sg.Ill">
-           <wordform>tuåimmja</wordform>
+           <wordform>tåimmja</wordform>
        </analysis>
      </mini_paradigm>
      </stg>
      <compg drv="V:Suf»Prc" type="drv">
-       <comp ms="V" ord="E1" pos="V">tuåimmad</comp>
+       <comp ms="V" ord="E1" pos="V">tåimmad</comp>
        <comp ord="E2" pos="Suf">Der/NomAg</comp> </compg>
    </lg>
      <sources>
@@ -72664,12 +68805,13 @@
 <e>
    <map sml_ids="25107"/>
    <lg>
-     <l pos="A">tuåimmjeei</l>
+     <l pos="A">tåimmjeei</l>
      <stg>
-       <st Contlex="A_PRSPRC-EEI">tuåimmjee</st>
+       <st Contlex="A_PRSPRC-EEI">tåimmjee</st>
+       <st Contlex="A_PRSPRC-EEI" status="Err/Orth">tuåimmjee</st>
      </stg>
      <compg drv="V:Suf»Prc" type="drv">
-       <comp ms="V" ord="E1" pos="V">tuåimmjed</comp>
+       <comp ms="V" ord="E1" pos="V">tåimmjed</comp>
        <comp ord="E2" pos="Suf">Der/NomAg</comp> </compg>
    </lg>
      <sources>
@@ -72686,9 +68828,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">tuåimmjemvääldlaž</l>
+     <l pos="A">tåimmjemvääldlaž</l>
      <stg>
-       <st Contlex="A_MEERSAZH">tuåimmjem#vääldl</st>
+       <st Contlex="A_MEERSAZH">tåimmjem#vääldl</st>
+       <st Contlex="A_MEERSAZH" status="Err/Orth">tuåimmjem#vääldl</st>
      </stg>
    </lg>
      <sources>
@@ -72704,9 +68847,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">tuåimmsallaš</l>
+     <l pos="A">tåimmsallaš</l>
      <stg>
-       <st Contlex="A_TOBDDSALLASH">tuåimmsallaš</st>
+       <st Contlex="A_TOBDDSALLASH">tåimmsallaš</st>
+       <st Contlex="A_TOBDDSALLASH" status="Err/Orth">tuåimmsallaš</st>
      </stg>
    </lg>
      <sources>
@@ -72722,9 +68866,10 @@
 </e>
 <e>
    <lg>
-     <l pos="A">tuåimmvääldlaž</l>
+     <l pos="A">tåimmvääldlaž</l>
      <stg>
-       <st Contlex="A_MEERSAZH">tuåimm#vääldl</st>
+       <st Contlex="A_MEERSAZH">tåimm#vääldl</st>
+       <st Contlex="A_MEERSAZH" status="Err/Orth">tuåimm#vääldl</st>
      </stg>
    </lg>
      <sources>
@@ -72741,9 +68886,10 @@
 <e>
    <map sml_ids="25098"/>
    <lg>
-     <l pos="A">tuåimtõõvvi</l>
+     <l pos="A">tåimtõõvvi</l>
      <stg>
-       <st Contlex="A_PRSPRC-VVCC-I">tuåimtõõvvi</st>
+       <st Contlex="A_PRSPRC-VVCC-I">tåimtõõvvi</st>
+       <st Contlex="A_PRSPRC-VVCC-I" status="Err/Orth">tuåimtõõvvi</st>
      </stg>
    </lg>
      <sources>
@@ -72846,28 +68992,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">koruton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="8857"/>
-   <lg>
-     <l pos="A">tuåzzteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">tuåzztẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">koruton</t>
      </tg>
@@ -73980,24 +70104,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map/>
-   <lg>
-     <l pos="A">täss-äʹrvvsaž</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="A_MEERSAZH">täʹssäʹrvvs</st>
-     </stg> <compg> </compg>
-   </lg>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">tasa-arvoinen</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map/>
    <lg>
@@ -74587,24 +70693,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map/>
-   <lg>
-     <l pos="A">täʹssäʹrvvsaž</l>
-     <etymology>
-     </etymology>
-     <stg>
-       <st Contlex="A_MEERSAZH">täʹssäʹrvvs</st>
-     </stg> <compg> </compg>
-   </lg>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">tasa-arvoinen</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="25982"/>
    <lg>
@@ -74787,29 +70875,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">tuntematon</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="25596"/>
-   <lg>
-     <l pos="A">tååbdteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">tååbdtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">tuntematon</t>
      </tg>
@@ -75606,28 +71671,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="9800"/>
-   <lg>
-     <l pos="A">uuʹrmteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">uuʹrmtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kurmuton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="12582"/>
    <lg>
@@ -76186,28 +72229,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="20817"/>
-   <lg>
-     <l pos="A">vaardteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">vaardtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">ryhditön</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_1389">
    <map stamp="fm_1389:sml_29879:sml_29880" fin_lemma_id="26357::::26881::"/>
    <rev-sort_key>žalraav</rev-sort_key>
@@ -76328,29 +72349,6 @@
        <x src="SP:2010:12">Tõt tuʹmmai jeeʹresnallšem kuånstid, leâša ij ni õhtt kuånstt tåbddjam suʹst nokk pueʹrren da vaarteʹmen. </x>
        <xt xml:lang="fin">Se miettii erilaisia keinoja, muttei mikään keino tuntunut hänestä tarpeeksi hyvältä ja vaarattomalta.</xt>
      </xg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="26890"/>
-   <lg>
-     <l pos="A">vaarteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">vaartẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">vaaraton</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -77307,29 +73305,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="28676:29077"/>
-   <lg>
-     <l pos="A">veeʹrdteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">veeʹrdtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">virraton</t>
-       <t pos="A">vähävirtainen</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_3857">
    <map stamp="fm_3857:sml_30275:sml_30276" fin_lemma_id="23438::::28177::"/>
    <rev-sort_key>serʹeev</rev-sort_key>
@@ -77438,28 +73413,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">epävirallinen</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="1743"/>
-   <lg>
-     <l pos="A">veeʹrjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">veeʹrjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">epävirallinen</t>
      </tg>
@@ -78012,63 +73965,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">heidnisch</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">pagan</t>
-       <t pos="A">heathen</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">pakanallinen</t>
-       <t pos="A">epäuskoinen</t>
-       <t pos="A">uskoton</t>
-       <t pos="A">uskomaton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">hedensk</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">языческий</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_2885">
-   <map stamp="fm_2885:sml_30189:sml_30190:sml_33489:sml_33490" fin_lemma_id="1740::::16525::::26706::::26700::"/>
-   <rev-sort_key>mʹetrâev</rev-sort_key>
-   <lg>
-     <l pos="A">veârteʹm</l>
-     <variants>
-       <l_syn>ååskteʹmes</l_syn>
-       <l_syn>ååskteʹm</l_syn>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">veârtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2886</c>
-       <c name="Reader">16</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Pl_Nom">
-           <wordform>ååskteeʹm</wordform>
-       </analysis>
-       <analysis ms="Sg_Ill">
-           <wordform>ååsktemma</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">heidnisch</t>
      </tg>
@@ -78697,9 +74593,10 @@
 <e>
    <map sml_ids="6138:28562"/>
    <lg>
-     <l pos="A">vielttai</l>
+     <l pos="A">veâlttai</l>
      <stg>
-       <st Contlex="A_SAELTTAI">vieltt</st>
+       <st Contlex="A_SAELTTAI">veâltt</st>
+       <st Contlex="A_SAELTTAI" status="Err/Orth">vieltt</st>
      </stg>
    </lg>
      <sources>
@@ -78728,28 +74625,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">velaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="27820"/>
-   <lg>
-     <l pos="A">vieʹljteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">vieʹljtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">velaton</t>
      </tg>
@@ -78872,29 +74747,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="14569:"/>
-   <lg>
-     <l pos="A">vieʹnccteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">vieʹncctẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">naimaton</t>
-       <t pos="A">vihkimätön</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_2198">
    <map stamp="fm_2198:sml_30690:sml_30691" fin_lemma_id="1217::::14565::"/>
    <rev-sort_key>mʹetcnʹeiv</rev-sort_key>
@@ -78921,58 +74773,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">unehelich</t>
-       <t pos="A">außerehelich</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">illegitimate</t>
-       <t pos="A">out of wedlock</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">avioton</t>
-       <t pos="A">naimaton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">ugift</t>
-       <t pos="A">utenomekteskapelig</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">неженатый</t>
-       <t pos="A">незамужняя</t>
-       <t pos="A">не состоящий в браке</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_2198">
-   <map stamp="fm_2198:sml_30690:sml_30691" fin_lemma_id="1217::::14565::"/>
-   <rev-sort_key>mʹetcnʹeiv</rev-sort_key>
-   <lg>
-     <l pos="A">vieʹncteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">vieʹnctẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2199</c>
-       <c name="Reader">16</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>vieʹncteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">unehelich</t>
        <t pos="A">außerehelich</t>
@@ -79607,6 +75407,24 @@
    </mg>
 </e>
 <e>
+   <lg>
+     <l pos="A">virkkai</l>
+     <stg>
+       <st Contlex="A_PRSPRC-VXYY-AI">virkkai</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">virkku</t>
+     </tg>
+   </mg>
+</e>
+<e>
    <map sml_ids="20059"/>
    <lg>
      <l pos="A" type="Attr">virkkas</l>
@@ -79972,28 +75790,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="29172"/>
-   <lg>
-     <l pos="A">viâltʼteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">viâltʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">välttämätön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="23538"/>
    <lg>
@@ -80030,28 +75826,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">syytön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="23542"/>
-   <lg>
-     <l pos="A">viârteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">viârtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">syytön</t>
      </tg>
@@ -80625,7 +76399,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_5856">
+<e id="fm_5856">
    <map stamp="fm_5856:sml_30910" fin_lemma_id="28801::"/>
    <rev-sort_key>mʹetǥǥõiv</rev-sort_key>
    <lg>
@@ -80651,9 +76425,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">kraftlos</t>
        <t pos="A">schwach</t>
@@ -80857,6 +76628,25 @@
      </tg>
    </mg>
 </e>
+<e exclude="fst">
+   <map sml_ids="28783"/>
+   <lg>
+     <l pos="A">viõʹǩǩe šõddi</l>
+     <stg>
+       <st Contlex="A_PRSPRC-VCC-I">viõʹǩǩe š%^VOW1õddi</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">voimaan tuleva</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <map sml_ids="28582"/>
    <lg>
@@ -81006,7 +76796,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="15541"/>
    <lg>
      <l pos="A">vueiʹnteʹm</l>
@@ -81020,9 +76810,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">näkemätön</t>
      </tg>
@@ -81126,7 +76913,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="28833"/>
    <lg>
      <l pos="A">vueiʹtʼteʹm</l>
@@ -81141,9 +76928,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">voittamaton</t>
      </tg>
@@ -81170,7 +76954,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="18220::27742"/>
    <lg>
      <l pos="A">vueiʹvteʹm</l>
@@ -81184,9 +76968,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">löyhäpäinen</t>
        <t pos="A">päätön</t>
@@ -81254,28 +77035,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">päämäärätön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="19382"/>
-   <lg>
-     <l pos="A">vueiʹvvmeäʹrteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">vueiʹvvmeäʹrtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">päämäärätön</t>
      </tg>
@@ -81720,7 +77479,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="15672"/>
    <lg>
      <l pos="A">vueʹrdʼteʹm</l>
@@ -81734,9 +77493,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">odottamaton</t>
      </tg>
@@ -81867,9 +77623,10 @@
 <e>
    <map sml_ids="552"/>
    <lg>
-     <l pos="A">vuâllaǩeʹrjjtum</l>
+     <l pos="A">vuâllaǩeeʹrjtum</l>
      <stg>
-       <st Contlex="A_PSS-PRFPRC">vuâllaǩeʹrjjtum</st>
+       <st Contlex="A_PSS-PRFPRC">vuâlla#ǩeeʹrjtum</st>
+       <st Contlex="A_PSS-PRFPRC" status="Err/Orth">vuâllaǩeʹrjjtum</st>
      </stg>
    </lg>
      <sources>
@@ -82173,50 +77930,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_1944">
-   <map stamp="fm_1944:sml_31590" fin_lemma_id="5160::"/>
-   <rev-sort_key>mʹetdʹååppsâuv</rev-sort_key>
-   <lg>
-     <l pos="A">vuâsppååʹdteʹm</l>
-     <variants>
-       <l_attr>vuâsppååʹdteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">vuâsppååʹdtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">1945</c>
-       <c name="Reader">16</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">gottlos</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">godless</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">jumalaton</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">gudløs</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">безбожный</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="27681"/>
    <lg>
@@ -82338,7 +78051,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids=":17975"/>
    <lg>
      <l pos="A">vuâđteʹm</l>
@@ -82352,9 +78065,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">kapeapohjainen</t>
        <t pos="A">pohjaton</t>
@@ -83186,7 +78896,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids=""/>
    <lg>
      <l pos="A">vuäzzteʹm</l>
@@ -83200,9 +78910,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">osaton</t>
      </tg>
@@ -83645,7 +79352,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="15751:25053:23068:23073:"/>
    <lg>
      <l pos="A" type="Attr">vuõigg</l>
@@ -83660,7 +79367,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">oikea</t>
        <t pos="A">suora</t>
        <t pos="A">suoraan menevä</t>
@@ -83730,6 +79437,25 @@
      <tg xml:lang="fin">
        <t pos="A">oikeneva</t>
        <t pos="A">suoristuva</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <map sml_ids="15779"/>
+   <lg>
+     <l pos="A">vuõiggvuõđ meâldlaž</l>
+     <stg>
+       <st Contlex="A_MEERSAZH">vuõiggvuõđ meâldl</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">oikeudenmukainen</t>
      </tg>
    </mg>
 </e>
@@ -83988,39 +79714,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="1728"/>
-   <lg>
-     <l pos="A">vuõiǥteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">vuõiǥtẹ%^1VOW%{ʹØ%}m</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A_Pl_Nom">
-           <wordform>-teeʹm</wordform>
-       </analysis>
-       <analysis ms="A_Sg_Ill">
-           <wordform>-tẹmma</wordform>
-       </analysis>
-       <analysis ms="A_Attr">
-           <wordform>-teʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">epäsuora</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_3290">
    <map stamp="fm_3290:sml_32115:sml_32116:sml_32117:sml_32118:sml_32119" fin_lemma_id="23068::::23073::::25053::::15751::::15811::"/>
    <rev-sort_key>sâǥiõuv</rev-sort_key>
@@ -84031,6 +79724,7 @@
      </etymology>
      <stg>
        <st Contlex="A_VUOIVYS" inflexId="::::1.2">vuõigg</st>
+       <st Contlex="A-ATTR_" status="Err/Orth">vuõiʹǧǧes</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">3291</c>
@@ -84174,7 +79868,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">suora</t>
      </tg>
    </mg>
@@ -84261,28 +79955,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">rasvaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="19912"/>
-   <lg>
-     <l pos="A">vuõjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">vuõjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">rasvaton</t>
      </tg>
@@ -84410,28 +80082,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="6375"/>
-   <lg>
-     <l pos="A">vuõmteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">vuõmtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kapea</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_2594">
    <map stamp="fm_2594:sml_32290:sml_32291:sml_32292" fin_lemma_id=""/>
    <rev-sort_key>mʹetnnõuv</rev-sort_key>
@@ -84465,72 +80115,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">elend</t>
-       <t pos="A">unglücklich</t>
-       <t pos="A">schlecht</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">miserable</t>
-       <t pos="A">unlucky</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kurja</t>
-       <t pos="A">onneton</t>
-       <t pos="A">viheliäinen</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">elendig</t>
-       <t pos="A">ulykkelig</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">жалкий</t>
-       <t pos="A">убогий</t>
-       <t pos="A">несчастливый</t>
-       <t pos="A">плохой</t>
-     </tg>
-     <xg>
-       <x src="KM:2011:84">Vuõnnteʹmes nuõrrkaav jordd: «Mõõzz mon vuõʹlǧǧem kaavân, kääʹlles nåkam kaađâš ruåđi paaimtemnallšem.»</x>
-       <xt xml:lang="fin">Onneton tuore vaimo ajattelee: «Miksi lähdin vaimoksi, mies on tuollainen kateellisten sukulaisten höynäytettävä.»</xt>
-     </xg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_2594">
-   <map stamp="fm_2594:sml_32290:sml_32291:sml_32292" fin_lemma_id=""/>
-   <rev-sort_key>mʹetnnõuv</rev-sort_key>
-   <lg>
-     <l pos="A">vuõnnteʹm</l>
-     <etymology>
-       <etymon algu_lekseemi_id="80803" id="240834" xml:lang="sms">vuõnnteʹm</etymon>
-     </etymology>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">vuõnntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">2595</c>
-       <c name="Reader">16</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <compg drv="?" type="Der">
-       <comp fin="?" ms="" ord="E1" pos="?">*vuõnn</comp>
-       <comp drv="" ord="E2" pos="Suf" type="Der/tem"/> </compg>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>vuõnnteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="book" name="KKS" page="788:3"/>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">elend</t>
        <t pos="A">unglücklich</t>
@@ -84607,7 +80191,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="8227"/>
    <lg>
      <l pos="A" type="Attr">vuõrjjlõs</l>
@@ -84621,7 +80205,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">kiusaavainen</t>
      </tg>
    </mg>
@@ -85266,7 +80850,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">vihainen</t>
      </tg>
    </mg>
@@ -85444,7 +81028,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids=":27387:"/>
    <lg>
      <l pos="A">vââʹjjteʹm</l>
@@ -85458,9 +81042,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">ilman vikaa</t>
        <t pos="A">vammaton</t>
@@ -85474,6 +81055,7 @@
      <l pos="A">vâččai</l>
      <stg>
        <st Contlex="A_SAELTTAI">vâčč</st>
+       <st Contlex="A-ATTR_" status="Err/Orth">võččas</st>
      </stg>
    </lg>
      <sources>
@@ -86724,7 +82306,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="27245"/>
    <lg>
      <l pos="A">vääʹldteʹm</l>
@@ -86738,9 +82320,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">vallaton</t>
      </tg>
@@ -87352,7 +82931,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="3129"/>
    <lg>
      <l pos="A" type="Attr">võõikâs</l>
@@ -87366,7 +82945,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">hidas</t>
      </tg>
    </mg>
@@ -87501,7 +83080,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="28390"/>
    <lg>
      <l pos="A" type="Attr">võččas</l>
@@ -87515,7 +83094,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">viimainen</t>
      </tg>
    </mg>
@@ -88326,51 +83905,6 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst" id="fm_3584">
-   <map stamp="fm_3584:sml_538:sml_539" fin_lemma_id="4776::::4265::"/>
-   <rev-sort_key>mʹetjjʹââ</rev-sort_key>
-   <lg>
-     <l pos="A">ââʹjjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ââʹjjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">3585</c>
-       <c name="Reader">17</c>
-       <c name="Recording">0</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>ââʹjjteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">kurzlebig</t>
-       <t pos="A">alterlos</t>
-       <t pos="A">ewig</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">short-lived</t>
-       <t pos="A">ageless</t>
-       <t pos="A">everlasting</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">lyhytikäinen</t>
-       <t pos="A">iätön,ikuinen</t>
-     </tg>
-   </mg>
-</e>
 <e exclude="fst" id="fm_3583">
    <map stamp="fm_3583:sml_537" fin_lemma_id="4270::"/>
    <rev-sort_key>semʹetjjʹââ</rev-sort_key>
@@ -88707,7 +84241,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="30051"/>
    <lg>
      <l pos="A">ââʹnnemââʹnteʹm</l>
@@ -88721,9 +84255,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">käyttökelvoton</t>
      </tg>
@@ -88800,7 +84331,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="7179"/>
    <lg>
      <l pos="A">ââʹnteʹm</l>
@@ -88814,9 +84345,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">kelpaamaton</t>
      </tg>
@@ -88870,53 +84398,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="deu">
-       <t pos="A">dünn</t>
-       <t pos="A">fein</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">thin</t>
-       <t pos="A">fine</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">ohut</t>
-     </tg>
-     <xg>
-       <x src="VJO:2012:76">A faaʹnal leʹjje ââʹzzteeʹm, a gallmaant, tõk liâ âssai da ravvsab.</x>
-       <xt xml:lang="fin">Flanellit olivat ohuita ja galmantit (?), ne olivat paksuja ja vahvempia.</xt>
-     </xg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_4056">
-   <map stamp="fm_4056" fin_lemma_id=""/>
-   <rev-sort_key>mʹetzzʹââ</rev-sort_key>
-   <lg>
-     <l pos="A">ââʹzzteʹm</l>
-     <etymology>
-       <etymon algu_lekseemi_id="63967" id="171238" xml:lang="sms">ââʹzzteʹm</etymon>
-     </etymology>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::">ââʹzztẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">4057</c>
-       <c name="Reader">17</c>
-       <c name="Recording">0</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <compg drv="N»A" type="Der">
-       <comp fin="kesi" ms="" ord="E1" pos="N»A">ââʹss</comp>
-       <comp drv="" ord="E2" pos="Suf" type="Der/teʹm"/> </compg>
-   </lg>
-     <sources>
-       <book type="book" name="KKS" page="18:6.3"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">dünn</t>
        <t pos="A">fein</t>
@@ -89116,7 +84597,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="15733"/>
    <lg>
      <l pos="A">âʹzzteʹm</l>
@@ -89130,9 +84611,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">ohut</t>
      </tg>
@@ -90082,26 +85560,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="4100"/>
-   <lg>
-     <l pos="A">äuʹǩtõõvvi</l>
-     <stg>
-       <st Contlex="A_PRSPRC-VVCC-I" varid="1">äuʹǩtõõvvi</st>
-       <st Contlex="A_PRSPRC-VVCC-I" varid="2">ääuʹǩtõõvvi</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">hätääntyvä</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="4100"/>
    <lg>
@@ -90109,8 +85567,8 @@
      <stg>
        <st Contlex="A_PRSPRC-VVCC-I" varid="1">äuʹcstõõvvi</st>
        <st Contlex="A_PRSPRC-VVCC-I" varid="2">ääuʹcstõõvvi</st>
-       <st Contlex="A_PRSPRC-VVCC-I" varid="3" status="Err/Orth">äuʹǩtõõvvi</st>
-       <st Contlex="A_PRSPRC-VVCC-I" varid="4" status="Err/Orth">ääuʹǩtõõvvi</st>
+       <st Contlex="A_PRSPRC-VVCC-I" status="Err/Orth" varid="3">äuʹǩtõõvvi</st>
+       <st Contlex="A_PRSPRC-VVCC-I" status="Err/Orth" varid="4">ääuʹǩtõõvvi</st>
      </stg>
    </lg>
      <sources>
@@ -90306,28 +85764,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="330"/>
-   <lg>
-     <l pos="A">ääiʹjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ääiʹjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">ajaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="711"/>
    <lg>
@@ -90420,28 +85856,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="29865:866"/>
-   <lg>
-     <l pos="A">äärmteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">äärmtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">armoton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="916"/>
    <lg>
@@ -90461,7 +85875,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="916"/>
    <lg>
      <l pos="A">äärvteʹm</l>
@@ -90475,9 +85889,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">arvoton</t>
      </tg>
@@ -90519,28 +85930,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">hyödytön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="3965"/>
-   <lg>
-     <l pos="A">ääukteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ääuktẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">hyödytön</t>
      </tg>
@@ -90932,7 +86321,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst" id="fm_2094">
+<e id="fm_2094">
    <map stamp="fm_2094:sml_34024:sml_34025" fin_lemma_id="1248::::6995::"/>
    <rev-sort_key>mʹetppʹää</rev-sort_key>
    <lg>
@@ -90961,9 +86350,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">hilfloss</t>
        <t pos="A">unfähig</t>
@@ -91200,7 +86586,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_2297">
+<e id="fm_2297">
    <map stamp="fm_2297:sml_34063" fin_lemma_id="997::"/>
    <rev-sort_key>mʹetššʹää</rev-sort_key>
    <lg>
@@ -91226,9 +86612,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">unwesentlich</t>
        <t pos="A">unbegründet</t>
@@ -92019,31 +87402,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="26700:26706"/>
-   <lg>
-     <l pos="A">ååskteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ååsktẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="book" name="Mattu saaʹnid" pg="54"/>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">uskomaton</t>
-       <t pos="A">uskoton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="26714"/>
    <lg>
@@ -92142,28 +87500,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">oksaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="15837"/>
-   <lg>
-     <l pos="A">ååuʹsteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ååuʹstẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">oksaton</t>
      </tg>
@@ -93857,29 +89193,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids=":"/>
-   <lg>
-     <l pos="A">čaaǥǥateʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">čaaǥǥatẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">mahtumaton</t>
-       <t pos="A">sopimaton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="21309"/>
    <lg>
@@ -94929,28 +90242,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">epävakaa</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="1741"/>
-   <lg>
-     <l pos="A">čiõlǥteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">čiõlǥtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">epävakaa</t>
      </tg>
@@ -96234,61 +91525,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="18302"/>
-   <lg>
-     <l pos="A">čueʹǩǩesjuʹvjj</l>
-     <stg>
-       <st Contlex="A_JUQVJJ">čueʹǩǩesju%^1VOW%{ʹØ%}v%{ʹØ%}jj</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A.Pl.Nom">
-           <wordform>-juuʹj</wordform>
-       </analysis>
-       <analysis ms="A.Sg.Ill">
-           <wordform>-joujja</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="xyz">
-       <t pos="A">lumivalkoinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <map sml_ids="18302"/>
-   <lg>
-     <l pos="N">čueʹcǩesjuʹvjj</l>
-     <stg>
-       <st Contlex="N_JUQVJJ">čuẹʹcǩes#ju%^1VOW%{ʹØ%}v%{ʹØ%}jj</st>
-       <st Contlex="N_JUQVJJ" status="Err/Orth">čueʹǩǩesju%^1VOW%{ʹØ%}v%{ʹØ%}jj</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A.Pl.Nom">
-           <wordform>-juuʹj</wordform>
-       </analysis>
-       <analysis ms="A.Sg.Ill">
-           <wordform>-joujja</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">lumivalkoinen</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_38">
    <map stamp="fm_38:sml_2460" fin_lemma_id="8283::"/>
    <rev-sort_key>mʹetʒʒʹeuč</rev-sort_key>
@@ -96336,7 +91572,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_38">
+<e id="fm_38">
    <map stamp="fm_38:sml_2460" fin_lemma_id="8283::"/>
    <rev-sort_key>mʹetʒʒʹeuč</rev-sort_key>
    <lg>
@@ -96366,9 +91602,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="deu">
        <t pos="A">schmerzlos</t>
      </tg>
@@ -96572,7 +91805,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="18208"/>
    <lg>
      <l pos="A">čuâvteʹm</l>
@@ -96586,9 +91819,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">juovomaton</t>
      </tg>
@@ -96805,6 +92035,26 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">paakkuinen</t>
+     </tg>
+   </mg>
+</e>
+<e exclude="fst">
+   <map sml_ids="28447"/>
+   <lg>
+     <l pos="A">čuäjtõskoʹrǧǧe čõnnum</l>
+     <stg>
+       <st Contlex="A_PSS-PRFPRC">čuäjtõs#koʹrǧǧe #čõnnum</st>
+       <st Contlex="A_" status="Err/Lex">mutstõõlli korggčuõlmâš</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="A">viitekorkosidonnainen</t>
      </tg>
    </mg>
 </e>
@@ -97094,9 +92344,10 @@
 <e>
    <map sml_ids="21481"/>
    <lg>
-     <l pos="A">čuäʹrvtem</l>
+     <l pos="A">čueʹrvtem</l>
      <stg>
-       <st Contlex="A_NALLSHEM">čuäʹrvtẹ%^1VOW%{ʹØ%}m</st>
+       <st Contlex="A_NALLSHEM">čuẹʹrvtẹ%^1VOW%{ʹØ%}m</st>
+       <st Contlex="A_NALLSHEM" status="Err/Orth">čuäʹrvtẹ%^1VOW%{ʹØ%}m</st>
      </stg>
    </lg>
      <sources>
@@ -97105,28 +92356,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">sarveton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="21481"/>
-   <lg>
-     <l pos="A">čuäʹrvteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">čuäʹrvtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">sarveton</t>
      </tg>
@@ -97411,7 +92640,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="19722"/>
    <lg>
      <l pos="A" type="Attr">čuõmârnallšeʹmes</l>
@@ -97708,7 +92937,6 @@
      </etymology>
      <stg>
        <st Contlex="A_VISKKYD" inflexId="::11::800" varid="1">čuõ%{ʹØ%}vv</st>
-       <st Contlex="A-ATTR_" varid="2">čuõʹvˈves</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">1039</c>
@@ -97825,28 +93053,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">sääsketön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="23797"/>
-   <lg>
-     <l pos="A">čuõškteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">čuõšktẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">sääsketön</t>
      </tg>
@@ -97998,28 +93204,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="22429"/>
-   <lg>
-     <l pos="A">čuõʹjjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">čuõʹjjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">soinniton</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="6352"/>
    <lg>
@@ -98143,7 +93327,7 @@
    <lg>
      <l pos="A">čuõʹvvesruânn</l>
      <stg>
-       <st Contlex="A_">čuõʹvvesruânn</st>
+       <st Contlex="A_VUYRR">čuõʹvves#ruânn</st>
      </stg>
    </lg>
      <sources>
@@ -98580,7 +93764,6 @@
      </etymology>
      <stg>
        <st Contlex="A_KOAOAVAS" inflexId="::4a::1.2">čâ%^1VOWpp</st>
-       <st Contlex="A-ATTR_">čââpp</st>
      </stg>
      <inc-audio>
        <c name="ID_Audio">5907</c>
@@ -98703,60 +93886,6 @@
        <x src="NA1 00634_2az 0:27:15">Pueʹđi, vaaʹldi piârrjes, vaaʹldi pääʹrees, vaaldi. Ja vuäʹbb leäi, čââʹlmteʹmes vuäʹbb.</x>
        <xt xml:lang="fin">Tuli, otti perheensä, otti lapsensa. Ja sisko oli, sokea sisko.</xt>
      </xg>
-   </mg>
-</e>
-<e exclude="fst" id="fm_959">
-   <map stamp="fm_959:sml_1570:sml_1571" fin_lemma_id="22453::::3738::"/>
-   <rev-sort_key>mʹetmlʹââč</rev-sort_key>
-   <lg>
-     <l pos="A">čââʹlmteʹm</l>
-     <variants>
-       <l_attr>čââʹlmteʹmes</l_attr>
-     </variants>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">čââʹlmtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">960</c>
-       <c name="Reader">20</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>čââʹlmteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">blind</t>
-       <t pos="A">schwachsichtig</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">blind</t>
-       <t pos="A">poor-sighted</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">sokea</t>
-       <t pos="A">huononäköinen</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">blind</t>
-       <t pos="A">svaksynt</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">слепой</t>
-       <t pos="A">слабовидящий</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -99349,28 +94478,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="17531"/>
-   <lg>
-     <l pos="A">čååuʹjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">čååuʹjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">pienivatsainen</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="3407"/>
    <lg>
@@ -99513,28 +94620,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">sitoutumaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="22313"/>
-   <lg>
-     <l pos="A">čõnnõõttʼteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">čõnnõõttʼtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">sitoutumaton</t>
      </tg>
@@ -99801,28 +94886,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">karvaton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids=""/>
-   <lg>
-     <l pos="A">šeeʹšnteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">šeeʹšntẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">karvaton</t>
      </tg>
@@ -101854,29 +96917,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="2764:6520"/>
-   <lg>
-     <l pos="A">šââddteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">šââddtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">hedelmätön</t>
-       <t pos="A">karu</t>
-     </tg>
-   </mg>
-</e>
 <e id="fm_2537">
    <map stamp="fm_2537:sml_26816:sml_26817" fin_lemma_id="15802::::29721::"/>
    <rev-sort_key>iakkäš</rev-sort_key>
@@ -102214,6 +97254,25 @@
    </mg>
 </e>
 <e>
+   <map sml_ids="27698"/>
+   <lg>
+     <l pos="A">šõddâmveäđaž</l>
+     <stg>
+       <st Contlex="A_KUYLAZH" NumContlex="1.26">šõddâmveäđ</st>
+     </stg>
+   </lg>
+     <sources>
+       <book type="db" name="sjm"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">vastasyntynyt</t>
+     </tg>
+   </mg>
+</e>
+<e>
    <map sml_ids="12007:22051:"/>
    <lg>
      <l pos="A">šõkkneei</l>
@@ -102446,28 +97505,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="23422"/>
-   <lg>
-     <l pos="A">šõõddteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">šõõddtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">syntymätön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="22066"/>
    <lg>
@@ -102625,7 +97662,7 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
+<e>
    <map sml_ids="23781"/>
    <lg>
      <l pos="A">žaaʹlteʹm</l>
@@ -102639,9 +97676,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">säälimätön</t>
      </tg>
@@ -102928,45 +97962,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst">
-   <map sml_ids="220:4901:12266:17341:10307:19437"/>
-   <lg>
-     <l pos="A">ǩeeʹjjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ǩeeʹjjtẹ%^1VOW%{ʹØ%}m</st>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="A_Pl_Nom">
-           <wordform>-teeʹm</wordform>
-       </analysis>
-       <analysis ms="A_Sg_Ill">
-           <wordform>-tẹmma</wordform>
-       </analysis>
-       <analysis ms="A_Attr">
-           <wordform>-teʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">ainainen</t>
-       <t pos="A">jatkuva</t>
-       <t pos="A">loputon</t>
-       <t pos="A">perätön</t>
-       <t pos="A">päättymätön</t>
-       <t pos="A">kärjetön</t>
-     </tg>
-   </mg>
-</e>
 <e>
    <map sml_ids="27168"/>
    <lg>
@@ -103038,45 +98033,6 @@
      <xg>
        <x src="KE2 03320_2a 0:18:38">Mij ko kuhttu leeiʹm ǩeeʹrjteʹmes, miʹjjid nuʹt iilbše, että mij leäʹp mâka nuʹt toolktem että jeäʹp fiʹtte.</x>
        <xt xml:lang="fin">Kun me molemmat olimme lukutaidottomia, meille niin ilkeiltiin, että me olemme muka niin typeriä että emme ymmärrä. </xt>
-     </xg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="8065:8032:8078:12409"/>
-   <lg>
-     <l pos="A">ǩeeʹrjteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ǩeeʹrjtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <compg drv="N»A" type="Der">
-       <comp fin="kirja" ms="" ord="E1" pos="N»A">ǩeʹrjj</comp>
-       <comp drv="" ord="E2" pos="Suf" type="Der/teʹm"/> </compg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kirjoittamaton</t>
-     </tg>
-   </mg>
-   <mg relId="1">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">jolla ei ole kirjatietoa</t>
-       <t pos="A">kirjaton</t>
-       <t pos="A">lukutaidoton</t>
-     </tg>
-     <xg>
-       <x src="VJO:2012:77">Mij leeiʹm ǩeeʹrjteʹmes oummu.</x>
-       <xt xml:lang="fin">Me olimme lukutaidottomia (sananmukaisesti: kirjattomia) ihmisiä.</xt>
      </xg>
    </mg>
 </e>
@@ -103405,28 +98361,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">kelvoton</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="7203"/>
-   <lg>
-     <l pos="A">ǩeâʹlbteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ǩeâʹlbtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">kelvoton</t>
      </tg>
@@ -104306,9 +99240,10 @@
 <e>
    <map sml_ids="8075"/>
    <lg>
-     <l pos="A">ǩeʹrjjtum</l>
+     <l pos="A">ǩeeʹrjtum</l>
      <stg>
-       <st Contlex="A_PSS-PRFPRC">ǩeʹrjjtum</st>
+       <st Contlex="A_PSS-PRFPRC">ǩeeʹrjtum</st>
+       <st Contlex="A_PSS-PRFPRC" status="Err/Orth">ǩeʹrjjtum</st>
      </stg>
    </lg>
      <sources>
@@ -105334,62 +100269,6 @@
      </tg>
    </mg>
 </e>
-<e exclude="fst" id="fm_5956">
-   <map stamp="fm_5956:sml_11123:sml_11124:sml_11125" fin_lemma_id="26523::::7596::::7597::"/>
-   <rev-sort_key>mʹetlõiǩ</rev-sort_key>
-   <lg>
-     <l pos="A">ǩiõlteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM" inflexId="::::650">ǩiõltẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-     <inc-audio>
-       <c name="ID_Audio">5957</c>
-       <c name="Reader">22</c>
-       <c name="Recording">1</c>
-       <c name="included">yes</c>
-     </inc-audio>
-     <mini_paradigm exclude="NDS">
-       <analysis ms="Attr">
-           <wordform>ǩiõlteʹmes</wordform>
-       </analysis>
-     </mini_paradigm>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
-     <tg xml:lang="deu">
-       <t pos="A">ohne Sprache</t>
-       <t pos="A">ohne Sprachkenntnisse</t>
-       <t pos="A">stumm</t>
-     </tg>
-     <tg xml:lang="eng">
-       <t pos="A">without language</t>
-       <t pos="A">without language skills</t>
-       <t pos="A">mute</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="A">kieletön</t>
-       <t pos="A">kielitaidoton</t>
-       <t pos="A">ummikko</t>
-       <t pos="A">mykkä</t>
-     </tg>
-     <tg xml:lang="nob">
-       <t pos="A">språkløs</t>
-       <t pos="A">en som ikke kan språket</t>
-       <t pos="A">stum</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="A">безъязыкий</t>
-       <t pos="A">немой</t>
-     </tg>
-   </mg>
-</e>
 <e exclude="fst" id="fm_5955">
    <map stamp="fm_5955" fin_lemma_id=""/>
    <rev-sort_key>semʹetlõiǩ</rev-sort_key>
@@ -105722,28 +100601,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">kädetön</t>
-     </tg>
-   </mg>
-</e>
-<e exclude="fst">
-   <map sml_ids="10366"/>
-   <lg>
-     <l pos="A">ǩiõđteʹm</l>
-     <stg>
-       <st Contlex="A_NALLSHEM">ǩiõđtẹ%^1VOW%{ʹØ%}m</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-      <tg xml:lang="xyz">
-       <t></t>
-     </tg>
      <tg xml:lang="fin">
        <t pos="A">kädetön</t>
      </tg>
