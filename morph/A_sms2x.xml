@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="sms">
+<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../giella-core/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="sms">
 <e>
    <lg>
      <l pos="A">Rääuhrepp-nõmmsaž</l>
@@ -5884,7 +5884,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">huvittava</t>
      </tg>
    </mg>
@@ -9321,7 +9321,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">järjestelmällinen</t>
      </tg>
    </mg>
@@ -9995,9 +9995,9 @@
 <e>
    <map sml_ids="15929"/>
    <lg>
-     <l pos="A">jiõččtåimlaž</l>
+     <l pos="A">jiõččtååimlaž</l>
      <stg>
-       <st Contlex="A_MEERSAZH">jiõčč#tåiml</st>
+       <st Contlex="A_MEERSAZH">jiõčč#tååiml</st>
        <st Contlex="A_MEERSAZH" status="Err/Orth">jiõččtuåiml</st>
      </stg>
    </lg>
@@ -10080,7 +10080,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="29782"/>
    <lg>
      <l pos="A" type="Attr">jiõʹnnes</l>
@@ -10094,7 +10094,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">äänekäs</t>
      </tg>
    </mg>
@@ -11268,7 +11268,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">juolikkoinen</t>
        <t pos="A">kivikkoinen</t>
        <t pos="A">louhikkoinen</t>
@@ -14106,7 +14106,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">väkevä</t>
        <t pos="A">vahva</t>
      </tg>
@@ -16797,7 +16797,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">kranttu</t>
        <t pos="A">turhantarkka</t>
      </tg>
@@ -22995,7 +22995,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">rupinen</t>
      </tg>
    </mg>
@@ -23537,7 +23537,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">oikeinpauloitettu</t>
      </tg>
    </mg>
@@ -24482,7 +24482,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">notkoinen</t>
      </tg>
    </mg>
@@ -68753,9 +68753,9 @@
 </e>
 <e>
    <lg>
-     <l pos="A">tåimlaž</l>
+     <l pos="A">tååimlaž</l>
      <stg>
-       <st Contlex="A_MEERSAZH">tåiml</st>
+       <st Contlex="A_MEERSAZH">tååiml</st>
        <st Contlex="A_MEERSAZH" status="Err/Orth">tuåiml</st>
      </stg>
    </lg>
@@ -68779,7 +68779,7 @@
        <st Contlex="A_PRSPRC-VWXYY-AI" status="Err/Orth">tuåimmai</st>
      <mini_paradigm exclude="NDS">
        <analysis ms="A.Pl.Nom">
-           <wordform>tåimai</wordform>
+           <wordform>tååimai</wordform>
        </analysis>
        <analysis ms="A.Sg.Ill">
            <wordform>tåimmja</wordform>
@@ -68886,9 +68886,9 @@
 <e>
    <map sml_ids="25098"/>
    <lg>
-     <l pos="A">tåimtõõvvi</l>
+     <l pos="A">tååimtõõvvi</l>
      <stg>
-       <st Contlex="A_PRSPRC-VVCC-I">tåimtõõvvi</st>
+       <st Contlex="A_PRSPRC-VVCC-I">tååimtõõvvi</st>
        <st Contlex="A_PRSPRC-VVCC-I" status="Err/Orth">tuåimtõõvvi</st>
      </stg>
    </lg>
@@ -90148,7 +90148,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="10725:19669:21703:21771"/>
    <lg>
      <l pos="A" type="Attr">čiõlgg</l>
@@ -90163,7 +90163,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">laiha</t>
        <t pos="A">raitis</t>
        <t pos="A">selkeä</t>
@@ -100656,7 +100656,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst">
    <map sml_ids="15107"/>
    <lg>
      <l pos="A" type="Attr">ǩiõʹppes</l>
@@ -100670,7 +100670,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
+     <tg xml:lang="xyz">
        <t pos="A">nokinen</t>
      </tg>
    </mg>
